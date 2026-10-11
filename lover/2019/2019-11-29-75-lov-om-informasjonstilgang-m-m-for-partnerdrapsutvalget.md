@@ -1,0 +1,57 @@
+---
+title: "Lov om informasjonstilgang m.m. for Partnerdrapsutvalget"
+short_title: "Lov om informasjonstilgang m.m. for Partnerdrapsutvalget"
+identifier: "LOV-2019-11-29-75"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2019-11-29
+in_force_from: 2019-11-29
+last_amended: 2020-12-15
+last_amended_by: "lov/2019-11-29-75 fra 2020-12-15"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2019-11-29-75"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om informasjonstilgang m.m. for Partnerdrapsutvalget
+
+## § 1. Formålet med loven
+
+Formålet med loven er å gi utvalg oppnevnt av Kongen i statsråd 12. oktober 2018, som skal gjennomgå saker med drap der gjerningspersonen er daværende eller tidligere partner, tilgang til opplysninger som er nødvendige for å avdekke om, i hvilken grad og eventuelt på hvilken måte det har forekommet svikt i det offentlige tjenesteapparatets håndtering i forkant av disse sakene.
+
+## § 2. (Opphevet)
+
+*Opphevet ved lov 29 nov 2019 nr. 75 (i kraft 15 des 2020, se § 8).*
+
+## § 3. (Opphevet)
+
+*Opphevet ved lov 29 nov 2019 nr. 75 (i kraft 15 des 2020, se § 8).*
+
+## § 4. Taushetsplikt
+
+Bestemmelsene i forvaltningsloven §§ 13 til 13 f om taushetsplikt gjelder for enhver som utfører tjeneste eller arbeid for utvalget, med følgende særregler:
+
+- 1\. Taushetsplikten bortfaller etter 100 år.
+- 2\. Forvaltningsloven § 13 b første ledd nr. 6 gjelder ikke.
+- 3\. Hvis personer omfattet av denne paragrafen mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde.
+
+## § 5. (Opphevet)
+
+*Opphevet ved lov 29 nov 2019 nr. 75 (i kraft 15 des 2020, se § 8).*
+
+## § 6. Forholdet til arkivregelverket
+
+Arkivmateriale som ikke skal avleveres til Arkivverket skal kasseres når utvalget har avsluttet sitt arbeid.
+
+## § 7. Forbud mot bruk av opplysninger som bevis i senere straffesak eller sivil sak
+
+Opplysninger som er mottatt i medhold av § 3, kan ikke brukes som bevis i en senere straffesak eller sivil sak.
+
+## § 8. Ikrafttredelse mv.
+
+Loven trer i kraft straks. §§ 2, 3 og 5 oppheves når utvalget har levert sin utredning.[^1]
+
+[^1]: Utvalgets utredning ble levert 15. desember 2020 iflg. NOU 2020:17.

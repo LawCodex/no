@@ -1,0 +1,40 @@
+---
+title: "Lov om overføring av rettigheter og forpliktelser ved omklassifisering av veg etter vegloven § 62 tredje ledd i forbindelse med forvaltningsreformen"
+short_title: "Lov om omklassifisering av veg"
+identifier: "LOV-2009-06-19-109"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2009-06-19
+in_force_from: "2009-06-19, 2010-01-01"
+ministry: "Samferdselsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2009-06-19-109"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om overføring av rettigheter og forpliktelser ved omklassifisering av veg etter vegloven § 62 tredje ledd i forbindelse med forvaltningsreformen
+
+## § 1. Formål
+
+Formålet med denne loven er å regulere visse overgangsspørsmål som oppstår ved omklassifiseringen av veg etter reglene i vegloven § 62 tredje ledd, i forbindelse med at ansvaret for øvrig riksvegnett med tilhørende riksvegferjeforbindelser overføres fra staten til fylkeskommunene og Oslo kommune fra 1. januar 2010.
+
+## § 2. Overføring av rettigheter og forpliktelser
+
+Ved omklassifiseringen nevnt i § 1 av øvrig riksveg med tilhørende riksvegferjeforbindelser til fylkesveg overtar fylkeskommunen statens privatrettslige rettigheter og forpliktelser knyttet til vegen og riksvegferjeforbindelsen med frigjørende virkning for staten. Samtidig overføres offentlige rettigheter, konsesjoner, tillatelser mv. som staten innehar for vegen, til fylkeskommunen. Ved slik omklassifisering av riksveg til kommunal veg i Oslo overtar Oslo kommune statens rettigheter og forpliktelser mv. etter reglene i første og annet punktum.
+
+Ved omklassifiseringen nevnt i § 1 av fylkesveg til riksveg overtar staten fylkeskommunens privatrettslige rettigheter og forpliktelser knyttet til vegen med frigjørende virkning for fylkeskommunen. Samtidig overføres offentlige rettigheter, konsesjoner, tillatelser mv. som fylkeskommunen innehar for vegen, til staten. Ved slik omklassifisering av kommunal veg til riksveg overtar staten kommunens rettigheter og forpliktelser etter reglene i første og annet punktum.
+
+Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+
+Ved uenighet mellom stat og fylkeskommune eller Oslo kommune om hvilke rettigheter eller forpliktelser mv. som er overtatt etter reglene i første og annet ledd, kan hvert av organene bringe spørsmålet inn for Kongen til avgjørelse. Søksmål om spørsmål som nevnt i første punktum kan bringes inn for de alminnelige domstolene først når muligheten til å få saken avgjort av Kongen er nyttet. Kongens avgjørelse etter første punktum har ingen virkning overfor private fordringshavere og rettighetshavere. Annet punktum gjelder ikke for søksmål mot eller fra private fordringshavere og rettighetshavere.
+
+## § 3. Endringer i andre lover
+
+– – –
+
+## § 4. Ikrafttredelse
+
+- 1\. Endringene i vegloven § 62 tredje ledd trer i kraft straks.
+- 2\. Loven ellers gjelder fra 1. januar 2010.

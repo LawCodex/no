@@ -1,0 +1,107 @@
+---
+title: "Lov om nordisk vitneplikt"
+short_title: "Lov om nordisk vitneplikt"
+identifier: "LOV-1975-03-21-9"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1975-03-21
+in_force_from: 1975-07-01
+last_amended: 2016-04-22
+last_amended_by: "lov/2016-04-22-3"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1975-03-21-9"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om nordisk vitneplikt
+
+## § 1.
+
+Etter reglane i denne lova kan personar som ved innkallinga har fylt 18 år og er busette og oppheld seg i Danmark, Finland, Island eller Sverige, påleggast å møte som vitne her i landet for dei vanlege domstolane og jordskifterettane.
+
+Innkalling kan berre skje når det har mykje å seia at vitnet forklarar seg her i landet og forklaringa må reknast å vera viktig for saka. Ved vurderinga skal det takast omsyn til den vekt saka har og om innkallinga vil vera mykje ulagleg for vitnet. Innkalling til annan domstol enn den dømande kan berre skje når særleg sterke grunnar talar for det.
+
+Reglane i straffeprosesslova og tvisteloven om innkalling og avhøyr av vitne gjeld tilsvarande, når ikkje anna følgjer av denne lova.
+
+*Endra med lover 26 mars 1999 nr. 17 (ikr. 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+## § 2.
+
+Vitnestemning med pålegg om å møte kan berre skrivast ut av retten. Stemninga skal innehalde slikt varsel som vitnet har krav på. Departementet kan gje nærare forskrift om innhaldet i stemninga.
+
+## § 3.
+
+Ingen må påleggast å gje vitneforklaring i strid med reglane i straffeprosessloven §§ 117 til 125 eller tvisteloven kapittel 22 (jf likevel barnelova § 21), eller med lovgjevinga i det landet der vitnet er busett.
+
+*Endra med lover 8 apr 1981 nr. 7, 14 juni 1985 nr. 71, 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3. **Vert endra** ved lov 20 juni 2025 nr. 40 (i kraft frå den tid Kongen fastset).*
+
+## § 4.
+
+Dersom eit vitne ikkje møter etter innkalling, eller på annan måte gjer seg skuldig i handling eller forsøming som nemnt i domstollova §§ 205-207, gjeld dei nemnde reglane. Let vitnet vera å oppfylle pålegg frå retten om å ta med seg dokument eller andre ting som det har plikt til å legge fram, gjeld domstollova § 209 tilsvarande. Elles gjeld domstollova §§ 213-217 så langt desse paragrafane høver ved bruk av reglane i første og andre punktum.
+
+Reglane i straffeprosesslova § 115 første ledd og tvisteloven § 24-5 første alternativ, om avhenting av vitne som ikkje møter, kan ikkje brukast mot vitne så lenge det oppheld seg utanfor Norge.
+
+*Endra med lover 14 juni 1985 nr. 71, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+## § 5.
+
+Reglane i denne lova om innkalling og avhøyr ved retten gjeld og i høve til den som er fornærma ved ei straffbar handling, når vedkomande er busett i Finland eller Sverige, og etter lovgjevinga der ikkje reknast som vitne i straffesaka. Det kan likevel ikkje brukast tvangsmidlar mot den fornærma om han nektar å forklare seg. Heller ikkje kan han straffast for uriktig forklaring.
+
+*Endra med lov 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).*
+
+## § 6.
+
+Den som møter som vitne etter reglane i denne lova, må ikkje under opphaldet sitt her i landet utsetjast for rettsforfølgjing eller fullbyrding av straff for straffbare handlingar som er gjorde før han kom hit for å gje vitneforklaring. Dette gjeld likevel ikkje dersom vedkomande anten sjølv gjev samtykke i rettsmøte eller han blir verande her i landet meir enn to veker etter at han ga vitneforklaring, trass i at han fritt kunne ha reist frå landet før.
+
+Første leden gjeld tilsvarande for utlevering til ein annan stat enn den vedkomande kom frå.
+
+## § 7.
+
+Vitne som møter etter innkalling i samsvar med denne lova, har rett til godtgjersle for reise og opphald etter regulativet for reiser innanlands for statens rekning.
+
+Dersom vitnet godtgjer at det har hatt økonomisk tap, kan retten fastsetje dekning for utlegg og tapt arbeidsinntekt så langt den finn det rimeleg.
+
+Har vitnet på grunn av kroppsfeil, sjukdom, alder, språkvanskar eller andre særlege høve trengt følgje av ein annan, får denne tilsvarande godtgjersle.
+
+Godtgjersla skal utbetalast av retten. Den som blir innkalla, skal få tilbod om førehandsutbetaling av utlegg til reise og opphald saman med sjølve innkallinga.
+
+Fastsetting av godtgjersle etter denne lova kan ankast til høgare domstol etter reglane i rettshjelpsloven § 27.
+
+*Endra med lover 27 juni 1986 nr. 48, 29 juni 1990 nr. 47, 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+## § 8.
+
+§§ 1 første og andre leden, 2, 3 og 6 gjeld tilsvarande for partar i saker om farskap, foreldreansvar og samværsrett etter barnelova. Retten kan fastsetje at parten skal ha godtgjersle etter § 7.
+
+Retten kan pålegge parten å ta med seg dokument eller andre ting som han både etter norsk lov og lova i det landet der han er busett, pliktar å legge fram.
+
+Straff og skadebotansvar etter domstollova §§ 205 og 209 kan ileggast partar som ikkje møter eller som ikkje oppfyller pålegg etter andre leden. § 4 første leden tredje punktum gjeld tilsvarande. Ein part som ikkje møter og som oppheld seg her i landet, kan avhentas etter reglane i tvisteloven § 23-1 fjerde leden.
+
+Elles gjeld reglane om partar i tvisteloven og barnelova tilsvarande.
+
+*Endra med lover 8 apr 1981 nr. 7, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3. **Vert endra** ved lov 20 juni 2025 nr. 40 (i kraft frå den tid Kongen fastset).*
+
+## § 9.
+
+Når eit vitne møter friviljug utan innkalling, gjeld §§ 3, 6 og 8 andre leden tilsvarande. Det same gjeld for ein part i saker som nemnt i § 8 første leden.
+
+## § 10.
+
+Personar som har fylt 18 år, som er busette i Norge og som oppheld seg her eller i Danmark, Finland, Island eller Sverige, pliktar å møte og gje forklaring for retten i desse landa etter dei reglar som gjeld i vedkomande land og som hovudsakeleg svarer til reglane i lova her. Det same gjeld personar som oppheld seg i Norge og er busette i Danmark, Finland, Island eller Sverige.
+
+## § 11.
+
+Avgjerd av ein dansk, finsk, islandsk eller svensk domstol, som pålegg ein person som er innkalla etter lov om nordisk vitneplikt å betale sakskostnader (fordi han ikkje har møtt eller for anna forsøming), skal fullbyrdast her i landet når dette blir kravd. Fullbyrdinga skjer etter reglane i lov om anerkjennelse og fullbyrding av nordiske dommer på privatrettens område.
+
+*Endra med lov 10 juni 1977 nr. 71.*
+
+## § 12.
+
+Denne lova tek til å gjelde frå den tida[^1] Kongen fastset.
+
+Kongen kan setje lova i kraft særskilt i høve til einskilde av dei statane den skal omfatte.
+
+[^1]: Frå 1 juli 1975 iflg. res. 21 mars 1975.

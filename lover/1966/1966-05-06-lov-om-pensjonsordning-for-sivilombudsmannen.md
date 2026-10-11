@@ -1,0 +1,51 @@
+---
+title: "Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen"
+short_title: "Lov om pensjonsordning for sivilombudsmannen"
+identifier: "LOV-1966-05-06"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1966-05-06
+in_force_from: "1966-05-06 med virkning fra 1963-01-01"
+last_amended: 2024-04-12
+last_amended_by: "lov/2024-04-12-15"
+ministry: "Arbeids- og inkluderingsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1966-05-06"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen
+
+> Jf. lov 22 juni 1962 nr. 8.
+
+## § 1.
+
+Loven omfatter dem som er utnevnt til stilling som Stortingets ombudsmann for forvaltningen før 1. januar 2011.
+
+*Tilføyd ved lov 17 des 2010 nr. 78 (ikr. 1 jan 2011).*
+
+## § 2.
+
+Stortingets ombudsmann for forvaltningen skal være medlem av Statens pensjonskasse med rettigheter og plikter etter lov av 28. juli 1949 nr. 26 om Statens pensjonskasse med de unntak som er fastsatt nedenfor.
+
+Etter 4 års tjeneste ytes alderspensjon som svarer til 44 prosent av pensjonsgrunnlaget. Når ombudsmannen fratrer stillingen med rett til pensjon, er pensjonsgrunnlaget den fastsatte årlige bruttogodtgjørelsen for høyesterettsdommere. Fratres stillingen tidligere, skal pensjonsgrunnlaget settes til årlig bruttogodtgjørelse på fratredelsestidspunktet. For pensjoner som er under utbetaling per 1. januar 2011, skal pensjonsgrunnlaget per 1. januar 2011 svare til den årlige fastsatte bruttogodtgjørelsen på dette tidspunktet. Tilsvarende gjelder for dem som har fratrådt stillingen uten å ta ut pensjon før 1. januar 2011. For hvert tjenesteår utover 4 økes nevnte prosentsats med 3½. Alderspensjon beregnes ikke for mer enn 8 tjenesteår i alt.
+
+Uførepensjon og familiepensjon beregnes etter 8 års tjenestetid, hvis pensjonstilfellet inntrer under ombudsmannens funksjonstid. For slike pensjoner som er under utbetaling per 1. januar 2011, skal pensjonsgrunnlaget per 1. januar 2011 svare til den årlige fastsatte bruttogodtgjørelsen for høyesterettsdommere på dette tidspunktet.
+
+Alderspensjon levealdersjusteres etter lov om Statens pensjonskasse §§ 24 og 24 a, likevel slik at pensjonen ved uttak etter 67 år ikke blir høyere enn pensjonsnivået etter § 2 andre ledd. For årskullene fra og med 1954-kullet til og med 1962-kullet skal det kunne benyttes et lavere justeringstall enn 1,000 etter lov om Statens pensjonskasse § 24 tredje ledd tredje og fjerde punktum.
+
+Medlem kan ha krav på et garantert pensjonsnivå etter reglene i lov om Statens pensjonskasse § 24 b, likevel slik at for ombudsmenn som har fire års tjenestetid, utgjør det garanterte pensjonsnivået 44 prosent av pensjonsgrunnlaget. For hvert tjenesteår utover 4, til og med 8 tjenesteår, økes nevnte prosentsats med 3,5. Garantert pensjonsnivå etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 c gjelder tilsvarende.
+
+Pensjoner etter denne lov reguleres etter lov om Statens pensjonskasse § 42.
+
+*Endret ved lover 15 nov 1974 nr. 60 (ikr. 15 nov 1974, med virkning fra 1 juli 1974), 8 feb 1980 nr. 1 (ikr. 1 mars 1980 iflg. stortingsvedtak 19 feb 1980), 17 des 2010 nr. 78 (ikr. 1 jan 2011), tidligere § 1, 15 juni 2018 nr. 30 (ikr. 1 jan 2019 iflg. res. 20 des 2018 nr. 2051), 21 juni 2019 nr. 26 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 782), 12 april 2024 nr. 15 (i kraft 12 april 2024 iflg. res. 12 april 2024 nr. 615).*
+
+## § 3.
+
+Denne lov trer i kraft straks med virkning fra 1. januar 1963.
+
+Den får ikke anvendelse på den som er innehaver av stillingen ved lovens ikrafttredelse, med mindre han innen frist som fastsettes av Statens pensjonskasse, skriftlig erklærer at han godtar loven.
+
+*Endret ved lov 17 des 2010 nr. 78 (ikr. 1 jan 2011), tidligere § 2.*

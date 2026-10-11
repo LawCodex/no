@@ -1,0 +1,61 @@
+---
+title: "Lov om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster"
+short_title: "Lov om andre undersjøiske naturforekomster"
+identifier: "LOV-1963-06-21-12"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1963-06-21
+in_force_from: 1963-06-21
+last_amended: 2021-06-18
+last_amended_by: "lov/2021-06-18-89"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1963-06-21-12"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster
+
+> Lovens tittel endret ved lover 22 mars 1985 nr. 11, 22 mars 2019 nr. 7 (ikr. 1 juli 2019 iflg. res. 22 mars 2019 nr. 264).
+
+## § 1.
+
+Denne lov gjelder vitenskapelig utforskning av havbunnen og grunnen under denne og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster i indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen. Med kontinentalsokkelen menes Norges kontinentalsokkel som fastsatt i lov 18. juni 2021 nr. 89.
+
+Kongen kan gi forskrift om virksomhet som er omfattet av denne loven.
+
+Loven kommer også til anvendelse ved virksomhet som nevnt i første ledd i området utenfor den norske del av kontinentalsokkelen dersom dette følger av særskilt avtale med fremmed stat eller av folkeretten for øvrig.
+
+Loven får ikke anvendelse på utnyttelse av bunnfaste arter i og på norsk kontinentalsokkel.
+
+*Endret ved lover 25 mars 1977 nr. 21, 22 mars 1985 nr. 11, 29 nov 1996 nr. 72 (ikr. 1 juli 1997), 30 juni 2006 nr. 60 (ikr. 1 juli 2006 iflg. res. 30 juni 2006 nr. 741), 6 juni 2008 nr. 37 (ikr. 1 jan 2009 iflg. res. 12 des 2008 nr. 1355), 22 mars 2019 nr. 7 (ikr. 1 juli 2019 iflg. res. 22 mars 2019 nr. 264), 18 juni 2021 nr. 89 (ikr. 18 juni 2021 iflg. res. 18 juni 2021 nr. 2009).*
+
+## § 2.
+
+Retten til undersjøiske naturforekomster tilligger staten.
+
+Kongen kan gi norske eller utenlandske personer, herunder også stiftelser, selskaper og andre sammenslutninger, adgang til å undersøke eller utnytte naturforekomstene. Det kan settes bestemte vilkår for slike tillatelser.
+
+*Endret ved lover 22 mars 1985 nr. 11, 13 mars 1992 nr. 25, 24 juni 1994 nr. 33, 6 juni 2008 nr. 37 (ikr. 1 jan 2009 iflg. res. 12 des 2008 nr. 1355), 22 mars 2019 nr. 7 (ikr. 1 juli 2019 iflg. res. 22 mars 2019 nr. 264).*
+
+## § 3.
+
+All vitenskapelig utforskning av havbunnen og grunnen under denne krever tillatelse fra departementet eller den det bemyndiger. Det kan settes bestemte vilkår for slike tillatelser.
+
+*Endret ved lover 22 mars 1985 nr. 11, 22 mars 2019 nr. 7 (ikr. 1 juli 2019 iflg. res. 22 mars 2019 nr. 264).*
+
+## § 4.
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter eller fengsel i inntil 3 måneder. Forsøk straffes på samme måte.
+
+*Opphevet ved lov 22 mars 1985 nr. 11, tilføyd igjen ved lov 24 juni 1994 nr. 33, endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 5. (Opphevet)
+
+*Opphevet ved lov 22 mars 1985 nr. 11.*
+
+## § 6.
+
+Denne lov trer i kraft straks.

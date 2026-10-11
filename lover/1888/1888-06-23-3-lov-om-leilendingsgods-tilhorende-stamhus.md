@@ -1,0 +1,86 @@
+---
+title: "Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v."
+short_title: "Lov om Leilendingsgods tilhørende Stamhus"
+identifier: "LOV-1888-06-23-3"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1888-06-23
+last_amended: 1996-06-07
+last_amended_by: "lov/1996-06-07-33"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1888-06-23-3"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v.
+
+## § 1.
+
+Stamhusbesidder skal være berettiget til, uden forudgaaende Bevilling og uden Hensyn til derimod stridende Bestemmelser i vedkommende Stiftelsesbrev eller Oprettelsesdokument, at afhænde Stamhusets Leilændingsgods i enkelte Gaardsbrug eller i mindre Parceller.
+
+## § 2.
+
+Afhændelsen er undergivet Approbation af det Regjeringsdepartement, Kongen dertil bemyndiger. Dette har at vaage over, at Stamhusets Formue ikke ved Afhændelsen forringes.
+
+Til Veiledning ved Approbation har Stamhusbesidderen at indgive til Departementet en Forklaring over vedkommende Gaardsbrugs eller Parcels Matrikulskyld, Beliggenhed, omtrentlige Størrelse af Indmark, Udmark og Skov, Rettigheder, Tilliggelser, Herligheder og paahvilende Byrder, hvad der paa samme antages at kunne saaes og fødes, de samme tilhørende Huses Antal og Forfatning samt, hvad Stamhusbesidderen af Bruget har oppebaaret i Indtægt af enhver Art.
+
+## § 3.
+
+Skjødet paa den solgte Eiendom maa ikke thinglæses, forinden der af Departementet er givet det Paategning om, at intet derfor er til Hinder.
+
+## § 4.
+
+Brug, som ikke er ledigt, maa ikke afhændes uden Leilændingens Samtykke.
+
+## § 5.
+
+Akter stamhusbesidderen innen 5 år efter ledigheden å selge et bruk, som er blitt ledig derved, at siste leilending er død eller har oppgitt sin bygsel, har han, så fremt leilendingen har livsarvinger og ikke ved sitt forhold har forbrutt festet, ved bekjentgjørelse i et eller to blad, som er almindelig lest på stedet, å varsle nevnte livsarvinger om sin hensikt å selge. Livsarvingene har da i den for Aasædesretten foreskrevne Orden ret til at indløse Bruget efter Taxt, naar den berettigede varsler Stamhusbesidderen derom inden 6 Uger efter Bekjentgjørelsen og snarest muligt der efter træffer Forføining til Taxtens Afholdelse. Den blir å holde etter bestemmelsene i lov 1 juni 1917 nr. 1 om skjønn og ekspropriasjonssaker. Indløsningssummen erlægges kontant, ifald Partene ei kommer overens om andre Betalingsvilkaar.
+
+Indløses ikke Bruget paa førnævnte Maade, og Stamhusbesidderen derefter enten underhaanden eller ved Auktion sælger samme inden førnævnte fem Aar, har Livsarvingerne i ovennævnte Orden Forkjøbsret til Bruget, ifald den berettigede varsler Stamhusbesidderen om, at han indtræder i høieste Bud. Varslet maa ved Auktionssalg være givet inden fjorten Dage efter Auktionens Afholdelse og ved Underhaandssalg inden sex Uger efter derom fra Kirkebakken læst Bekjendtgjørelse.
+
+Afhændelse efter denne § er forøvrigt undergivet Reglerne i §§ 2 og 3.
+
+*Endret ved lover 1 juli 1920 nr. 3, 26 jan 1973 nr. 3.*
+
+## § 6.
+
+Ved Afhændelsen kan der tilstaaes sidste Leilænding eller hans Enke Føderaad eller anden Godtgjørelse for Opladelse af Brug eller Del af samme.
+
+## § 7.
+
+Af Kjøbesummen kan indtil Halvdelen blive indestaaende i Bruget mod Panteobligation til Stamhuset. Dog maa ikke større Beløb indestaa, end hvad der efter de til enhver Tid gjældende Regler om pantesikkerhed for afdragsfrit Udlaan af offentlige Midler i Jordegods kan udlaanes paa vedkommende Eiendom. Saalænge Obligationen ikke misligholdes, og det af Skyldneren paa Forlangende godtgjøres, at Sikkerheden er uforringet, er Obligationen uopsigelig fra Kreditors Side.
+
+## § 8.
+
+Hvad der indbetales for afhændet Jordegods eller iøvrigt indkommer til Stamhuset, bliver snarest muligt paa betryggende Maade at forsikre for Stamhusets Regning. En Tiendedel af den ved Salget dannede Fideikommiskapitals Renter skal aarlig tillægges Kapitalen og forsikres paa samme Maade.
+
+Midlerne bør fortrinsvis udsættes mod Pant i Jordegods efter de til enhver Tid gjældende Regler om Pantesikkerhed for afdragsfrit Udlaan af offentlige Midler. Savnes hertil Adgang, kan de anbringes i norske Hypothekbank eller Statsobligationer. Uforsikrede Midler blive midlertidig at indsætte i Norges Bank eller i autoriseret, Sparebank.
+
+Samtlige Obligationer gives af Departementet Paategning om, at de er Stamhuset tilhørende og derfor ikke maa raades over uden Departementets Samtykke. Panteobligationer, der ved Thinglæsningen befindes at mangle saadan Paategning, bliver af Pantebogsføreren at indsende til Departementet.
+
+Stamhusbesidderen er pligtig til at forestaa Midlernes Anbringelse saavelsom til at opbevare Obligationerne og Bankbøgerne. Han har paa den af Departementet foreskrevne Maade at redegjøre for, at Midlerne er til enhver Tid betryggende anbragte.
+
+## § 9.
+
+De nærmere Forskrifter til Gjennemførelse af foranstaaende Bestemmelser saavelsom til Varetagelse af Stamhusets Tarv i det hele i Anledning af nærværende Lov gives af Kongen,[^1] der i fornødent Fald kan bestemme, at Midlernes Forvaltning helt eller delvis skal fratages Stamhusbesidderen.
+
+[^1]: Gitt ved res. 26 juni 1896.
+
+## § 10. (Opphevet)
+
+*Opphevet ved lov 25 juni 1965 nr. 1.*
+
+## § 11. (Opphevet)
+
+*Opphevet ved lov 25 juni 1965 nr. 1.*
+
+## § 12. (Opphevet)
+
+*Opphevet ved lov 7 juni 1996 nr. 33 (ikr. 1 jan 1997).*
+
+## § 13.
+
+Naar der herefter i Testament, Gavebrev eller anden Bestemmelse udstedes Forbud mod Afhændelse af Jordeiendom, skal saadant Forbud kun være lovlig forbindende indtil en bestemt betegnet og ved Forbudets Udstedelse tilværende Persons Død, eller, om ingen saadan er nævnt, indtil 30 Aar efter Udstederens Død.

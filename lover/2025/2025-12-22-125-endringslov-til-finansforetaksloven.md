@@ -1,0 +1,45 @@
+---
+title: "Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)"
+short_title: "Endringslov til finansforetaksloven"
+identifier: "LOV-2025-12-22-125"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2025-12-22
+in_force_from: "Kongen bestemmer"
+ministry: "Finansdepartementet"
+status: unknown
+source: "https://lovdata.no/dokument/NL/lov/2025-12-22-125"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)
+
+> Prop. 164 L (2024–2025), Innst. 43 L (2025–2026), Lovvedtak 18 (2025–2026). Stortingets første og andre gangs behandling hhv. 18. og 22. desember 2025. Fremmet av Finansdepartementet.
+
+Endringer i følgende lov:
+
+- Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven).
+
+## I
+
+I lov 10. april 2015 nr. 17 om finansforetak og finanskonsern gjøres følgende endringer:
+
+§ 5-5 tredje ledd skal lyde:
+
+(3) For grensekryssende virksomhet her i riket fra en annen EØS-stat gjelder kapittel 1 samt bestemmelsene i § 9-1 annet og tredje ledd, § 9-2, §§ 9-4 til 9-6, § 12-27, § 13-5 fjerde ledd, §§ 16-5 til 16-9, § 16-11, §§ 16-13 til 16-16, § 20A-3 tredje ledd, § 22-1 og § 22-2, tilsvarende.
+
+§ 20A-1 annet ledd skal lyde:
+
+(2) Garantiordningen skal bidra til å sikre utbetaling av krav som følger av avtale om direkte skadeforsikring, til sikrede og skadet tredjeperson når forsikringsforetaket som har forsikret risikoen, er under insolvensbehandling eller avvikling som definert i direktiv 2009/138/EF artikkel 268 nr. 1 bokstav d eller tilsvarende prosedyrer.
+
+§ 20A-3 nytt tredje ledd skal lyde:
+
+(3) Når et forsikringsforetak med hovedsete i annen EØS-stat driver direkte skadeforsikring gjennom grensekryssende virksomhet her i riket etter § 5-5, skal forsikringsforetaket være medlem av garantiordningen.
+
+Nåværende tredje ledd blir nytt fjerde ledd.
+
+## II
+
+Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Departementet kan gi overgangsregler.

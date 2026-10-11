@@ -1,0 +1,57 @@
+---
+title: "Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter"
+short_title: "Lov om straff for internerte militære"
+identifier: "LOV-1916-03-17"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1916-03-17
+in_force_from: 1916-03-17
+last_amended: 2015-10-01
+last_amended_by: "lov/2015-06-19-65 fra 2015-10-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1916-03-17"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter
+
+> Jf. tidligere prov. anordn. 17 des 1915.
+
+## § 1.
+
+En utenlandsk militærperson, som er tilbakeholdt, bevogtet eller paa anden maate internert her i riket under krig mellem fremmede magter og som uten tilladelse forlater eller søker at forlate et anvist interneringsomraade eller overtræder betingelserne for en meddelt tilladelse til større bevægelsesfrihet inden rikets grænser, straffes med arrest eller fængsel indtil 2 aar.
+
+Paa samme maate straffes en utenlandsk militærperson, som er internert her i riket og medvirker til et saadant lovbrud.
+
+*Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 2.
+
+En utenlandsk militærperson, som under internering her i riket overtræder nogen forskrift, som er git av en offentlig myndighet angaaende interneringen, straffes med arrest eller fængsel indtil 6 maaneder.
+
+*Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 3.
+
+De strafbare handlinger, som omhandles i §§ 1 og 2, er militære lovbrud.
+
+De kan straffes disiplinært med refselse i samsvar med reglene i lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet.
+
+*Endret ved lover 26 nov 1954 nr. 6, 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 4.
+
+En utenlandsk militærperson, som under internering her i riket gjør sig skyldig i noget lovbrud mot militær tugt og orden, som ikke er strafbart efter § 1 eller § 2, kan straffes disciplinært med revselse.
+
+*Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 5. (Opphevet)
+
+*Opphevet ved lov 26 nov 1954 nr. 6.*
+
+## § 6.
+
+Denne lov træder i kraft straks.

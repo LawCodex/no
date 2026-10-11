@@ -1,0 +1,77 @@
+---
+title: "Lov om rett for handverkarar o.a. til å selja ting som ikkje vert henta"
+short_title: "Lov om rett til å selja uhenta ting"
+identifier: "LOV-1953-05-29-1"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1953-05-29
+in_force_from: 1953-07-01
+last_amended: 2016-04-22
+last_amended_by: "lov/2016-04-22-3"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1953-05-29-1"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om rett for handverkarar o.a. til å selja ting som ikkje vert henta
+
+> Sml. lover 18 juni 1965 nr. 4 § 37, 16 juni 1989 nr. 63 §§ 46 til 47.
+
+## § 1.
+
+Denne lova gjeld for alle som har til næring å setja i stand, pussa opp eller gjera anna arbeid på ting som andre eig.
+
+## § 2.
+
+Når nokon som går inn under § 1 sit med tingen og ikkje har fått vederlaget endå det er meir enn 3 månader siden arbeidet vart gjort, kravet dagfalle og oppmoding om å løysa ut tingen gjeve, kan han selja tingen og taka sitt av salssummen. Er det openberrt at tingen ikkje har salsverde, treng han då ikkje taka vare på tingen lenger.
+
+*Endra med lov 4 juni 1993 nr. 54.*
+
+## § 3.
+
+Oppmoding om å løysa ut tingen kan ikkje gjevast før arbeidet er gjort og vederlaget dagfalle; det skal samstundes seiast frå at tingen elles vert seld eller kasta.
+
+Slik oppmoding og fråsegn vert rekna for gjevi når ho er sendt i rekommandert brev med den tilskrift som tingaren gav opp, eller med ei onnor tilskrift når sendaren veit at den er den rette.
+
+Er tilskrifta ikkje kjend, skal oppmoding og fråsegn kunngjerast med oppslag på den staden i verksemda der slike ting til vanleg vert mottekne og gjevne ut att.
+
+*Endra med lov 4 juni 1993 nr. 54.*
+
+## § 4.
+
+Er det reist sak om eit spørsmål som har noko å seia for retten til å selja eller kasta tingen, kan retten ikkje nyttast før saka er endeleg avgjort. Det same gjeld når eit slikt spørsmål er til avgjerd hjå namsstyremaktene.
+
+*Endra med lover 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3 og 21 des 2007 nr. 127.*
+
+## § 5.
+
+Salet skal skje på forsvarleg måte.
+
+Dersom det er nødvendig for at rettsstiftingar i tingen skal kunne slettast frå eit offentleg register, eller for at kjøparen skal kunne meldast som ny eigar til offentleg styresmakt etter føresegn i eller i medhald av lov, kan kravshavaren krevja at tingen vert seld gjennom namsmakta etter reglane om tvangssal så langt dei høver. Føresegnene i tvangsfullføringslova § 8-16 første leddet gjeld ikkje.
+
+*Endra med lover 26 juni 1992 nr. 86, 4 juni 1993 nr. 54, 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).*
+
+## § 6.
+
+Når kravshavaren veit at ein annan enn den som tinga arbeidet, eig tingen, skal eigaren så sant det er råd, i god tid få melding om at tingen vert seld eller kasta.
+
+*Endra med lov 26 juni 1992 nr. 86.*
+
+## § 7.
+
+Det som er att av salssummen når kostnaden og vederlaget til kravshavaren er frådrege, skal straks utreidast til den som tinga arbeidet, om det ikkje vert betalt til noken som har betre rett til pengane. Er tilskrifta åt tingaren ikkje kjend, eller er det tvil om kven som har retten til pengane, skal dei deponerast i Noregs Bank etter §§ 1 til 4 i lov 17. februar 1939 nr. 2 om deponering i gjeldshøve. Pengane går til statskassa, så framt dei ikkje er utreidde innan 3 år etter dei vart deponerte, eller så framt det ikkje er reist sak om retten til dei innan den nemnde fristen.
+
+*Endret ved lov 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).*
+
+## § 8.
+
+Førehandsavtale om avvik frå reglane i denne lova gjeld ikkje til skade for tingar eller eigar som er forbrukar.
+
+*Endra med lov 4 juni 1993 nr. 54.*
+
+## § 9.
+
+Denne lova tek til å gjelda 1. juli 1953.

@@ -1,0 +1,378 @@
+---
+title: "Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)"
+short_title: "Inkassoloven – inkl"
+identifier: "LOV-1988-05-13-26"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1988-05-13
+in_force_from: 1989-10-01
+last_amended: 2025-01-01
+last_amended_by: "lov/2022-05-12-28 fra 2025-01-01, lov/2022-06-03-33 fra 2023-01-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1988-05-13-26"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)
+
+> Loven oppheves ved lov 22 mai 2026 nr. 19 (i kraft fra den tid Kongen bestemmer).
+
+## Kapittel I. Område, definisjoner og fravikelighet m.m
+
+*Overskriften endret ved lov 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414).*
+
+### § 1. Lovens område
+
+Loven gjelder inndriving av forfalte pengekrav. Rettshjelp ved omtvistete pengekrav regnes ikke som inndriving. Loven viker for bestemmelser i eller i medhold av annen lov.
+
+Kongen kan bestemme at loven skal gjelde for Svalbard og Jan Mayen.
+
+### § 2. Definisjoner
+
+Med inkassovirksomhet menes ervervsmessig eller stadig inndriving av forfalte pengekrav for andre. I tillegg omfattes oppkjøp av forfalte pengekrav og egen inndriving av disse.
+
+Med inkassator menes et foretak som har bevilling til å drive inkassovirksomhet.
+
+*Endret ved lov 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493).*
+
+### § 3. Fravikelighet
+
+Bestemmelsene i eller i medhold av §§ 9 til 11, § 17 første ledd og § 19 kan fravikes ved avtale mellom fordringshaveren og skyldneren, men ikke til skade for en skyldner som har pådratt seg forpliktelsen i egenskap av forbruker. Bestemmelsene i §§ 14, 15 og 16 første ledd kan fravikes ved avtale mellom fordringshaveren og inkassatoren. For øvrig kan loven ikke fravikes ved avtale.
+
+*Endret ved lov 11 juni 1993 nr. 83.*
+
+### § 3 a. Elektronisk kommunikasjon
+
+Krav i eller i medhold av denne loven om at meddelelser til skyldneren skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon dersom meddelelsen er sendt på en betryggende måte. Kongen kan i forskrift gi nærmere bestemmelser om hva som kan anses for en betryggende måte.
+
+*Tilføyd ved lov 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414).*
+
+## Kapittel II. Vilkår for inkassovirksomhet m.m
+
+### § 4. Vilkår for å drive inkassovirksomhet
+
+Inkassovirksomhet kan bare drives av foretak som er registrert i Foretaksregisteret og har bevilling, hvis ikke annet følger av tredje til femte ledd.
+
+Inkassobevillingen skal avgrenses til enten å gjelde inndriving av forfalte pengekrav for andre eller oppkjøp og egen inndriving av forfalte pengekrav. Selskap med begrenset ansvar som har bevilling til ervervsmessig eller stadig å inndrive forfalte pengekrav for andre, skal være suffisient, det vil si at verdien av foretakets eiendeler må overstige foretakets samlede forpliktelser. Det samme gjelder når slik virksomhet drives av et ansvarlig selskap der en eller flere av deltakerne er et selskap med begrenset ansvar, eller av et kommandittselskap der en eller flere av komplementarene er et selskap med begrenset ansvar.
+
+Inkassovirksomhet som gjelder ervervsmessig og stadig inndriving av forfalte pengekrav for andre kan også drives i medhold av norsk advokatbevilling.
+
+Inkassovirksomhet som gjelder oppkjøp og inndriving av forfalte fordringer kan drives uten bevilling av institusjoner som har rett til å drive finansieringsvirksomhet etter finansforetaksloven.
+
+Inkassovirksomhet som gjelder ervervsmessig eller stadig inndriving av forfalte pengekrav for andre, kan uten hinder av første ledd drives midlertidig av personer som oppfyller kravene i yrkeskvalifikasjonsloven kapittel 2.
+
+*Endret ved lover 11 juni 1993 nr. 83, 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493), 19 sep 2008 nr. 76 (ikr. 1 okt 2008 iflg. res. 19 sep 2008 nr. 1036), 10 des 2010 nr. 75, 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625), 15 juni 2018 nr. 37 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 887), 21 juni 2019 nr. 50 (ikr. 1 juli 2019 iflg. res. 21 juni 2019 nr. 779).*
+
+### § 5. Vilkår for inkassobevilling
+
+Inkassobevilling til stadig og ervervsmessig å inndrive forfalte pengekrav for andre kan etter søknad gis til et foretak når:
+
+- a. den eller de som faktisk leder inkassovirksomheten har inkassobevilling etter annet ledd,
+- b. styremedlemmer, daglig leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,
+- c. styremedlemmer og daglig leder har lagt frem politiattest,
+- d. inkassovirksomheten drives fra fast forretningssted innenfor EØS,[^1] og
+- e. foretaket har stilt sikkerhet som nevnt i § 29.
+
+Inkassobevilling etter første ledd bokstav a gis etter søknad til personer som anses egnet til å være faktisk leder for foretak som stadig og ervervsmessig inndriver forfalte pengekrav for andre. Søkeren må fremlegge politiattest og godtgjøre å ha minst tre års praktisk erfaring med inndriving av pengekrav i løpet av de siste ti år. For godkjenning av personer med statsborgerskap fra en EØS-stat eller Sveits, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits, samt personer fra tredjeland som omfattes av direktiv 2004/38/EF, gjelder reglene i yrkeskvalifikasjonsloven.
+
+Bevilling til stadig og ervervsmessig å drive oppkjøp og inndriving av forfalte pengekrav for egen regning kan etter søknad gis til et foretak når:
+
+- a. styremedlemmer, daglig leder, faktisk leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,
+- b. styremedlemmer, daglig leder og faktisk leder har lagt frem politiattest, og
+- c. inkassovirksomheten drives fra fast forretningssted innenfor EØS.
+
+Det kan settes vilkår i bevilling etter første og tredje ledd, herunder om at foretaket skal være tilsluttet en nemndsordning som nevnt i § 22.
+
+Foretaket skal opplyse til Finanstilsynet om skifte av faktisk leder, daglig leder og styremedlemmer. Foretaket skal også opplyse om erverv av betydelig eierandel i foretaket og om økning av slik eierandel etter samme regler som i eiendomsmeglingsloven § 2-8 første ledd annet til fjerde punktum og tredje ledd med forskrifter. Opplysningsplikten etter dette leddet gjennomføres som en del av øvrige rapporteringsrutiner etter nærmere regler fastsatt av Finanstilsynet. Skifte av faktisk leder skal likevel meldes før slikt skifte finner sted.
+
+Politiattest etter paragrafen her skal bare vise merknader om strafferettslige reaksjoner for overtredelse av lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov kapittel 15, 18, 22, 24 til 28 og 31 og straffeloven §§ 202, 203, 206, 207, 221, 271 til 281, 288, 321, 322, 324, 325, 327 til 333, 335 til 338, 340 til 342, 344, 351, 352, 354, 361 til 365, 370 til 372, 374 til 376, 378 til 380, 382 til 394 og kapittel 31, inkassoloven, konkurranselovgivningen, konkurslovgivningen, regnskapslovgivningen, selskapslovgivningen, skatte- og avgiftslovgivningen og verdipapirlovgivningen. Overtredelsene skal anmerkes i samsvar med politiregisterloven § 41 nr. 1. Fornyet vandelskontroll kan foretas i samsvar med politiregisterloven § 43.
+
+Kongen kan gi utfyllende forskrifter om vilkårene for tildeling av inkassobevilling, herunder regler om hvilke straffbare forhold som skal avmerkes på politiattesten, og om behandling av attesten. Til utfylling av reglene i tjenesteloven kan Kongen gi forskrift om behandling av inkassobevilling, herunder om frister og rettsvirkninger ved fristoverskridelse. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
+
+*Endret ved lover 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), 17 juni 2005 nr. 83 (ikr. 1 jan 2006 iflg. res. 17. juni 2005 nr. 624), 19 sep 2008 nr. 76 (ikr. 1 okt 2008 iflg. res. 19 sep 2008 nr. 1036), 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672), 24 juni 2011 nr. 33 (ikr. 1 juli 2011 iflg. res. 24 juni 2011 nr. 647). 21 juni 2013 nr. 82 (ikr. 1 jan 2014 iflg. res. 27 sep 2013 nr. 1132 som endret ved res. 13 des 2013 nr. 1449), 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625), 11 des 2015 nr. 98 (ikr. 1 jan 2016 iflg. res. 11 des 2015 nr. 1438), 21 juni 2019 nr. 50 (ikr. 1 juli 2019 iflg. res. 21 juni 2019 nr. 779).*
+
+[^1]: Jf. EØS-avtalen art. 31–39.
+
+### § 6. Plikter for innehavere av inkassobevilling og for advokater
+
+Innehaver av inkassobevilling skal påse at vilkårene i § 5 er oppfylt når det utøves inkassovirksomhet i medhold av bevilling. Bevillingshavere skal også påse at inkassovirksomheten utøves som bestemt i §§ 8 til 12, at eventuelle pålegg etter § 30 tredje ledd blir fulgt, og at virksomheten også ellers skjer på lovlig måte.
+
+Kongen kan gi forskrift om plikt for innehavere av inkassobevillinger til å holde tilsynsmyndigheten for inkassovirksomhet orientert om den inkassovirksomheten som drives i medhold av bevillingen.
+
+Advokater skal påse at den inkassovirksomheten som drives i medhold av deres advokatbevilling, utøves som bestemt i §§ 8 til 12, og også ellers skjer på lovlig måte.
+
+*Endret ved lover 11 juni 1993 nr. 83, 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+### § 7. Inndriving av egne pengekrav
+
+Kongen kan bestemme at §§ 4 og 5 helt eller delvis skal gjelde for fordringshavere som stadig driver inn egne pengekrav av en angitt type. Dette kan bestemmes i forskrift for særskilte grupper fordringshavere, eller ved enkeltvedtak for bestemte fordringshavere. Kongen bestemmer samtidig hvilke av lovens øvrige bestemmelser som skal gjelde for inndrivingen.
+
+*Endret ved lov 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493).*
+
+## Kapittel III. Generalklausul om god inkassoskikk
+
+### § 8. God inkassoskikk
+
+Inkassovirksomhet skal utøves i samsvar med god inkassoskikk. Det samme gjelder ved leilighetsvis inndriving for andre og ved inndriving av egne pengekrav.
+
+Det er i strid med god inkassoskikk å bruke inkassometoder som utsetter noen for urimelig påtrykk, skade eller ulempe.
+
+## Kapittel IV. Nærmere regler om inkassatorens forhold til skyldneren
+
+### § 9. Inkassovarsel og betalingsfrist
+
+Før en inkassator kan sette i verk inkassotiltak, skal fordringshaveren eller inkassatoren
+
+- a. etter kravets forfall ha sendt skyldneren skriftlig varsel om at inkasso vil bli satt i verk, og
+- b. i varslet ha gitt skyldneren en betalingsfrist som må ha løpt ut uten at beløpet er betalt.
+
+Fristen for betaling etter første ledd skal være minst 14 dager regnet fra det tidspunkt da varslet ble sendt. Betalingen skal anses å ha skjedd innen fristen dersom betalingsoppdraget er mottatt av bank innen fristens utløp.
+
+*Endret ved lover 9 jan 1998 nr. 5, 25 juni 1999 nr. 46 (ikr. 1 juli 2000 iflg. res. 25 juni 1999 nr. 702), 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414).*
+
+### § 10. Betalingsoppfordring
+
+Når et krav er mottatt til inkasso og betalingsfristen i inkassovarsel etter § 9 er løpt ut, skal inkassatoren sende skyldneren en skriftlig oppfordring (betalingsoppfordring) om enten å betale eller å komme med innsigelser mot kravet innen en frist på minst 14 dager. § 9 andre ledd gjelder tilsvarende. Forhold som gir grunn til tvil om kravet er rettmessig, skal være vurdert før en betalingsoppfordring sendes.
+
+Betalingsoppfordringen skal angi
+
+- a. fordringshaverens navn,
+- b. hva kravet gjelder,
+- c. kravets størrelse med særskilt angivelse av hovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnader,
+- d. hvilken sats for forsinkelsesrente som i tilfelle er brukt og dato det er beregnet forsinkelsesrente fra,
+- e. at unnlatt betaling kan føre til ytterligere kostnader for skyldneren og til rettslig inndriving, og
+- f. retten til å kreve nemndsbehandling etter § 22, dersom kravet blir inndrevet av et foretak som driver inkassovirksomhet i medhold av bevilling etter § 5 første eller tredje ledd.
+
+Fullstendige opplysninger som nevnt i andre ledd bokstavene c og d er det ikke nødvendig å gi dersom beregningen av kravet er særdeles omfattende. Samlet krav må likevel alltid oppgis, og det må opplyses at en fullstendig oppstilling vil bli gitt ved forespørsel.
+
+Varsel om rettslig inndriving som nevnt i andre ledd bokstav e kan isteden sendes som et særskilt senere varsel med en egen betalingsfrist på minst 14 dager. § 9 andre ledd gjelder tilsvarende.
+
+*Endret ved lover 11 juni 1993 nr. 83, 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), 17 juni 2005 nr. 83 (ikr. 1 jan 2006 iflg. res. 17. juni 2005 nr. 624), 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414).*
+
+### § 11. Plikter før rettslig inndriving
+
+Før en inkassator setter i verk rettslig inndriving, må inkassatoren ha sendt skyldneren en betalingsoppfordring med varsel om at rettslig inndriving vil bli satt i verk, jf § 10. De betalingsfrister som skyldneren har fått, må dessuten ha løpt ut, og inkassatoren må ha vurdert om kravet er rettmessig.
+
+Dersom det er gått mer enn seks måneder siden betalingsoppfordringen ble sendt, kan inkassatoren ikke sette i verk rettslig inndriving før betalingsfristen i en ny betalingsoppfordring etter § 10 er løpt ut.
+
+### § 12. Unntak fra varslingsplikten m m
+
+Bestemmelsene i §§ 9 til 11 gjelder ikke ved inndriving av pengekrav som er knyttet til en veksel eller en sjekk.
+
+Går det klart fram at skyldneren søker å unndra seg betalingen, eller foreligger andre særlige forhold, kan bestemmelsene i §§ 9 til 11 fravikes i den utstrekning det er fare for at dekningsmulighetene ellers helt eller delvis vil bli forspilt.
+
+Dersom et pengekrav bestrides, kan spørsmålet om kravet er rettmessig bringes inn til rettslig avgjørelse uten at bestemmelsene i §§ 9 til 11 først er fulgt.
+
+### § 13. Inkassatorens legitimasjon
+
+Skyldneren kan med frigjørende virkning betale til en inkassator som har fått i oppdrag å drive inn kravet. Innsigelser som er satt fram overfor inkassatoren, har samme virkning som om innsigelsene var satt fram overfor fordringshaveren. Fordringshaveren er bundet av de nedbetalingsordninger som inkassatoren avtaler med skyldneren. Skyldnerens rett etter denne paragrafen er uavhengig av kunnskap om inkassatorens rett i forholdet til fordringshaveren.
+
+## Kapittel V. Nærmere regler om inkassatorens forhold til fordringshaveren
+
+### § 14. Inkassatorens disposisjonsrett
+
+En inkassator har i forhold til fordringshaveren rett til på dennes vegne å sette i verk de tiltak som har naturlig sammenheng med inkassooppdraget. Uten fordringshaverens uttrykkelige samtykke kan inkassatoren likevel bare i påtrengende tilfelle sette i verk annen rettslig inndriving enn å ta ut forliksklage eller å begjære utlegg.
+
+*Endret ved lov 26 juni 1992 nr. 86.*
+
+### § 15. Inkassatorens opplysningsplikt
+
+En inkassator skal holde fordringshaveren orientert om inkassosakens utvikling. Når oppdraget er avsluttet, skal inkassatoren gi fordringshaveren en skriftlig oppgave som viser hva skyldneren er krevd for, hva skyldneren har betalt, og hvilket vederlag inkassatoren krever for arbeid og kostnader.
+
+### § 16. Behandlingen av innkasserte midler og andre klientmidler
+
+Inkassatoren skal snarest utbetale innkasserte midler til fordringshaveren. Inkassatoren kan holde tilbake et beløp svarende til sitt vederlag.
+
+Inkassatoren plikter å holde innkasserte midler og andre midler som tilhører klienter, adskilt fra egne midler og midler som ikke tilhører klienter.
+
+Kongen kan gi forskrift om behandlingen av innkasserte midler og andre midler som tilhører klienter og om rett til renter av slike midler.
+
+*Endret ved lov 11 juni 1993 nr. 83.*
+
+## Kapittel VI. Skyldnerens erstatningsplikt m m
+
+### § 17. Skyldnerens ansvar for kostnader ved utenrettslig inndriving
+
+Skyldneren plikter å erstatte fordringshaverens nødvendige kostnader ved utenrettslig inndriving. Dette gjelder både kostnader ved å ha engasjert en inkassator og kostnader ved å drive inn kravet selv.
+
+Kostnadene kan ikke kreves erstattet dersom skyldneren hadde innsigelser som det var rimelig grunn til å få vurdert før inndrivingen ble satt i verk. Dette gjelder selv om kostnadene påløp før innsigelsene ble satt fram, dersom ikke skyldneren burde satt dem fram tidligere.
+
+Fordringshaveren kan ikke kreve erstatning for vederlag til en inkassator dersom skyldneren har betalt innen betalingsfristen i et inkassovarsel etter § 9.
+
+Skyldneren plikter heller ikke å erstatte kostnadene dersom fordringshaveren, en inkassator eller andre som har bistått fordringshaveren, har opptrådt i strid med god inkassoskikk overfor skyldneren, jf § 8, eller en inkassator har unnlatt å følge pålegg i forholdet til skyldnere etter § 30 tredje ledd. Erstatning for vederlag til en inkassator kan ikke kreves dersom reglene i §§ 9 til 11, jf § 12, er overtrådt.
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+### § 18. Kostnader ved rekningsutstedelse
+
+I forbrukerforhold kan gebyr eller annen godtgjørelse for utstedelse og sending av første gangs rekning bare kreves i den utstrekning slik godtgjørelse kunne vært krevd før forfall. Det kan aldri kreves mer for rekning etter forfall enn det som følger av §§ 17, 19 og 20.
+
+### § 19. Forskrift om erstatningsbeløp
+
+Kongen kan ved forskrift fastsette beløp som fordringshavere kan kreve av en erstatningsansvarlig skyldner
+
+- a. når det etter kravets forfall er sendt skriftlig purring, eller inkassovarsel etter § 9, og
+- b. når fordringshaveren selv har sendt en betalingsoppfordring som tilfredsstiller kravene i § 10.
+
+Kongen kan gi forskrift om høyere beløp som en fordringshaver kan kreve av en erstatningsansvarlig skyldner som erstatning for kostnader ved å drive inn kravet selv, når en advokat som har stilt sikkerhet etter advokatloven § 5, har den faglige ledelse av inndrivingen.
+
+Beløpene som fastsettes etter første og annet ledd kan variere etter størrelsen av pengekravene.
+
+Med de begrensninger som følger av § 20 kan en fordringshaver som har hatt større kostnader ved å drive inn kravet selv, kreve disse erstattet i stedet for beløp fastsatt i medhold av første og annet ledd.
+
+*Endret ved lover 11 juni 1993 nr. 83, 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), 12 mai 2022 nr. 28 (i kraft 1 jan 2025 iflg. res. 11 okt 2024 nr. 2461, endring endret ved lov 21 juni 2024 nr. 46).*
+
+### § 20. Forskrift om maksimal erstatningsplikt
+
+Kongen kan ved forskrift fastsette maksimalsatser for den erstatning fordringshavere kan kreve av en skyldner for kostnader ved å ha engasjert en inkassator eller for andre kostnader ved utenrettslig inndriving. Satsene kan variere etter størrelsen av pengekravene.
+
+### § 21. Kostnader ved rettslig inndriving
+
+For kostnader ved rettslig inndriving gjelder rettergangslovgivningens regler om sakskostnader.
+
+## Kapittel VII. Nemndsbehandling av tvister i inkassosaker
+
+*Kapitlet tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+### § 22. Adgang til nemndsbehandling mv.
+
+Gjennom avtale mellom organisasjoner som representerer foretak som driver inkassovirksomhet, og Forbrukerrådet eller annen organisasjon eller institusjon som representerer skyldnere, kan det opprettes en eller flere nemnder som behandler tvister om forpliktelser etter denne loven mellom skyldnere og foretak som driver inkassovirksomhet.
+
+Partene kan forelegge avtalen for Kongen til godkjenning. Dersom Kongen har godkjent nemndas vedtekter, gjelder reglene i tredje og fjerde ledd og §§ 23 til 27.
+
+En skyldner kan kreve nemndsbehandling av enhver tvist hvor nemnda er kompetent, hvis skyldneren har saklig interesse i å få nemndas uttalelse i saken.
+
+Dersom skyldneren har pådratt seg forpliktelsen i egenskap av å være forbruker, kan skyldneren ikke fraskrive seg adgangen til å kreve nemndsbehandling.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+### § 23. Forholdet til de alminnelige domstoler
+
+Så lenge en tvist er til behandling i nemnda kan den ikke bringes inn til behandling for de alminnelige domstolene. Gjelder tvisten fordringshaverens krav på å få dekket kostnadene ved inndrivingen, kan den likevel bringes inn etter tvistelovens regler til behandling for de alminnelige domstolene sammen med hovedkravet. En tvist anses for å være til behandling fra det tidspunktet begjæringen om klagebehandling er kommet inn til nemnda.
+
+En sak som nemnda har realitetsbehandlet, kan bringes direkte inn for tingretten.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.*
+
+### § 24. Rapportering til Finanstilsynet
+
+Nemndene skal oversende uttalelser om brudd på inkassoloven til Finanstilsynet.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).*
+
+### § 25. Ansvar for nemndas omkostninger
+
+Ved overtredelser av kravet til god inkassoskikk i § 8 kan nemnda pålegge inkassator å betale nemndas omkostninger i den aktuelle saken.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+### § 26. Avbrudd av foreldelse
+
+Foreldelse avbrytes etter foreldelsesloven § 16 nr. 2 bokstav a når tvist om krav som nemnda har myndighet til å behandle (jf. § 22 første ledd), bringes inn til avgjørelse for nemnda. Foreldelsen av hovedkravet blir ikke avbrutt ved at en tvist bringes inn for nemnda.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), endret ved lov 25 juni 2004 nr. 51 (ikr. 1 juli 2004 iflg. res. 25 juni 2004 nr. 980).*
+
+### § 27. Forskrifter
+
+Kongen kan gi forskrifter til nærmere utfylling og gjennomføring av reglene i dette kapitlet, samt bestemmelsen i § 10 andre ledd bokstav f.
+
+*Tilføyd ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616).*
+
+## Kapittel VIII. Taushetsplikt, sikkerhetsstillelse, tilsynsmyndighet og sanksjoner
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616, endret kapittelnummer fra kap. VII).*
+
+### § 28. Taushetsplikt. Utlevering av opplysninger fra Folkeregisteret
+
+En inkassator, dennes ansatte og andre hjelpere, og medlemmene av nemnd etter § 22 og andre som utfører arbeid for nemnda, har plikt til å bevare taushet overfor uvedkommende om det de i forbindelse med virksomheten får vite om noens personlige forhold eller drifts- og forretningsforhold. Dette gjelder ikke dersom ingen berettiget interesse tilsier taushet.
+
+Første ledd hindrer ikke at opplysninger overlates til eller lovlig brukes i foretak som driver kredittopplysningsvirksomhet i samsvar med kredittopplysningsloven.
+
+Første ledd er ikke til hinder for å gi opplysninger til Økokrim om forhold som gir mistanke om at det foreligger hvitvasking eller terrorfinansiering. En oversendelse i god tro av opplysninger som nevnt i første punktum medfører ikke brudd på taushetsplikten og gir ikke grunnlag for straffansvar eller erstatningsansvar, med mindre det foreligger grov uaktsomhet.
+
+En inkassator kan begjære kontaktopplysninger for dødsbo utlevert fra Folkeregisteret. Folkeregistermyndigheten kan, uten hinder av taushetsplikt, utlevere opplysningen når det er nødvendig for utførelsen av inkassooppdrag etter denne loven.
+
+*Endret ved lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 22, 1 juni 2018 nr. 23 (ikr. 15 okt 2018 iflg. res. 14 sep 2018 nr. 1326), 13 des 2019 nr. 79 (ikr. 1 mai 2020 iflg. res. 24 april 2020 nr. 870), 20 des 2019 nr. 109 (i kraft 1 juli 2022 iflg. res. 20 mai 2022 nr. 872).*
+
+### § 29. Sikkerhetsstillelse
+
+En inkassator som driver inkassovirksomhet i form av ervervsmessig og stadig inndriving av forfalte pengekrav for andre, skal stille sikkerhet. Sikkerheten hefter for ansvar inkassatoren pådrar seg overfor fordringshavere og skyldnere ved utøvelsen av inkassovirksomheten.
+
+Kongen gir nærmere forskrift om sikkerhetsstillelsen.
+
+*Endret ved lover 19 juni 1997 nr. 79 (ikr. 1 des 1997 iflg. vedtak 7 nov 1997 nr. 1149), 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 23.*
+
+### § 30. Bevillings- og tilsynsmyndighet
+
+Tilsyn med inkassovirksomhet som drives i medhold av en inkassobevilling etter § 5, føres av Finanstilsynet etter finanstilsynsloven.
+
+Finanstilsynet tildeler og inndrar inkassobevillinger, jf. §§ 5 og 31.
+
+Finanstilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter § 5, pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av lov om Finanstilsynet. Finanstilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter § 5, pålegg om retting dersom han ikke er egnet etter § 5.
+
+Finanstilsynet kan nedlegge forbud mot inkassovirksomheten dersom ett eller flere av vilkårene i § 4 og § 5 første, tredje og fjerde ledd ikke er oppfylt for inkassovirksomhet som drives i medhold av inkassobevilling etter § 5. Finanstilsynet kan i stedet gi inkassatoren en frist for å oppfylle vilkårene.
+
+*Endret ved lover 11 juni 1993 nr. 83, 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 24, 17 juni 2005 nr. 83 (ikr. 1 jan 2006 iflg. res. 17. juni 2005 nr. 624), 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 22 juni 2012 nr. 35 (ikr. 1 juli 2012 iflg. res. 22 juni 2012 nr. 566).*
+
+### § 30 a. Klagebehandling av vedtak etter loven
+
+Departementet kan gi forskrift om at en klagenemnd skal avgjøre klager på Finanstilsynets vedtak etter denne loven.
+
+Forvaltningsloven kommer til anvendelse for klagenemndens virksomhet. Departementet kan gi forskrift om frister, innholdet av klage, tilsvar og muntlig forhandling og om klagenemndens sammensetning og virksomhet.
+
+Klagenemndens utgifter til klagebehandling etter første ledd dekkes av Finanstilsynet. Departementet fastsetter medlemmenes godtgjørelse.
+
+Det kan kreves gebyr for behandling av klage som angitt i første ledd. Departementet kan gi forskrift om når gebyr skal kreves, om gebyrenes størrelse og om innkrevingen.
+
+*Tilføyd ved lov 3 juni 2022 nr. 33 (i kraft 1 jan 2023 iflg. res. 2 des 2022 nr. 2075).*
+
+### § 31. Inndragning av bevilling
+
+En inkassobevilling etter § 5 kan inndras dersom det finnes utilrådelig å la inkassovirksomhet drives i medhold av bevillingen fordi
+
+- a. bevillingshaveren ikke har overholdt sine plikter etter § 6,
+- b. vilkårene for å tildele bevillingen ikke lenger er til stede,
+- c. inkassoforetaket ikke innen den frist som er fastsatt av tilsynsmyndigheten, oppfyller vilkår om å tilslutte seg nemndsordning som nevnt i § 5, eller
+- d. det foreligger andre særlige grunner.
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 25.*
+
+### § 32. Straff
+
+Med bøter eller fengsel inntil tre måneder, eller begge deler, straffes den som overtrer
+
+- a. §§ 4, 5, 6, 28, forskrifter i medhold av §§ 6 eller 20, pålegg i medhold av § 30 tredje ledd eller forbud i medhold av § 30 fjerde ledd, eller
+- b. §§ 8, 9, 10 eller 11, forutsatt at disse bestemmelsene er overtrådt gjentatte ganger eller at overtredelsen er grov.
+
+Den som uaktsomt overtrer første ledd, straffes med bøter.
+
+*Endret ved lover 20 juli 1991 nr. 66, 11 juni 1993 nr. 83, 16 mars 2001 nr. 8 (ikr. 1 jan 2002 iflg. res. 16 mars 2001 nr. 1493), 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 26, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## Kapittel IX. Ikrafttredelse, overgangsbestemmelser og endring i andre lover
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616, endret kapittelnummer fra kap. VIII).*
+
+### § 33. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.[^2]
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 27.*
+
+[^2]: Fra 1 okt 1989 iflg. res. 14 juli 1989 nr. 553.
+
+### § 34. Overgangsbestemmelser
+
+Loven gjelder inndriving av pengekrav som forfaller etter lovens ikrafttredelse. Loven gjelder også inndriving av pengekrav som en inkassator etter lovens ikrafttredelse får i oppdrag å drive inn.
+
+– – –
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 28.*
+
+### § 35. Oppheving og endring i andre lover
+
+Fra den tiden loven tar til å gjelde, gjøres følgende endringer i andre lover: – – –.
+
+*Endret ved lov 20 des 2002 nr. 106 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1616), tidligere § 29.*

@@ -1,0 +1,106 @@
+---
+title: "Lov om statlig naturoppsyn (naturoppsynsloven)"
+short_title: "Naturoppsynsloven"
+identifier: "LOV-1996-06-21-38"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1996-06-21
+in_force_from: 1996-06-21
+last_amended: 2026-07-01
+last_amended_by: "lov/2025-06-20-102 fra 2026-07-01"
+ministry: "Klima- og miljødepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1996-06-21-38"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om statlig naturoppsyn (naturoppsynsloven)
+
+> Lovens tittel endret ved lov 14 juni 2013 nr. 49 (korttittel tilføyd).
+
+## § 1. Lovens formål og stedlige virkeområde
+
+For å ivareta nasjonale miljøverdier og forebygge miljøkriminalitet kan Kongen opprette et naturoppsyn.
+
+Oppsynets stedlige virkeområde er sammenfallende med det stedlige virkeområde til lovene nevnt i § 2 første ledd.
+
+## § 2. Oppsynets oppgaver
+
+Oppsynet skal føre kontroll med at bestemmelsene gitt i eller i medhold av
+
+- 1\. lov 28. juni 1957 nr. 16 om friluftslivet,
+- 2\. lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven), og eldre vernevedtak som nevnt i naturmangfoldloven § 77,
+- 3\. lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag,
+- 4\. lov 9. juni 1978 nr. 50 om kulturminner,
+- 5\. lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.,
+- 6\. lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v.,
+- 7\. lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven),
+- 8\. lov 26. juni 1998 nr. 47 om fritids- og småbåter § 40, og
+- 9\. lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet
+
+blir overholdt. Det samme gjelder lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall, så langt departementet bestemmer.
+
+Departementet kan gi forskrift om at oppsynet skal føre kontroll med overholdelsen av bestemmelser gitt i medhold av plan- og bygningsloven så langt disse er gitt for å gjennomføre naturmangfoldloven kapittel VI (utvalgte naturtyper).
+
+Oppsynet kan drive veiledning og informasjon, samtidig som det kan drive skjøtsel, registrering og dokumentasjon.
+
+Departementet kan pålegge oppsynet andre oppgaver.
+
+På Finnmarkseiendommens grunn skal oppsynet føre den ytterligere kontroll som departementet og Finnmarkseiendommen avtaler.
+
+*Endret ved lover 17 juni 2005 nr. 85 (ikr. 1 juli 2006 iflg. res. 12 mai 2006 nr. 509), 19 juni 2009 nr. 100 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 704), 5 juni 2009 nr. 35 (ikr. 1 sep 2009 iflg. res. 5 juni 2009 nr. 618), 17 sep 2010 nr. 57, 14 juni 2013 nr. 49, 10 juni 2025 nr. 33 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 966), 20 juni 2025 nr. 102 (i kraft 1 juli 2026 iflg. res. 20 juni 2025 nr. 1105). **Endres** ved lov 19 juni 2026 nr. 53 (i kraft fra den tid Kongen bestemmer).*
+
+## § 3. Oppsynets fullmakter
+
+Oppsynet har rett til å ferdes med bruk av motorkjøretøy, båt eller luftfartøy når dette er nødvendig for utføring av oppsynets oppgaver. Motorferdsel skal skje så skånsomt og begrenset som forholdene tillater.
+
+Når det er nødvendig for å føre kontroll med at reglene angitt i § 2 første og annet ledd blir overholdt og det ikke etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep, kan oppsynet
+
+- a. stanse personer, kjøretøy og fartøy
+- b. kreve fremlagt tillatelser, dispensasjoner mv. som er påkrevet etter de lover oppsynet fører tilsyn med og som er pliktig å medbringe
+- c. kreve opplysninger om navn, fødselsdato, registrert adresse og nåværende bosted samt kreve opplysninger av betydning for om reglene i § 2 første og annet ledd er overholdt, såfremt opplysningene ikke er underlagt lovbestemt taushetsplikt
+- d. kreve adgang til private veier, og ved mistanke om overtredelse av regler nevnt i § 2 første og annet ledd kreve adgang til innmark, med unntak av hustomt og gårdsplass
+- e. gjennomføre lyd- og bildeopptak og andre dokumentasjonstiltak som er tilsvarende lite inngripende
+- f. bortvise personer eller pålegge fjerning av kjøretøy, fartøy og gjenstander for å stanse pågående ulovlig adferd i strid med bestemmelsene nevnt i § 2 første og annet ledd.
+
+Første og annet ledd innskrenker ikke de fullmakter som følger av lovene nevnt i § 2 første og annet ledd.
+
+Når oppsynet fører kontroll med at reglene nevnt i § 2 første og annet ledd blir overholdt, plikter den som blir kontrollert å etterkomme pålegg gitt i medhold av § 3 annet ledd.
+
+Med bøter eller fengsel inntil 3 måneder straffes den som ved kontroll forsettlig eller uaktsomt unnlater å etterkomme pålegg gitt i medhold av annet ledd bokstav a til d og f.
+
+*Tilføyd ved lov 14 juni 2013 nr. 49.*
+
+## § 4. Forholdet til politiet
+
+Oppsynspersonell kan gis begrenset politimyndighet etter lov av 1. oktober 1995 nr. 53[^1] om politiet, og er ved utøvelse av denne myndighet underlagt politiet.
+
+Oppsynets kontrollvirksomhet skal utføres i nært samarbeid med og supplere det lokale politi.
+
+*Endret ved lov 14 juni 2013 nr. 49 (tidligere § 3).*
+
+[^1]: Inkurie: Skal være lov 4. august 1995 nr. 53.
+
+## § 5. Den sentrale administrasjon
+
+Departementet har ansvar for gjennomføringen av loven. Departementet fører den nødvendige kontroll med oppsynet, gir regler om samarbeid med andre oppsynsordninger, samt instrukser det finner påkrevd av hensyn til virksomheten.
+
+Departementet kan gi bestemmelser til utfylling og gjennomføring av reglene i loven her.
+
+*Endret ved lov 14 juni 2013 nr. 49 (tidligere § 4).*
+
+## § 6. Oppsynets taushetsplikt
+
+Enhver som utfører oppsynstjeneste etter loven her, har taushetsplikt etter forvaltningsloven §§ 13 til 13 e og 13 g. Oppsynspersonell har også taushetsplikt om sårbart natur- og kulturmiljø med særlig verneverdi som de får kjennskap til i sitt arbeid, med de begrensninger som følger av forvaltningsloven §§ 13 a til 13 e og 13 g.
+
+Ved utøvelse av begrenset politimyndighet har oppsynspersonell i tillegg den taushetsplikt som gjelder for slik myndighetsutøvelse.
+
+*Endret ved lover 14 juni 2013 nr. 49, tidligere § 5, 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026).*
+
+## § 7. Ikrafttredelse
+
+Loven trer i kraft straks.
+
+*Endret ved lov 14 juni 2013 nr. 49, tidligere § 6.*

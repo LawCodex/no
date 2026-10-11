@@ -1,0 +1,75 @@
+---
+title: "Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda"
+short_title: "Lov om krigsforbryterdomstol, Jugoslavia m m"
+identifier: "LOV-1994-06-24-38"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1994-06-24
+in_force_from: 1994-07-01
+last_amended: 2016-04-22
+last_amended_by: "lov/2016-04-22-3"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1994-06-24-38"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda
+
+> Lovens tittel endret ved lov 30 juni 1995 nr. 47.
+
+## § 1. Lovens virkeområde m.v.
+
+Begjæringer om utlevering, andre former for rettshjelp m.v. fra den internasjonale domstolen som skal behandle saker om alvorlige brudd på internasjonal humanitær rett i det tidligere Jugoslavia (Domstolen), behandles i samsvar med bestemmelsene i denne loven. Lovens bestemmelser gjelder tilsvarende for den internasjonale domstolen som skal behandle saker om alvorlige brudd på internasjonal humanitær rett i Rwanda.
+
+Straffeprosessloven § 65 nr. 5 gjelder ikke for strafforfølgning av handlinger som er omfattet av Domstolens myndighetsområde.
+
+*Endret ved lover 30 juni 1995 nr. 47 (ikr. 15 juli 1995), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 2. Utlevering
+
+Etter begjæring fra Domstolen kan en person som er siktet, tiltalt eller domfelt for en handling som er omfattet av Domstolens myndighetsområde og som oppholder seg i riket, utleveres til Domstolen.
+
+Ved behandlingen av utleveringsbegjæringen gjelder reglene i lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. kapittel II, så langt de passer. Begjæringer om utlevering skal settes fram overfor departementet.
+
+Det kan brukes tvangsmidler i forbindelse med utleveringen i samsvar med reglene i lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. §§ 15 og 20.
+
+Departementet kan samtykke til at en person som utleveres fra en fremmed stat til Domstolen, føres over norsk statsområde.
+
+## § 3. Annen rettshjelp
+
+Norske domstoler og andre myndigheter kan etter begjæring gi Domstolen rettshjelp i tilknytning til behandling av saker som hører under Domstolens myndighetsområde. Slik rettshjelp kan blant annet være identifisering og lokalisering av personer, avhør av vitner og sakkyndige, innhenting av annet bevismateriale, forkynning av dokumenter, pågripelse og fengsling av personer.
+
+Reglene i lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. kapittel V og domstolloven § 46 og kapittel 9 gjelder så langt de passer. Det samme gjelder lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. § 20 og straffeprosessloven kapittel 14 i forhold til pågripelse og fengsling.
+
+Domstolen kan gis samtykke til å avhøre i Norge blant annet mistenkte og vitner for handlinger som er omfattet av Domstolens myndighetsområde, og å foreta andre undersøkelser her i riket.
+
+## § 4. Forsvarer
+
+En person som er mistenkt eller tiltalt for handlinger som er omfattet av Domstolens myndighetsområde, skal, om han eller hun begjærer det eller det finnes påkrevet, ha rett til forsvarer. Reglene i straffeprosessloven kapittel 9 og lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. § 16 gjelder så langt de passer.
+
+## § 5. Litispendens- og rettskraftsvirkninger
+
+Det kan ikke reises straffesak eller avsies straffedom her i riket for straffbare forhold som er til behandling eller er endelig avgjort av Domstolen.
+
+## § 6. Fullbyrdelse av frihetsstraff i Norge
+
+Frihetsstraff som er idømt av Domstolen, kan på begjæring fullbyrdes i Norge. Reglene i lov av 20. juli 1991 nr. 67 om overføring av domfelte gjelder så langt de passer.
+
+## § 7. Straff for uriktig forklaring
+
+Om straffansvar for uriktig forklaring for Domstolen gjelder straffeloven § 221 tilsvarende.
+
+*Endret ved lover 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).*
+
+## § 8. Forskrifter
+
+Kongen kan gi nærmere regler til utfylling og gjennomføring av denne loven.
+
+## § 9. Ikrafttredelse
+
+Denne loven trer i kraft fra den tid Kongen bestemmer.
+
+*Loven trådte ikr. 1 juli 1994 iflg. res. 24 juni 1994 nr. 508.*

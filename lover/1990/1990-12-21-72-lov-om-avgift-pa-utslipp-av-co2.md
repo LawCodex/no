@@ -1,0 +1,76 @@
+---
+title: "Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen"
+short_title: "Lov om avgift på utslipp av CO2"
+identifier: "LOV-1990-12-21-72"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1990-12-21
+in_force_from: 1990-12-21
+last_amended: 2024-04-01
+last_amended_by: "lov/2024-03-22-11 fra 2024-04-01"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1990-12-21-72"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
+
+**Oppheves** ved lov 20 des 2023 nr. 96 (i kraft fra den tid Kongen bestemmer).
+
+## § 1.
+
+For så vidt Stortinget vedtar at det til statskassen skal betales CO<sub>2</sub>-avgift på brenning av petroleum og utslipp av naturgass i forbindelse med petroleumsvirksomhet på kontinentalsokkelen, gjelder reglene i denne lov når ikke annet er særskilt fastsatt i Stortingets vedtak om avgiften.
+
+## § 2.
+
+CO<sub>2</sub>-avgift beregnes av petroleum som brennes og naturgass som slippes ut til luft samt av CO<sub>2</sub> som utskilles fra petroleum og slippes ut til luft, på innretning som nyttes i forbindelse med utvinning eller transport av petroleum
+
+- a. i indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen, jf. petroleumsloven § 1-6 bokstav l),
+- b. i tilstøtende havområder utenfor kontinentalsokkelen i den utstrekning utvinning av petroleum er forbeholdt Norge etter avtale med annen stat,
+- c. i havområder utenfor kontinentalsokkelen for så vidt gjelder norsk anlegg for transport av petroleum,
+- d. i riket for så vidt gjelder anlegg som omfattes av petroleumsskatteloven § 3 b) tredje punktum.
+
+Når utvinning skjer fra petroleumsforekomst som strekker seg over midtlinjen i forhold til annen stat, jf bokstav b), beregnes CO<sub>2</sub>-avgift bare av de mengder som svarer til de norske rettighetshavernes eierandeler i vedkommede innretning.
+
+*Endret ved lover 20 des 1996 nr. 100 (ikr. 1 juli 1997), 15 des 2006 nr. 78 (ikr. 1 jan 2007).*
+
+## § 3.
+
+CO<sub>2</sub>-avgiften kan ikke trekkes fra ved beregningen av produksjonsavgift etter petroleumsloven § 4-10.
+
+*Endret ved lover 20 des 1996 nr. 100 (ikr. 1 juli 1997), 27 juni 2008 nr. 58.*
+
+## § 4.
+
+Plikten til å svare CO<sub>2</sub>-avgift påhviler i fellesskap rettighetshaverne etter utvinningstillatelsen eller tillatelsen til anlegg og drift av innretninger for transport og utnyttelse av petroleum som gjelder for den innretning der petroleum brennes eller naturgass slippes ut. Operatøren har det direkte ansvar for beregning, innrapportering og betaling av samlet avgiftsbeløp til Sokkeldirektoratet på vegne av samtlige rettighetshavere.
+
+Avgift for perioden 1. januar til 30. juni skal betales innen 1. oktober og for perioden 1. juli til 31. desember innen 1. april i det påfølgende år. Dokumentasjon for petroleumsmåling og beregning av avgiften skal sendes Sokkeldirektoratet senest en måned etter utløpet av hver termin. Dersom avgiften ikke betales innen forfall, skal det beregnes renter av avgiftsbeløpet i samsvar med lov av 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Avgiftskrav er tvangsgrunnlag for utlegg.
+
+*Endret ved lover 8 jan 1993 nr. 20, 20 des 1996 nr. 100 (ikr. 1 juli 1997), 22 mars 2024 nr. 11 (i kraft 1 april 2024 iflg. res. 22 mars 2024 nr. 516).*
+
+## § 5.
+
+Departementet kan fastsette nærmere bestemmelser om grunnlaget for avgiften samt om hvilke krav som skal stilles til måleutstyr, målemetoder og til den dokumentasjon som innsendes.
+
+Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.
+
+## § 6.
+
+Kongen kan gjøre vedtak om den nærmere gjennomføring av avgiftsbetalingen, herunder om renter på for lite og for meget betalt avgift.
+
+*Tilføyd ved lov 20 des 1996 nr. 100 (ikr. 1 juli 1997).*
+
+## § 7.
+
+Forsettlig eller uaktsom avgivelse av uriktig eller ufullstendig dokumentasjon eller annen overtredelse av bestemmelser eller vedtak truffet i eller i medhold av denne lov straffes med bøter eller fengsel inntil 3 måneder.
+
+*Endret ved lover 20 juli 1991 nr. 66, 20 des 1996 nr. 100 (ikr. 1 juli 1997), tidligere § 6, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 8.
+
+Denne lov trer i kraft straks.
+
+*Endret ved lov 20 des 1996 nr. 100 (ikr. 1 juli 1997), tidligere § 7.*

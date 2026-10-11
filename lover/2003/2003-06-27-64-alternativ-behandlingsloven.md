@@ -1,0 +1,116 @@
+---
+title: "Lov om alternativ behandling av sykdom mv."
+short_title: "Alternativ behandlingsloven – albhl"
+identifier: "LOV-2003-06-27-64"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2003-06-27
+in_force_from: 2004-01-01
+last_amended: 2026-06-01
+last_amended_by: "lov/2025-06-20-67 fra 2026-06-01"
+ministry: "Helse- og omsorgsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2003-06-27-64"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om alternativ behandling av sykdom mv.
+
+## § 1. Lovens formål
+
+Lovens formål er å bidra til sikkerhet for pasienter som søker eller mottar alternativ behandling samt å regulere adgangen til å utøve slik behandling.
+
+## § 2. Lovens virkeområde, begreper mv.
+
+Loven gjelder den som tilbyr eller utøver alternativ behandling i riket.
+
+Bestemmelser om stedlig virkeområde gitt i medhold av helsepersonelloven § 2 andre og tredje ledd gjelder tilsvarende for denne lov så langt de passer.
+
+Med alternativ behandling menes helserelatert behandling som utøves utenfor helse- og omsorgstjenesten, og som ikke utøves av autorisert helsepersonell. Behandling som utøves i helse- og omsorgstjenesten eller av autorisert helsepersonell, omfattes likevel av begrepet alternativ behandling når det brukes metoder som i all vesentlighet anvendes utenfor helse- og omsorgstjenesten.
+
+Med helsepersonell menes i denne lov personer som definert i helsepersonelloven § 3.
+
+Når alternativ behandling utøves i helse- og omsorgstjenesten eller av autorisert helsepersonell, gjelder også helsepersonelloven. Autorisert helsepersonell skal gi informasjon og innsyn i journal tilsvarende det som følger av helsepersonelloven § 10 og § 41, også dersom pasienten ikke har rettigheter etter pasient- og brukerrettighetsloven.
+
+*Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).*
+
+## § 3. Registerordning
+
+Departementet gir forskrift om en frivillig registerordning for helsepersonell og andre som utøver alternativ behandling. Herunder kan det gis bestemmelser om
+
+- 1\. gebyr ved registrering og
+- 2\. årlig avgift for opprettholdelse av registreringen.
+
+## § 4. Taushetsplikt
+
+Bestemmelsene om taushetsplikt i helsepersonelloven §§ 21 til 25 gjelder tilsvarende for andre enn helsepersonell som utøver alternativ behandling, så langt de passer.
+
+## § 5. Medisinske inngrep eller behandling som kan medføre alvorlig helserisiko
+
+Medisinske inngrep eller behandling som kan medføre alvorlig helserisiko for pasienter, skal kun utøves av helsepersonell.
+
+Departementet kan ved forskrift bestemme det nærmere innholdet i første ledd.
+
+## § 6. Behandling av allmennfarlige smittsomme sykdommer
+
+Behandling av sykdom som i henhold til lov om vern mot smittsomme sykdommer § 1-3 er å anse som allmennfarlig smittsom sykdom, skal kun utøves av helsepersonell.
+
+Andre enn helsepersonell kan likevel utøve behandling som utelukkende har til hensikt å lindre eller dempe symptomer på eller følger av sykdommen eller bivirkninger av gitt behandling, eller som har som formål å styrke kroppens immunforsvar eller evne til selvhelbredelse.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om behandling etter andre ledd.
+
+## § 7. Behandling av alvorlige sykdommer og lidelser
+
+Behandling av andre alvorlige sykdommer og lidelser enn dem som omfattes av § 6, skal heller ikke utøves av andre enn helsepersonell.
+
+Andre enn helsepersonell kan likevel utøve behandling som utelukkende har til hensikt å lindre eller dempe symptomer på eller følger av sykdommen eller lidelsen eller bivirkninger av gitt behandling, eller som har som formål å styrke kroppens immunforsvar eller evne til selvhelbredelse.
+
+Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har beslutningskompetanse etter pasient- og brukerrettighetsloven § 4-3 første og andre ledd. Det samme gjelder for andre pasienter dersom helse- og omsorgstjenesten ikke har helbredende eller lindrende behandling å tilby pasienten. Samtykkebestemmelsene i pasient- og brukerrettighetsloven §§ 4-4, 4-5 og 4-7 gjelder tilsvarende så langt de passer.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om hvilke sykdommer og lidelser som omfattes av første ledd, og om behandling etter andre og tredje ledd.
+
+*Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338, endring endret ved lov 5 apr 2013 nr. 12), 22 juni 2018 nr. 76, 20 juni 2025 nr. 67 (i kraft 1 juni 2026 iflg. res. 20 juni 2025 nr. 1109).*
+
+## § 8. Beskyttet tittel og markedsføring
+
+Bare den som har autorisasjon, lisens eller spesialistgodkjenning etter helsepersonelloven §§ 48 a til 51, har rett til å benytte slik yrkesbetegnelse som kjennetegner vedkommende gruppe helsepersonell.
+
+Personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan benytte den yrkesbetegnelsen de benytter i det landet de er etablert, på en slik måte at tittelen ikke forveksles med tilsvarende norsk tittel. Personell som har rett til å utøve yrke som lege, legespesialist, tannlege, tannlegespesialist, sykepleier, jordmor eller provisorfarmasøyt midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan bruke norsk yrkesbetegnelse.
+
+Rett til å bruke norsk tittel har også annet personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, dersom norsk autorisasjonsmyndighet har kontrollert vedkommendes yrkeskvalifikasjoner.
+
+Bare den som er registrert som utøver av alternativ behandling i register opprettet i medhold av denne lov § 3, har rett til å benytte betegnelsen registrert i tilknytning til sin yrkesbetegnelse som alternativ behandler.
+
+Ingen må uriktig benytte titler eller markedsføre virksomhet på en slik måte at det kan gis inntrykk av at vedkommende har autorisasjon, lisens eller spesialistgodkjenning etter helsepersonelloven, jf. første ledd, eller er registrert utøver av alternativ behandling, jf. andre ledd.
+
+Den som tilbyr alternativ behandling, kan i sin markedsføring kun gi en nøktern og saklig beskrivelse av virksomhetens art.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om markedsføring.
+
+*Endret ved lover 9 mai 2008 nr. 33 (ikr. 1 nov 2008 iflg. res. 17 okt 2008 nr. 1125), 19 juni 2015 nr. 59 (ikr. 1 juli 2015 iflg. res. 19 juni 2015 nr. 678).*
+
+## § 9. Straff
+
+Den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel i inntil tre måneder.
+
+Den som ikke er helsepersonell, og som ved medisinske inngrep eller behandling forsettlig eller uaktsomt utsetter noens liv eller helbred for alvorlig fare, enten ved selve behandlingen eller ved at pasienten på grunn av behandlingen unnlater å søke kyndig hjelp, straffes med bøter eller fengsel i inntil tre måneder.
+
+Ved særdeles skjerpende omstendigheter kan fengsel i inntil 2 år anvendes. Ved vurderingen av om slike omstendigheter foreligger, skal det særlig legges vekt på om handlingen har medført døden eller alvorlig helseskade, om den har vært særlig smertefull eller psykisk belastende, og om den skyldige tidligere er straffet etter paragrafen her.
+
+Det fritar ikke for straff etter første og andre ledd at vedkommende ikke forsto eller burde ha forstått faren eller sykdommens art.
+
+*Endret ved lover 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).*
+
+## § 10. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+
+[^1]: Fra 1 jan 2004 iflg. res. 12 des 2003 nr. 1473.
+
+## § 11. Opphevelse av og endring i andre lover
+
+Fra den tid loven trer i kraft oppheves lov 19. juni 1936 nr. 9 om innskrenkning i adgangen for den som ikke er helsepersonell til å ta syke i kur.
+
+– – –

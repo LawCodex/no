@@ -1,0 +1,41 @@
+---
+title: "Lov om prisregler for jern og stål"
+short_title: "Lov om prisregler for jern og stål"
+identifier: "LOV-1974-06-07-22"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1974-06-07
+in_force_from: 1974-06-07
+last_amended: 2015-10-01
+last_amended_by: "lov/2015-06-19-65 fra 2015-10-01"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1974-06-07-22"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om prisregler for jern og stål
+
+## § 1.
+
+Kongen kan gi slike forskrifter om transportpriser og om en prisordning for jern og stål som er nødvendige for å gjennomføre artikkel 20 i avtalen av 14 mai 1973 mellom Norge og Det Europeiske Kull- og Stålfellesskap og dets medlemsstater.
+
+## § 2.
+
+Enhver plikter å gi forvaltningsorgan som Kongen utpeker de opplysninger og å gi innsyn i registrerte regnskapsopplysninger, regnskapsmateriale og annet materiale som organet krever for å kontrollere at forskrifter som er gitt i medhold av § 1 følges. Opplysningene kan kreves gitt muntlig eller skriftlig og pålegg skal etterkommes innen en frist som fastsettes av vedkommende organ.
+
+*Endret ved lover 16 mai 1986 nr. 21, 17 juli 1998 nr. 56 (ikr. 1 jan 1999).*
+
+## § 3.
+
+Den som forsettlig eller uaktsomt overtrer forskrifter gitt i medhold av § 1 straffes med bøter. På samme måte straffes den som unnlater å gi opplysninger krevd i medhold av § 2 eller som forsettlig eller uaktsomt framlegger uriktige opplysninger.
+
+*Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 4.
+
+Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
+
+[^1]: Fra 7 juni 1974 iflg. res. 7 juni 1974 nr. 1.

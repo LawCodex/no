@@ -1,0 +1,63 @@
+---
+title: "Lov om omdanning av Opplysningsvesenets fond til aksjeselskap"
+short_title: "Lov om omdanning av Opplysningsvesenets fond til aksjeselskap"
+identifier: "LOV-2024-06-25-58"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2024-06-25
+in_force_from: "2024-06-25, 2025-01-01"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2024-06-25-58"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om omdanning av Opplysningsvesenets fond til aksjeselskap
+
+> Prop. 82 L (2023–2024), Innst. 359 L (2023–2024), Lovvedtak 89 (2023–2024). Stortingets første og andre gangs behandling hhv. 12. og 17. juni 2024. Fremmet av Barne- og familiedepartementet.
+
+## § 1. Formål
+
+Formålet med denne loven er å regulere overgangsspørsmål i forbindelse med omdanning av Opplysningsvesenets fond til aksjeselskap og deling av fondets eiendeler med Den norske kirke.
+
+## § 2. Omdanning av Opplysningsvesenets fond
+
+Opplysningsvesenets fond omdannes til aksjeselskap ved at fondets eiendeler, rettigheter og forpliktelser i sin helhet overføres til et aksjeselskap mot at staten tegner samtlige aksjer i selskapet. Aksjeloven gjelder med mindre annet følger av loven her.
+
+Omdanningen trer i kraft fra det tidspunktet Kongen bestemmer.
+
+## § 3. Overføring av eiendeler, rettigheter og forpliktelser i omdanningen
+
+Konsesjoner og andre offentlige rettigheter og tillatelser som gjelder for Opplysningsvesenets fond, blir på omdanningstidspunktet overført til aksjeselskapet. Det samme gjelder ved senere overdragelse av eiendeler, rettigheter og forpliktelser til heleide datterselskaper av aksjeselskapet.
+
+Fordringshavere og øvrige rettighetshavere kan ikke motsette seg overføringen etter § 2 eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.
+
+Eiendommer og rettigheter som overføres etter § 2, er unntatt fra konsesjonsplikt etter konsesjonsloven §§ 2 og 3. Det samme gjelder ved senere overdragelse av eiendeler og rettigheter til heleide datterselskaper av aksjeselskapet.
+
+Omdanningen utløser ikke konsesjonsplikt etter vannfallrettighetsloven.
+
+## § 4. Overføring av eiendommer med særlige hjemmelsforhold
+
+Aksjeselskapet overtar på omdanningstidspunktet eiendomsretten til fast eiendom med særlige hjemmelsforhold som forvaltes av Opplysningsvesenets fond på omdanningstidspunktet.
+
+Lov om vederlag ved oreigning av fast eigedom gjelder for fast eiendom som overdras etter første ledd og som Opplysningsvesenets fond ikke alene var eier av på omdanningstidspunktet. Skjønn for fastsetting av erstatning etter første punktum holdes etter reglene i lov om skjønn og ekspropriasjonssaker og kan innledes av den som oppgir å være forrige rettighetshaver. Dersom retten fastslår at det for en part har skjedd en ekspropriasjon etter første ledd, har denne parten krav på erstatning av staten for nødvendige utgifter i sakens anledning.
+
+## § 5. Omregistreringer
+
+Omregistrering av eiendeler, rettigheter og heftelser i grunnboken og andre offentlige registre i forbindelse med omdanningen og ved etterfølgende overdragelse til heleide datterselskaper skjer ved navneendring.
+
+## § 6. Ikrafttredelse
+
+Loven trer i kraft straks, med unntak av § 7 nr. 1, som gjelder fra den tid[^1] Kongen bestemmer.
+
+[^1]: Fra 1. januar 2025 iflg. res. 25 juni 2024 nr. 1216.
+
+## § 7. Endring i andre lover
+
+Fra det tidspunkt som følger av § 6 gjøres følgende endringer i andre lover:
+
+**1.** Lov 18. juni 2021 nr. 98 om Opplysningsvesenets fond oppheves.
+
+**2.** I lov 24. april 2020 nr. 31 om tros- og livssynssamfunn skal § 14 nytt åttende ledd lyde: – – –

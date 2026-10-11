@@ -1,0 +1,92 @@
+---
+title: "Lov om røystingsrådgjevarar"
+short_title: "Lov om røystingsrådgjevarar"
+identifier: "LOV-2021-06-18-136"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 2021-06-18
+in_force_from: 2021-07-01
+last_amended: 2025-04-01
+last_amended_by: "lov/2024-06-21-41 fra 2025-04-01"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2021-06-18-136"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om røystingsrådgjevarar
+
+> Prop.207 L (2020–2021), Innst.661 L (2020–2021), Lovvedtak 196 (2020–2021). Stortingets første og andre gongs behandling hv. 11. og 14. juni 2021. Fremja av Nærings- og fiskeridepartementet.
+
+## § 1. Sakleg verkeområde
+
+(1) Lova gjeld for røystingsrådgjevarar. Røystingsrådgjevar tyder i lova her ein juridisk person som på profesjonelt og kommersielt grunnlag analyserer opplysningar frå selskap og annan relevant informasjon om selskap med sikte på å gje aksjeeigarar informasjonsgrunnlag for røysting på generalforsamlinga, gjennom undersøkingar, råd eller røystingstilrådingar knytte til utøving av røysterett.
+
+(2) Lova gjeld berre for tenester etter første leddet som gjeld aksjar i selskap som har forretningskontoret sitt i ein EØS-stat, og som har aksjar tekne opp til handel på ein regulert marknad i EØS.
+
+(3) Departementet kan gje forskrift med nærare føresegner om røystingsrådgjevarar.
+
+## § 2. Stadleg verkeområde
+
+(1) Lova gjeld verksemd som er driven av røystingsrådgjevarar med forretningskontor i Noreg.
+
+(2) Lova gjeld òg verksemd som er driven av røystingsrådgjevarar frå andre land om:
+
+- a. røystingsrådgjevaren har hovudkontor i Noreg, men ikkje forretningskontor innanfor EØS, eller
+- b. røystingsrådgjevaren driv verksemd i Noreg utan at røystingsrådgjevaren har forretningskontor eller hovudkontor innanfor EØS.
+
+(3) Kongen kan gje forskrift om bruken av lova på Svalbard og fastsetje særlege reglar ut frå tilhøva på staden.
+
+## § 3. Åtferdsnorm for verksemda
+
+(1) Ein røystingsrådgjevar skal offentleggjere ei tilvising til ei åtferdsnorm som rådgjevaren nyttar, og rapportere om korleis norma er følgd.
+
+(2) Om røystingsrådgjevaren ikkje nytta nokon åtferdsnorm, skal røystingsrådgjevaren gje ei tydeleg og grunngjeven forklaring for dette. Om røystingsrådgjevaren nyttar ei åtferdsnorm, men fråvik nokon av tilrådingane i åtferdsnorma, skal røystingsrådgjevaren angje kva tilrådingar som er fråvikne, grunngje fråvika og opplyse om eventuelle alternative tiltak som er gjorde.
+
+(3) Opplysningar som nemnde i første og andre ledd skal vere offentleg og kostnadsfritt tilgjengelege på nettstaden til røystingsrådgjevaren. Opplysningane skal oppdaterast kvart år.
+
+(4) Opplysningane skal offentleggjerast på norsk eller eit anna språk som er ålment godkjent i finansmarknaden.
+
+## § 4. Særlege opplysningar
+
+(1) Ein røystingsrådgjevar skal kvart år offentleggjere følgjande opplysningar om korleis rådgjevaren førebur undersøkingar, råd og røystingstilrådingar:
+
+- a. hovuddraga i dei metodane og modellane som er nytta
+- b. dei viktigaste informasjonskjeldene som er nytta
+- c. framgangsmåtane som er innførte for å sikre kvaliteten på undersøkingane, rådgjevinga og røystingstilrådingane og kvalifikasjonane til dei tilsette som deltek
+- d. om og eventuelt korleis dei tek omsyn til tilhøve i dei nasjonale marknadene og til juridiske, regulatoriske og selskapsspesifikke tilhøve
+- e. hovuddraga i retningslinene for stemmegjeving som dei nyttar for den einskilde marknaden
+- f. om dei har dialog med selskapa som undersøkingane, rådgjevinga eller røystingstilrådingane gjeld, og med interessentar i desse selskapa, og i så fall omfanget og karakteren til dialogen
+- g. retningslinene for førebygging og handtering av potensielle interessekonfliktar.
+
+(2) Opplysningane som er nemnde i bokstav a til g skal vere offentleg og kostnadsfritt tilgjengelege på nettstaden til røystingsrådgjevaren i minst tre år etter datoen for offentleggjeringa. Dette gjeld ikkje opplysningar som allereie er offentleggjorde etter § 3. § 3 fjerde leddet gjeld på tilsvarande måte.
+
+## § 5. Plikt til å opplyse om interessekonfliktar
+
+Ein røystingsrådgjevar skal utan opphald identifisere og opplyse kundane sine om faktiske eller potensielle interessekonfliktar, inkludert forretningssamband, som kan påverke førebuinga av undersøkingar, råd eller røystingstilrådingar. Røystingsrådgjevaren skal samstundes opplyse om kva for tiltak som er gjorde for å fjerne, avgrense eller handtere desse interessekonfliktane.
+
+## § 6. Tilsyn, registreringsplikt og opplysningsplikt
+
+(1) Finanstilsynet fører tilsyn etter finanstilsynsloven med verksemd som røystingsrådgjevarar driv etter lova her.
+
+(2) Departementet kan gje forskrift med utfyllande føresegner om plikt til å registrere seg for å drive verksemd som røystingsrådgjevar og opplysningsplikta røystingsrådgjevarar har overfor Finanstilsynet.
+
+*Endra ved lov 21 juni 2024 nr. 41 (i kraft 1 april 2025 iflg. res. 21 mars 2025 nr. 479).*
+
+## § 7. Pålegg og lovbrotsgebyr
+
+(1) Dersom ein røystingsrådgjevar bryt pliktene sine etter lova her eller forskrift gjeven i medhald av lova her, kan Finanstilsynet påleggje rådgjevaren å rette brota innan ei viss tid.
+
+(2) Finanstilsynet kan gje lovbrotsgebyr ved brot på føresegnene i lova her eller føresegner gjevne i medhald av lova her. Lovbrotsgebyret skal ikkje vere høgare enn 10 millionar kroner.
+
+(3) Høvet for Finanstilsynet til å gje lovbrotsgebyr vert forelda fem år etter at brota på føresegnene vart stansa. Fristen vert avbroten når Finanstilsynet gjev førehandsvarsel eller tek avgjerd om lovbrotsgebyr.
+
+(4) Departementet kan gje forskrift med nærare føresegner om pålegg og lovbrotsgebyr.
+
+## § 8. Ikraftsetjing
+
+Lova gjeld frå den tida[^1] Kongen fastset.
+
+[^1]: Frå 1 juli 2021 iflg. res. 18 juni 2021 nr. 1984.

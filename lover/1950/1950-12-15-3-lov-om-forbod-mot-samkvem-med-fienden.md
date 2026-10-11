@@ -1,0 +1,61 @@
+---
+title: "Lov om forbod mot samkvem med personar som har tilhald på fiendeområde o.a"
+short_title: "Lov om forbod mot samkvem med fienden"
+identifier: "LOV-1950-12-15-3"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1950-12-15
+last_amended: 2015-10-01
+last_amended_by: "lov/2015-06-19-65 fra 2015-10-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1950-12-15-3"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om forbod mot samkvem med personar som har tilhald på fiendeområde o.a
+
+## § 1.
+
+Denne lova gjeld samkvem med:
+
+- a. Stat som Noreg er i krig med (fiendestat).
+- b. Fysisk person som bur eller har fast tilhald på fiendeområde.
+- c. Juridisk person (selskap, lag, korporasjon eller stifting), privat eller offentleg, som har setet sitt på fiendeområde eller er under kontroll av rettssubjekt som nemnt i litra a, b eller d.
+- d. Andre offentlege eller private rettssubjekt når Kongen eller den han gjev fullmakt så fastset.
+
+Med fiendeområde er i denne lova meint område som fiendestat har høgste retten (suvereniteten) over og som ikkje er hersett av norske eller allierte styrker og dessutan område som ein fiendestat har hersett. Det same gjeld område som Kongen eller den han gjev fullmakt har fastsett skal reknast for fiendeområde.
+
+## § 2.
+
+Det er forbode å ha samkvem med rettssubjekt som nemnt i § 1 eller fara fram på ein måte som er eigna til å skaffe slikt rettssubjekt føremon.
+
+Det er soleis m.a. forbode:
+
+- a. Å gjere avtale med eller til føremon for slikt rettssubjekt.
+- b. Å ta på seg skyldnad andsynes eller til føremon for slikt rettssubjekt.
+- c. Å yta teneste, levera gods eller verdepapir, betala pengar, skipa eller overføra rettar av kva slag det så er til slikt rettssubjekt eller til føremon for slikt rettssubjekt.
+- d. Å ta mot teneste, gods, verdepapir eller anna yting frå slikt rettssubjekt.
+- e. På kva måte det så er beinveges eller ved mellommann å senda melding av kva slag det måtte vera til slikt rettssubjekt.
+
+Forbodet gjeld ikkje gjerningar som er gjorde i offentleg ærend.
+
+Kongen eller den han gjev fullmakt kan gjera unnatak frå forbodet.
+
+## § 3.
+
+Rettshandel som er strid med § 2 er utan rettsverknad. Ein slik rettshandel kan ikkje vera grunnlag for rettsvinning i god tru. Unnatak gjeld likevel for pengar og verdepapir som lyder på ihendehaveren.
+
+## § 4.
+
+Bryt nokon føresegnene i § 2, blir han straffa med bot eller med fengsel inntil 3 år eller med båe desse straffane i fall ikkje blir dømd etter lovgjevinga om landssvik. Er brotet gjort av aktløyse, er straffa bøter.
+
+*Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 5.
+
+Kongen fastset kva dag denne lova skal ta til å gjelda.
+
+Kongen eller den han gjev fullmakt, fastset i kor stor mon lova skal gjelda på Svalbard.

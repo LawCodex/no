@@ -1,0 +1,122 @@
+---
+title: "Lov um prisereglar og prisedomstolar"
+short_title: "Lov um prisereglar og prisedomstolar"
+identifier: "LOV-1947-05-02-1"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1947-05-02
+in_force_from: 1947-05-02
+last_amended: 2021-06-01
+last_amended_by: "lov/2021-05-07-34 fra 2021-06-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1947-05-02-1"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov um prisereglar og prisedomstolar
+
+> Jf. tidlegare prov. anordn. 18 og 22 apr 1940.
+
+## Kapitel I. Prisereglar.
+
+### § 1.
+
+Når eit skip er god prise skal prisedomstolen døma at det er forbrote til staten.
+
+Eit skip som er handelsskip og som høyrer heime i fiendestat er god prise kva fart det so gjeng i.
+
+Eit skip som er handelsskip og som høyrer heime i nøytral stat er ikkje god prise utan det
+
+- a. har brote eller freista bryta blokade som er kunngjort av Noreg eller av stat som er i krig på same sida som Noreg,
+- b. fører krigskontrabande, jfr. § 2, likevel so at domstolen kan lata vera prisedøma skipet soframt umstendi i saki er for det.
+
+### § 2.
+
+Krigskontrabande er:
+
+- a. Våpn, ammunisjon, krigsfly, stridsvogner og anna som etter sitt slag vert nytta til hjelpemiddel i krig eller til å laga slikt hjelpemiddel av, og som er på veg til fiendeland eller til umkverve som fienden har hersett,
+- b. slike forsyningar og hjelpemiddel av alle slag som det er tanken at fiendekrigsmakt skal nytta,
+- c. ting elles som vert rekna for krigskontrabande etter millomfolkeleg skikk og bruk.
+
+### § 3.
+
+Når last umbord på skip er god prise skal prisedomstolen døma at ho er forbroti til staten.
+
+Last umbord på skip er god prise soframt ho er fiendeeige, likevel so at fiendelast på nøytralt skip ikkje kan prisedømast utan det er i samsvar med millomfolkeleg skikk og bruk.
+
+Last som er nøytral eige er god prise soframt skipet har brote eller freista bryta slik blokade som er nemnt i § 1 a eller er krigskontrabande.
+
+### § 4.
+
+Departementet som har med det å gjera, avgjer um offiserar og mannskap på skipet som tok prisa, skal få part i den vinning som fell på staten.
+
+## Kapitel II. Rettargangsreglar o.a.
+
+### § 5.
+
+Når ei prise er teki, skal dei militære styremaktene som har med det, utan drygjing få sak reist for prisedomstol.
+
+### § 6.
+
+Prisedomstol er i fyrste instans tingretten.
+
+*Endra med lover 14 juni 1985 nr. 71, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+### § 7.
+
+Prisesak skal reisast på den staden prisa er ført inn til, eller der skipet eller godset som saki gjeld, er på den tid sak vert reist.
+
+### § 8.
+
+For sakfyrehavinga gjeld reglane i tvisteloven, med dei avvik som er fastsett i denne lov.
+
+*Endra med lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+### § 9.
+
+Statsforvaltaren avgjer kven som skal føra saki for staten, anten ein advokat eller ein embetsmann i påtalemakti.
+
+Møter ikkje motparten, nemner retten upp ein sakførar for han.
+
+*Endra med lover 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3, 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416).*
+
+### § 10.
+
+Tilsegjing og melding til ein part som ikkje har kjend tilhaldstad her i riket, skal gjevast på den måten som retten meiner er forsvarleg etter tilhøvi i det einskilde tilfellet. Det same gjeld når det er uråd å nå parten på vanleg måte.
+
+### § 11.
+
+Ei prisesak skal domstolen fremja fyrst det er råd. Rettsferi gjeld ikkje. Mekling i forliksråd skal det ikkje vera.
+
+*Endra med lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+### § 12.
+
+Skip og last skal liggja tryggt forvart til det er sagt endeleg dom i saki dersom departementet som har med det, ikkje fastset noko anna i serhøve.
+
+Det som er fastsett i fyrste leden stengjer ikkje for at skip og last vert oreigna etter dei reglane som gjeld for norsk eigedom.
+
+Last som ikkje toler liggja, kan retten taka ved skal seljast gjennom namsmyndigheten etter reglane om tvangssal så langt dei høver eller på annen forsvarleg måte. Bestemmelsene i tvangsfullbyrdelseslova § 8-16 fyrste leden gjelder ikkje i dette høvet. Like eins kan domstolen taka ved etter at den militære styremakt som har med det å gjera, har sagt si meining, at skip eller last skal seljast, so framt domarane meiner det er fåre for at fienden kan få tak i eller få høve til å øydeleggja skipet eller lasti.
+
+Reglane i fyrre leden gjeld sameleis når eigaren ikkje hentar skip eller last som er frigjevne i endeleg dom. I slike høve kan skip og last like eins seljast soframt eigaren ikkje har henta dei innan rimeleg tid etter frigjevinga.
+
+*Endra med lover 26 juni 1992 nr. 86, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+### § 13.
+
+Når skip eller last vert oreigna eller selde etter reglane i § 12 andre til fjorde leden, skal retten setja salssumen inn i Noregs Bank eller um det ikkje let seg gjera, setja pengane fast på annan måte etter beste skyn. Er salet gjort under saki, skal den som har rett til pengane få dei når det er sagt endeleg dom.
+
+*Endra med lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endra med lov 26 jan 2007 nr. 3.*
+
+## Kapitel III. Yvergangs- og innføringsreglar.
+
+### § 14.
+
+– – –
+
+### § 15.
+
+Denne lovi tek til å gjelda straks.

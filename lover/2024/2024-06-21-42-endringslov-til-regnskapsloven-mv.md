@@ -1,0 +1,96 @@
+---
+title: "Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)"
+short_title: "Endringslov til regnskapsloven mv."
+identifier: "LOV-2024-06-21-42"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2024-06-21
+in_force_from: "2024-11-01, Kongen bestemmer"
+last_amended: 2025-08-01
+last_amended_by: "lov/2025-04-10-11 fra 2025-08-01"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2024-06-21-42"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)
+
+> Prop. 57 L (2023–2024), Innst. 343 L (2023–2024), Lovvedtak 80 (2023–2024). Stortingets første og andre gangs behandling hhv. 5. og 11. juni 2024. Fremmet av Finansdepartementet.
+
+## I
+
+I lov 17. juli 1998 nr. 56 om årsregnskap m.v. gjøres følgende endringer: – – –
+
+## II
+
+I lov 20. november 2020 nr. 128 om revisjon og revisorer gjøres følgende endringer:
+
+– – –
+
+§ 12-1 første ledd skal lyde:
+
+(1) EØS-avtalen vedlegg XXII (forordning (EU) nr. 537/2014 om særlige plikter ved revisjon av foretak av allmenn interesse og opphevelse av kommisjonsbeslutning 2005/909/EF, med tilpasninger til EØS-avtalen, som endret ved direktiv (EU) 2022/2464) (revisjonsforordningen) gjelder som lov med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.
+
+– – –
+
+## III
+
+I lov 30. august 1991 nr. 71 om statsforetak gjøres følgende endringer: – – –
+
+## IV
+
+I lov 13. juni 1997 nr. 44 om aksjeselskaper gjøres følgende endringer: – – –
+
+## V
+
+I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper gjøres følgende endringer: – – –
+
+## VI
+
+I lov 6. juni 2003 nr. 38 om bustadbyggjelag gjøres følgende endringer: – – –
+
+## VII
+
+*Del VII opphevet ved lov 10 april 2025 nr. 11 (i kraft 1 aug 2025 iflg. res. 24 juni 2025 nr. 1203, omnummerering av etterfølgende deler er ikke utført av praktiske hensyn).*
+
+## VIII
+
+I lov 29. juni 2007 nr. 75 om verdipapirhandel gjøres følgende endringer: – – –
+
+## IX
+
+I lov 29. juni 2007 nr. 81 om samvirkeforetak gjøres følgende endringer: – – –
+
+## X
+
+I lov 10. april 2015 nr. 17 om finansforetak og finanskonsern gjøres følgende endringer: – – –
+
+## XI
+
+I lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning gjøres følgende endring: – – –
+
+## XII
+
+I lov 18. juni 2021 nr. 99 om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og anstendige arbeidsforhold gjøres følgende endringer: – – –
+
+## XIII
+
+- 1\. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+- 2\. Departementet kan fastsette overgangsregler.
+
+[^1]: Fra 1. november 2024 for\
+    del I (endringene i regnskapsloven),\
+    del II (endringene i revisorloven) med unntak av § 12-1,\
+    del III (endringene i statsforetaksloven),\
+    del IV (endringene i aksjeloven),\
+    del V (endringene i allmennaksjeloven),\
+    del VI (endringene i bustadbyggjelagslova),\
+    del VIII (endringene i verdipapirhandelloven),\
+    del IX (endringene i samvirkelova),\
+    del X (endringene i finansforetaksloven),\
+    del XI (endringene i fagskoleloven),\
+    del XII (endringene i åpenhetsloven),\
+    iflg. res. 11 okt 2024 nr. 2454.

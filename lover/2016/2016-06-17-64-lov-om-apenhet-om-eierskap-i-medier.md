@@ -1,0 +1,65 @@
+---
+title: "Lov om åpenhet om eierskap i medier"
+short_title: "Lov om åpenhet om eierskap i medier"
+identifier: "LOV-2016-06-17-64"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2016-06-17
+in_force_from: 2016-07-01
+last_amended: 2026-01-01
+last_amended_by: "lov/2025-04-25-12 fra 2026-01-01"
+ministry: "Kultur- og likestillingsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2016-06-17-64"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om åpenhet om eierskap i medier
+
+> Jf. tidligere lov 13 juni 1997 nr. 53, som ble opphevet ved lov 17 juni 2016 nr. 63.
+
+## § 1. Lovens formål
+
+Lovens formål er å sikre åpenhet om eierforhold i norske medier.
+
+## § 2. Lovens virkeområde
+
+Loven gjelder foretak som driver dagspresse, fjernsyn, radio eller elektroniske medier, samt foretak som gjennom eierskap eller samarbeidsavtaler har innflytelse over slike foretak.
+
+## § 3. Medietilsynets oppgaver
+
+Medietilsynet skal bidra til å skape større åpenhet, oppmerksomhet og kunnskap om eierforholdene i norske medier. Tilsynet skal innhente og systematisere informasjon om eierforholdene, og informasjonen skal gjøres tilgjengelig for allmennheten.
+
+## § 4. Opplysningsplikt
+
+Enhver plikter å gi Medietilsynet de opplysninger tilsynet krever for å kunne utføre sine oppgaver etter loven. Opplysningsplikten omfatter både opplysninger om eierskap i norske medier og opplysninger om samarbeidsavtaler som gir en avtalepart tilsvarende innflytelse over det redaksjonelle produktet som eierskap. Opplysninger kan kreves gitt skriftlig eller muntlig innen en fastsatt frist.
+
+Opplysninger som kreves etter første ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet. Slik taushetsplikt er heller ikke til hinder for at dokumenter som befinner seg hos slike myndigheter, utleveres for gransking.
+
+Departementet kan gi forskrift om omfanget og gjennomføringen av opplysningsplikten.
+
+*Endret ved lov 20 des 2016 nr. 121 (ikr. 1 jan 2017).*
+
+## § 5. Tvangsmulkt
+
+For å sikre at vedtak etter § 4 første ledd overholdes, kan Medietilsynet ilegge den ansvarlige for oppfyllelsen tvangsmulkt. Tvangsmulkten tilfaller statskassen.
+
+Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved løpende mulkt kan Medietilsynet bestemme at mulkten skal fastsettes for hver dag, uke eller måned som går etter at en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt. Ved tvangsmulkt i form av et engangsbeløp kan Medietilsynet bestemme at mulkten skal betales når en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt.
+
+Departementet kan gi forskrift om ileggelse av tvangsmulkt, vilkår for tvangsmulkt, tvangsmulktens størrelse og renter ved forsinket betaling.
+
+*Endret ved lov 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967).*
+
+## § 6. Klageinstans
+
+Klager over Medietilsynets enkeltvedtak etter denne loven eller etter forskrift fastsatt i medhold av loven behandles av Klagenemnda for mediesaker (Medieklagenemnda).
+
+Klagenemnda kan ikke av eget tiltak omgjøre Medietilsynets vedtak.
+
+## § 7. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
+
+[^1]: Fra 1 juli 2016 iflg. res. 17 juni 2016 nr. 717.

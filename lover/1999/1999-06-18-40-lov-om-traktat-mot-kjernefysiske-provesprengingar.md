@@ -1,0 +1,69 @@
+---
+title: "Lov om gjennomføring av Traktat om totalforbod mot kjernefysiske prøvesprengingar"
+short_title: "Lov om traktat mot kjernefysiske prøvesprengingar"
+identifier: "LOV-1999-06-18-40"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1999-06-18
+in_force_from: "Ikkje i kraft"
+last_amended: 2015-10-01
+last_amended_by: "lov/2015-06-19-65 fra 2015-10-01"
+ministry: "Utenriksdepartementet"
+status: unknown
+source: "https://lovdata.no/dokument/NL/lov/1999-06-18-40"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om gjennomføring av Traktat om totalforbod mot kjernefysiske prøvesprengingar
+
+> Traktaten trer i kraft når 44 av dei statene som er særskilt nemnde i traktaten («nøkkellanda») har ratifisert. I oktober 2018 hadde i alt 167 stater ratifisert, av desse høyrer 36 til «nøkkellanda».
+
+## § 1.
+
+Det er forbode å gjennomføre prøvesprenging av kjernevåpen eller anna kjernefysisk sprenging i strid med Traktat om totalforbod mot kjernefysiske prøvesprengingar av 10. september 1996.
+
+Kongen får fullmakt til å gje nærare føresegner og einskildvedtak for å oppfylle Noreg sine plikter etter traktaten.
+
+## § 2.
+
+Dei personane som etter traktaten skal ha immunitet og privilegier, får utan hinder av norsk lov immunitet og privilegier i samsvar med føresegnene i denne traktaten.
+
+Kongen kan gje nærare reglar for korleis føresegnene om immunitet og privilegier skal gjennomførast.
+
+## § 3.
+
+Det kan setjast i verk inspeksjonar ovafor private, i samsvar med føresegnene i traktaten, herunder gjennomførast boring i grunnen.
+
+Kongen kan leggje på grunneigaren eller andre rettshavarar slike plikter som trengst for at ein inspeksjon skal kunne gjennomførast.
+
+## § 4.
+
+Denne lova gjeld også for Svalbard, Jan Mayen og dei norske bilanda.
+
+## § 5.
+
+Den som bryt denne lova eller føresegner eller påbod som er gjeve med heimel i lova, vert straffa med bøter eller fengsel i opptil fem år. Aktlause handlingar vert straffa med bøter eller fengsel i opptil to år.
+
+*Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).*
+
+## § 6.
+
+Lova trer i kraft på det tidspunkt som traktaten trer i kraft.[^1]
+
+[^1]: Traktaten trer i kraft når 44 av dei statene som er særskilt nemnde i traktaten («nøkkellanda») har ratifisert. I oktober 2018 hadde i alt 167 stater ratifisert, av desse høyrer 36 til «nøkkellanda».
+
+## § 7.
+
+Frå den tid denne lova tek til å gjelde, vert det gjort følgjande endringar i Almindelig borgerlig Straffelov av 22. mai 1902 nr. 10:[^2]
+
+§ 12 fyrste ledd nr. 3 bokstav f, g og i skal lyde:
+
+- f. skal være straffbar i henhold til FNs Havrettskonvensjon 10. desember 1982 artikkel 113 (skade på undersjøiske kabler og rørledninger),
+- g. er straffbar etter lov 17. juli 1998 nr. 54 om gjennomføring av Konvensjonen om forbud mot bruk, lagring og produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner § 5, eller
+- i. er straffbar etter lov 18. juni 1999 nr. 40 om gjennomføring av Traktat om totalforbud mot kjernefysiske prøvesprengninger § 5;
+
+*Endra med lov 8 des 2000 nr. 84 (endra bokstav h til bokstav i).*
+
+[^2]: Inkurie: Loven er opphevet, se nå lov 20 mai 2005 nr. 28.

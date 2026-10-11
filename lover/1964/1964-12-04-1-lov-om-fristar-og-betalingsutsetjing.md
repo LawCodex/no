@@ -1,0 +1,69 @@
+---
+title: "Lov om fristar og betalingsutsetjing og ymist anna i serlege tilhøve"
+short_title: "Lov om fristar og betalingsutsetjing"
+identifier: "LOV-1964-12-04-1"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1964-12-04
+in_force_from: 1964-12-04
+last_amended: 2016-04-22
+last_amended_by: "lov/2016-04-22-3"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1964-12-04-1"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om fristar og betalingsutsetjing og ymist anna i serlege tilhøve
+
+> Jf. lov 15 des 1950 nr. 7.
+
+## § 1.
+
+Når riket er i krig eller krigsfare eller riksens sjølvstende eller tryggleik er i fare, kan Kongen fastsetja at rettargangsfristar ikkje skal gå eller at dei ikkje skal gå ut før etter ei viss fastsett tid. Det same gjeld frist for anna åtgjerd som har noko å seia for at ein rett eller ei motsegn skal verta til eller stå ved lag.
+
+Vedtaket kan gjelda alle slike fristar eller berre sume og kan gjevast for heile riket eller berre for einskilde landsluter.
+
+## § 2.
+
+Utan Kongen så fastset gjeld vedtaket ikkje
+
+- a. frist for å yta etter ein avtale,
+- b. frist etter lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet og
+- c. serleg frist for krigstid etter lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker kapittel 33 til 36.
+
+*Endra med lov 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).*
+
+## § 3.
+
+Kongen kan setja visse føresetnader eller vilkår for at fristane ikkje skal gå eller for at ei åtgjerd kan gjerast etter den tid då den opphavlege fristen skulle gått ut. Såleis kan det setjast til vilkår at det har vore uråd for den det gjeld, å gjera åtgjerda før eller at det vert gjort serskilt vedtak om oppreisnad.
+
+## § 4.
+
+Når det er fastsett at fristar ikkje skal gå, tek Kongen avgjerd om kva tid dei skal taka til att.
+
+## § 5.
+
+Kongen kan gjeva reglar om korleis føresegner, gjevne med heimel i §§ 1-4, skal setjast i verk, såleis og kva det skal gjerast med avferdsbu, konkursbu og skuldsemjetingingsbu, odelsløysingsak og oreigningssak og saker som nemnt i § 3 andre punktum.
+
+## § 6.
+
+Er det slike tilstand som nemnt i § 1, kan Kongen gjeva føresegner om betalingsutsetjing, om kor stor pengesum folk i høgda kan få ut or bank og liknande pengestad og likeins om utsetjing med tvangsfullføring.
+
+*Endra med lov 9 jan 1998 nr. 5.*
+
+## § 7.
+
+Det som er sagt i § 5 i lov 15. desember 1950 nr. 7 om serlege rådgjerder når det er krig, krigsfare og liknande tilstand, skal gjelda på tilsvarande måte om høve for styringsmakt i einskilde luter av landet til å gjeva føresegner etter lova her.
+
+*Endra med lov 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).*
+
+## § 8.
+
+Føresegner med heimel i lova her, skal kunngjerast på høveleg måte og Stortinget få melding om deim fyrst råd er.
+
+## § 9.
+
+Lova tek til å gjelda straks.

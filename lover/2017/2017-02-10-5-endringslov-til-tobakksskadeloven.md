@@ -1,0 +1,103 @@
+---
+title: "Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)"
+short_title: "Endringslov til tobakksskadeloven"
+identifier: "LOV-2017-02-10-5"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2017-02-10
+in_force_from: "2017-04-01, 2017-07-01, 2026-03-30, Kongen bestemmer"
+last_amended: 2025-06-20
+last_amended_by: "lov/2025-06-20-70"
+ministry: "Helse- og omsorgsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2017-02-10-5"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)
+
+## I
+
+I lov 9. mars 1973 nr. 14 om vern mot tobakksskader gjøres følgende endringer:
+
+– – –
+
+Ny § 21 a skal lyde:
+
+**§ 21 a. Registreringsordning for innenlands fjernsalg**
+
+Det er forbudt å drive innenlands fjernsalg av tobakksvarer, elektroniske sigaretter og gjenoppfyllingsbeholdere i Norge, uten registrering hos Helsedirektoratet.
+
+Det er forbudt å utlevere varer som nevnt i første ledd til forbrukere i Norge uten at virksomheten er registrert som utleverer hos Helsedirektoratet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av registreringsordningen for fjernsalg, herunder krav til registreringen, stedlig representant, utleverer, alderskontrollsystem og gebyrer.
+
+*Endret ved lov 20 juni 2025 nr. 70.*
+
+– – –
+
+Nytt kapittel 6A skal lyde:
+
+Kapittel 6A. Elektroniske sigaretter, urtebaserte røykeprodukter og nye tobakksprodukter
+
+**§ 34 a. Registrering, kvalitet og sikkerhet ved elektroniske sigaretter mv.**
+
+Det er forbudt å føre inn i Norge eller selge elektroniske sigaretter og gjenoppfyllingsbeholdere som ikke er registrert hos Helsedirektoratet.
+
+Produsenter og importører av elektroniske sigaretter og gjenoppfyllingsbeholdere skal søke om å få sine produkter registrert minst seks måneder før de planlegges plassert på det norske markedet. Ved enhver vesentlig endring skal produktet registreres på nytt.
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om gjennomføringen av registreringsplikten, offentliggjøring av mottatt informasjon samt gebyr og avgift for å dekke utgifter knyttet til registrering og tilsyn.
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om krav til produktenes kvalitet, sikkerhet, utforming og bruksanvisning.
+
+*Endret ved lover 20 des 2023 nr. 106 (i kraft 1 jan 2024 iflg. res. 20 des 2023 nr. 2128), 20 des 2024 nr. 95.*
+
+**§ 34 b. Skadelige og uønskede virkninger av elektroniske sigaretter mv.**
+
+Produsenter, importører og distributører av elektroniske sigaretter og gjenoppfyllingsbeholdere skal ha et system for innsamling av informasjon om alle antatt skadelige eller uønskede virkninger av produktet på menneskers helse.
+
+Produsenter, importører og distributører som har grunn til å tro at elektroniske sigaretter eller gjenoppfyllingsbeholdere som er i deres besittelse, planlegges eller er plassert på markedet, ikke er sikre eller av god kvalitet eller ikke oppfyller lovens bestemmelser, skal umiddelbart iverksette tiltak for å rette feilen, trekke produktet fra markedet eller tilbakekalle det. Tilsynsmyndigheten der produktet planlegges eller er plassert på markedet skal umiddelbart varsles.
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om gjennomføringen av bestemmelsen, herunder tiltaks- og varslingsplikter.
+
+**§ 34 c. Markedsovervåking av elektroniske sigaretter mv.**
+
+Produsenter og importører av elektroniske sigaretter og gjenoppfyllingsbeholdere skal årlig rapportere om salgsvolum, forbrukerpreferanser, salgsmåte og sammendrag av markedsundersøkelser.
+
+Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av rapporteringsplikten samt om markedsovervåking.
+
+– – –
+
+§ 35 skal lyde:
+
+– – –
+
+(Opphevet)
+
+– – –
+
+– – –
+
+*Endret ved lover 20 des 2023 nr. 107, 20 des 2023 nr. 106 (i kraft 1 jan 2024 iflg. res. 20 des 2023 nr. 2128), 20 des 2024 nr. 95 (annet ledd opphevet).*
+
+Ny § 37 a skal lyde:
+
+**§ 37 a. Tilbakekall av registrering, godkjenning og omsetningsforbud**
+
+Tilsynsmyndighetene kan nekte registrering eller godkjenning etter §§ 21 a, 34 a og 34 d, eller trekke denne tilbake dersom virksomheten eller produktet ikke oppfyller kravene i denne lov eller bestemmelser gitt i medhold av den.
+
+Tilsynsmyndighetene kan fastsette omsetningsforbud for enkelte produkter eller produktpartier, dersom de har grunn til å anta at disse ikke oppfyller lovens bestemmelser eller bestemmelser gitt i medhold av denne lov.
+
+Departementet kan i forskrift gi nærmere bestemmelser til gjennomføring og utfylling av første og annet ledd.
+
+– – –
+
+## II
+
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid og fastsette overgangsperioder.
+
+[^1]: Fra 1 apr 2017 iflg. res. 31 mars 2017 nr. 415, med unntak av § 21 a, kapittel 5, §§ 30, 30 a, 32 første ledd, 34 a til 34 d, 35 annet ledd, 37 a, 38 tredje ledd, 40 a og 43. Kapittel 5 og §§ 30, 30 a første og fjerde ledd og 43 trer i kraft 1. juli 2017.\
+    § 34d og § 40a trer i kraft 1. juli 2021 iflg. res. 23. juni 2021 nr. 2065.\
+    Fra 30. mars 2026 for endringene i § 30a annet og tredje ledd, § 32 første ledd og § 38 tredje ledd iflg. res. 27 mars 2026 nr. 498.

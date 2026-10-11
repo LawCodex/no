@@ -1,0 +1,37 @@
+---
+title: "Lov om flagging på kommunenes offentlige bygninger"
+short_title: "Lov om flagging på kommunale bygninger"
+identifier: "LOV-1933-06-29-2"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1933-06-29
+in_force_from: 1933-06-29
+last_amended: 2021-06-04
+last_amended_by: "lov/2021-06-04-56"
+ministry: "Kommunal- og distriktsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1933-06-29-2"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om flagging på kommunenes offentlige bygninger
+
+## § 1.
+
+På eller fra kommunenes offentlige bygninger, eiendommer og kommunale institusjoner må kun brukes flagg som nevnt i lov 10. desember 1898 nr. 1 om Norges Flag § 1 (uten splitt og tunge), det samiske flagget eller kommune- eller fylkesflagg. Som offentlige bygninger og kommunale institusjoner regnes bygninger med tilhørende grunn som kommunen råder over som eier, leier eller lignende og som hovedsakelig brukes i forbindelse med kommunens offentlige oppgaver eller av kommunale institusjoner. Forbudet i første punktum gjelder ikke i forbindelse med arrangement, markering eller merkedag av allmenn interesse. Det samme gjelder frittstående kommunale flaggstenger på torg, bruer, plasser eller lignende som ikke framstår som en integrert del av et kommunalt bygningskompleks eller et bygningskompleks som for den vesentligste del benyttes av kommunale institusjoner.
+
+Dog kan Kongen utferdige bestemmelser om adgang til i særlige tilfelle å benytte et fremmed lands flagg ved siden av det norske.
+
+Overtredelse av denne lov straffes med bøter eller fengsel i inntil 3 måneder.
+
+Loven gjelder på Svalbard, og gis tilsvarende anvendelse for Longyearbyen lokalstyre som for kommunene.
+
+*Endret ved lover 11 apr 2003 nr. 22, 21 mars 2014 nr. 8, 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 15 des 2017 nr. 109 (ikr. 1 jan 2018 iflg. res. 15 des 2017 nr. 2118, var tidligere del I), 4 juni 2021 nr. 56 (ikr. 4 juni 2021 iflg. res. 4 juni 2021 nr. 1765).*
+
+## § 2.
+
+Denne lov trer i kraft straks.
+
+*Endret ved lov 15 des 2017 nr. 109 (ikr. 1 jan 2018 iflg. res. 15 des 2017 nr. 2118, var tidligere del II).*

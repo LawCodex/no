@@ -1,0 +1,68 @@
+---
+title: "Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov)"
+short_title: "Straffelovens ikraftsettingslov"
+identifier: "LOV-2015-06-19-65"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2015-06-19
+in_force_from: "2015-10-01, 2015-06-19"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2015-06-19-65"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov)
+
+## § 1. Ikraftsetting av straffeloven 2005
+
+I lov 20. mai 2005 nr. 28 om straff skal § 411[^1] første ledd lyde: – – –
+
+[^1]: Fastsetter ikrafttredelsen av loven til 1 okt 2015, se straffeloven § 411.
+
+## § 2. Opphevelse av andre lover
+
+Med virkning fra den tid straffeloven 2005 trer i kraft[^2] oppheves følgende lover:
+
+- 1\. lov 18. august 1914 nr. 3 om forsvarshemmeligheter
+- 2\. lov 25. juni 1926 nr. 4 om straff for å delta i og medvirke til smugling på andre land
+- 3\. lov 17. juni 1932 nr. 2 om enkelte bestemmelser om fremmede konsulers rettsstilling
+- 4\. lov 19. mars 1937 nr. 1 angående forholdsregler for å hindre deltagelse i krig i fremmed land
+- 5\. lov 13. mai 1937 nr. 1 om forbud mot å bære uniform m.v.
+- 6\. lov 15. desember 1995 nr. 74 om forbud mot kjønnslemlestelse
+- 7\. lov 29. juni 2007 nr. 83 om endringer i straffegjennomføringsloven og straffeloven (opplysningsplikt, vandelskrav og varsel til fornærmede mv.)
+- 8\. lov 29. juni 2007 nr. 84 om endringer i straffegjennomføringsloven mv. (tiltak for å avvikle soningskøen og bedre innholdet i soningen)
+
+[^2]: Fra 1 okt 2015, se straffeloven § 411.
+
+## § 3. Endringer i straffeloven 2005
+
+– – –
+
+## § 4. Endringer i militær straffelov
+
+Med virkning fra den tid straffeloven 2005 trer i kraft[^3] gjøres følgende endringer i lov 22. mai 1902 nr. 13 militær straffelov: – – –
+
+[^3]: Fra 1 okt 2015, se straffeloven § 411.
+
+## § 5. Endringer i straffeprosessloven
+
+Med virkning fra den tid straffeloven 2005 trer i kraft[^4] gjøres følgende endringer i lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker: – – –
+
+[^4]: Fra 1 okt 2015, se straffeloven § 411.
+
+## § 6. Endringer i andre lover
+
+Med virkning fra den tid straffeloven 2005 trer i kraft[^5] gjøres følgende endringer i annen lovgivning: – – –
+
+[^5]: Fra 1 okt 2015, se straffeloven § 411.
+
+## § 7. Overgangsregler
+
+Kongen kan gi nærmere overgangsregler.
+
+## § 8. Ikrafttredelse
+
+Loven her trer i kraft straks.

@@ -1,0 +1,111 @@
+---
+title: "Lov om lønnsplikt under permittering (permitteringslønnsloven)"
+short_title: "Permitteringslønnsloven"
+identifier: "LOV-1988-05-06-22"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1988-05-06
+in_force_from: 1990-10-01
+last_amended: 2022-03-01
+last_amended_by: "lov/2021-12-17-147 fra 2022-03-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1988-05-06-22"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om lønnsplikt under permittering (permitteringslønnsloven)
+
+> Korttittel tilføyd ved lov 17 juni 2016 nr. 26 (ikr. 1 juli 2016).
+
+## § 1. Lovens virkeområde, definisjoner mv
+
+(1) (Arbeidstaker)
+
+Med arbeidstaker menes i denne lov enhver som utfører arbeid i annens tjeneste.
+
+(2) (Permittering)
+
+Med permittering menes i denne lov at arbeidstaker midlertidig fritas for arbeidsplikt i forbindelse med driftsinnskrenkning eller driftsstans, enten dette bestemmes ensidig av arbeidsgiver eller ved avtale i det enkelte tilfelle.
+
+Som permittering etter første ledd regnes både fritak for arbeidsplikt i en sammenhengende periode (hel permittering) og innføring av redusert arbeidstid (delvis permittering).
+
+(3) (Arbeidstakere som er unntatt fra loven)
+
+Unntatt fra bestemmelsene i denne lov er arbeidstakere i fiskeforedlingsbedrifter.
+
+*Endret ved lov 15 juni 1990 nr. 31.*
+
+## § 2. Lovens ufravikelighet
+
+Loven her kan ikke fravikes til skade for arbeidstaker med mindre det er særskilt fastsatt at en bestemmelse kan fravikes ved tariffavtale.
+
+## § 3. Tiden for lønnsplikt under permittering
+
+En arbeidsgiver har plikt til å betale permitteringslønn og annet arbeidsvederlag i en arbeidsgiverperiode på 15 dager (arbeidsgiverperiode I). Lønnsplikten i arbeidsgiverperiode I gjelder fra og med den første arbeidsdagen permitteringen omfatter. Perioden løper ikke når arbeidstakeren likevel ville hatt tjenestefri eller fravær. Når arbeidsgiverperioden har vært stanset, løper den videre fra den dagen arbeidet skulle vært gjenopptatt om permitteringen ikke hadde funnet sted.
+
+Skyldes permitteringen brann, ulykker eller naturomstendigheter, gjelder ingen arbeidsgiverperiode som nevnt i første ledd.
+
+Etter arbeidsgiverperiode I er arbeidsgiveren fritatt fra lønnsplikt ved hel eller delvis permittering i 26 uker i løpet av en periode på 18 måneder (fritaksperioden). Tid hvor arbeidstakeren har vært permittert som følge av arbeidskamp, regnes ikke med ved beregning av permitteringstiden. Arbeidsgiverens lønnsplikt gjeninntrer etter fritaksperioden. Lønnsplikten etter fritaksperioden gjelder ikke når arbeidstakeren likevel ville hatt tjenestefri eller fravær.
+
+Dersom den permitterte arbeidstakeren deltar i arbeidsmarkedstiltak i regi av eller i samarbeid med Arbeids- og velferdsetaten, inntrer ikke arbeidsgiverens lønnsplikt etter tredje ledd før arbeidsmarkedstiltaket er avsluttet.
+
+Departementet kan gi forskrift om å forlenge fritaksperioden før arbeidsgiverens lønnsplikt gjeninntrer, og om at det ved en slik forlengelse innføres en ny lønnspliktperiode på fem dager (arbeidsgiverperiode II).
+
+Departementet kan gi forskrift om beregning av fritaksperioden før arbeidsgivers lønnsplikt gjeninntrer, jf. tredje ledd, herunder om at avbrudd i permitteringen kan få betydning for beregningen selv om arbeidsgiver betaler lønn.
+
+Plikten til å betale permitteringslønn etter denne paragrafen gjelder ikke ved permittering som er følge av arbeidskamp.
+
+*Endret ved lover 15 juni 1990 nr. 31, 20 des 1993 nr. 141, 23 juni 2000 nr. 49 som endret ved lov 15 juni 2001 nr. 35 (ikr. 23 juni 2000 til 31 des 2001), 21 des 2001 nr. 99 (ikr. 1 jan 2002), 27 juni 2003 nr. 63 (ikr. 1 juli 2003), 19 des 2003 nr. 117 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1623), 10 des 2004 nr. 79 (ikr. 1 jan 2005), 16 des 2005 nr. 119 (ikr. 1 jan 2006), 16 juni 2006 nr. 20 (ikr. 1 juli 2006 iflg. res. 16 juni 2006 nr. 631), 27 feb 2009 nr. 8 (ikr. 1 apr 2009), 16 des 2011 nr. 58 (ikr. 1 jan 2012), 14 juni 2013 nr. 33, 13 des 2013 nr. 105 (ikr. 1 jan 2014), 19 juni 2015 nr. 43 (ikr. 1 juli 2015), 17 juni 2016 nr. 26 (ikr. 1 juli 2016), 20 des 2018 nr. 98 (ikr. 1 jan 2019), 23 juni 2020 nr. 96 (ikr. 1 sep 2020, gis virkning for permitteringer som settes i verk etter ikrafttredelsen), 17 des 2021 nr. 147 (i kraft 1 mars 2022 iflg. res. 18 feb 2022 nr. 270).*
+
+## § 3a. Meldeplikt til offentlig myndighet (Arbeids- og velferdsetaten)
+
+Før permittering skal arbeidsgiver gi melding til offentlig myndighet (Arbeids- og velferdsetaten) i henhold til arbeidsmarkedsloven § 8.
+
+*Tilføyd ved lov 10 des 2004 nr. 76 (ikr. 1 juli 2005 iflg. res. 10 des 2004 nr. 1616), endret ved lov 16 juni 2006 nr. 20 (ikr. 1 juli 2006 iflg. res. 16 juni 2006 nr. 631).*
+
+## § 3 b. (Opphevet)
+
+*Tilføyd ved lov 20 mars 2020 nr. 6 (se endringsloven del II for overgangsbestemmelse), opphevet ved lov 23 juni 2020 nr. 96 (ikr. 1 sep 2020, gis virkning for permitteringer som settes i verk etter ikrafttredelsen, se endringslovens del II).*
+
+## § 4. Beregning av permitteringslønn
+
+(1) (Beregningsgrunnlag)
+
+Beregningsgrunnlaget for permitteringslønn er det samme som beregningsgrunnlaget for sykepenger etter folketrygdloven §§ 8-28 til 8-30.
+
+(2) (Hel permittering)
+
+Ved hel permittering skal utbetalingen pr. arbeidsdag etter § 3 første og femte ledd utgjøre den gjennomsnittlige lønn for en arbeidsdag. Dette gjelder uansett hvor mange arbeidstimer arbeidstakeren skulle hatt den enkelte dag.
+
+Utbetalingen etter § 3 tredje ledd skal ved hel permittering utgjøre en gjennomsnittlig ukelønn pr. uke. Dette gjelder uansett hvor mange arbeidsdager arbeidstakeren skulle hatt den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(3) (Delvis permittering)
+
+Ved delvis permittering skal utbetalingen etter § 3 utgjøre en prosentvis andel av en gjennomsnittlig ukelønn pr uke. Den prosentvise andel av lønnen skal tilsvare den prosentvise reduksjon av arbeidstiden den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(4) (Fravikelighet)
+
+Reglene om beregning av permitteringslønn etter denne paragraf kan fravikes ved tariffavtale.
+
+Arbeidsgiver som er bundet av tariffavtalebestemmelser om beregning av permitteringslønn, kan anvende dem overfor alle arbeidstakere som utfører arbeid av den art avtalen omfatter, såfremt et flertall av arbeidstakerne er bundet av avtalen.
+
+*Endret ved lover 15 juni 1990 nr. 31, 28 feb 1997 nr. 19 (ikr. 1 mai 1997), 17 juni 2016 nr. 26 (ikr. 1 juli 2016).*
+
+## § 5. Ikrafttreden og overgangsregler
+
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
+
+Loven gjelder permittering som iverksettes fra og med den dag loven trer i kraft.
+
+– – –
+
+*Endret ved lover 15 juni 1990 nr. 31, 22 mars 1991 nr. 14, 20 juni 1991 nr. 39, 26 juni 1992 nr. 91.*
+
+[^1]: Fra 1 okt 1990 iflg. res. 29 juni 1990 nr. 483 (som opphevet res. 15 juni 1990 nr. 451, som opphevet res. 1 des 1989 nr. 1188 som satte ikr. loven 1 jan 1991 (som samtidig opphevet res. 25 nov 1988 nr. 937 som fastsatte ikrafttredelse 1 jan 1990 og samtidig opphevet res. 6 mai 1988 nr. 343 som fastsatte ikrafttredelse 1 jan 1989)).
+
+## § 6. Endring i andre lover
+
+Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover – – –.

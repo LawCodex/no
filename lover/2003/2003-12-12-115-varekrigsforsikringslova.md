@@ -1,0 +1,56 @@
+---
+title: "Lov om statleg varekrigsforsikring"
+short_title: "Varekrigsforsikringslova"
+identifier: "LOV-2003-12-12-115"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 2003-12-12
+in_force_from: 2004-01-01
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2003-12-12-115"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om statleg varekrigsforsikring
+
+> Jf. tidlegare lov 3. desember 1948 nr. 8 om Statens varekrigsforsikring.
+
+## § 1. Iverksetjing og avslutting av tilbod om statleg varekrigsforsikring
+
+Kongen kan fastsetje at staten skal tilby varetransportforsikring mot krig, krigsfare eller ekstraordinære kriseforhold i Noreg eller utlandet («varekrigsforsikring») for så vidt det får følgjer for norske interesser og slike omstende kan hindre forsyning og varetransport dersom det private forsikringstilbodet opphøyrer, kan kome til å opphøyre eller ikkje dekkjer ein slik situasjon.
+
+Kongen kan avslutte tilbodet om statleg varekrigsforsikring dersom dei vilkår som er fastlagde i første ledd ikkje lenger er til stades.
+
+## § 2. Verkeområde
+
+Staten kan tilby varetransportforsikring ved krig, krigsfare eller ekstraordinære kriseforhold av:
+
+- 1\. varer som blir sende til, frå eller innafor norsk område, og når det er norske interesser som blir dekte, også av varer som blir sende mellom stader i utlandet.
+- 2\. norske reiarar og tidsbefraktarar si frakt på reisebasis, befraktingskommisjon og havaripengar i risiko for norske forsikringstakarar.
+
+Kongen eller den han gir mynde kan fastsetje at også andre interesser kan bli dekte.
+
+## § 3. Organisering
+
+Ved iverksetjing av statleg varekrigsforsikring som fastlagt i § 1 kan Kongen bestemme at det blir oppretta eit styre med leiar og så mange medlemmer som departementet fastset. Styret skal ha ansvaret for den daglege leiinga og drifta av varekrigsforsikringsordninga. Det skal òg vere eit eige sekretariat.
+
+## § 4. Forskrifter
+
+Kongen kan gi nærare forskrifter om gjennomføring av denne lova.
+
+## § 5. Oppheving av og endringar i andre lover
+
+Lov av 3. desember 1948 nr. 8 om Statens varekrigsforsikring vert oppheva.
+
+Forsikringsavtaler som er inngått etter lov av 3. desember 1948 nr. 8 om Statens varekrigsforsikring gjeld inntil dei blir terminerte og plikter etter forsikringsavtalene er gjort opp.
+
+I lov av 17. juli 1953 nr. 2 om erstatning for krigsskade på eigedom og interesser vert § 36 andre ledd nr. 4 oppheva.
+
+## § 6. Iverksetjing
+
+Lova tek til å gjelde frå den tid Kongen fastset.[^1]
+
+[^1]: Frå 1 jan 2004 iflg. res. 12 des 2003 nr. 1507.

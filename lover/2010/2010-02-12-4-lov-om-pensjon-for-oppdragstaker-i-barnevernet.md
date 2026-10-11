@@ -1,0 +1,77 @@
+---
+title: "Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fosterhjem"
+short_title: "Lov om pensjon for oppdragstaker i barnevernet"
+identifier: "LOV-2010-02-12-4"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2010-02-12
+in_force_from: 2010-02-12
+last_amended: 2025-12-22
+last_amended_by: "lov/2025-12-22-117"
+ministry: "Arbeids- og inkluderingsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2010-02-12-4"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fosterhjem
+
+> Lovens tittel endret ved lover 25 mars 2022 nr. 13 (i kraft 1 juni 2022 iflg. res. 25 mars 2022 nr. 465), 20 des 2024 nr. 81 (i kraft 1 juli 2025).
+
+## § 1. Hvem loven gjelder for
+
+Loven gjelder for oppdragstaker i beredskapshjem eller spesialisert fosterhjem som har inngått oppdragskontrakt med staten eller Oslo kommune som oppdragsgiver.
+
+*Endret ved lover 21 juni 2019 nr. 25 (ikr. 1 juli 2019 iflg. res. 21 juni 2019 nr. 781), 25 mars 2022 nr. 13 (i kraft 1 juni 2022 iflg. res. 25 mars 2022 nr. 465), 24 nov 2023 nr. 83 (i kraft 10 jan 2025 med virkning fra 1 jan 2025 iflg. res. 10 jan 2025 nr. 12), 20 des 2024 nr. 81 (i kraft 1 juli 2025).*
+
+## § 2. Pensjonsordning
+
+Med mindre annet er bestemt med hjemmel i loven her, har oppdragstakeren samme rettigheter og plikter som et medlem i Statens pensjonskasse, og oppdragsgiver har samme rettigheter og plikter som arbeidsgiver i lov 28. juli 1949 nr. 26 om Statens pensjonskasse.
+
+Departementet kan i forskrift gi nærmere regler om hvilke bestemmelser etter lov om Statens pensjonskasse som ikke skal gjelde for oppdragsgiver og oppdragstaker.
+
+*Endret ved lov 25 juni 2010 nr. 29 (ikr. 1 jan 2011).*
+
+## § 3. Vilkår for pensjon. Annet arbeid
+
+Skal oppdragstakeren ha rett til medlemskap i pensjonsordningen, må oppdragstakeren i kontrakt forplikte seg til ikke å utføre annet arbeid i oppdragsperioden.
+
+Annet arbeid kan likevel avtales skriftlig med oppdragsgiveren dersom det ikke er til hinder for at oppdraget kan ivaretas på en god måte.
+
+Departementet kan i forskrift fastsette nærmere regler om vilkår for pensjon og hva som skal anses som arbeid etter denne bestemmelsen.
+
+*Endret ved lov 24 nov 2023 nr. 83 (i kraft 10 jan 2025 med virkning fra 1 jan 2025 iflg. res. 10 jan 2025 nr. 12).*
+
+## § 4. Pensjonsgrunnlag
+
+Oppdragstakers pensjonsgrunnlag er den faste godtgjørelse for det oppdragsforholdet som gir rett til medlemskap i pensjonsordningen.
+
+Departementet kan i forskrift fastsette hvilke andre tillegg som skal inngå i pensjonsgrunnlaget.
+
+## § 5. Aldersgrense
+
+Aldersgrensen for oppdragstakere etter loven her er lik den alminnelige aldersgrensen som til enhver tid følger av lov av 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl. Denne loven gjelder så langt den passer.
+
+## § 6. Tidligpensjon
+
+Med mindre annet er bestemt med hjemmel i loven her, har oppdragstaker rett til avtalefestet pensjon som i det statlige tariffområdet.
+
+Departementet kan i forskrift fastsette egne vilkår om tidligpensjon for oppdragstakere etter loven her.
+
+*Endret ved lov 22 des 2025 nr. 117.*
+
+## § 7. Administrasjon
+
+Pensjonsordningen skal administreres av Statens pensjonskasse.
+
+Departementet kan i forskrift fastsette regler for administrasjon av ordningen og regler om innsyn i kontraktene til hver enkelt oppdragstaker.
+
+*Endret ved lov 25 juni 2010 nr. 29 (ikr. 1 jan 2011).*
+
+## § 8. Ikrafttredelse
+
+Loven gjelder fra den tid Kongen bestemmer.[^1]
+
+[^1]: Fra 12 feb 2010 iflg. res. 12 feb 2010 nr. 157.

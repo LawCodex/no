@@ -1,0 +1,58 @@
+---
+title: "Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer"
+short_title: "Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren mv."
+identifier: "LOV-2021-12-22-161"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2021-12-22
+in_force_from: 2023-01-01
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2021-12-22-161"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer
+
+> Prop.208 LS (2020–2021), Innst.49 L (2021–2022), Lovvedtak 21 (2021–2022). Stortingets første og andre gangs behandling hhv. 14. og 17. desember 2021. Fremmet av Finansdepartementet.
+
+## § 1. Anvendelsesområde
+
+Loven gjelder for:
+
+- 1\. Finansmarkedsdeltagere og finansrådgivere nevnt i offentliggjøringsforordningen artikkel 2(1) og 2(11).
+- 2\. Foretak nevnt i taksonomiforordningen artikkel 8 nr. 1.
+
+## § 2. Offentliggjøringsforordningen
+
+EØS-avtalen vedlegg IX forordning (EU) 2019/2088 om offentliggjøring av bærekraftsrelaterte opplysninger i sektoren for finansielle tjenester (offentliggjøringsforordningen) gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+Når det i loven her vises til offentliggjøringsforordningen, menes forordningen slik den til enhver tid er gjennomført og endret etter første ledd eller fjerde ledd.
+
+Offentliggjøringsforordningen skal også gjelde for forsikringsformidlere og verdipapirforetak, jf. offentliggjøringsforordningen artikkel 17 nr. 2.
+
+Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført etter første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.
+
+## § 3. Taksonomiforordningen
+
+EØS-avtalen vedlegg IX forordning (EU) 2020/852 som etablerer rammeverket for et klassifiseringssystem for ulike bærekraftige aktiviteter (taksonomiforordningen), gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+Når det i loven her vises til taksonomiforordningen, menes forordningen slik den til enhver tid er gjennomført og endret etter første eller tredje ledd.
+
+Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført etter første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.
+
+## § 4. Tilsyn
+
+Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne loven og i forskrift gitt med hjemmel i denne loven etter reglene i finanstilsynsloven.
+
+## § 5. Ikrafttredelse
+
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+[^1]: Fra 1. januar 2023 iflg. res. 20 des 2022 nr. 2293.
+
+## § 6. Endringer i annen lov
+
+I lov 17. juli 1998 nr. 56 om årsregnskap m.v. gjøres følgende endringer: – – –

@@ -1,0 +1,57 @@
+---
+title: "Lov om prokura [prokuraloven]"
+short_title: "Prokuraloven – prokl"
+identifier: "LOV-1985-06-21-80"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1985-06-21
+in_force_from: 1988-01-01
+last_amended: 2026-01-01
+last_amended_by: "lov/2025-06-20-106 fra 2026-01-01"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1985-06-21-80"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om prokura \[prokuraloven\]
+
+> Se tidligere lov 17 mai 1890 nr. 6 kap. 3.
+
+## § 1.
+
+Har en næringsdrivende gitt noen en fullmakt som uttrykkelig er kalt prokura, eller på annen måte betegnet noen som sin prokurist, er denne bemyndiget til å opptre på vegne av foretaket i alt som hører til driften av dette. Prokuristen kan likevel ikke uten uttrykkelig fullmakt overdra eller behefte foretakets faste eiendom eller løsøre som kan registreres i skipsregisteret eller luftfartøyregisteret, eller opptre på dets vegne i søksmål.
+
+Om registrering av prokura gjelder bestemmelsene i foretaksregisterloven.
+
+*Endret ved lov 18 juni 2021 nr. 137 (ikr. 18 juni 2021 iflg. res. 18 juni 2021 nr. 1986).*
+
+## § 2.
+
+Prokura kan gis flere personer slik at de bare kan nytte den i fellesskap (kollektivprokura). Annen innskrenkning i prokuristens fullmakt etter § 1 kan ikke registreres, jf. foretaksregisterloven § 3-4, og heller ikke gjøres gjeldende overfor godtroende tredjepart.
+
+*Endret ved lover 18 juni 2021 nr. 137 (ikr. 18 juni 2021 iflg. res. 18 juni 2021 nr. 1986), 20 juni 2025 nr. 106 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1119).*
+
+## § 3.
+
+Når en prokurist tegner firmaet, skal han til dette gjøre en tilføyelse som viser prokuraforholdet (pr prokura, p p eller annen forkortelse av disse ord). For øvrig gjelder reglene om firmategning i foretaksnavneloven § 7-1.
+
+*Endret ved lov 5 sep 2003 nr. 91 (ikr. 1 mars 2004 iflg. res. 5 sep 2003 nr. 1118).*
+
+## § 4.
+
+En prokurist kan ikke overføre prokuraen til en annen.
+
+## § 5.
+
+Prokura kan når som helst tilbakekalles. Prokurafullmakten faller ikke bort om innehaveren av et registrert enkeltpersonforetak dør. Er enkeltpersonforetaket ikke registrert, gjelder regelen i avtaleloven § 21.
+
+*Endret ved lov 5 sep 2003 nr. 91 (ikr. 1 mars 2004 iflg. res. 5 sep 2003 nr. 1118).*
+
+## § 6.
+
+Loven tar til å gjelde fra den tid[^1] Kongen bestemmer.
+
+[^1]: Fra 1 jan 1988 iflg. res. 18 des 1987 nr. 963.

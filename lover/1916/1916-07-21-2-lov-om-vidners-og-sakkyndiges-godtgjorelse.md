@@ -1,0 +1,108 @@
+---
+title: "Lov om vidners og sakkyndiges godtgjørelse m.v."
+short_title: "Lov om vidners og sakkyndiges godtgjørelse"
+identifier: "LOV-1916-07-21-2"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1916-07-21
+in_force_from: 1927-07-01
+last_amended: 2026-10-01
+last_amended_by: "lov/2025-06-20-82 fra 2026-10-01, lov/2026-06-19-45 fra 2026-07-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1916-07-21-2"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om vidners og sakkyndiges godtgjørelse m.v.
+
+> Jf. lov 16 des 1966 nr. 9 § 33.
+
+## § 1.
+
+Vitner som møter for retten etter lovlig innkalling, sakkyndige som avgir erklæring til retten eller påtalemyndigheten eller forklaring for retten, og rettstolker har krav på godtgjøring etter reglene i denne loven. Det samme gjelder for vitner og sakkyndige som møter eller på annen måte avgir forklaring for gjenopptakelseskommisjonen, jf. straffeprosessloven kapittel 27.
+
+Fornærmede som nevnt i straffeprosessloven § 93 a første ledd og etterlatte som nevnt i straffeprosessloven § 93 a annet ledd første punktum, har krav på godtgjøring som for vitner så langt de er til stede under hovedforhandlingen. Det samme gjelder søsken og steforeldre i saker der noen er død som følge av en straffbar handling.
+
+Hvis bare én hadde foreldreansvaret i en sak der fornærmede under 18 år er død som følge av en straffbar handling, kan vedkommende peke ut en annen person som også kan fremme krav.
+
+*Endret ved lover 18 juni 1971 nr. 82, 15 juni 2001 nr. 63 (ikr. 1 jan 2004 iflg. res. 21 nov 2003 nr. 1359), 2 juli 2004 nr. 61 (ikr. 1 jan 2005 iflg. res. 2 juli 2004 nr. 1065), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 7 mars 2008 nr. 5 (ikr. 1 juli 2008 iflg. res. 7 mars 2008 nr. 242).*
+
+## § 2.
+
+Vitner har rett til godtgjøring etter regulativet for reiser innenlands for statens regning.
+
+*Endret ved lover 26 nov 1964 nr. 1, 18 juni 1971 nr. 82, 27 juni 1986 nr. 48.*
+
+## § 3. (Opphevet)
+
+*Endret ved lover 5 des 1952, 18 juni 1971 nr. 82, opphevet ved lov 27 juni 1986 nr. 48.*
+
+## § 4. (Opphevet)
+
+*Endret ved lover 5 des 1952, 18 juni 1971 nr. 82, opphevet ved lov 27 juni 1986 nr. 48.*
+
+## § 5.
+
+Når økonomisk tap er legitimert kan retten tilkjenne vitnet dekning for utlegg og tapt arbeidsfortjeneste i den utstrekning det finnes rimelig.
+
+*Endret ved lover 5 des 1952, 18 juni 1971 nr. 82.*
+
+## § 6.
+
+Har et vitne på grunn av legemsfeil, sykdom, alder eller svakelighet trengt ledsager, får også denne godtgjøring etter §§ 2 og 5. Det samme gjelder i andre tilfeller hvor vitnet, fornærmede, eller de etterlatte som nevnt i § 1 annet ledd, av andre særlige grunner har hatt behov for ledsager.
+
+Rett til godtgjøring har også den som har foreldreansvar eller er verge for en mindreårig fornærmet som nevnt i straffeprosessloven § 93 a første ledd, selv om fornærmede ikke vitner. Første ledd om ledsager gjelder tilsvarende.
+
+*Endret ved lover 27 juni 1986 nr. 48, 7 mars 2008 nr. 5 (ikr. 1 juli 2008 iflg. res. 7 mars 2008 nr. 242).*
+
+## § 7.
+
+Den godtgjøring som vitner har krav på etter loven her, utbetales forskuddsvis av statskassen dersom ikke annet er bestemt. Kongen gir nærmere regler om utbetalingen.
+
+*Endret ved lov 27 juni 1986 nr. 48.*
+
+## § 8.
+
+Naar offentlige tjenestemænd møter som vidner for at forklare sig om forhold, som vedkommer deres tjeneste, skal de ha den skyss- og kostgodtgjørelse, som ellers er fastsat for deres stilling.
+
+## § 9.
+
+Fast opnævnte sakkyndige skal for fremmøte i retten ha den skyss- og kostgodtgjørelse, som ellers er fastsat for deres embede eller bestilling.
+
+Andre oppnevnte sakkyndige og rettstolker skal ha den reisegodtgjøring som er fastsatt i reglene for offentlige tjenestemenns skyss- og kostgodtgjøring.
+
+*Endret ved lov 18 juni 1971 nr. 82.*
+
+## § 10.
+
+Oppnevnte sakkyndige som ikke har fast lønn og rettstolker skal foruten reisegodtgjøring ha godtgjøring for sin tjenestegjøring. Denne fastsetter retten for hver enkelt sak etter nærmere regler, som Kongen gir. Ved oppnevning av sakkyndige kan det fastsettes en øvre grense for godtgjøringen. Dersom den fastsatte grensen viser seg åpenbart utilstrekkelig, kan den forhøyes av oppnevnende myndighet. Er betalingen lovbestemt, foretar retten ingen fastsettelse; dog kan den forhøye den lovbestemte betaling i overensstemmelse med de regler Kongen gir, hvis den sakkyndiges tjenestegjøring har krevd særlig arbeid eller tidsanvendelse eller særlige fagkunnskaper.
+
+I andre saker end sivile saker kan ogsaa sakkyndige, som ikke er opnævnt, efter omstændighetene tilkjendes saadan godtgjørelse som ovenfor nævnt.
+
+*Endret ved lover 18 juni 1971 nr. 82, 14 juni 1985 nr. 71, 29 juni 1990 nr. 47, 15 sep 1995 nr. 62 (ikr. 1 jan 1997 iflg. res. 20 des 1996 nr. 1152), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).*
+
+## § 11.
+
+Naar en, som ikke er part i en sivil sak maa fremlægge eller gi adgang til skriftlige bevis eller andre ting, som er i hans besiddelse, skal vedkommende part erstatte ham de utgifter, som er forbundet med det. Paa forlangende skal beløpet utredes forskudsvis.
+
+*Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3).*
+
+## § 12.
+
+Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følgende måte:
+
+- 1\. Avgjørelser truffet av en domstol kan ankes til overordnet domstol etter reglene i rettshjelpsloven § 27. Avgjørelser truffet av Arbeidsretten og gjenopptakelseskommisjonen kan ikke ankes. Avgjørelser truffet ved norsk konsulrett kan ankes til Borgarting lagmannsrett.
+- 2\. Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett etter reglene i rettshjelpsloven § 27.
+- 3\. Avgjørelser truffet av en namsfogd kan påklages til tingretten etter reglene i tvangsfullbyrdelsesloven § 5-16. Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.
+- 4\. Avgjørelser truffet av andre organer enn nevnt i nr. 1 til 3 kan påklages til departementet etter reglene i forvaltningsloven.
+
+*Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov 29 juni 1990 nr. 47, endret ved lover 8 jan 1993 nr. 20, 23 juni 1995 nr. 34 (ikr. 1 aug 1995), 15 juni 2001 nr. 63 (ikr. 1 jan 2004 iflg. res. 21 nov 2003 nr. 1359), 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 19 juni 2026 nr. 45 (i kraft 1 juli 2026 iflg. res. 19 juni 2026 nr. 1146), 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775).*
+
+## Slutningsbestemmelse.
+
+Tiden for denne lovs ikrafttræden fastsættes ved særskilt lov.[^1]
+
+[^1]: Fra 1 juli 1927 iflg. lov 14 aug 1918 nr. 4 § 1.

@@ -1,0 +1,384 @@
+---
+title: "Lov om fri rettshjelp (rettshjelpsloven)"
+short_title: "Rettshjelpsloven – rhjl"
+identifier: "LOV-1980-06-13-35"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1980-06-13
+in_force_from: 1981-01-01
+last_amended: 2026-10-01
+last_amended_by: "lov/2025-06-20-82 fra 2026-10-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1980-06-13-35"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om fri rettshjelp (rettshjelpsloven)
+
+> Lovens tittel endret ved lov 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775).
+
+## Kapittel I. Alminnelige bestemmelser
+
+*Overskriften endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339).*
+
+### § 1. Lovens formål.
+
+Fri rettshjelp etter denne lov er en sosial støtteordning med formål å sikre nødvendig juridisk bistand til personer som ikke selv har økonomiske forutsetninger for å kunne ivareta et rettshjelpsbehov av stor personlig og velferdsmessig betydning.
+
+Fri rettshjelp etter denne lov betales helt eller delvis av staten og gis som fritt rettsråd, fri sakførsel eller fritak for rettsgebyr, jf. kapittel II, III og IV.
+
+*Endret ved lover 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339).*
+
+### § 2. Hvem kan gi fri rettshjelp. Advokaters plikt til å orientere om ordningen.
+
+Fri rettshjelp i form av fritt rettsråd og fri sakførsel gis av privatpraktiserende advokat eller av offentlig advokatkontor.
+
+Praktiserende advokat og andre som kan yte fri rettshjelp etter denne lov, har plikt til å orientere klientene om muligheten for å søke fri rettshjelp i tilfelle hvor de kan tenkes å ha rett til slik bistand.
+
+Departementet kan ved forskrift eller i enkelttilfeller samtykke i at fri rettshjelp gis av andre enn advokater.
+
+I tilknytning til innvilget fri rettshjelp, eller for å bringe på det rene om juridisk bistand i slik form er nødvendig, kan det gis dekning av utgifter til annen sakkyndig bistand.
+
+*Endret ved lover 4 juli 1991 nr. 44, 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339).*
+
+### § 3. Godtgjøring for bistand.
+
+Kongen fastsetter regler om godtgjøring for bistand etter denne lov.
+
+For arbeid som betales av det offentlige kan det ikke kreves eller mottas ytterligere vederlag av klienten.
+
+I saker for domstolene betaler ikke det offentlige merutgifter som følge av at det er valgt advokat med kontor utenfor rettskretsen. I andre saker betaler ikke det offentlige merutgifter som følge av at det er valgt advokat eller rettshjelper utenfor rimelig nærhet av rettshjelpsmottagerens bosted eller oppholdssted.
+
+Departementet kan i forskrift gi regler om unntak fra tredje ledd.
+
+*Endret ved lover 17 des 2004 nr. 92 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1673), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endring endret ved lov 21 des 2005 nr. 130), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+### § 4. Hvem kan få fri rettshjelp. Hvilken bistand kan dekkes.
+
+Fri rettshjelp gis til fysiske personer. Når særlige grunner taler for det, kan fri rettshjelp også gis til ideelle sammenslutninger.
+
+Rettshjelpen må gjelde oppdrag som det er naturlig at advokat her i riket utfører. Rettshjelp som nevnt i kapittel III Fri sakførsel, kan likevel bare gis for saker som behandles av norsk domstol eller forvaltningsorgan. Unntaksvis kan det innvilges fritt rettsråd til bistand ved utenlandsk domstol eller forvaltningsorgan etter reglene i § 12.
+
+*Endret ved lover 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339).*
+
+### § 5. Lovens subsidiære karakter.
+
+Fri rettshjelp omfatter ikke bistand som dekkes av andre ordninger eller som kan erstattes på annen måte, herunder gjennom:
+
+- oppnevning av forsvarer eller bistandsadvokat i straffesaker etter straffeprosessloven,
+- private forsikringer som omfatter rettshjelp,
+- forvaltningsloven § 36 om dekning av saksomkostninger,
+- etablerte offentlige service- og rådgivningskontorer og tvisteløsningsorganer,
+- det offentliges opplysnings- og veiledningsplikt, jf. bl.a. forvaltningsloven § 11,
+- medlemskap i foreninger og lag,
+- private eller offentlige rettshjelpsordninger i andre land.
+
+Utgifter utover det som kan dekkes eller erstattes av andre ordninger, kan søkes dekket etter denne lov.
+
+*Tilføyd ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339), endret ved lov 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775).*
+
+### § 6. Etterbevilling av fri rettshjelp.
+
+Fri rettshjelp kan gis også etter at den sak eller det aktuelle problem det søkes fri rettshjelp for, er ferdigbehandlet.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 5).*
+
+### § 7. Utfyllende bestemmelser.
+
+Departementet kan i forskrift fastsette en øvre grense for det antall timer fri rettshjelp som kan innvilges.
+
+Departementet gir nærmere bestemmelser om gjennomføring og utfylling av loven.
+
+Departementet kan iverksette særlige rettshjelptiltak for grupper med spesielle behov.
+
+*Endret ved lover 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339).*
+
+### § 8. Refusjon av det offentliges utgifter. Adgang til å trekke tilbake bevilling til fri rettshjelp.
+
+Får noen sin økonomiske stilling vesentlig bedret gjennom bistand gitt etter denne lov, skal den offentlige instans som har innvilget fri rettshjelp, kreve det offentliges utgifter i forbindelse med rettshjelpen refundert, dersom ikke særlige forhold gjør det urimelig. Har en advokat eller rettshjelper innvilget fri rettshjelp, skal departementet kreve refusjon. Kravet er tvangsgrunnlag for utlegg.
+
+Krav som nevnt i første ledd innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet.
+
+Bevilling til bistand etter denne lov som innvilges etter økonomisk behovsprøving kan trekkes tilbake dersom det er gitt ufullstendige eller uriktige opplysninger om søkerens økonomiske situasjon, eller dersom søkerens økonomiske situasjon er vesentlig bedret før rettshjelpen er avsluttet.
+
+Utbetalt salær som etter vedtak i henhold til denne paragraf kreves refundert, er tvangsgrunnlag for utlegg. § 8 annet ledd gjelder tilsvarende.
+
+*Endret ved lover 26 juni 1992 nr. 86, 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 27 sep 2002 nr. 70 (ikr. 1 sep 2003 iflg. res. 1 aug 2003 nr. 987), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endring endret ved lov 21 des 2005 nr. 130, tidligere § 11), 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533), 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967).*
+
+### § 9. Betaling av egenandel
+
+Mottaker av fri rettshjelp i behovsprøvde saker skal betale en egenandel av utgiftene til bistand etter denne lov. I utgiftene det skal betales egenandel av skal advokatens salær og godtgjøring for advokatens nødvendige reiseutgifter og reisefravær inngå. Egenandelen beregnes etter den offentlige salærsatsen og skal øke med de totale advokatutgiftene i saken. Egenandelen fastsettes ut fra søkers betalingsevne etter § 11 annet og tredje ledd og § 16 annet og tredje ledd. Personer med betalingsevne som ikke overstiger én ganger folketrygdens grunnbeløp skal ikke betale egenandel.
+
+Egenandelen skal kreves inn av staten. Statens krav om betaling av egenandel er tvangsgrunnlag for utlegg.
+
+Departementet gir forskrift om beregningen av egenandelen. Herunder kan departementet også gi regler om innkrevingen av egenandelen.
+
+*Tilføyd ved lov 15 sep 1995 nr. 62 (ikr. 1 jan 1997), endret ved lover 27 sep 2002 nr. 70 (ikr. 1 sep 2003 iflg. res. 1 aug 2003 nr. 987), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endring endret ved lov 21 des 2005 nr. 130, tidligere § 11a), 16 des 2016 nr. 97 (ikr. 1 jan 2017), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+## Kapittel II. Fritt rettsråd.
+
+*Overskriften endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endret kapittelnummer fra III).*
+
+### § 10. Reglenes virkeområde.
+
+Fri rettshjelp som ikke omfattes av § 15, gis som fritt rettsråd, herunder behandling for forliksrådet, jordskifteretten og voldgiftssaker.
+
+*Endret ved lover 3 juni 1983 nr. 43, 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901, endring endret ved lov 17 juni 2005 nr. 84), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 12), 11 mai 2017 nr. 26 (ikr. 1 jan 2018 iflg. res. 11 mai 2017 nr. 563).*
+
+### § 11. Vilkår for fritt rettsråd
+
+Søknad om fritt rettsråd kan innvilges uten behovsprøving i følgende tilfeller:
+
+- 1\. for utlending som har rett til fri rettshjelp etter utlendingsloven § 92 første, annet og sjuende ledd, § 126 sjette og sjuende ledd, eller for den som har rett til fri rettshjelp etter statsborgerloven § 27 sjuende ledd første, tredje eller fjerde punktum.
+
+- 2\.
+
+  - a. for den som er part i sak hvor barnevernet har fattet vedtak som nevnt i barnevernsloven § 4-2 første og annet ledd og § 4-4 første ledd, men hvor vedtaket ikke blir etterfulgt av at barnevernet starter forberedelse til sak som skal behandles av barneverns- og helsenemnda etter kapittel 14 i barnevernsloven.
+  - b. for den som er part i sak hvor barnevernet har startet forberedelse til sak som skal behandles av barneverns- og helsenemnda etter kapittel 14 i barnevernsloven, men hvor saken likevel ikke blir oversendt nemnda.
+
+- 3\. for siktede som reiser krav om erstatning for urettmessig straffeforfølgning etter straffeprosessloven kapittel 31.
+
+- 4\. til voldsofre i erstatningssak mot gjerningspersonen.
+
+- 5\. til den som har vært utsatt for handling som nevnt i straffeprosessloven § 107 a første ledd bokstav a eller b, for å vurdere forhold av betydning for anmeldelse.
+
+- 6\. til den som er utsatt for tvangsekteskap eller forsøk på sådan som nevnt i straffeloven § 253, jf. straffeloven § 16, men hvor saken ikke er anmeldt og den nødvendige bistand er av samme art som nevnt i straffeprosessloven § 107 c eller annen relevant bistand.
+
+- 7\. for pasienter i saker for statsforvalteren om undersøkelse og behandling uten eget samtykke etter psykisk helsevernloven § 4-4.
+
+- 8\. til ungdom som vurderer å klage eller som klager etter konfliktrådsloven § 22 e.
+
+- 9\. for innsatte som er eller har vært helt utelukket fra fellesskapet etter straffegjennomføringsloven § 17 eller § 37 i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.
+
+- 10\. for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter straffegjennomføringsloven § 38, og som vurderer å klage eller som klager på vedtaket.
+
+Søknad om fritt rettsråd kan innvilges til den som har en betalingsevne som ikke overstiger fem ganger folketrygdens grunnbeløp, i følgende tilfeller:
+
+- 1\. i saker etter ekteskapsloven del II eller barneloven kapittel 5, 6 og 7, herunder saker om tvangsfullbyrdelse og midlertidig sikring.
+- 2\. i saker etter lov 4. juli 1991 nr. 45 om rett til felles bolig og innbo når husstandsfellesskap opphører.
+- 3\. for den skadede eller etterlatte i sak om erstatning for personskade eller tap av forsørger.
+- 4\. for leietaker i sak etter tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c når saken gjelder leietakerens bolig.
+- 5\. for arbeidstaker i sak etter arbeidsmiljøloven om et arbeidsforhold består eller om erstatning i forbindelse med opphør av et arbeidsforhold.
+- 6\. i klagesaker etter folketrygdloven § 21-12.
+
+Ved beregning av betalingsevnen etter annet ledd skal bruttoinntekt, nettoformue, og fradrag for forsørgelse av barn inngå. Ektefeller og andre som lever sammen med felles økonomi skal vurderes samlet.
+
+I andre saker kan det unntaksvis innvilges fritt rettsråd dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad, og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
+
+Departementet gir forskrift om det økonomiske vilkåret og utregningen av dette. Herunder kan departementet også gi regler om det økonomiske vilkåret for personer som er bosatt i utlandet og som søker om fri rettshjelp med behovsprøving.
+
+*Endret ved lover 21 des 1984 nr. 97, 24 juni 1988 nr. 64, 6 des 1991 nr. 80, 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 10 jan 2003 nr. 3 (ikr. 1 jan 2004 iflg. res. 12 des 2003 nr. 1471), 2 juli 2004 nr. 67 (ikr. 1 jan 2005 iflg. res. 29 okt 2004 nr. 1408), 10 juni 2005 nr. 50 (ikr. 9 sep 2005 iflg. res. 2 sep 2005 nr. 956), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endring endret ved lov 21 des 2005 nr. 130, tidligere § 13), 16 juni 2006 nr. 20 (ikr. 1 juli 2006 iflg. res. 16 juni 2006 nr. 631), 30 juni 2006 nr. 36 (ikr. 1 sep 2006 iflg. res. 30 juni 2006 nr. 753), 1 des 2006 nr. 65 (ikr. 1 jan 2008 iflg. res. 30 nov 2007 nr. 1348), 7 mars 2008 nr. 5 (ikr. 1 juli 2008 iflg. res. 7 mars 2008 nr. 242), 19 juni 2009 nr. 41 (ikr. 1 jan 2010 iflg. res. 30 okt 2009 nr. 1324), 15 jan 2010 nr. 2 (ikr. 15 jan 2010 iflg. res. 15 jan 2010 nr. 33), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 16 des 2016 nr. 97 (ikr. 1 jan 2017), 10 feb 2017 nr. 6 (ikr. 1 juli 2017 iflg. res. 10 feb 2017 nr. 146), 25 mai 2018 nr. 19 (ikr. 1 jan 2019 iflg. res. 25 mai 2018 nr. 759), 20 des 2019 nr. 111 (ikr. 15 jan 2020 iflg. res. 20 des 2019 nr. 1921), 14 juni 2019 nr. 21 (ikr. 1 jan 2021 iflg. res. 28 feb 2020 nr. 200, endring endret ved lov 18 des 2020 nr. 149), 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 6 mai 2022 nr. 27 (i kraft 1 juli 2022 iflg. res. 6 mai 2022 nr. 758), 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739), 17 juni 2022 nr. 57 (i kraft 1 jan 2023 iflg. res. 23 sep 2022 nr. 1635), 20 des 2023 nr. 110 (i kraft 1 sep 2024 iflg. res. 24 mai 2024 nr. 811), 29 nov 2024 nr. 72 (i kraft 29 nov 2024 iflg. res. 29 nov 2024 nr. 2892), 20 juni 2025 nr. 82 (i kraft 1 juli 2025 iflg. res. 20. juni 2025 nr. 1095), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881, endring endret ved lover 21 juni 2024 nr. 46, 20 juni 2025 nr. 82), 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775). **Endres** ved lov 20 juni 2025 nr. 40 (i kraft fra den tid Kongen bestemmer). **Endres** ved lov 20 juni 2025 nr. 82 (i kraft fra den tid Kongen bestemmer). **Endres** ved lov 12 mai 2026 nr. 18 (i kraft fra den tid Kongen bestemmer).*
+
+### § 12. Fritt rettsråd ved utenlandsk domstol eller forvaltningsorgan.
+
+Søknad om fritt rettsråd kan innvilges helt eller delvis til den som oppfyller det økonomiske vilkåret i § 11 annet og tredje ledd, i følgende tilfeller:
+
+- 1\. for den som er part i sak som er tatt til behandling av Den europeiske menneskerettighetsdomstol,
+- 2\. for den som har fått sitt barn ulovlig bortført fra Norge, jf. barnebortføringskonvensjonen av 25. oktober 1980 art 3. Det samme gjelder for den som har fått sitt barn ulovlig bortført fra Norge og politiet har registrert et barn som savnet eller det er opprettet straffesak om barnebortføring.
+
+I andre saker for utenlandsk domstol eller forvaltningsorgan kan det unntaksvis innvilges helt eller delvis fritt rettsråd dersom det økonomiske vilkåret i § 11 annet og tredje ledd er oppfylt og særlige grunner taler for det.
+
+Det innvilges ikke fritt rettsråd etter første ledd dersom det er urimelig at det offentlige betaler for bistanden.
+
+*Tilføyd ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339), endret ved lover 18 des 2015 nr. 126 (ikr. 1 jan 2016 iflg. res. 18 des 2015 nr. 1625), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881), 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775).*
+
+### § 13. Hvem avgjør søknad om fritt rettsråd.
+
+Søknad om fritt rettsråd avgjøres av departementet.
+
+Departementet kan i forskrift gi bestemmelser om advokaters adgang til selv å innvilge fritt rettsråd i saker som nevnt i § 11 første og annet ledd.
+
+Departementet kan gi forskrift om behandling av personopplysninger i forbindelse med behandlingen av søknader om fritt rettsråd, herunder at søknader om fritt rettsråd kan avgjøres ved automatisert behandling.
+
+*Endret ved lover 21 des 1984 nr. 97, 6 des 1991 nr. 80, 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 14), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+### § 14. Hva et fritt rettsråd kan omfatte.
+
+Fritt rettsråd omfatter nødvendige utgifter til rådgivning og bistand fra advokat i anledning et aktuelt problem.
+
+Departementet kan samtykke i at søkerens egne vesentlige og nødvendige utgifter i tilknytning til fritt rettsråd dekkes helt eller delvis, herunder utgifter til medisinsk eller annen sakkyndig bistand. Når særlige grunner foreligger og det er nødvendig med medisinsk eller annen sakkyndig bistand for å bringe på det rene om det er behov for fri rettshjelp, kan departementet samtykke i at fritt rettsråd skal dekke vesentlige og nødvendige utgifter til slik sakkyndig hjelp.
+
+Etter særskilt søknad kan departementet utvide et fritt rettsråd til å gjelde bistand til å gjøre myndighetene oppmerksom på generelle forhold som måtte ligge til grunn for søkerens aktuelle problem, samt foreslå endringer og forbedringer av lovregler eller forvaltningspraksis.
+
+Departementet fastsetter godtgjøring for bistand etter denne paragrafen.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 15).*
+
+## Kapittel III. Fri sakførsel.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endret kapittelnummer fra IV).*
+
+### § 15. Reglenes virkeområde.
+
+Fri rettshjelp i sivile saker for de alminnelige domstoler (unntatt forliksrådet) og særdomstolene samt i forvaltningssaker etter § 17, gis som fri sakførsel eller fritak for rettsgebyr, jf. kapittel IV. Som særdomstoler regnes de domstoler som er nevnt i domstolloven § 2, samt arbeidsrett.
+
+*Endret ved lover 26 mars 1999 nr. 17 (ikr. 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 16).*
+
+### § 16. Vilkår for fri sakførsel.
+
+Fri sakførsel innvilges uten behovsprøving i saker som nevnt i § 11 første ledd nr. 4 og 6, samt i følgende tilfeller:
+
+- 1\. for den vernepliktige i saker om fritak for tjeneste i Forsvaret av overbevisningsgrunner etter forsvarsloven kapittel 4.
+- 2\. for den et tvangstiltak retter seg mot i saker om overprøving av administrative tvangsvedtak i helse- og sosialsektoren etter tvisteloven kapittel 36,
+- 3\. for den private part i saker hvor søksmål er anbefalt av Sivilombudet,
+- 4\. for utlending i tilfeller som nevnt i utlendingsloven § 92 tredje og fjerde ledd og § 129 annet ledd, eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet eller tredje punktum,
+- 5\. til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter vergemålsloven § 76 første ledd.
+- 6\. til den det oppnevnes advokat for i medhold av barneloven § 61 første ledd nr. 5,
+- 7\. til den som er saksøkt i sak som nevnt i § 11 første ledd nr. 4.
+
+Søknad om fri sakførsel kan innvilges til den som har en betalingsevne som ikke overstiger fem ganger folketrygdens grunnbeløp, i følgende tilfeller:
+
+- 1\. saker etter barnelova kapittel 5, 6, 7 og 8, herunder saker om tvangsfullbyrdelse og midlertidig sikring,
+- 2\. saker etter ekteskapsloven med unntak av saker etter lovens del II og § 91,
+- 3\. saker som nevnt i § 11 annet ledd nr. 3 og 5,
+- 4\. saker etter barnebortføringskonvensjonen av 25. oktober 1980 artikkel 3 for den som har fått sitt barn ulovlig bortført til Norge,
+- 5\. saker etter husleieloven § 9-8 dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c for leietaker når saken gjelder leietakerens bolig,
+- 6\. saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
+
+Ved beregning av betalingsevnen etter annet ledd skal bruttoinntekt, nettoformue, og fradrag for forsørgelse av barn inngå. Ektefeller og andre som lever sammen med felles økonomi skal vurderes samlet.
+
+I andre saker kan det unntaksvis innvilges fri sakførsel dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
+
+Det innvilges ikke fri sakførsel etter annet ledd dersom det er urimelig at det offentlige betaler for bistanden.
+
+Departementet gir forskrift om det økonomiske vilkåret og utregningen av dette. Herunder kan departementet også gi regler om det økonomiske vilkåret for personer som er bosatt i utlandet og som søker om fri rettshjelp med behovsprøving.
+
+*Tilføyd ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endring endret ved lov 21 des 2005 nr. 130), endret ved lover 21 des 2005 nr. 130 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1608), 30 juni 2006 nr. 36 (ikr. 1 sep 2006 iflg. res. 30 juni 2006 nr. 753), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 19 juni 2009 nr. 41 (ikr. 1 jan 2010 iflg. res. 30 okt 2009 nr. 1324), 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338, endring endret ved lov 5 apr 2013 nr. 12), 21 juni 2013 nr. 92 (ikr. 1 jan 2014 iflg. res. 13 des 2013 nr. 1497), 18 des 2015 nr. 126 (ikr. 1 jan 2016 iflg. res. 18 des 2015 nr. 1625), 16 des 2016 nr. 97 (ikr. 1 jan 2017), 15 juni 2018 nr. 37 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 887), 25 mai 2018 nr. 19 (ikr. 1 jan 2019 iflg. res. 25 mai 2018 nr. 759), 14 juni 2019 nr. 21 (ikr. 1 jan 2021 iflg. res. 28 feb 2020 nr. 200, endring endret ved lov 18 des 2020 nr. 149), 6 mai 2022 nr. 27 (i kraft 1 juli 2022 iflg. res. 6 mai 2022 nr. 758), 20 des 2022 nr. 115, 17 juni 2022 nr. 57 (i kraft 1 jan 2023 iflg. res. 23 sep 2022 nr. 1635), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881, endring endret ved lov 21 juni 2024 nr. 46), 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775). **Endres** ved lov 20 juni 2025 nr. 40 (i kraft fra den tid Kongen bestemmer).*
+
+### § 17. Fri sakførsel for visse forvaltningsorganer.
+
+Fri sakførsel kan innvilges i ankesaker etter lov 16. desember 1966 nr. 9 om anke til Trygderetten dersom det økonomiske vilkåret i § 16 annet og tredje ledd er oppfylt.
+
+Fri sakførsel etter første ledd gis ikke dersom det er urimelig at det offentlige betaler for bistanden.
+
+Fri sakførsel innvilges uten behovsprøving i følgende saker:
+
+- 1\. I saker som skal behandles av barneverns- og helsenemnda etter helse- og omsorgstjenesteloven.
+- 2\. saker som skal behandles av barneverns- og helsenemnda etter kapittel 14 i barnevernsloven.
+- 3\. saker for kontrollkommisjonen etter lov 2. juli 1999 nr. 62 om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven) § 6-4.
+- 4\. saker som skal behandles etter kapittel 5 i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer.
+
+*Endret ved lover 12 juni 1987 nr. 70, 13 des 1991 nr. 81, 17 juli 1992 nr. 100, 18 des 1992 nr. 144, 11 juni 1993 nr. 85, 5 aug 1994 nr. 55 (ikr. 1 jan 1995), 15 sep 1995 nr. 62 (ikr. 1 jan 1997), 28 feb 1997 nr. 19 (ikr. 1 mai 1997), 2 juli 1999 nr. 62 (ikr. 1 jan 2001 iflg. res. 1 des 2000 nr. 1197), 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 22), 1 des 2006 nr. 65 (ikr. 1 jan 2008 iflg. res. 30 nov 2007 nr. 1348), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+### § 18. Utvidet myndighet for Høyesterett til å innvilge fri sakførsel.
+
+Når en sivil sak er henvist til behandling i Høyesterett, kan retten gi bevilling til fri sakførsel selv om en part ikke fyller de økonomiske vilkår i § 16, hvis den finner det rimelig ut fra sakens prinsipielle interesse. Hvis særlige grunner foreligger, kan retten innvilge fri sakførsel for andre enn fysiske personer.
+
+*Tilføyd ved lov 15 juni 2001 nr. 60 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1418), endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 21a).*
+
+### § 19. Hvem kan innvilge fri sakførsel.
+
+Fri sakførsel etter § 16 første ledd og § 17 innvilges av eget tiltak av den rett eller det forvaltningsorgan som har saken til behandling. I andre tilfeller avgjøres søknad om fri sakførsel av departementet.
+
+Departementet kan i forskrift legge avgjørelseskompetansen i saker som nevnt i § 16, til andre enn bestemt i første ledd og herunder bestemme at den domstol som har saken til behandling, eller partens advokat skal kunne innvilge fri sakførsel.
+
+Departementet kan gi forskrift om behandling av personopplysninger i forbindelse med behandlingen av søknader om fri sakførsel, herunder at søknader om fri sakførsel kan avgjøres ved automatisert behandling.
+
+*Tilføyd ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339), endret ved lov 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+### § 20. Oppnevning av prosessfullmektig i ekteskaps- og familiesaker.
+
+I ekteskaps- og familiesaker etter § 16 annet ledd jf. § 11 annet ledd nr. 1 kan domstolen, dersom den finner det nødvendig, oppnevne prosessfullmektig for saksøkt som er uteblitt eller ikke har gitt tilsvar under saksforberedelsen, eller er uteblitt fra hovedforhandlingen. Oppnevning kan skje selv om saksøkte ikke fyller de økonomiske vilkår i § 16. Saksøkte plikter å erstatte det offentliges utlegg til prosessfullmektigen. Beløpet er tvangsgrunnlag for utlegg.
+
+*Endret ved lover 26 juni 1992 nr. 86, 20 juni 2003 nr. 40 (ikr. 1 apr 2004 iflg. res. 20 juni 2003 nr. 728), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 21).*
+
+### § 21. Oppnevning av prosessfullmektig.
+
+I henhold til bevilling til fri sakførsel oppnevner vedkommende domstol eller forvaltningsorgan prosessfullmektig for parten. Ved oppnevning av prosessfullmektig skal partens ønske være avgjørende.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 23).*
+
+### § 22. Hva fri sakførsel omfatter.
+
+Fri sakførsel omfatter hel eller delvis dekning av salær til prosessfullmektig. Dessuten dekkes gebyr og sideutgifter ved saken etter bestemmelsene om fritak for rettsgebyr i kapittel IV. Den rett som har saken til behandling, avgjør om bevilling til fri sakførsel også skal omfatte rettergangsskritt ved annen domstol.
+
+Den domstol eller det forvaltningsorgan som har saken til behandling, kan samtykke i at partenes egne vesentlige og nødvendige utgifter i anledning saken dekkes helt eller delvis. Det samme gjelder partenes utgifter til bistand fra sakkyndige som ikke er oppnevnt av retten.
+
+En bevilling til fri sakførsel omfatter også sakens behandling i høyere rettsinstanser dersom selvstendig anke bare er innbrakt av motparten, og den part som har fri sakførsel helt eller delvis har fått medhold i foregående instans.
+
+Når fri sakførsel er innvilget til voldsofre i erstatningssak mot gjerningspersonen eller for den private part i en sak hvor søksmål er anbefalt av Sivilombudet, skal det også dekke ansvar for motpartens sakskostnader.
+
+Etter særskilt søknad til departementet kan bevillingen utvides til å gjelde bistand til å gjøre myndighetene oppmerksom på generelle forhold som måtte ligge til grunn for saken, samt foreslå endringer og forbedringer av lovregler eller forvaltningspraksis.
+
+Den domstol eller det forvaltningsorgan som har saken til behandling, fastsetter godtgjøring til prosessfullmektig og eventuelle sakkyndige.
+
+*Endret ved lover 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 24), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+### § 23. Saksomkostninger til det offentlige.
+
+Dersom en part som har fri rettshjelp, vinner saken, skal saksomkostninger etter tvisteloven kap. 20 i tilfelle tilkjennes det offentlige i den utstrekning det er nødvendig for å dekke utgiftene til fri rettshjelp. Dette gjelder likevel ikke fri rettshjelp som er innvilget til partene i medhold av § 16 første ledd, jf. § 11 første ledd nr. 4.
+
+Hvor det er grunn til det, kan retten samtykke i at en part som har fri rettshjelp, begjærer saken hevet som forlikt uten å nedlegge påstand om saksomkostninger til det offentlige.
+
+*Endret ved lover 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 25), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 17 juni 2022 nr. 57 (i kraft 1 jan 2023 iflg. res. 23 sep 2022 nr. 1635).*
+
+## Kapittel IV. Fritak for rettsgebyr.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endret kapittelnummer fra V).*
+
+### § 24. Hva fritak for rettsgebyr omfatter.
+
+Fritak for rettsgebyr omfatter behandlingsgebyrer og sideutgifter for den domstol eller det forvaltningsorgan bevillingen gjelder, etter lov 17. desember 1982 nr. 86 om rettsgebyr, lov 21. juli 1916 nr. 2 om vitners og sakkyndiges godtgjørelse m.v. og lov 14. august 1918 nr. 2 om utdrag i tvistemål og straffesaker.
+
+Departementet gir nærmere bestemmelser om hvilke gebyrer og sideutgifter det kan gis fritak for.
+
+*Endret ved lover 17 des 1982 nr. 86, 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 26).*
+
+### § 25. Vilkår for fritak mv.
+
+Fritak for rettsgebyr kan gis som del av bevilling til fri sakførsel etter § 22 etter de samme regler som gjelder for slik bevilling.
+
+Den som ikke har krav på fri sakførsel, kan gis fritak for rettsgebyr dersom det økonomiske vilkåret i § 16 annet og tredje ledd er oppfylt. Fritak gis av den som har myndighet til å gi bevilling til fri sakførsel i saken.
+
+Søknad om fritak for rettsgebyr kan avslås når det ikke er rimelig at det offentlige gir slik støtte.
+
+*Endret ved lover 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 27), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881), 20 juni 2025 nr. 82 (i kraft 1 okt 2026 iflg. res. 11 sep 2026 nr. 1775).*
+
+## Kapittel V. Klageregler m.v.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endret kapittelnummer fra VI).*
+
+### § 26. Klage.
+
+Vedtak etter denne lov, unntatt de avgjørelser som nevnt i § 27, kan påklages til departementet etter reglene i forvaltningsloven. Departementet kan bestemme i hvilken utstrekning forvaltningsloven skal gjelde for domstolenes og Trygderettens behandling av saker etter denne lov.
+
+Departementets vedtak etter denne lov kan ikke påklages.
+
+*Endret ved lover 29 juni 1990 nr. 47, 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366, ved en inkurie ble § 28 endret, skulle vært § 28 a), 4 mai 2001 nr. 16, 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 28).*
+
+### § 27. Anke
+
+Avgjørelser etter denne lov som er truffet av en domstol, kan ankes til overordnet domstol. Avgjørelser truffet av Arbeidsretten kan ikke ankes. Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett.
+
+For anke etter første ledd gjelder reglene i tvisteloven og domstolloven dersom ikke annet følger av paragrafen her.
+
+For den som har fått underretning om avgjørelsen, er fristen for å erklære anke én måned fra den dag vedkommende mottok underretningen. For andre er fristen én måned fra den dag da vedkommende har fått eller burde ha skaffet seg kjennskap til avgjørelsen, men likevel ikke utover tre måneder fra det tidspunkt avgjørelsen ble truffet.
+
+Domstolen skal tilrettelegge saken for ankedomstolen og gi slik redegjørelse for saken som er nødvendig for ankedomstolen.
+
+Om dekning av sakskostnader av det offentlige gjelder forvaltningsloven § 36 første ledd og tredje ledd første og annet punktum tilsvarende.
+
+*Tilføyd ved lov 29 juni 1990 nr. 47, endret ved lover 12 jan 1995 nr. 4 (ikr. 1 apr 1995), 23 juni 1995 nr. 34 (ikr. 1 aug 1995), 4 mai 2001 nr. 16, 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 28a), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88, endring endret ved lov 26 jan 2007 nr. 3), 15 jan 2010 nr. 2 (ikr. 15 jan 2010 iflg. res. 15 jan 2010 nr. 33).*
+
+### § 28. Innhenting av personopplysninger
+
+Offentlige organer som behandler søknader om rettshjelp kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret og Skatteetaten opplysninger om søker og søkers ektefelle eller samboer som er nødvendige for å vurdere om vilkårene for rettshjelp er oppfylt eller har vært oppfylt i tidligere perioder. Organene skal også ha tilgang til opplysninger til utredning og produksjon av statistikk.
+
+*Tilføyd ved lov 20 des 2018 nr. 114, endret ved lover 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 20 des 2023 nr. 109 (i kraft 15 okt 2025 iflg. res. 19 sep 2025 nr. 1881).*
+
+## Kapittel VI. Ikrafttredelse.
+
+*Endret ved lov 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, endret kapittelnummer fra VII).*
+
+### § 29. Ikrafttredelse og endring i andre lover.
+
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
+
+Fra det tidspunkt loven trer i kraft gjøres følgende endringer i de lover som er nevnt nedenfor: – – –
+
+*Endret ved lover 15 apr 2005 nr. 17 (ikr. 1 jan 2006 iflg. res. 15 apr 2005 nr. 339, tidligere § 29), 20 des 2018 nr. 114 (tidligere § 28).*
+
+[^1]: Fra 1 jan 1981 iflg. res. 31 okt 1980.

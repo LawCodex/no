@@ -1,0 +1,83 @@
+---
+title: "Lov om barneombud [barneombudsloven]"
+short_title: "Barneombudsloven"
+identifier: "LOV-1981-03-06-5"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 1981-03-06
+in_force_from: 1981-09-01
+last_amended: 2023-09-01
+last_amended_by: "lov/2023-06-16-42 fra 2023-09-01"
+ministry: "Barne- og familiedepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1981-03-06-5"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om barneombud \[barneombudsloven\]
+
+> Jf. lover 17 juli 1992 nr. 100 og 8 april 1981 nr. 7.
+
+## § 1. (formål)
+
+Denne lov har til formål å bidra til å fremme barns interesser i samfunnet.
+
+## § 2. (barneombud)
+
+Barneombudet åremålsbeskikkes av Kongen i statsråd for en periode på seks år uten adgang til gjenoppnevning.
+
+*Endret ved lover 24 juni 1994 nr. 26, 17 juli 1998 nr. 55 (ikr. 1 sep 1998 iflg. res. 17 juli 1998 nr. 736), 19 juni 2009 nr. 43 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 821).*
+
+## § 3. (Ombudets oppgaver)
+
+Ombudet har til oppgave å fremme barns interesser overfor det offentlige og private, og skal følge med i utviklingen av barns oppvekstkår.
+
+Ombudet skal særlig:
+
+- a. av eget tiltak eller som høringsinstans ivareta barns interesser i samband med planlegging og utredning på alle felter,
+- b. følge med i at lovgivning til vern om barns interesser blir fulgt, herunder om norsk rett og forvaltningspraksis samsvarer med de forpliktelser Norge har etter FNs konvensjon om barnets rettigheter.
+- c. foreslå tiltak som kan styrke barns rettssikkerhet,
+- d. fremme forslag til tiltak som kan løse eller forebygge konflikter mellom barn og samfunn,
+- e. følge med at det gis tilstrekkelig informasjon til det offentlige og private om barns rettigheter og de tiltak de har behov for.
+
+Ombudet kan virke av eget tiltak eller etter henvendelse fra andre. Barneombudet avgjør selv om en henvendelse gir tilstrekkelig grunn til behandling.
+
+*Endret ved lov 17 juli 1998 nr. 55 (ikr. 1 sep 1998 iflg. res. 17 juli 1998 nr. 736).*
+
+## § 4. (adgang til institusjoner og opplysningsplikt m.v.)
+
+Ombudet skal ha fri adgang til alle offentlige og private institusjoner for barn.
+
+Offentlige myndigheter og offentlige og private institusjoner for barn skal uten hinder av taushetsplikt gi Ombudet de opplysninger som trengs til å utføre Ombudets oppgaver etter denne lov. Opplysninger som trengs for å utføre Ombudets oppgave etter § 3 annet ledd bokstav b, kan uten hinder av taushetsplikt, også kreves fra andre. Når det kan kreves opplysninger etter dette ledd, kan også protokoller og andre dokumenter kreves fremlagt.
+
+Reglene i tvisteloven §§ 22-1, 22-2, 22-4 til 22-11 får tilsvarende anvendelse for Ombudets rett til å kreve opplysninger. Tvist om anvendelsen av disse reglene kan bringes inn for tingretten, som avgjør spørsmålet ved kjennelse.
+
+*Endret ved lover 14 des 2001 nr. 98 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.*
+
+## § 5. (uttalelser fra Ombudet)
+
+Ombudet har rett til å uttale seg om forhold som går inn under Ombudets arbeidsområde etter denne lov og etter Instruks for Barneombudet. Ombudet bestemmer selv hvem uttalelsene skal rettes til.
+
+*Endret ved lov 17 juli 1998 nr. 55 (ikr. 1 sep 1998 iflg. res. 17 juli 1998 nr. 736).*
+
+## § 5 a. (politiattest)
+
+Den som skal ansettes i Barneombudet, skal fremlegge politiattest som nevnt i politiregisterloven § 39. Dette gjelder kun personer som skal utføre oppgaver som forutsetter et tillits- eller ansvarsforhold overfor mindreårige.
+
+*Tilføyd ved lov 16 juni 2023 nr. 42 (i kraft 1 sep 2023 iflg. res. 16 juni 2023 nr. 899).*
+
+## § 6. (instruks for Ombudet)
+
+Kongen fastsetter en alminnelig instruks for Ombudets organisasjon og saksbehandling. For øvrig utfører Ombudet sine oppgaver selvstendig og uavhengig.
+
+*Endret ved lover 24 juni 1994 nr. 26, 17 juli 1998 nr. 55 (ikr. 1 sep 1998 iflg. res. 17 juli 1998 nr. 736).*
+
+## § 7. (ikrafttreden m.m.)
+
+Denne lov gjelder også for Svalbard.
+
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
+
+[^1]: Fra 1 sep 1981 iflg. res. 6 mars 1981.

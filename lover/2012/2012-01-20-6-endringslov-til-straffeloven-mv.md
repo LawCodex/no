@@ -1,0 +1,70 @@
+---
+title: "Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)"
+short_title: "Endringslov til straffeloven mv."
+identifier: "LOV-2012-01-20-6"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2012-01-20
+in_force_from: "Kongen bestemmer, 2012-01-20, 2014-07-01, 2015-10-30"
+last_amended: 2018-07-01
+last_amended_by: "lov/2018-06-15-37 fra 2018-07-01"
+ministry: "Justis- og beredskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2012-01-20-6"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)
+
+## II
+
+– – –
+
+*Del II opphevet ved lov 15 juni 2018 nr. 37 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 887).*
+
+## III
+
+– – –
+
+*Del III opphevet ved lov 15 juni 2018 nr. 37 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 887).*
+
+## IV
+
+I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer: – – –
+
+§ 186 annet ledd nytt tredje og fjerde punktum skal lyde:
+
+– – –. Bestemmelsen om rett til å motta besøk i straffegjennomføringsloven § 31 åttende ledd får tilsvarende anvendelse.
+
+*Ved res 20 jan 2012 nr. 41 ble annet ledd tredje punktum satt ikr.*
+
+§ 186 nåværende annet ledd tredje og fjerde punktum[^1] blir nytt tredje ledd.
+
+[^1]: Inkurie: Nå fjerde og femte punktum, etter at nytt tredje punktum er satt ikr.
+
+– – –
+
+## IX
+
+I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. gjøres følgende endringer:
+
+– – –
+
+§ 37 skal lyde: – – –
+
+*Femte ledd siste punktum er ikke satt ikr., men er redigert inn i straffegjennomføringsloven.*
+
+– – –
+
+§ 40 nytt tiende ledd skal lyde:
+
+Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.
+
+## XIII. Ikrafttredelses- og overgangsregler
+
+- 1\. Loven gjelder fra den tid Kongen bestemmer.[^2] Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+- 2\. Kongen kan gi nærmere overgangsregler.
+
+[^2]: Iflg. res. 20 jan 2012 nr. 41 trådte endringene i straffeloven § 18, § 28 annet ledd, § 28a annet ledd og § 39c annet ledd, straffeprosessloven § 69 annet ledd tredje punktum, § 98 første ledd annet punktum, § 161a, § 183 annet og tredje ledd, § 184 annet ledd annet punktum, § 185 annet ledd, § 186 annet ledd tredje punktum og § 186 a, del VI, straffegjennomføringsloven § 6 tredje ledd, § 10 fjerde ledd, § 11 femte ledd, § 16 første ledd annet punktum og annet ledd, straffeloven § 40 første ledd annet punktum, § 48 annet ledd, § 53 fjerde ledd, § 55 tredje ledd og § 78 bokstav h og i, samt del XII ikr. 20 jan 2012. Iflg. res. 13 juni 2014 nr. 721 trådte endringene i straffeloven § 15, § 28 c, § 53 nr. 3 bokstav c, § 53 nr. 3 bokstav h, § 53 nr. 6, straffeprosessloven § 76 femte ledd, § 96 tredje ledd, § 99 første ledd tredje punktum, § 100 annet ledd annet punktum, § 107 a første ledd bokstav d, del V, del VII, del VIII, straffeloven § 29 første ledd, § 30 første ledd bokstav g, § 37 første ledd bokstav d, § 37 første ledd bokstav i, § 52 a, § 52 b og § 52 c, samt del XI ikr. 1 juli 2014. Iflg. res. 30 okt 2015 nr. 1233 trådte del IX § 10 a, § 31 åttende ledd, § 37 med unntak av femte ledd siste punktum, § 38 tredje, fjerde og femte ledd og § 39 annet punktum ikr. 30 okt 2015. Del II og III opphevet ved lov 15 juni 2018 nr. 37 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 887).

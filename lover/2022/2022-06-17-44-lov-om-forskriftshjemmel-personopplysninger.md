@@ -1,0 +1,50 @@
+---
+title: "Lov om forskriftshjemmel for behandling av personopplysninger for frivillige tiltak på barne-, oppvekst- og familieområdet mv."
+short_title: "Lov om forskriftshjemmel, personopplysninger"
+identifier: "LOV-2022-06-17-44"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2022-06-17
+in_force_from: "2022-06-17, 2023-01-01"
+ministry: "Barne- og familiedepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2022-06-17-44"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om forskriftshjemmel for behandling av personopplysninger for frivillige tiltak på barne-, oppvekst- og familieområdet mv.
+
+> Prop.94 L (2021–2022), Innst.349 L (2021–2022), Lovvedtak 75 (2021–2022). Stortingets første og andre gangs behandling hhv. 31. mai og 3. juni 2022. Fremmet av Barne- og familiedepartementet.
+
+## § 1. Formål
+
+Formålet med denne loven er å sikre en forsvarlig behandling av personopplysninger når det er nødvendig å behandle slike opplysninger for å gjennomføre frivillige tiltak på barne-, oppvekst- og familieområdet besluttet av statlige myndigheter.
+
+## § 2. Geografisk virkeområde
+
+Kongen kan gi forskrift om lovens anvendelse på Svalbard, og kan fastsette særlige regler under hensyn til de stedlige forhold.
+
+## § 3. Forskrifter
+
+Departementet kan gi forskrift om at offentlige organer og private rettssubjekter som utfører oppgaver på vegne av stat, fylkeskommune eller kommune, kan behandle personopplysninger når slik behandling er nødvendig for å gjennomføre tiltak på barne-, oppvekst- og familieområdet besluttet av statlige myndigheter. Dette gjelder også behandling av opplysninger som nevnt i personvernforordningen artikkel 9 og 10.
+
+Det kan i forskrift gis regler om behandlingen av opplysningene, blant annet om formålet med behandlingen, behandlingsansvar, hvilke opplysninger som kan behandles, hvem det kan behandles personopplysninger om, tiltak som skal verne den opplysningene gjelder, krav til behandlingen, adgangen til viderebehandling, utlevering, lagring, lagringstid, sletting og registerføring og tilgangen til registre.
+
+## § 4. Tilgang til taushetsbelagte opplysninger fra Folkeregisteret
+
+Offentlige organer kan, uten hinder av taushetsplikt, innhente opplysninger fra Folkeregisteret som er nødvendige for å gjennomføre tiltak besluttet av statlige myndigheter på barne-, oppvekst- og familieområdet.
+
+Departementet kan gi forskrift om hvilke opplysninger som kan innhentes.
+
+## § 5. Ikrafttredelse
+
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+[^1]: Fra 17 juni 2022 for § 1 til § 5 og § 6 nr. 1, nr. 4 og nr. 5 iflg res. 17 juni 2022 nr. 1037.\
+    Fra 1 januar 2023 for § 6 nr. 2 og nr. 3 iflg res. 17 juni 2022 nr. 1037
+
+## § 6. Endringer i andre lover
+
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

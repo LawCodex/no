@@ -1,0 +1,147 @@
+---
+title: "Lov om Folketrygdfondet"
+short_title: "Folketrygdfondloven"
+identifier: "LOV-2007-06-29-44"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2007-06-29
+in_force_from: 2008-01-01
+last_amended: 2026-01-01
+last_amended_by: "lov/2025-06-20-96 fra 2026-01-01"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2007-06-29-44"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om Folketrygdfondet
+
+## § 1. Formål
+
+Folketrygdfondet skal i eget navn forvalte motverdien av kapitalinnskuddet Statens pensjonsfond Norge på oppdrag fra departementet, jf. lov 21. desember 2005 nr. 123 om Statens pensjonsfond § 3 tredje ledd. Folketrygdfondet skal også utføre andre forvalteroppgaver som departementet tillegger Folketrygdfondet.
+
+*Endret ved lov 21 juni 2019 nr. 31 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 804).*
+
+## § 2. Eier
+
+Folketrygdfondet eies av staten alene.
+
+## § 3. Partsstilling
+
+Folketrygdfondet er et eget rettssubjekt.
+
+## § 4. Vedtekter
+
+Folketrygdfondet skal ha vedtekter som fastsettes av departementet.
+
+## § 5. Registrering i Foretaksregisteret
+
+Folketrygdfondet skal registreres i Foretaksregisteret.
+
+## § 6. Forholdet til annen lovgivning, taushetsplikt mv.
+
+Forvaltningsloven gjelder ikke for Folketrygdfondet. Forvaltningslovens bestemmelser om inhabilitet gjelder likevel for Folketrygdfondets tillitsvalgte, ansatte og andre som utfører tjenester eller arbeid for Folketrygdfondet.
+
+Enhver som utfører tjeneste eller arbeid for Folketrygdfondet, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om Folketrygdfondets eller andres forretningsmessige forhold eller om noens personlige forhold. Taushetsplikten gjelder ikke overfor departementet. Tilsvarende taushetsplikt som følger av første punktum, gjelder enhver som utfører tjeneste eller arbeid for departementet. Forvaltningsloven § 13 annet og tredje ledd og §§ 13 a til 13 e og 13 g får anvendelse.
+
+Folketrygdfondet regnes som et organ etter arkivlova § 2 bokstav h.
+
+*Endret ved lover 11 apr 2014 nr. 12 (ikr. 1 juli 2014 iflg. res. 11 apr 2014 nr. 547), 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026), 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510).*
+
+## § 7. Statens egenkapitalinnskudd og ansvar
+
+Staten skal ved opprettelsen av Folketrygdfondet gjøre et egenkapitalinnskudd. Endringer av innskuddet og anvendelse av overskudd på innskuddet kan vedtas av departementet.
+
+Staten hefter ikke for Folketrygdfondets forpliktelser.
+
+## § 8. Styret
+
+Folketrygdfondet skal ha et styre bestående av sju medlemmer, som oppnevnes av departementet for fire år om gangen. Oppnevningen gjelder inntil regnskapet er avsluttet for det fjerde året etter oppnevningen. Gjenoppnevning av medlemmer kan skje for en samlet periode på tolv år.
+
+Ved behandling av administrative saker suppleres styret med ytterligere to styremedlemmer som velges av og blant de ansatte.
+
+Styremedlemmer kan tre tilbake før tjenestetiden er ute med rimelig forhåndsvarsel til departementet.
+
+Dersom styremedlemmer fratrer eller dør i løpet av den tid de er oppnevnt for, skal nytt medlem oppnevnes for den gjenstående tid.
+
+Departementet utpeker lederen for styret. Styret velger nestlederen blant sine medlemmer.
+
+Styremedlemmer skal ha godtgjøring som fastsettes av departementet.
+
+Aksjeloven § 20-6 gjelder tilsvarende for Folketrygdfondet.
+
+*Endret ved lover 14 des 2012 nr. 83 (ikr. 1 jan 2013), 20 nov 2020 nr. 129 (ikr. 1 jan 2021 iflg. res. 20 nov 2020 nr. 2419, se del II for overgangsbestemmelser).*
+
+## § 9. Styrets ledelse og tilsynsansvar
+
+Forvaltningen av Folketrygdfondet hører under styret.
+
+Styret skal sørge for forsvarlig organisering av virksomheten. Styret skal holde seg orientert om Folketrygdfondets virksomhet og plikter å påse at virksomheten, herunder regnskap og formuesforvaltning, er gjenstand for betryggende kontroll.
+
+Styret skal føre tilsyn med administrasjonens ledelse av Folketrygdfondet og virksomheten for øvrig.
+
+Aksjeloven § 6-17 gjelder tilsvarende for styret i Folketrygdfondet.
+
+## § 10. Administrerende direktør
+
+Administrerende direktør i Folketrygdfondet tilsettes av styret. Administrerende direktørs godtgjøring og pensjon fastsettes av styret med orientering til departementet.
+
+Administrerende direktør står for den daglige ledelse av Folketrygdfondets virksomhet og skal følge de retningslinjer og pålegg som styret har gitt.
+
+Den daglige ledelse omfatter ikke saker som er av uvanlig art eller stor betydning.
+
+Administrerende direktør skal sørge for at Folketrygdfondets regnskap oppfyller kravene som følger av § 12 i denne lov og at formuesforvaltningen er ordnet på betryggende måte.
+
+Aksjeloven § 6-17 gjelder tilsvarende for administrerende direktør i Folketrygdfondet.
+
+## § 11. Representasjon utad
+
+Styret representerer Folketrygdfondet utad og tegner dets firma.
+
+Styret kan gi styremedlemmer eller administrerende direktør rett til å tegne Folketrygdfondets firma. Slik fullmakt kan fastsettes i vedtektene, som også kan begrense styrets myndighet til å gi rett til å tegne Folketrygdfondets firma.
+
+Administrerende direktør representerer Folketrygdfondet utad i saker som faller innenfor hans eller hennes myndighet etter § 10 i denne lov.
+
+Har noen som representerer Folketrygdfondet utad ved handling på vegne av Folketrygdfondet overskredet sin myndighet, er handlingen ikke bindende for Folketrygdfondet dersom medkontrahenten innså eller burde innse at myndigheten er overskredet og det derfor ville stride mot redelighet å gjøre rett etter handlingen gjeldende.
+
+## § 12. Årsregnskap og årsberetning
+
+Folketrygdfondet er regnskapspliktig etter regnskapsloven og bokføringspliktig etter bokføringsloven. Departementet kan i forskrift utfylle eller fravike bestemmelser i regnskapsloven for Folketrygdfondet.
+
+Årsregnskap og årsberetning godkjennes av departementet og meddeles Stortinget.
+
+## § 13. Revisjon
+
+Folketrygdfondet skal ha revisor som velges av departementet. Departementet kan i forskrift fastsette bestemmelser om revisjon.
+
+Revisors godtgjøring skal godkjennes av departementet.
+
+Styret skal utpeke Folketrygdfondets internrevisjon. Styret skal hvert år godkjenne internrevisjonens ressurser og planer. Internrevisjonen rapporterer til styret.
+
+## § 14. Riksrevisjonens kontroll
+
+Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser i Folketrygdfondet etter riksrevisjonsloven.
+
+*Endret ved lov 20 juni 2025 nr. 53.*
+
+## § 15. Utfyllende regler
+
+Departementet kan i forskrift fastsette nærmere regler for Folketrygdfondet.
+
+## § 16. Ikrafttredelse og endringer i andre lover
+
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+[^1]: Fra 1 jan 2008 iflg. res. 29 juni 2007 nr. 937.
+
+## § 17. Overgangsbestemmelser
+
+Overføring til det selvstendige rettssubjektet Folketrygdfondet av forpliktelser knyttet til forvaltningsorganet Folketrygdfondet har frigjørende virkning for staten. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+
+– – –
+
+Øvrige overgangsbestemmelser fastsettes av Kongen.

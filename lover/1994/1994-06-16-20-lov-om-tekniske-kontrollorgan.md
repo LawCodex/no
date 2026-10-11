@@ -1,0 +1,65 @@
+---
+title: "Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar"
+short_title: "Lov om tekniske kontrollorgan"
+identifier: "LOV-1994-06-16-20"
+type: act
+jurisdiction: "no"
+language: "nn"
+date: 1994-06-16
+in_force_from: 1994-06-16
+last_amended: 1997-05-02
+last_amended_by: "lov/1997-05-02-25"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/1994-06-16-20"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
+
+> Lovas tittel endra med lov 2 mai 1997 nr. 25. Avtaler 29 apr 1999 med Australia og New Zealand trådde ikr. resp. 1 juli 2000 og 1 mars 2000. Avtale 4 juli 2000 med Canada trådde ikr. 1 januar 2001. Avtale med Sveits (vedlegg I til EFTA-konvensjonen som endra med Vaduz-konvensjonen av 21 juni 2001 med seinare endringar) trådde ikr. 1 juni 2002. Avtale 17 okt 2005 med USA trådde ikr. 1 mars 2006. Avtaler med Latvia, Litauen, Den tsjekkiske republikk, Slovenia og Ungarn har etter at EØS-avtalen trådde ikr. for desse landa 1 mai 2004 ikkje lenger praktisk interesse. Avtale med Tyrkia (protokoll E til frihandelsavtale EFTA – Tyrkia) trådde i kraft 5 juli 2011.
+
+## § 1.
+
+Denne lova gjeld utpeiking av og verksemda til tekniske kontrollorgan som driv samsvarsvurderingar etter reglar som er gitt til gjennomføring av EØS-avtalen, og reglar gitt av land Noreg har inngått avtale med om gjensidig godkjenning av samsvarsvurderingar.
+
+Med samsvarsvurdering meiner ein avgjerd av om eit produkt oppfyller dei tekniske krava o.a. som er stilt i regelverket som nemnt i fyrste leddet.
+
+Med tekniske kontrollorgan meiner ein føretak, offentlege organ o.a. som gjennom utpeiking som nemnt i § 2 har rett til å drive samsvarsvurdering av produkt som andre har utvikla.
+
+*Endra med lov 2 mai 1997 nr. 25.*
+
+## § 2.
+
+Departementet kan etter søknad peike ut eit organ som teknisk kontrollorgan dersom organet kan dokumentere at det oppfyller dei krava som er stilt på det aktuelle området i regelverket som nemnt i § 1.
+
+Departementet kan setje vilkår for utpeikinga.
+
+## § 3.
+
+Departementet kan påleggje tekniske kontrollorgan å utarbeide rapportar om arbeidet sitt til departementet, og få fram annan dokumentasjon som departementet finn naudsynt for å kontrollere verksemda.
+
+## § 4.
+
+Dersom eit teknisk kontrollorgan ikkje lenger oppfyller krava som er nemnde i § 2, eller på annan måte opptrer i strid med regelverket, kan departementet gje pålegg om retting innan ein nærmare fastsett frist eller trekkje tilbake utpeikinga.
+
+## § 5.
+
+Forvaltningslova kapittel II til VI gjeld for samsvarsvurderingar som tekniske kontrollorgan gjer. Organa kan likevel ta vanleg betaling for samsvarsvurderingane.
+
+## § 6.
+
+Ei samsvarsvurdering som er gitt av eit teknisk kontrollorgan som er peika ut av ein annan EØS-stat, eller som er utpeika i samsvar med ein avtale om gjensidig godkjenning av samsvarsvurderingar, har same rettsverknad som ei samsvarsvurdering frå eit teknisk kontrollorgan her i landet.
+
+*Endra med lov 2 mai 1997 nr. 25.*
+
+## § 7.
+
+Departementet kan ved forskrift gi nærmare reglar til gjennomføring og utfylling av denne lova.
+
+## § 8.
+
+Kongen fastset kva tid lova skal ta til å gjelda.[^1]
+
+[^1]: Frå 16 juni 1994 iflg. res. 16 juni 1994 nr. 481.

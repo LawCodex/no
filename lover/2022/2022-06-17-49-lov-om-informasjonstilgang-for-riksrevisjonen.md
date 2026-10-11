@@ -1,0 +1,47 @@
+---
+title: "Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger"
+short_title: "Lov om informasjonstilgang for Riksrevisjonen"
+identifier: "LOV-2022-06-17-49"
+type: act
+jurisdiction: "no"
+language: "nb"
+date: 2022-06-17
+in_force_from: "2022-06-17, 2022-12-31"
+last_amended: 2025-06-20
+last_amended_by: "lov/2025-06-20-55"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/NL/lov/2022-06-17-49"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger
+
+> Innst.345 L (2021–2022), Lovvedtak 80 (2021–2022). Stortingets første og andre gangs behandling hhv. 2. og 7. juni 2022. Fremmet av Finansdepartementet.
+
+## § 1. Formål
+
+Loven skal sikre at Riksrevisjonen, i tilfeller hvor samtykke fra de forespurte ikke er tilstrekkelig, får tilgang til nødvendige opplysninger for å gjennomføre særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022.
+
+## § 2. (Opphevet)
+
+*Opphevet ved lov 17 juni 2022 nr. 49 (i kraft 31 des 2022, se § 6).*
+
+## § 3. Forbud mot bruk som bevis i senere straffesak eller sivil sak
+
+Opplysninger som Riksrevisjonen mottar fra private personer og foretak i medhold av § 2, kan ikke brukes som bevis i en senere straffesak eller sivil sak mot den som har gitt opplysningene.
+
+## § 4. Rett til å la seg bistå. Kostnadsdekning
+
+Enhver som er berørt har rett til å la seg bistå under Riksrevisjonens undersøkelser i henhold til Stortingets vedtak 6. januar 2022. Den som er berørt av undersøkelsene, kan også få dekket nødvendige kostnader til slik bistand når særlige grunner taler for det.
+
+## § 5. Forholdet til riksrevisjonsloven
+
+Riksrevisjonsloven, herunder § 7-1 (taushetsplikt), § 7-2 (sikkerhetslovens anvendelse), § 7-3 (behandling av personopplysninger), § 7-4 (innsyn) og § 3-2 (habilitet), gjelder tilsvarende for Riksrevisjonens særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022. Loven § 7-1 fjerde og femte ledd og § 7-3 annet ledd gjelder likevel ikke.
+
+*Endret ved lov 20 juni 2025 nr. 55.*
+
+## § 6. Ikrafttredelse mv.
+
+Loven trer i kraft straks. § 2 oppheves 31. desember 2022.
