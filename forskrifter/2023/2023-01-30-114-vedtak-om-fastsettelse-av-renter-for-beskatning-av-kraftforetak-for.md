@@ -1,0 +1,24 @@
+---
+title: "Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2022"
+identifier: "FOR-2023-01-30-114"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2023-01-30
+in_force_from: "Inntektsåret 2022"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2023-01-30-114"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2022
+
+> Hjemmel: Fastsatt av Finansdepartementet 30. januar 2023 med hjemmel i forskrift 19. november 1999 nr. 1158 til utfylling og gjennomføring av skatteloven av 26. mars 1999 nr. 14 § 18-8, jf. lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 18-2 fjerde ledd og § 18-3 tredje, fjerde og niende ledd.
+
+- 1\. Den normerte risikofrie renten settes til 2,2 prosent, jf. FSFIN § 18-8-1.
+- 2\. Rentesatsen for fremføring av ubenyttet fradrag for naturressursskatt etter skatteloven § 18-2 fjerde ledd fjerde punktum settes til 2,1 prosent, jf. FSFIN § 18-8-2.
+- 3\. Rentesatsen for friinntekt etter skatteloven § 18-3 tredje ledd bokstav b settes til 1,7 prosent, jf. FSFIN § 18-8-3 første punktum.
+- 4\. Rentesats for fremføring av negativ grunnrente etter skatteloven § 18-3 fjerde ledd annet punktum settes til 3,3 prosent, jf. FSFIN § 18-8-3 annet punktum.
+- 5\. Renten etter skatteloven § 18-3 niende ledd bokstav a settes til 1,7 prosent, jf. FSFIN § 18-8-3 tredje punktum.

@@ -1,0 +1,56 @@
+---
+title: "Forskrift om fangstdokumentasjon ved fiske etter patagonisk tannfisk (Dissostichus spp.)"
+short_title: "Forskrift om fangstdokumentasjon ved tannfiske"
+identifier: "FOR-2000-01-06-6"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2000-01-06
+in_force_from: 2000-05-04
+last_amended: 2013-01-28
+last_amended_by: "forskrift/2013-01-28-75"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "Avd I 2000 12"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2000-01-06-6"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om fangstdokumentasjon ved fiske etter patagonisk tannfisk (Dissostichus spp.)
+
+> Hjemmel: Fastsatt av Fiskeridepartementet (nå Fiskeri- og kystdepartementet) 6. januar 2000 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 36.Endret ved forskrift 28 jan 2013 nr. 75.
+
+## § 1. Virkeområde
+
+Forskriften gjelder ved fiske etter patagonisk tannfisk (Dissostichus spp.) i de havområder som forvaltes av Commission for the Conservation of Antarctic Marine Living Resourses (CCAMLR), eller i farvann utenfor noen stats fiskerijurisdiksjon (internasjonalt farvann).
+
+## § 2. Plikt til utfylling av fangstdokument
+
+Norske fartøy som har tillatelse til å fiske patagonisk tannfisk (Dissostichus spp.) eller motta slik fisk, skal ved landing og ved overføring av fangst fylle ut et fangstdokument.
+
+## § 3. Krav til fangstdokument
+
+Fangstdokument utgis av Fiskeridirektoratet og skal inneholde følgende opplysninger:
+
+- a. navn, adresse, telefon- og faksnummer til Fiskeridirektoratet,
+- b. fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,
+- c. vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype, fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,
+- d. tidsperioden (fra dato til dato) da fangsten ble tatt,
+- e. dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, og
+- f. navn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
+
+## § 4. Utfylling av fangstdokument
+
+Fiskeridirektoratet kan gi nærmere regler for utfylling av fangstdokument.
+
+## § 5. Straff og inndragning
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 62, § 64 og § 65.
+
+*Endret ved forskrift 28 jan 2013 nr. 75.*
+
+## § 6. Ikrafttredelse
+
+Denne forskrift trer i kraft 4. mai 2000.

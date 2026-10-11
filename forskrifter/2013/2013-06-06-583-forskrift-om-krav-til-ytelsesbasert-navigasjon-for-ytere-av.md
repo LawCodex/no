@@ -1,0 +1,40 @@
+---
+title: "Forskrift om krav til ytelsesbasert navigasjon for ytere av lufttrafikkstyrings-/flysikringstjenester (ATM/ANS) og flyplassoperatører"
+identifier: "FOR-2013-06-06-583"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2013-06-06
+in_force_from: 2013-06-06
+last_amended: 2025-12-15
+last_amended_by: "forskrift/2025-12-15-2588"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2013 hefte 8"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2013-06-06-583"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om krav til ytelsesbasert navigasjon for ytere av lufttrafikkstyrings-/flysikringstjenester (ATM/ANS) og flyplassoperatører
+
+> Hjemmel: Fastsatt av Luftfartstilsynet 6. juni 2013 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart §§ 7-4, 9-1, 15-4 og 16-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273.EØS-henvisninger: EØS-avtalen vedlegg XIII kap. VI nr. 66xh (forordning (EU) 2018/1048 som endret ved forordning (EU) 2025/520).Endret ved forskrifter 14 des 2016 nr. 1580, 15 feb 2019 nr. 120 (bl.a tittel), 16 nov 2023 nr. 1853 (bl.a. tittel), 2 sep 2024 nr. 2062 (bl.a. tittel), 15 des 2025 nr. 2588.
+
+## § 1. Gjennomføring av forordning (EU) 2018/1048
+
+Forordning (EU) 2018/1048 om krav til bruk av luftrommet og operasjonelle prosedyrer for ytelsesbasert navigasjon, som inntatt i EØS-avtalen vedlegg XIII kap. VI nr. 66xh, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2025/520.
+
+*Endret ved forskrifter 14 des 2016 nr. 1580 (i kraft 2 feb 2017), 15 feb 2019 nr. 120, 2 sep 2024 nr. 2062, 15 des 2025 nr. 2588.*
+
+## § 2. Virkeområde
+
+Forskriften gjelder i Norge, herunder på Svalbard, og for øvrige områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester, styre lufttrafikkbevegelser og styre luftrommet for allmenn lufttrafikk så langt dette er i overensstemmelse med Norges folkerettslige forpliktelser.
+
+*Tilføyd ved forskrift 16 nov 2023 nr. 1853.*
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+*Endret ved forskrift 16 nov 2023 nr. 1853 (tidligere § 2).*

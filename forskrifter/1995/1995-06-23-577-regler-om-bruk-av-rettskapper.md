@@ -1,0 +1,98 @@
+---
+title: "Regler om bruk av rettskapper m.v. ved domstolen"
+short_title: "Regler om bruk av rettskapper"
+identifier: "FOR-1995-06-23-577"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1995-06-23
+in_force_from: 1995-08-01
+last_amended: 2022-01-20
+last_amended_by: "forskrift/2022-01-20-97"
+ministry: "Justis- og beredskapsdepartementet"
+published_in: "Avd I 1995 788"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1995-06-23-577"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Regler om bruk av rettskapper m.v. ved domstolen
+
+> Hjemmel: Fastsatt ved kgl.res. 23. juni 1995 med hjemmel i lov av 13. august 1915 nr. 5 om domstolene § 142. Fremmet av Justis- og politidepartementet. Endret ved vedtak 11 okt 2002 nr. 1094, 11 mai 2009 nr. 498, 31 mars 2020 nr. 529, 27 mai 2020 nr. 1083, 6 nov 2020 nr. 2269, 28 mai 2021 nr. 1700, vedtak 6 nov 2020 nr. 2269 (i kraft når lov 26 mai 2020 nr. 47 opphører), 28 mai 2021 nr. 1700 (i kraft når lov 26 mai 2020 nr. 47 opphører, ved lov 28. mai 2021 nr. 46 er § 15 annet ledd endret til at loven opphører 1. desember 2021), 20 jan 2022 nr. 97.
+
+## § 1. Høyesterett
+
+Dommere, prosessfullmektiger som er advokat, aktorer, forsvarere og protokollsekretærer skal bruke rettskapper under ankeforhandling for Høyesterett.
+
+Når forholdene tilsier det, kan høyesterettsjustitiarius for den enkelte sak bestemme at det ikke skal brukes rettskappe.
+
+*Endret ved vedtak 31 mars 2020 nr. 529, 27 mai 2020 nr. 1083, 6 nov 2020 nr. 2269, 28 mai 2021 nr. 1700, vedtak 6 nov 2020 nr. 2269 (i kraft når lov 26 mai 2020 nr. 47 opphører), 28 mai 2021 nr. 1700 (i kraft når lov 26 mai 2020 nr. 47 opphører, ved lov 28. mai 2021 nr. 46 er § 15 annet ledd endret til at loven opphører 1. desember 2021), 20 jan 2022 nr. 97.*
+
+## § 2. Lagmannsrettene
+
+Fagdommere, prosessfullmektiger og forsvarere som er advokat/advokatfullmektig, aktorer og bistandsadvokater skal bruke rettskappe under ankeforhandling for lagmannsretten i fast innredete rettssaler.
+
+Når forholdene tilsier det, kan rettens leder for den enkelte sak bestemme at det ikke skal brukes rettskappe.
+
+Protokollførere og rettsbetjenter bruker rettskapper eller uniform etter førstelagmannens bestemmelse.
+
+I ankesaker hvor det holdes muntlig forhandling kan rettens leder for den enkelte sak bestemme at det skal brukes rettskappe.
+
+*Endret ved vedtak 11 mai 2009 nr. 498.*
+
+## § 3. Tingrettene
+
+Fagdommere, prosessfullmektiger og forsvarere som er advokat/advokatfullmektig, aktorer og bistandsadvokater skal bruke rettskappe under hovedforhandling i fast innredete rettsaler. Det samme gjelder under hovedforhandling i saker etter straffeprosessloven § 276, annet ledd som holdes annet sted.
+
+Aktorer kan bruke uniform i stedet for rettskappe.
+
+Kappe brukes ikke i følgende saker:
+
+- a. Hovedforhandling etter umiddelbart forutgående muntlig saksforberedelse, jf. tvistemålsloven § 305, annet ledd.
+- b. Skjønn.
+
+Når forholdene tilsier det, kan rettens leder for den enkelte sak bestemme at det ikke skal brukes rettskappe.
+
+Protokollførere og rettsbetjenter bruker rettskapper eller uniform etter domstolsleders bestemmelse.
+
+*Endret ved vedtak 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 11 mai 2009 nr. 498.*
+
+## § 4. Rettsmøter utenfor hovedforhandling i straffesaker i tingretten
+
+Dommeren kan for den enkelte sak bestemme at det skal brukes rettskappe.
+
+*Endret ved vedtak 11 okt 2002 nr. 1094 (i kraft 1 jan 2003).*
+
+## § 5. (Opphevet)
+
+*Opphevet ved forskrift 20 jan 2022 nr. 97.*
+
+## § 6. Kappetyper
+
+Rettskappen skal være av sort ullstoff med vide ermer og rekke til midt på leggen. Rundt halsen skal det være en brem som lages som en flatt liggende krave som fortsetter på kappens forside til dennes nederste kant. Det skal også være en brem nederst på ermene.
+
+For dommere i Høyesterett skal bremmen være av rød fløyel. Dommere i lagmannsrett og tingrett samt Riksadvokaten skal ha brem i sort fløyel. Advokater og aktorer skal ha brem i sort silke.
+
+Bremmen skal være mellom 14 og 15 cm bred bakerst i nakken og smalne til 13 cm foran. På kappens forside skal den smalne jevnt fra 13 cm øverst til 10 cm ved kappens nederste kant. Bremmen nederst på ermet skal være 9 cm bred.
+
+Rettskappe for protokollførere skal ha en smal krave uten brem.
+
+*Endret ved vedtak 11 mai 2009 nr. 498.*
+
+## § 7. Ikrafttredelse
+
+Reglene trer i kraft 1. august 1995.
+
+## § 8. Endringer i eldre regelverk
+
+Fra den tiden forskriften trer i kraft oppheves følgende kongelige resolusjoner:
+
+- Kongelig resolusjon 7. desember 1889 som bestemt for dommere, advokater og statsadvokater.
+- Kongelig resolusjon 13. april 1925 om bruk av rettskapper for Høyesteretts justitiarius og assessorer.
+- Kongelig resolusjon 11. april 1930 om rettskapper for advokater og sakførere som møter i Høyesterett og lagmannsrett.
+- Kongelig resolusjon 3. juni 1932 om at krave og brem skal være av rød fløyel.
+- Kongelig resolusjon 5. januar 1934 om rettskapper for by- og herredsdommere.
+- Kongelig resolusjon 6. april 1934 om rettskapper for advokater og sakførere.
+- Kongelig resolusjon 13. januar 1937 om rettskapper for protokollførere ved lagmannsrettene.

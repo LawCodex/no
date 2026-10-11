@@ -1,0 +1,30 @@
+---
+title: "Forskrift om industrielt rettsvern på Svalbard og Jan Mayen"
+short_title: "Forskrift om industrielt rettsvern på Svalbard og Jan Mayen"
+identifier: "FOR-2019-06-21-801"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2019-06-21
+in_force_from: 2019-07-01
+ministry: "Justis- og beredskapsdepartementet"
+applies_to: "Svalbard og Jan Mayen"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2019-06-21-801"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om industrielt rettsvern på Svalbard og Jan Mayen
+
+> Hjemmel: Fastsatt ved kgl.res. 21. juni 2019 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4 første ledd første punktum og lov 27. februar 1930 nr. 2 om Jan Mayen § 2 andre ledd. Fremmet av Justis- og beredskapsdepartementet.
+
+## § 1. Industrielt rettsvern på Svalbard og Jan Mayen
+
+Lovene om patenter, varemerker, design, planteforedlerrett, arbeidstakeroppfinnelser, oppfinnelser av betydning for rikets forsvar og vern av kretsmønstre for integrerte kretser, samt forskrifter gitt i medhold av nevnte lover, gjelder på Svalbard og Jan Mayen.
+
+## § 2. Ikrafttredelse
+
+Forskriften gjelder fra 1. juli 2019.
+
+Fra samme tidspunkt oppheves forskrift 1. juli 1926 nr. 8940 om at lover om patenter, om varemerker og om mønster, alle fra 1910, gjøres gjeldende for Svalbard, og forskrift 24. juni 1983 nr. 1131 om at lovgivningen om industrielt rettsvern gjøres gjeldende for Jan Mayen.

@@ -1,0 +1,44 @@
+---
+title: "Forskrift om forbud mot oppankring og mot fiske med visse redskaper i Statfjord-området."
+short_title: "Forskrift om fiskeforbud mv ved Statfjord A"
+identifier: "FOR-1983-08-15-4326"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1983-08-15
+in_force_from: 1983-08-15
+ministry: "Arbeids- og inkluderingsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1983-08-15-4326"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om forbud mot oppankring og mot fiske med visse redskaper i Statfjord-området.
+
+> Fastsatt ved kgl.res av 15. august 1983. Fremmet av Kommunal- og arbeidsdep.
+
+## § 1.
+
+Disse forskrifter er fastsatt med hjemmel i lov av 21. juni 1963 om utforskning og utnyttelse av undersjøiske naturforekomster § 3 og lov 17. desember 1976 om Norges økonomiske sone § 4, og får anvendelse i et område innenfor de eksisterende 500 meters soner rundt Statfjord A plattformen med tilhørende lastebøye (ALP) og området mellom disse avgrenset av to parallelle linjer tangensialt på sikkerhetssonene.
+
+- 1\. Statfjord «A» plattformen
+
+  61° 15′ 20.464″ N    01° 51′ 13.952 E
+
+- 2\. Statfjord «A» ALP
+
+  61° 15′ 48.636″ N    01° 53′ 14.026 E.
+
+## § 2.
+
+Innenfor det området som er nevnt i § 1 forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade installasjoner på eller over havbunnen.
+
+## § 3.
+
+Overtredelse av disse forskrifter straffes med bøter, jfr. straffelovens § 339 nr. 2, såfremt ikke strengere straffebestemmelser kommer til anvendelse.
+
+## § 4.
+
+Disse forskrifter trer i kraft straks.

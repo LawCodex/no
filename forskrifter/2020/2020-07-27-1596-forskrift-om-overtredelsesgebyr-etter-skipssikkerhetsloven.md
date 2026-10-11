@@ -1,0 +1,65 @@
+---
+title: "Forskrift om overtredelsesgebyr etter skipssikkerhetsloven, skipsarbeidsloven og NIS-loven"
+short_title: "Forskrift om overtredelsesgebyr etter skipssikkerhetsloven, skipsarbeidsloven og NIS-loven"
+identifier: "FOR-2020-07-27-1596"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2020-07-27
+in_force_from: 2020-08-01
+ministry: "Nærings- og fiskeridepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2020-07-27-1596"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overtredelsesgebyr etter skipssikkerhetsloven, skipsarbeidsloven og NIS-loven
+
+> Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 27. juli 2020 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 55 og § 56, lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven) § 12-3 og lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister § 13.
+
+## § 1. Overtredelsesgebyr mot enkeltpersoner
+
+Overtredelsesgebyr etter skipssikkerhetsloven § 55 første, andre og tredje ledd skal utmåles i hvert enkelt tilfelle.
+
+Ved utmålingen skal det særlig legges vekt på
+
+- a. hvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyld
+- b. om overtredelsen er begått for å fremme rederiets interesser
+- c. om vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsen
+- d. om det foreligger gjentakelse
+- e. vedkommendes økonomiske evne
+- f. allmennpreventive hensyn.
+
+Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbeløp (G).
+
+## § 2. Overtredelsesgebyr mot foretak
+
+Overtredelsesgebyr etter skipssikkerhetsloven § 56 første og andre ledd, skipsarbeidsloven § 12-3 og NIS-loven § 13 skal utmåles i hvert enkelt tilfelle.
+
+Ved utmålingen skal det særlig legges vekt på
+
+- a. hvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyld
+- b. om foretaket gjennom sikkerhetsstyringssystemet eller ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+- c. om overtredelsen er begått for å fremme foretakets interesser
+- d. om foretaket har hatt eller kunne oppnå noen fordel ved overtredelsen
+- e. om det foreligger gjentakelse
+- f. foretakets økonomiske evne
+- g. allmennpreventive hensyn.
+
+Overtredelsesgebyret skal maksimalt utgjøre 15 ganger folketrygdens grunnbeløp (G).
+
+## § 3. Gjennomføring av overtredelsesgebyr
+
+Overtredelsesgebyret ilegges av Sjøfartsdirektoratet.
+
+Oppfyllelsesfristen er fire uker fra vedtak om overtredelsesgebyr ble truffet. Lengre frist kan fastsettes i vedtaket eller senere.
+
+Hvis overtredelsesgebyret ikke blir betalt innen forfall, påløper forsinkelsesrente etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. august 2020.
+
+Fra samme tidspunkt oppheves forskrift 2. juli 2007 nr. 852 om fastsettelse og gjennomføring av overtredelsesgebyr etter lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 55 og § 56.

@@ -1,0 +1,323 @@
+---
+title: "Forskrift om medisinsk utstyr"
+identifier: "FOR-2021-05-09-1476"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2021-05-09
+in_force_from: 2021-05-26
+last_amended: 2026-07-11
+last_amended_by: "forskrift/2026-07-03-1579 fra 2026-07-11"
+ministry: "Helse- og omsorgsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2021-05-09-1476"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om medisinsk utstyr
+
+> Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 9. mai 2021 med hjemmel i lov 7. mai 2020 nr. 37 om medisinsk utstyr § 1 tredje ledd, § 2, § 4, § 6, § 7, § 8, § 11, § 13, § 14, § 15 og § 16, lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar § 7, lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 5-14, lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 4-4 og lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven) § 13 fjerde ledd. EØS-henvisninger: EØS-avtalen vedlegg II kap. XXX nr. 11 (forordning (EU) 2017/745 som endret ved forordning (EU) 2020/561, forordning (EU) 2023/502, forordning (EU) 2023/607, forordning (EU) 2023/2197, forordning (EU) 2025/788 og forordning (EU) 2025/1920), nr. 12 (forordning (EU) 2017/746 som endret ved forordning (EU) 2022/112 og forordning (EU) 2023/503), nr. 9 (forordning (EU) nr. 207/2012), nr. 5a (forordning (EU) nr. 722/2012), nr. 10 (forordning (EU) nr. 920/2013 endret ved forordning (EU) 2020/666), nr. 14 (forordning (EU) 2017/2185), nr. 11b (forordning (EU) 2021/2226 som endret ved forordning (EU) 2025/1234), nr. 11c (forordning (EU) 2021/2078), nr. 11d (forordning (EU) 2022/2346 endret ved forordning (EU) 2023/1194), nr. 11e (forordning (EU) 2022/2347), nr. 12a (forordning (EU) 2022/1107), nr. 12b (forordning (EU) 2022/944), nr. 12c (forordning (EU) 2022/945), nr. 12d (forordning (EU) 2023/2713 som endret ved forordning (EU) 2025/2526), nr. 14 (forordning (EU) 2017/2185).Endret ved forskrifter 29 juni 2021 nr. 2296, 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309, 12 mars 2023 nr. 352 (i kraft 18 mars 2023), 8 mai 2023 nr. 674, 17 okt 2023 nr. 1676 (i kraft 28 okt 2023), 21 des 2023 nr. 2281 (i kraft 1 jan 2024), 12 aug 2024 nr. 1957, 20 des 2024 nr. 3418, 17 jan 2025 nr. 61, 4 sep 2025 nr. 1783, 29 aug 2025 nr. 1908 (i kraft 20 sep 2025), 2 des 2025 nr. 2410, 2 des 2025 nr. 2423 (i kraft 6 des 2025), 21 jan 2026 nr. 198 (i kraft 7 feb 2026), 23 mars 2026 nr. 471, 28 april 2026 nr. 736 (i kraft 1 mai 2026), 15 juni 2026 nr. 1169 (i kraft 1 juli 2026), 3 juli 2026 nr. 1579 (i kraft 11 juli 2026).Rettelse: 16.06.2022 (EØS-henvisning).
+
+## Kapittel I. Gjennomføring av forordninger
+
+### § 1. Endringer i forordninger om medisinsk utstyr
+
+Forordning om medisinsk utstyr, jf. lov om medisinsk utstyr § 1 første ledd, gjelder med endringene som følger av
+
+- forordning (EU) 2020/561
+- forordning (EU) 2023/502
+- forordning (EU) 2023/607
+- forordning (EU) 2023/2197
+- forordning (EU) 2025/788
+- forordning (EU) 2025/1920.
+
+*Tilføyd ved forskrift 20 des 2024 nr. 3418, opphevet ved forskrift 4 sep 2025 nr. 1783, tilføyd ved forskrift 2 des 2025 nr. 2410, endret ved forskrift 2 des 2025 nr. 2423 (i kraft 6 des 2025).*
+
+### § 1a. Elektroniske bruksanvisninger for medisinsk utstyr
+
+Forordning (EU) 2021/2226 om elektroniske bruksanvisninger for medisinsk utstyr, som inntatt i EØS-avtalen vedlegg II kapittel XXX nr. 11b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II kapittel XXX, protokoll 1 til avtalen og avtalen for øvrig, og med de endringene som følger av forordning (EU) 2025/1234.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 20 des 2024 nr. 3418 (tidligere § 1), 21 jan 2026 nr. 198 (i kraft 7 feb 2026).*
+
+### § 1b. Medisinsk utstyr framstilt av animalsk vev
+
+EØS-avtalens vedlegg II kapittel XXX nr. 5a (forordning (EU) nr. 722/2012) om særskilte krav til kriteriene fastsatt i rådsdirektivene 90/385/EØF og 93/42/EØF om aktivt implanterbart medisinsk utstyr og medisinsk utstyr som er framstilt av animalsk vev gjelder som forskrift med de endringer og tillegg som følger av vedlegg II kapittel XXX, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift 8 mars 2023 nr. 309, endret ved forskrift 20 des 2024 nr. 3418 (tidligere § 1a).*
+
+### § 1c. Utpeking og tilsyn med meldt organ
+
+EØS-avtalen vedlegg II, kapittel XXX, nr. 10 (forordning (EU) nr. 920/2013) om utpeking og kontroll med meldt organ i henhold til rådsdirektiv 90/385/EØF om aktivt implanterbart medisinsk utstyr og rådsdirektiv 93/42/EØF om medisinsk utstyr som endret ved forordning (EU) 2020/666 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+EØS-avtalen vedlegg II, kapittel XXX, nr. 14 (forordning (EU) 2017/2185) om liste over koder og utstyr for utpeking av tekniske kontrollorgan etter Europaparlaments- og rådsforordning (EU) 2017/745 om medisinsk utstyr (MDR) og Europaparlaments- og rådsforordning (EU) 2017/746 om in vitro-diagnostisk medisinsk utstyr (IVDR) gjelder som forskrift.
+
+*Tilføyd ved forskrift 8 mars 2023 nr. 309, endret ved forskrift 20 des 2024 nr. 3418 (tidligere § 1b).*
+
+### § 1d. Eudamed
+
+EØS-avtalen vedlegg II, kapittel XXX, nr. 11c (forordning (EU) 2021/2078) som fastsetter regler for anvendelse av Europaparlamentets og rådets forordning (EU) 2017/745 når det gjelder den europeiske databasen over medisinsk utstyr gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift 8 mars 2023 nr. 309, endret ved forskrift 20 des 2024 nr. 3418 (tidligere § 1c).*
+
+### § 1e. Felles spesifikasjoner for in vitro-diagnostisk medisinsk utstyr i klasse D
+
+EØS-avtalen vedlegg II, kapittel XXX nr. 12a (forordning (EU) 2022/1107) om fastsettelse av felles spesifikasjoner for visse medisinske utstyr for in vitro-diagnostisk klasse D i samsvar med europaparlaments- og rådsforordning (EU) 2017/746 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift 8 mars 2023 nr. 309, endret ved forskrift 20 des 2024 nr. 3418 (tidligere § 1d).*
+
+### § 1f. EU-referanselaboratorier
+
+Forordning (EU) 2022/944 om oppgaver og kriterier for EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr, som inntatt i EØS-avtalen vedlegg II kapittel XXX nr. 12b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordning (EU) 2022/945 om avgifter som pålegges av EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr, som inntatt i EØS-avtalen vedlegg II kapittel XXX nr. 12c, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordning (EU) 2023/2713 om utpeking av EU-referanselaboratorier på området for in vitro diagnostisk medisinsk utstyr, som inntatt i EØS-avtalen vedlegg II kapittel XXX nr. 12d, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2025/2526.
+
+*Tilføyd ved forskrift 12 mars 2023 nr. 352 (i kraft 18 mars 2023), endret ved forskrifter 12 aug 2024 nr. 1957, 20 des 2024 nr. 3418 (tidligere § 1e), 3 juli 2026 nr. 1579 (i kraft 11 juli 2026).*
+
+### § 1g. Felles spesifikasjoner og omklassifisering av produkter uten tiltenkt medisinsk formål
+
+EØS-avtalens vedlegg II kapittel XXX nr. 11d (forordning (EU) 2022/2346 som endret ved forordning (EU) 2023/1194) om fastsettelse av felles spesifikasjoner for gruppene av produkter uten tiltenkt medisinsk formål oppført i vedlegg XVI til europaparlaments- og rådsforordning (EU) 2017/745 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+EØS-avtalens vedlegg II kapittel XXX nr. 11e (forordning (EU) 2022/2347) om omklassifisering av grupper av aktivt utstyr uten et tiltenkt medisinsk formål gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift 8 mai 2023 nr. 674, endret ved forskrifter 17 okt 2023 nr. 1676 (i kraft 28 okt 2023), 20 des 2024 nr. 3418 (tidligere § 1f).*
+
+### § 1h. Metodevurdering av medisinsk utstyr
+
+Legemiddelforskriften § 14-3a første, tredje, fjerde, sjette og syvende ledd gjelder for medisinsk utstyr etter forskriften her.
+
+*Tilføyd ved forskrift 17 jan 2025 nr. 61, endret ved forskrifter 29 aug 2025 nr. 1908 (i kraft 20 sep 2025), 23 mars 2026 nr. 471, 28 april 2026 nr. 736 (i kraft 1 mai 2026).*
+
+### § 1i. Utvidet mandat til Det europeiske legemiddelbyrået
+
+Legemiddelforskriften § 15-6 gjelder for medisinsk utstyr etter forskriften her.
+
+*Tilføyd ved forskrift 15 juni 2026 nr. 1169 (i kraft 1 juli 2026).*
+
+## Kapittel II. Utfyllende nasjonale bestemmelser om myndigheter
+
+### § 2. Kompetent myndighet
+
+Direktoratet for medisinske produkter er etter lov om medisinsk utstyr § 11 første ledd kompetent myndighet, jf. forordning (EU) 2017/745 (MDR) og forordning (EU) 2017/746 (IVDR).
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 4), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 3. Myndighet til å avgjøre om et produkt er medisinsk utstyr
+
+I tvilstilfeller avgjør Direktoratet for medisinske produkter om et produkt skal regnes som medisinsk utstyr.
+
+*Endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 5), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 4. Ansvarlig myndighet for meldt organ
+
+Direktoratet for medisinske produkter peker ut og fører tilsyn med meldt organ etter lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar og (EU) 2017/745 (MDR) artikkel 35 og forordning (EU) 2017/746 (IVDR) artikkel 31.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 6), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 5. Søknad om utpeking av ekspertlaboratorier og EU-referanselaboratorier
+
+Direktoratet for medisinske produkter kan på vegne av norske laboratorier søke Kommisjonen om utpeking som ekspertlaboratorium eller EU-referanselaboratorium, jf. forordning (EU) 2017/745 (MDR) artikkel 106 nr. 7 og forordning (EU) 2017/746 (IVDR) artikkel 100 nr. 1.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 7), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+## Kapittel III. Utfyllende nasjonale bestemmelser om språk
+
+### § 6. Merking og bruksanvisning
+
+Opplysninger på etiketten og i bruksanvisningen til utstyr skal gis på norsk, jf. forordning (EU) 2017/745 (MDR) artikkel 10 nr. 11 og forordning (EU) 2017/746 (IVDR) artikkel 10 nr. 10.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 8), 8 mai 2023 nr. 674.*
+
+### § 7. Samsvarsvurdering
+
+Dokumentasjon som benyttes i prosedyrene for samsvarsvurdering, jf. forordning (EU) 2017/745 (MDR) artikkel 52 nr. 1 til 7 og nummer 9 til 11, herunder teknisk dokumentasjon, samt revisjons-, vurderings- og inspeksjonsrapporter, skal gis på engelsk, jf. forordning (EU) 2017/745 (MDR) artikkel 52 nr. 12.
+
+Dokumentasjon som benyttes i prosedyrene for samsvarsvurdering, jf. forordning (EU) 2017/746 (IVDR) artikkel 48 nr. 1 til 10, herunder teknisk dokumentasjon, samt revisjons-, vurderings- og inspeksjonsrapporter, skal gis på engelsk, jf. forordning (EU) 2017/746 (IVDR) artikkel 48 nr. 12.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 9).*
+
+### § 8. Samsvarserklæring
+
+Opplysninger i samsvarserklæring skal gis på engelsk eller norsk, jf. forordning (EU) 2017/745 (MDR) artikkel 19 nr. 1 og forordning (EU) 2017/746 (IVDR) artikkel 17 nr. 1.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 10).*
+
+### § 9. Sertifikat
+
+Sertifikater som er utstedt av meldt organ etablert i Norge, jf. forordning (EU) 2017/745 (MDR) vedlegg IX, X og XI, skal gis på engelsk eller et språk som meldt organ aksepterer, jf. forordning (EU) 2017/745 (MDR) artikkel 56.
+
+Sertifikater som er utstedt av meldt organ etablert i Norge, jf. forordning (EU) 2017/746 (IVDR) vedlegg IX, X og XI, skal gis på engelsk eller et språk som meldt organ aksepterer, jf. forordning (EU) 2017/746 (IVDR) artikkel 51.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 11).*
+
+### § 10. Dokumentasjon fra produsent og autorisert representant
+
+Produsent og autorisert representant skal på anmodning fra Direktoratet for medisinske produkter fremlegge all informasjon og dokumentasjon som er nødvendig for å vise at utstyret er i samsvar med kravene på norsk eller engelsk, jf. forordning (EU) 2017/745 (MDR) artikkel 10 nr. 14 og artikkel 11 nr. 3 bokstav d og forordning (EU) 2017/746 (IVDR) artikkel 10 nr. 13 og artikkel 11 nr. 3 bokstav d.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 12), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 11. Søknad om utpeking av og tilsyn med meldt organ
+
+Opplysningene i søknad om utpeking av meldt organ og dokumentene som vurderes ved tilsyn skal gis på engelsk, jf. forordning (EU) 2017/745 (MDR) artikkel 41 og forordning (EU) 2017/746 (IVDR) artikkel 37.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 13).*
+
+### § 12. Sikkerhetsmelding til brukere av utstyr
+
+Sikkerhetsmelding fra produsenter til brukere av utstyr skal gis på norsk, jf. forordning (EU) 2017/745 (MDR) artikkel 89 nr. 8 og forordning (EU) 2017/746 (IVDR) artikkel 84 nr. 8.
+
+Sikkerhetsmeldingen kan i særlige tilfeller gis på engelsk inntil norsk oversettelse foreligger. Norsk oversettelse skal foreligge uten ugrunnet opphold.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 14), 8 mai 2023 nr. 674.*
+
+### § 13. Informasjon til pasienter med implanterbart utstyr
+
+Informasjon som gis til pasienter med implanterbart utstyr og som skal følges av et implantatkort, skal gis på norsk, jf. forordning (EU) 2017/745 (MDR) artikkel 18.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 15), 8 mai 2023 nr. 674.*
+
+### § 14. Sammendrag for klinisk utprøving
+
+Det generelle sammendraget for den kliniske utprøvingen, jf. forordning (EU) 2017/745 (MDR) vedlegg XV nr. 3.1.5, skal gis på norsk og engelsk.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 16).*
+
+### § 15. Unntak
+
+Dersom trygg og korrekt bruk er sikret kan Direktoratet for medisinske produkter gjøre unntak fra kravet om norsk språk i § 6.
+
+Direktoratet for medisinske produkter kan gjøre unntak fra språkkravene i § 7 til § 11 og § 13 og § 14.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 17), 12 mars 2023 nr. 352 (i kraft 18 mars 2023), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+## Kapittel IV. Øvrige utfyllende nasjonale bestemmelser
+
+### § 16. Krav til øvrige kliniske utprøvinger
+
+Kliniske utprøvinger skal oppfylle kravene i forordning (EU) 2017/745 (MDR) artikkel 62. Dette gjelder også for kliniske utprøvinger som ikke gjennomføres etter formålene angitt i forordningens artikkel 62 nr. 1.
+
+Første ledd kommer ikke til anvendelse for kliniske utprøvinger med utstyr som er samsvarsvurdert i henhold til forordning (EU) 2017/745 (MDR) artikkel 52 eller forskrift 15. desember 2005 nr. 1690 (slik den lød før 26. mai 2021), med mindre vilkårene i forordningens artikkel 74 nr. 1 eller 2 er oppfylt.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022), 8 mars 2023 nr. 309 (tidligere § 18).*
+
+## Kapittel V. Administrative bestemmelser
+
+### § 17. Tilsyn og vedtak
+
+Direktoratet for medisinske produkter fører tilsyn og fatter enkeltvedtak i samsvar med lov 7. mai 2020 nr. 37 om medisinsk utstyr § 11 første ledd, jf. § 2 i denne forskriften.
+
+*Endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 19), 21 des 2023 nr. 2281 (i kraft 1 jan 2024), 21 jan 2026 nr. 198 (i kraft 7 feb 2026).*
+
+### § 18. Dispensasjon
+
+Direktoratet for medisinske produkter kan i særlige tilfeller gi dispensasjon fra bestemmelsene gitt i eller i medhold av lov 7. mai 2020 nr. 37 om medisinsk utstyr, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022, tidligere § 21), 8 mars 2023 nr. 309 (tidligere § 20), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 19. Straff
+
+Den som forsettlig eller uaktsomt overtrer følgende bestemmelser, straffes i henhold til lov 7. mai 2020 nr. 37 om medisinsk utstyr med bøter eller fengsel inntil 3 måneder:
+
+- a. bestemmelsene i denne forskrift § 6 til § 14 og § 16.
+- b. forordning (EU) 2017/745 (MDR) artikkel 5 til 7, 10, 11, 13 til 18, 21 til 23, 25, 27, 29, 31, 32, 36, 37, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82, 84 til 86 og 89.
+- c. forordning (EU) 2017/746 (IVDR) artikkel 5 til 7, 10, 11, 13 til 16, 19, 20, 22, 24, 26, 28, 29, 32, 33, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 79 til 81 og 84.
+- d. forordning (EU) 2021/2226 artikkel 3 til 9.
+- e. forordning (EU) nr. 207/2012 artikkel 3 til 7.
+- f. forordning (EU) nr. 722/2012 artikkel 3.
+
+Grove overtredelser straffes med bøter eller fengsel inntil 2 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om overtredelsen har ført til eller kunne ha ført til at pasient, bruker eller annen person dør eller at helsetilstanden blir eller kunne ha blitt midlertidig eller varig alvorlig forringet, eller om det oppstår en alvorlig trussel mot folkehelsen.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022, tidligere § 20), 8 mars 2023 nr. 309 (tidligere § 21), 21 jan 2026 nr. 198 (i kraft 7 feb 2026).*
+
+### § 19a. Overtredelsesgebyr
+
+Direktoratet for medisinske produkter kan ilegge overtredelsesgebyr for den som forsettlig eller uaktsomt overtrer:
+
+- a. bestemmelsene i denne forskrift § 6 til § 14 og § 16.
+- b. forordning (EU) 2017/745 (MDR) artikkel 5 til 7, 9 til 11, 13 til 23, 25, 27, 29, 31, 32, 36, 37, 52, 55, 56, 59, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82 til 89, 95, 97 og 120.
+- c. forordning (EU) 2017/746 (IVDR) artikkel 5 til 7, 9 til 11, 13 til 20, 22, 24, 26, 28, 29, 32, 33, 48, 50, 51, 54, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 78 til 84, 90, 92 og 110.
+- d. forordning (EU) 2021/2226 artikkel 3 til 9.
+- e. forordning (EU) nr. 207/2012 artikkel 3 til 7.
+- f. forordning (EU) nr. 722/2012 artikkel 3.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 21a), 21 des 2023 nr. 2281 (i kraft 1 jan 2024), 21 jan 2026 nr. 198 (i kraft 7 feb 2026).*
+
+### § 19b. Utmåling av overtredelsesgebyr
+
+Overtredelsesgebyret kan ikke settes høyere enn et beløp tilsvarende 15 ganger folketrygdens grunnbeløp for foretak eller to ganger folketrygdens grunnbeløp for fysiske personer.
+
+Ved avgjørelsen av om fysiske personer skal ilegges overtredelsesgebyr skal det særlig tas hensyn til overtredelsens omfang og virkninger, samt overtrederens skyld og økonomiske evne.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrift 8 mars 2023 nr. 309 (tidligere § 21b).*
+
+## Kapittel VI. Overgangsbestemmelser og ikrafttredelse
+
+### § 20. Gjennomføring av overgangsordninger
+
+Enhver henvisning til direktiv 90/385/EF (AIMDD) og direktiv 93/42/EF (MDD) i forordning (EU) 2017/745 (MDR) artikkel 120, 122 og 123 skal forstås som en henvisning til forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr (slik den lød før 26. mai 2021).
+
+Enhver henvisning til direktiv 98/97/EF (IVDD) i forordning (EU) 2017/746 artikkel (EU) 2017/746 (IVDR) artikkel 110, 112 og 113 skal forstås som en henvisning til forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr (slik den lød før 26. mai 2021).
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrift 8 mars 2023 nr. 309 (tidligere § 22).*
+
+### § 21. Overgangsbestemmelse for unntak fra samsvarsvurdering
+
+Unntak fra samsvarsvurdering gitt av Direktoratet for medisinske produkter i samsvar med forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr jf. artikkel 9 nr. 9 i direktiv 90/385/EF (AIMDD), artikkel 11 nr. 13 i direktiv 93/42/EF (MDD) eller artikkel 9 nr. 12 i direktiv 98/79/EF (IVDD) skal være gyldige til tidspunkt angitt i unntaket.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 23), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 22. Plikt til å melde uhell
+
+Den som i sin virksomhet produserer utstyr skal uten unødig opphold melde om følgende:
+
+- a. enhver feilfunksjon eller enhver forringelse av et utstyrs egenskaper og/eller ytelser samt enhver mangel på merkingen eller bruksanvisningen som kan føre til eller kunne ha ført til pasientens, brukerens eller annen persons død eller alvorlig forverring av pasientens, brukerens eller annen persons helsetilstand.
+- b. ethvert teknisk eller medisinsk hensyn i forbindelse med et utstyrs egenskaper eller ytelser som, av de årsaker som er omhandlet under bokstav a, har ført til at produsenten systematisk har trukket utstyr av samme type tilbake fra markedet eller gjort endringer som følge av dette.
+
+Meldingen sendes til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan fastsette retningslinjer for meldeplikten.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 25), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 23. Overgangsregler for prosedyrer for utstyr til klinisk utprøving av øvrig medisinsk utstyr frem til Eudamed er fullt ut funksjonell
+
+*Overgangsregler for prosedyrer for utstyr til klinisk utprøving av øvrig medisinsk utstyr frem til Eudamed er fullt ut funksjonell*
+
+Frem til den seneste av datoene for Eudamed nevnt i forordning (EU) 2017/745 (MDR) artikkel 123 nr. 3 bokstav d gjelder følgende regler for prosedyrer for utstyr til klinisk utprøving:
+
+- For utstyr beregnet til klinisk utprøving skal produsenten eller den ansvarlige representanten etablert innen EØS-området, senest 60 dager før utprøvingen begynner, utferdige en erklæring som nevnt i direktiv 93/42/EØF (MDD) vedlegg ØMU II til Direktoratet for medisinske produkter i de medlemsstater der utprøvingene skal finne sted.
+- For utstyr i klasse III samt implanterbart utstyr og invasivt utstyr til langvarig bruk i klasse IIa eller IIb, kan den kliniske utprøvingen starte 60 dager etter underretningen, med mindre tilsynsmyndigheten av hensyn til folkehelsen eller offisielle retningslinjer innen utløpet av fristen har meddelt produsenten vedtak om at utprøvingen ikke kan påbegynnes. Direktoratet for medisinske produkter kan gi produsenten tillatelse til å innlede de relevante kliniske utprøvingene før utløpet av fristen på 60 dager, forutsatt at den relevante etiske komité har gitt en positiv uttalelse om utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.
+- For annet utstyr kan Direktoratet for medisinske produkter gi produsenten tillatelse til å innlede de kliniske utprøvingene umiddelbart etter underretning er gitt, forutsatt at den relevante etiske komité har gitt en positiv uttalelse til utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.
+- Kliniske utprøvinger skal utføres i samsvar med bestemmelser i vedlegg 93/42/EØF (MDD) ØMU I.
+- Produsenten eller hans ansvarlige representant skal underrette Direktoratet for medisinske produkter når den kliniske utprøvingen avsluttes, med en begrunnelse dersom den avsluttes før tiden. Dersom den kliniske utprøvingen avsluttes før tiden av sikkerhetsgrunner skal alle medlemsstater og EU-kommisjonen underrettes. Rapporten som nevnes i direktiv 93/42/EØF (MDD) ØMU vedlegg I nr. 2.3.7 skal produsenten eller hans ansvarlige representant kunne stille til rådighet for Direktoratet for medisinske produkter.
+
+Denne bestemmelsen får ikke anvendelse på kliniske utprøvinger med utstyr som er samsvarsvurdert med mindre hensikten med utprøvingen er å anvende utstyret til et annet formål enn det som ble angitt i forbindelse med den opprinnelige samsvarsvurderingen.
+
+Direktoratet for medisinske produkter kan gi nærmere retningslinjer til utfylling og gjennomføring av denne bestemmelsen.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrifter 8 mars 2023 nr. 309 (tidligere § 28), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 24. Registrering i offentlig utstyrsregister
+
+Enhver med forretningsadresse i Norge, som produserer og i eget navn markedsfører medisinsk utstyr, eller markedsfører utstyret som systemer eller prosedyresett, skal føre inn sitt firmanavn, organisasjonsnummer, forretningsadresse, samt data som gjør det mulig å entydig identifisere utstyret, i et offentlig utstyrsregister.
+
+Produsent som ikke har forretningsadresse innenfor EØS-området, men som i eget navn markedsfører utstyr i EØS-området, skal før markedsføringen utpeke en ansvarlig representant etablert innenfor EØS-området. Ansvarlig representant med norsk forretningsadresse skal registrere opplysninger om sitt firma og det aktuelle utstyret i samsvar med bestemmelsen i første ledd.
+
+Direktoratet for medisinske produkter kan gi nærmere retningslinjer om gjennomføring av registreringsplikten, herunder bestemmelser om at opplysninger om utstyret skal gis ved bruk av gjeldende nomenklatur for medisinsk utstyr.
+
+*Tilføyd ved forskrift 23 mai 2022 nr. 904 (i kraft 26 mai 2022), endret ved forskrifter 8 mars 2023 nr. 309, 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 25. Sertifikatmeldinger
+
+Meldte organer skal underrette Direktoratet for medisinske produkter om alle sertifikater som er utstedt, endret, utvidet, suspendert, tilbakekalt eller avslått, og øvrige meldte organer som er utpekt for samme direktiver om suspenderte, tilbakekalte eller avslåtte sertifikater, og på anmodning om sertifikater som er utstedt. Meldte organer skal også på anmodning stille all relevant tilleggsinformasjon til rådighet.
+
+Direktoratet for medisinske produkter kan fastsette retningslinjer for hvordan opplysninger som nevnt i denne bestemmelsen skal rapporteres.
+
+*Tilføyd ved forskrift 8 mars 2023 nr. 309, endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024).*
+
+### § 26. Ikrafttredelse
+
+Forskriften trer i kraft 26. mai 2021.
+
+*Endret ved forskrifter 23 mai 2022 nr. 904 (i kraft 26 mai 2022, tidligere § 29), 8 mars 2023 nr. 309 (tidligere § 31).*

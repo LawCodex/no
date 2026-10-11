@@ -1,0 +1,53 @@
+---
+title: "Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag"
+short_title: "Pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag"
+identifier: "FOR-2017-12-20-2306"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2017-12-20
+in_force_from: 2018-01-01
+last_amended: 2026-05-21
+last_amended_by: "forskrift/2026-05-21-894"
+ministry: "Arbeids- og inkluderingsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2017-12-20-2306"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag
+
+> Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 20. desember 2017 med hjemmel i lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 8 nr. 2 andre ledd andre punktum. Endret ved forskrifter 12 okt 2021 nr. 3047 (bl.a. tittel), 21 mai 2026 nr. 894 (med virkning fra 1 mai 2024, bl.a tittel).
+
+## § 1.
+
+Forskriften utfyller reglene i lov om pensjonsordning for apotekvirksomhet mv. § 8 nr. 2 andre ledd.
+
+*Endret ved forskrift 12 okt 2021 nr. 3047.*
+
+## § 2.
+
+Midlertidig tjenestegjøring i høyere lønnet stilling får ikke virkning for pensjonsgrunnlaget hvis varigheten er under to år. Det betales pensjonspremie av det høyere grunnlaget med eventuell refusjon av differansen mellom innskuddene for de to pensjonsgrunnlagene hvis varigheten blir mindre enn to år.
+
+Er opprykket egentlig beregnet å bli varig, slik at midlertidigheten er av formell art, gjelder det høyere grunnlaget fra opprykket finner sted.
+
+*Tilføyd ved forskrift 12 okt 2021 nr. 3047.*
+
+## § 3.
+
+I vurderingen av om det skal beregnes et delt pensjonsgrunnlag, skal det tidligere pensjonsgrunnlaget i full stilling justeres slik for å sammenligne det med pensjonsgrunnlaget i full stilling på pensjoneringstidspunktet:
+
+- a. For perioden fra lønnsnedgangen til 30. april 2024 justeres pensjonsgrunnlaget tilsvarende utviklingen av garantert minstelønnssats i apoteksektoren.
+- b. For perioden fra 1. mai 2024 til 1. mai før pensjoneringstidspunktet justeres pensjonsgrunnlaget i samsvar med prisveksten.
+
+Delt pensjonsgrunnlag skal bare beregnes når differansen mellom pensjonsgrunnlagene overstiger 1/48 av folketrygdens grunnbeløp på pensjoneringstidspunktet.
+
+*Tilføyd ved forskrift 21 mai 2026 nr. 894 (med virkning fra 1 mai 2024).*
+
+## § 4.
+
+Forskriften trer i kraft 1. januar 2018.
+
+*Endret ved forskrifter 12 okt 2021 nr. 3047 (tidligere § 2), 21 mai 2026 nr. 894 (med virkning fra 1 mai 2024, tidligere § 3).*

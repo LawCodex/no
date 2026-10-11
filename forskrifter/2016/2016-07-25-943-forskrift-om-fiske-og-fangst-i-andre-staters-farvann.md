@@ -1,0 +1,47 @@
+---
+title: "Forskrift om adgang til å drive fiske og fangst i farvann underlagt annen stats fiskerijurisdiksjon"
+short_title: "Forskrift om fiske og fangst i andre staters farvann"
+identifier: "FOR-2016-07-25-943"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-07-25
+in_force_from: 2016-07-25
+last_amended: 2017-09-01
+last_amended_by: "forskrift/2017-09-01-1329"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "I 2016 hefte 10"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-07-25-943"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om adgang til å drive fiske og fangst i farvann underlagt annen stats fiskerijurisdiksjon
+
+> Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 25. juli 2016 med hjemmel i lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven) § 20, § 28 og § 29.Endret ved forskrift 1 sep 2017 nr. 1329.
+
+## § 1. Virkeområde
+
+Denne forskrift gjelder norske fartøys adgang til å drive fiske og fangst i farvann underlagt annen stats fiskerijurisdiksjon.
+
+## § 2. Deltakelse
+
+Det er forbudt å drive ervervsmessig fiske eller fangst med norsk fartøy i farvann underlagt annen stats fiskerijurisdiksjon.
+
+Unntatt fra forbudet i første ledd er fartøy som gjennom Fiskeridirektoratet får tillatelse til å fiske i farvann underlagt annen stats fiskerijurisdiksjon på bakgrunn av avtale mellom Norge og denne staten, eller etter avtale mellom kyststaten og fartøyets eier som er godkjent av norske fiskerimyndigheter.
+
+## § 2a. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften kan ilegges overtredelsesgebyr i henhold til deltakerloven § 28 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.
+
+*Tilføyd ved forskrift 1 sep 2017 nr. 1329.*
+
+## § 3. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften straffes etter deltakerloven § 31.
+
+## § 4. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

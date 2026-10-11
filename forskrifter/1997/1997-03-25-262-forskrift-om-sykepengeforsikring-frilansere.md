@@ -1,0 +1,61 @@
+---
+title: "Forskrift om forsikring for tillegg til sykepenger for frilansere"
+short_title: "Forskrift om sykepengeforsikring, frilansere"
+identifier: "FOR-1997-03-25-262"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-03-25
+in_force_from: 1997-05-01
+last_amended: 2019-01-01
+last_amended_by: "forskrift/2018-06-20-935 fra 2019-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "Avd I 1997 631"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-03-25-262"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om forsikring for tillegg til sykepenger for frilansere
+
+> Hjemmel: Fastsatt av Sosial- og helsedepartementet 25. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 8-39 sjette ledd og § 23-6 bokstav c.Endret ved forskrifter 18 des 2003 nr. 1612, 30 juni 2006 nr. 790, 15 april 2015 nr. 377, 20 juni 2018 nr. 935.
+
+## § 1. Premie og premiegrunnlag
+
+Forsikringen gjelder fra den dagen Arbeids- og velferdsetaten mottar søknaden, dersom frilanseren betaler forsikringspremien innen 14 dager etter at vedkommende har fått melding om vedtaket.
+
+Premien fastsettes i prosent av forventet årsinntekt som frilanser, jf. folketrygdloven § 8-38 femte ledd (premiegrunnlaget). Høyeste premiegrunnlag er seks ganger grunnbeløpet, jf. folketrygdloven § 8-10 andre ledd. Forsikringsåret løper fra 1. januar til 31. desember.
+
+Premien beregnes per kalenderuke. Med kalenderuke menes etter disse reglene 1/26 halvår. Premien betales forskuddsvis til Arbeids- og velferdsetaten for minst et halvt år om gangen.
+
+*Endret ved forskrifter 30 juni 2006 nr. 790 (i kraft 1 juli 2006), 15 april 2015 nr. 377, 20 juni 2018 nr. 935 (i kraft 1 jan 2019, se endringsforskriften for overgangsregel).*
+
+## § 2. Endring av premiegrunnlaget
+
+Arbeids- og velferdsetaten skal hvert år foreta en ny fastsetting av premiegrunnlaget. Endring av premiegrunnlaget skjer med virkning fra 1. januar.
+
+Når grunnbeløpet endres, jf folketrygdloven § 1-4, skal premiegrunnlaget endres fra og med neste forsikringshalvår. Dersom en frilanser blir sykmeldt mellom det tidspunktet grunnbeløpet blir endret og utløpet av forsikringshalvåret, skal forsikringspremien endres fra det tidspunktet grunnbeløpet blir endret.
+
+*Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006), 20 juni 2018 nr. 935 (i kraft 1 jan 2019, se endringsforskriften for overgangsregel).*
+
+## § 3. Premiesatser
+
+Premiesatsene fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjøres i melding til Arbeids- og velferdsetaten.
+
+*Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).*
+
+## § 4. Premiefritak
+
+Premie betales ikke for de hele kalenderuker da en frilanser
+
+- a. er arbeidsufør på grunn av sykdom uten å ha rett til tilleggssykepenger fra forsikringen, jf. folketrygdloven § 8-39 andre ledd,
+- b. er sykemeldt i mer enn 16 dager,
+- c. har mistet retten til sykepenger etter folketrygdloven § 8-54.
+
+*Endret ved forskrift 18 des 2003 nr. 1612.*
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.

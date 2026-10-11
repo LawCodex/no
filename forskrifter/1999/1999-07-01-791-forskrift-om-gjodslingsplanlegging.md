@@ -1,0 +1,107 @@
+---
+title: "Forskrift om gjødslingsplanlegging"
+identifier: "FOR-1999-07-01-791"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1999-07-01
+in_force_from: 1999-07-01
+last_amended: 2025-02-01
+last_amended_by: "forskrift/2025-01-29-106 fra 2025-02-01"
+ministry: "Landbruks- og matdepartementet"
+published_in: "Avd I 1999 1955"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1999-07-01-791"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gjødslingsplanlegging
+
+> Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 1. juli 1999 etter samråd med Norges Bondelag og Norsk Bonde- og Småbrukarlag og med hjemmel i lov av 12. mai 1995 nr. 23 om jord (jordlova) § 3 og § 18.Endret ved forskrifter 30 juni 2000 nr. 707, 5 juli 2000 nr. 760, 24 juni 2002 nr. 707, 3 sep 2014 nr. 1144, 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 19 mai 2023 nr. 711, 29 jan 2025 nr. 106 (i kraft 1 feb 2025).
+
+## § 1. Formål
+
+Gjødslingsplanlegging har som formål å gi grunnlag for kvalitetsmessig god avling, begrense avrenning til vassdrag og tap til luft av næringsstoffer fra jordbruksarealer. Gjødslingsplanlegging skal sikre en ressursmessig riktig utnytting av næringsstoffer i jordsmonnet og fra mineralgjødsel, husdyrgjødsel, slam og annen organisk og uorganisk gjødsel.
+
+## § 2. Virkeområde
+
+Forskriften gjelder til og med vekstsesongen 2025 og for alle foretak som disponerer jordbruksareal med planteproduksjon og som har rett til produksjonstilskudd etter § 2 og § 4 i forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket.
+
+*Endret ved forskrifter 5 juli 2000 nr. 760 (i kraft 1 juli 2000), 24 juni 2002 nr. 707 (i kraft 1 juli 2002), 19 mai 2023 nr. 711, 29 jan 2025 nr. 106 (i kraft 1 feb 2025).*
+
+## § 3. Gjødslingsplan
+
+- 1\. Det skal utarbeides gjødslingsplan før hver vekstsesong. Foretak som disponerer husdyrgjødsel fra mer enn 5 gjødseldyrenheter skal ha en årlig gjødslingsplan. For foretak som har en enkel driftsform, liten variasjon i arealbruken eller ekstensiv driftsform, slik at gjødslingsbehovet varierer svært lite for de enkelte skiftene fra år til år, kan gjødslingsplanen vare i inntil 5 år når dette godkjennes av kommunen.
+
+- 2\. Gjødslingsplanen skal omfatte alt jordbruksareal som foretaket disponerer, jf. forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket.
+
+- 3\. Representative jordprøver skal i hovedsak tas hvert 4. – 8. år, og det skal minimum rekvireres analyser for pH, fosfor, kalium, glødetap eller gis skjønnsmessig vurdering av moldinnhold. Jordprøvene skal analyseres ved et laboratorium som deltar i og har bestått ringtest for jordanalyser. For jordleie skal det foreligge jordprøver senest 2. året i leieavtalen, ev. 2. året på rad med ett års leiekontrakt.
+
+- 4\. Foretak med husdyr, eller foretak som får tilført husdyrgjødsel, slam eller annen organisk gjødsel, skal beregne forsvarlig mengde forbruk av dette for kommende vekstsesong. I gjødslingsplanen skal denne mengden fordeles på jordbruksarealet i henhold til foretakets spredeareal og slamplan.
+
+- 5\. Gjødslingsplanen skal inneholde en kartskisse, med oppgitt målestokk, som tydelig viser skifteinndelingen. Planen skal settes opp skiftevis, og følgende opplysninger skal oppgis for hvert enkelt skifte:
+
+  - a. Jordbruksareal i dekar
+
+  - b. Jordart og jordanalyser for pH, fosfor, kalium og moldinnhold
+
+  - c. Fôrgrøde
+
+  - d. Årets vekst
+
+  - e. Forventa avlingsnivå pr. dekar
+
+  - f. Årets gjødslingsbehov for nitrogen, fosfor og kalium pr. dekar
+
+  - g. Husdyrgjødsel, slam og annen organisk gjødsel
+
+    - 1\. Type
+    - 2\. Mengde pr. dekar og antatt spredetidspunkt.
+
+  - h. Mineralgjødsel
+
+    - 1\. Type
+    - 2\. Mengde pr. dekar og antatt spredetidspunkt.
+
+- 6\. Gjødslingsbehovet skal avpasses etter følgende kriterier:
+
+  - a. Jordprøveresultater for fosfor, kalium og moldinnhold
+  - b. Vekst og gjødslingsnormer for distriktet
+  - c. Avlingsnivå ut i fra egne dokumenter eller anslåtte erfaringer for hvert enkelt skifte
+  - d. Fôrgrøde.
+
+- 7\. Dersom vekstforholda avviker fra de forutsetningene som var når gjødslingsplanen ble laget, skal gjødslingsplanen justeres i samsvar med behovet.
+
+*Endret ved forskrifter 5 juli 2000 nr. 760 (i kraft 1 juli 2000), 24 juni 2002 nr. 707 (i kraft 1 juli 2002), 19 mai 2023 nr. 711.*
+
+## § 4. Kontroll
+
+Kommunen eller den Landbruksdirektoratet gir myndighet, skal kontrollere at gjødslingsplan foreligger og at den tilfredsstiller de krav som forskriften setter. § 10 i forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket gjelder tilsvarende.
+
+*Endret ved forskrifter 5 juli 2000 nr. 760 (i kraft 1 juli 2000), 24 juni 2002 nr. 707 (i kraft 1 juli 2002), 3 sep 2014 nr. 1144, 19 mai 2023 nr. 711.*
+
+## § 5. Dispensasjon
+
+Landbruksdirektoratet, eller den Landbruksdirektoratet gir myndighet, kan i særlige tilfeller dispensere fra forskriften. Kommunen kan dispensere fra kravet om gjødslingsplan for foretak med jordbruksarealer som drives svært ekstensivt.
+
+*Endret ved forskrifter 30 juni 2000 nr. 707 (i kraft 1 juli 2000), 5 juli 2000 nr. 760 (i kraft 1 juli 2000), 24 juni 2002 nr. 707 (i kraft 1 juli 2002), 3 sep 2014 nr. 1144.*
+
+## § 6. Klage
+
+Enkeltvedtak som er fattet i medhold av denne forskriften kan påklages etter lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kap. VI. Statsforvalteren er klageinstans.
+
+*Endret ved forskrifter 24 juni 2002 nr. 707 (i kraft 1 juli 2002), 21 des 2020 nr. 3044 (i kraft 1 jan 2021).*
+
+## § 7. (Opphevet)
+
+*Opphevet ved forskrift 24 juni 2002 nr. 707 (i kraft 1 juli 2002).*
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 1999. Samtidig oppheves følgende forskrift:
+
+- Forskrift for gjødslingsplanlegging av 18. august 1995 nr. 1213 fastsatt av Landbruksdepartementet.
+
+*Endret ved forskrift 5 juli 2000 nr. 760 (i kraft 1 juli 2000).*

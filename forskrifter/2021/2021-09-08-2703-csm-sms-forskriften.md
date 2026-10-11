@@ -1,0 +1,50 @@
+---
+title: "Forskrift om gjennomføring av forordning (EU) 2018/762 om felles sikkerhetsmetode for krav til sikkerhetsstyringssystemer (CSM SMS-forskriften)"
+short_title: "CSM SMS-forskriften"
+identifier: "FOR-2021-09-08-2703"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2021-09-08
+in_force_from: "2022-06-01, 2025-10-31"
+last_amended: 2025-02-13
+last_amended_by: "forskrift/2025-02-13-213"
+ministry: "Samferdselsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2021-09-08-2703"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gjennomføring av forordning (EU) 2018/762 om felles sikkerhetsmetode for krav til sikkerhetsstyringssystemer (CSM SMS-forskriften)
+
+> Hjemmel: Fastsatt av Statens jernbanetilsyn 8. september 2021 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 4, § 5, § 5b, § 6, § 12 og § 16 og forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 4 og § 5. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 42ib (forordning (EU) 2018/762 som endret ved forordning (EU) 2020/782). Endret ved forskrift 27 sep 2021 nr. 2895, meddelelse 6 mai 2022 nr. 796 (ikrafttredelse), forskrift 13 feb 2025 nr. 213 (tittel).
+
+## § 1.
+
+EØS-avtalen vedlegg XIII nr. 42ib forordning (EU) 2018/762 av 8. mars 2018, som endret ved forordning (EU) 2020/782, om felles sikkerhetsmetode for krav til sikkerhetsstyringssystemer i henhold til direktiv (EU) 2016/798, og som opphever forordninger (EU) nr. 1158/2010 og (EU) nr. 1169/2010, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 27 sep 2021 nr. 2895.*
+
+## § 2.
+
+Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften.
+
+## § 3.
+
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning (EU) 2018/762 av 16. februar 2018, som endret av forordning (EU) 2020/782, inn i EØS-avtalen trer i kraft.[^1]
+
+Fra 31. oktober 2025 oppheves:
+
+- forskrift 2. desember 2011 nr. 1177 om gjennomføring av kommisjonsforordning (EU) nr. 1158/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetssertifikat for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetssertifikat), og
+- forskrift 2. desember 2011 nr. 1176 om gjennomføring av kommisjonsforordning (EU) nr. 1169/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetsgodkjenning for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetsgodkjenning).
+
+[^1]: Fra 1 juni 2022 jf. meddelelse 6 mai 2022 nr. 796.
+
+## Forordninger
+
+Forordningene er gyldige på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning (EU) 2018/762 se her: (pdf)
+
+For å lese engelsk versjon av forordning (EU) 2020/782 se her: (pdf)

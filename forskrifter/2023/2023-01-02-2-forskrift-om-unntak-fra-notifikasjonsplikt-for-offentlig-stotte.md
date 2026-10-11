@@ -1,0 +1,46 @@
+---
+title: "Forskrift om unntak fra notifikasjonsplikt for offentlig støtte"
+identifier: "FOR-2023-01-02-2"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2023-01-02
+in_force_from: 2023-01-02
+last_amended: 2025-10-28
+last_amended_by: "forskrift/2025-10-28-2211"
+ministry: "Nærings- og fiskeridepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2023-01-02-2"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om unntak fra notifikasjonsplikt for offentlig støtte
+
+> Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 2. januar 2023 med hjemmel i lov 4. mars 2022 nr. 7 om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven) § 4 tredje ledd jf. § 6 andre ledd.EØS-henvisninger: EØS-avtalen vedlegg XV nr. 1ea (forordning (EU) 2023/2831), nr. 1h (beslutning 2012/21/EU), nr. 1ha (forordning (EU) 2023/2832), nr. 1j (forordning (EU) nr. 651/2014 endret ved forordning (EU) 2017/1084, forordning (EU) 2020/972, forordning (EU) 2021/1237, forordning (EU) 2023/1315). Endret ved forskrifter 8 des 2023 nr. 1984 (i kraft 11 des 2023), 3 mai 2024 nr. 761 (i kraft 10 mai 2024), 11 nov 2024 nr. 2745, 28 okt 2025 nr. 2211.
+
+## § 1.
+
+EØS-avtalen vedlegg XV nr. 1j (forordning (EU) nr. 651/2014 som endret ved forordning (EU) 2017/1084, forordning (EU) 2020/972, forordning (EU) 2021/1237 og forordning (EU) 2023/1315) om erklæring av visse støttekategoriers forenlighet med det indre marked i henhold til artikkel 107 og 108 i traktaten om Den europeiske unions virkemåte gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 8 des 2023 nr. 1984 (i kraft 11 des 2023).*
+
+## § 2.
+
+EØS-avtalen vedlegg XV nr. 1ea (forordning (EU) 2023/2831) om anvendelsen av artikkel 107 (1) i traktaten om Den europeiske unions virkemåte på bagatellmessig støtte gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrifter 3 mai 2024 nr. 761 (i kraft 10 mai 2024), 11 nov 2024 nr. 2745.*
+
+## § 3.
+
+EØS-avtalen vedlegg XV nr. 1h (kommisjonsbeslutning 2012/21/EU av 20. desember 2011) om anvendelsen av artikkel 106 (2) i traktaten om Den europeiske unions virkemåte på statsstøtte i form av godtgjøring for offentlig tjenesteyting til visse foretak som er tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 4.
+
+EØS-avtalen vedlegg XV nr. 1ha (forordning (EU) 2023/2832) om anvendelsen av artikkel 107 og 108 i traktaten om Den europeiske unions virkemåte på bagatellmessig støtte til foretak som yter tjenester av allmenn økonomisk betydning gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrifter 3 mai 2024 nr. 761 (i kraft 10 mai 2024), 28 okt 2025 nr. 2211.*
+
+## § 5.
+
+Forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte.

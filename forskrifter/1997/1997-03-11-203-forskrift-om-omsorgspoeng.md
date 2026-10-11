@@ -1,0 +1,59 @@
+---
+title: "Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn"
+short_title: "Forskrift om omsorgspoeng – barn"
+identifier: "FOR-1997-03-11-203"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-03-11
+in_force_from: 1997-05-01
+last_amended: 2010-11-30
+last_amended_by: "forskrift/2010-11-30-1501"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "Avd I 1997 518"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-03-11-203"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn
+
+> Hjemmel: Fastsatt av Sosial- og helsedepartementet 11. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 3-16 fjerde ledd.Endret ved forskrifter 24 jan 2000 nr. 59, 30 juni 2006 nr. 790, 1 mars 2010 nr. 253, 30 nov 2010 nr. 1501.
+
+## § 1. Omsorgsyter
+
+Med omsorgsyter menes en person som har den daglige omsorgen for barn og foreldreansvaret etter barneloven. Det samme gjelder en person med den daglige omsorgen for fosterbarn etter barnevernloven.
+
+Som omsorgsyter kan også regnes annen omsorgsperson dersom det godtgjøres at vedkommende har hatt den faktiske og daglige omsorgen for barnet eller barna i minst halve kalenderåret.
+
+*Endret ved forskrift 1 mars 2010 nr. 253.*
+
+## § 2. Tildeling av omsorgspoeng
+
+Omsorgspoeng på grunnlag av omsorgen for ett barn eller for flere barn som bor sammen, gis bare én omsorgsyter for det enkelte kalenderår. Når en omsorgsyter gis omsorgspoeng i et år, kan en annen omsorgsyter først gis omsorgspoeng for det påfølgende kalenderåret.
+
+En person som mottar barnetrygd for barnet alene gis omsorgspoeng uten å sette fram krav om det.
+
+Når barnet eller barna bor skiftevis og tilnærmet like lenge hos mor og far, og begge omsorgsyterne hver måned får en del av barnetrygden eller får ytelsen utbetalt i tilnærmet lik lang periode av året, må omsorgsyterne sette fram krav om omsorgspoeng med opplysning om hvem av omsorgsyterne som skal ha omsorgspoengene for kalenderåret.
+
+Dersom det ikke ytes barnetrygd for barnet eller barna, må det settes fram krav om omsorgspoeng med opplysning om hvem av omsorgsyterne som skal ha omsorgspoengene. Omsorgsforholdet må dokumenteres.
+
+Pliktige eller frivillige medlemmer av folketrygden som oppholder seg utenlands må sette fram krav om omsorgspoeng.
+
+Dersom flere omsorgsytere setter fram krav om omsorgspoeng for samme år, gis omsorgspoengene til den av dem med lavest pensjonsgivende inntekt i vedkommende år. Hvis ingen av dem har pensjonsgivende inntekt, gis omsorgspoengene til den med lavest ytelse fra folketrygden.
+
+*Endret ved forskrift 1 mars 2010 nr. 253.*
+
+## § 3. Overføring av omsorgspoeng mellom omsorgsyterne
+
+Omsorgsytere som i et år var sammen om omsorgen for ett eller flere barn, kan overføre omsorgspoengene for dette året til den av dem som ikke er barnetrygdmottaker. Dette gjelder ikke når poengene for omsorgsarbeidet inngår i beregningsgrunnlaget for en alderspensjon, uførepensjon eller avtalefestet pensjon som allerede har blitt eller blir utbetalt. Omsorgspoeng etter paragrafen her kan bare overføres dersom omsorgsopptjening samtidig overføres etter forskrift gitt i medhold av folketrygdloven § 20-8 eller § 20-21.
+
+*Endret ved forskrifter 24 jan 2000 nr. 59 (med virkning fra 1 jan 1992), 1 mars 2010 nr. 253 (for krav om omsorgspoeng som har blitt satt fram etter 1. januar 2010, gjelder likevel ikke fristen som fulgte av forskriftens tidligere § 3), 30 nov 2010 nr. 1501.*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.
+
+*Endret ved forskrift 1 mars 2010 nr. 253 (tidligere § 5).*

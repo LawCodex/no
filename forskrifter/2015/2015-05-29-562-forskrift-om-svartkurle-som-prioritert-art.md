@@ -1,0 +1,59 @@
+---
+title: "Forskrift om svartkurle (Nigritella nigra) som prioritert art"
+short_title: "Forskrift om svartkurle som prioritert art"
+identifier: "FOR-2015-05-29-562"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2015-05-29
+in_force_from: 2015-05-29
+last_amended: 2021-11-01
+last_amended_by: "forskrift/2021-10-08-2958 fra 2021-11-01"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2015 hefte 5"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2015-05-29-562"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om svartkurle (Nigritella nigra) som prioritert art
+
+> Hjemmel: Fastsatt ved kgl.res. 29. mai 2015 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 23, § 24, § 62 og § 77. Fremmet av Klima- og miljødepartementet.Endret ved forskrift 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).
+
+## § 1. Svartkurle som prioritert art
+
+Svartkurle (*Nigritella nigra*) utpekes som prioritert art.
+
+## § 2. Formål
+
+Formålet med forskriften er å ivareta svartkurle i samsvar med forvaltningsmålet for arter i naturmangfoldloven § 5 første ledd.
+
+## § 3. Forbud mot uttak, skade og ødeleggelse
+
+Enhver form for uttak, skade eller ødeleggelse av svartkurle er forbudt. Som ødeleggelse regnes gjødsling, nydyrking, nedbygging og andre handlinger dersom de er egnet til å skade, tildekke eller på annen måte forringe forekomster av arten.
+
+## § 4. Skjøtsel
+
+Forvaltningsmyndigheten, eller den forvaltningsmyndigheten har inngått avtale med, fortrinnsvis grunneier, kan iverksette tiltak i samsvar med naturmangfoldloven § 47, jf. § 24 andre ledd, for å opprettholde eller oppnå den natur- eller kulturtilstanden som er nødvendig for å sikre bevaring av arten.
+
+## § 5. Forvaltningsmyndighet
+
+Statsforvalteren er forvaltningsmyndighet etter forskriften.
+
+*Endret ved forskrift 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).*
+
+## § 6. Dispensasjon
+
+Statsforvalteren kan, etter søknad, gjøre unntak fra forbudet i § 3 i samsvar med naturmangfoldloven § 24 femte ledd. Gjelder søknaden flere fylker, behandles den av Miljødirektoratet.
+
+Ved søknad om dispensasjon fra forskriften, kan forvaltningsorganet kreve at følgene av det planlagte tiltaket for arten klarlegges, i samsvar med naturmangfoldloven § 24 første ledd bokstav c.
+
+*Endret ved forskrift 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).*
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Fra samme tidspunkt gjøres følgende endring i forskrift 21. desember 2001 nr. 1525 om fredning av truede arter: I vedlegg til forskriften slettes ordene «– Svartkurle *(Nigritella nigra)*».

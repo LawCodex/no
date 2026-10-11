@@ -1,0 +1,29 @@
+---
+title: "Forskrift om dispensasjon fra taushetsplikten i arbeids- og velferdsforvaltningsloven § 7."
+short_title: "Forskrift om disp. fra taushetsplikten i NAV"
+identifier: "FOR-2007-04-30-460"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2007-04-30
+in_force_from: 2007-04-30
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2007 hefte 5"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2007-04-30-460"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om dispensasjon fra taushetsplikten i arbeids- og velferdsforvaltningsloven § 7.
+
+> Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 30. april 2007 med hjemmel i lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) § 7 tredje ledd.
+
+## § 1.
+
+Opplysninger om hvilke ytelser en person mottar fra Arbeids- og velferdsetaten, og størrelsen på disse ytelsene, kan uten hinder av taushetsplikten i arbeids- og velferdsforvaltningsloven § 7 første ledd gis til de alminnelige namsmyndighetene og til særnamsmyndigheter til bruk under tvangsfullbyrdelse mot vedkommende.
+
+## § 2.
+
+Forskriften her trer i kraft straks.

@@ -1,0 +1,24 @@
+---
+title: "Regler for fastsettelse av krigsskueplass i overensstemmelse med lov om særlige rådgjerder under krig § 6"
+identifier: "FOR-1959-09-11-5036"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1959-09-11
+in_force_from: 1959-09-11
+ministry: "Forsvarsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1959-09-11-5036"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Regler for fastsettelse av krigsskueplass i overensstemmelse med lov om særlige rådgjerder under krig § 6
+
+> Hjemmel: Fastsatt ved kgl.res. 11. september 1959 med hjemmel i lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold § 6 annet ledd og § 18 annet ledd. Fremmet av Forsvarsdepartementet. Endret ved res 8 des 1967 (endring av nr. 2, ikke kunngjort i Norsk Lovtidend).
+
+1\. Forsvarsministeren bemyndiges til å treffe bestemmelse om hvilke områder som skal regnes for krigsskueplass, dersom Kongen på grunn av utilstrekkelig tid og fordi saken haster, selv er avskåret fra å treffe slik bestemmelse. Forsvarsministerens bestemmelse skal snarest mulig legges frem for Kongen.
+
+2\. Krigsskueplassen fastsettes til områder hvor krigshandlinger foregår eller antas å være nært forestående, dog mest mulig begrenset til områder hvor de militære myndigheter ikke lenger kan regne med å få den bistand fra de sivile myndigheter som de trenger for å fremme og trygge militære operasjoner og forsyninger. Grensene for krigsskueplass bør i størst mulig utstrekning følge grensene for den gjeldende administrative inndeling.
+
+3\. Hvis landet plutselig blir utsatt for et væpnet angrep av et slikt omfang at krigstilstand åpenbart er inntrådt, skal den eller de landmilitære distriktskommandoer som direkte berøres av kamphandlingene, uten videre anses som krigsskueplass inntil den nærmere avgrensning av krigsskueplassen foretas.

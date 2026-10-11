@@ -1,0 +1,204 @@
+---
+title: "Forskrift om fredning av Bjørnøya naturreservat på Svalbard"
+short_title: "Forskrift om fredning av Bjørnøya naturreservat"
+identifier: "FOR-2002-08-16-903"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2002-08-16
+in_force_from: 2002-08-16
+last_amended: 2025-01-01
+last_amended_by: "forskrift/2024-02-09-230 fra 2025-01-01"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2002 hefte 10"
+applies_to: "Svalbard"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2002-08-16-903"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om fredning av Bjørnøya naturreservat på Svalbard
+
+> Hjemmel: Fastsatt ved kgl.res. 16. august 2002 med hjemmel i lov av 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 12 og § 17. Fremmet av Miljøverndepartementet.Endret ved forskrifter 12 des 2008 nr. 1345, 19 nov 2010 nr. 1457, 15 mars 2013 nr. 284, 19 des 2013 nr. 1757, 3 des 2021 nr. 3395, 9 feb 2024 nr. 230 (i kraft 1 jan 2025).
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. (fredning)
+
+Bjørnøyas landområder med territorialfarvannet ut til 12 nautiske mil er fredet som naturreservat under betegnelsen Bjørnøya naturreservat.
+
+*Endret ved forskrift 19 nov 2010 nr. 1457.*
+
+### § 2. (avgrensning og omfang)
+
+Det fredete området omfatter
+
+- a. hele øya, med unntak av et mindre landareal omkring stasjonen i nord, og
+- b. territorialfarvannet ut til 12 nautiske mil.
+
+Naturreservatet utgjør ca. 177 km<sup>2</sup> landareal (inkludert ferskvann) og ca. 2805 km<sup>2</sup> marint areal. Grensen for reservatet fremgår av vedlagte kart i målestokk 1:350 000 og 1:50 000, datert Miljøverndepartementet desember 2008. De nøyaktige grensene for reservatet skal avmerkes der de går over land og knekkpunktene skal koordinatbestemmes.
+
+Kartet oppbevares hos Sysselmesteren på Svalbard, i Miljødirektoratet og i Klima- og miljødepartementet.
+
+*Endret ved forskrifter 12 des 2008 nr. 1345, 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 19 des 2013 nr. 1757 (i kraft 1 jan 2014), 3 des 2021 nr. 3395.*
+
+### § 3. (formål)
+
+Formålet med fredningen er å bevare en tilnærmet uberørt og i verdenssammenheng unik isolert øy, med særegent økologisk system, storslått natur, spesiell geologi, flora og fauna, særegne landformer og mange kulturminner, herunder spesielt ivareta
+
+- a. øya som nøkkelområde for sjøfugl, inkludert sårbare arter, i Barentshavet,
+- b. øya som rastelokalitet for trekkende fugl,
+- c. den nære sammenhengen mellom livet i havet og på land,
+- d. den særegne økologien som utvikles på isolerte øyer og
+- e. det historiske perspektivet som kulturminner fra alle hovedepokene i Svalbards historie representerer.
+
+## Kapittel II. Fredningsbestemmelser
+
+### § 4. (landskap/natur- og kulturmiljø)
+
+Det må ikke iverksettes inngrep/tiltak som kan endre natur- eller kulturmiljøet, som for eksempel oppføring av bygninger, anlegg og faste innretninger, hensetting av brakker og lignende, fremføring av ledninger og kabler, uttak, oppfylling, flytting og lagring av masse, planering, skraping av havbunnen eller jordoverflaten, drenering eller annen form for tørrlegging, boring, sprengning eller lignende eller uttak av mineraler eller olje.
+
+Bestemmelsen er ikke til hinder for bruk av tillatte fiske- eller fangstredskaper.
+
+### § 5. (planter, dyr og fossiler)
+
+Dyr, planter og andre levende organismer er fredet mot skade, ødeleggelse og forstyrrelse av enhver art som ikke skyldes tillatt ferdsel. Fossiler eller skjelettdeler må ikke fjernes eller skades.
+
+Unntatt fra første ledd er fiske i sjøen og fangst av ikke stedegne sjøpattedyr, som reguleres i henhold til forskrifter gitt av Fiskeri- og kystdepartementet.
+
+Sjøfiske med stang eller håndsnøre er tillatt.
+
+Plante- og dyrearter, herunder genmodifiserte arter eller former, må ikke innføres.
+
+*Endret ved forskrift 12 des 2008 nr. 1345.*
+
+### § 5a. (forbud mot ubemannede luftfartøy (droner) mv.)
+
+Det er forbudt å bruke ubemannede fartøy (droner) og andre fjernstyrte eller autonome ubemannede innretninger i luften, på bakken, på og under vann.
+
+*Tilføyd ved forskrift 9 feb 2024 nr. 230 (i kraft 1 jan 2025).*
+
+### § 6. (kulturminner)
+
+Kulturminner er fredet i henhold til kapittel V i lov om miljøvern på Svalbard.
+
+### § 7. (forurensning)
+
+All forurensning til luft, vann eller grunnen som medfører eller kan medføre skade eller ulempe for miljøet er forbudt, med unntak av forurensning som skyldes tillatt motorisert ferdsel.
+
+Henleggelse eller tømming av avfall er forbudt.
+
+Stoffer og gjenstander som kan skade planter og dyr, som er skjemmende eller som kan medføre fare for forurensning må ikke lagres eller etterlates.
+
+### § 8. (ferdsel)
+
+Landing med luftfartøy er forbudt. Luftfartøy skal holde en minstehøyde på 500 meter over reservatet når værforholdene tillater det.
+
+I tiden fra og med 1. april til og med 31. august er det forbudt å fly nærmere enn 1 nautisk mil fra kjente konsentrasjoner av fugl og pattedyr. I samme periode er det forbudt å bruke skipsfløyte, løsne skudd eller på annen måte forårsake kraftig støy i eller innen en avstand av 1 nautisk mil fra fuglefjell.
+
+Bruk av terrenggående kjøretøy er forbudt.
+
+Forbudet i tredje ledd er ikke til hinder for
+
+- a. ferdsel med snøscooter på frossen og snødekt mark for transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn ved stasjonen, eller
+- b. ferdsel med snøscooter på frossen og snødekt mark i forbindelse med transport av nødvendig utstyr for vedlikehold av kommunikasjonsmaster og radiofyr sør, sørøst og øst for stasjonen.
+
+### § 8a. (ferdsel og opphold på land)
+
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet.
+
+Det skal holdes tilstrekkelig avstand til
+
+- a. dyrelivet for å unngå unødige forstyrrelser og
+- b. fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+
+*Tilføyd ved forskrift 9 feb 2024 nr. 230 (i kraft 1 jan 2025).*
+
+### § 8b. Passasjerbegrensning på skip
+
+Skip som anløper sjøområdene i naturreservatene kan ikke ha flere enn 200 passasjerer ombord.
+
+*Tilføyd ved forskrift 9 feb 2024 nr. 230 (i kraft 1 jan 2025).*
+
+### § 9. (ferdselsforbud i spesielle soner)
+
+I og nær de store fuglekoloniene er enhver form for ferdsel forbudt til lands og til vanns i tiden fra og med 1. april til og med 31. august.
+
+Forbudet er ikke til hinder for
+
+- a. ferdsel til vanns med båter på inntil 40 fot. Slike båter kan ikke ha høyere hastighet enn 5 knop nærmere enn 500 meter fra land
+- b. ferdsel i forbindelse med bruk av området som nødhavn.
+
+I et område nordøst på øya er enhver form for ferdsel på land og i ferskvann forbudt i perioden fra og med 15. juni til og med 31. august av hensyn til hekkende fugl.
+
+Sonene med ferdselsforbud er inntegnet på vernekartet.
+
+*Endret ved forskrift 9 feb 2024 nr. 230 (i kraft 1 jan 2025).*
+
+### § 10. (regulering av ferdsel)
+
+Miljødirektoratet kan ved forskrift forby eller regulere enhver ferdsel i hele eller deler av reservatet, dersom det anses nødvendig for å unngå forstyrrelse av dyrelivet eller slitasje på vegetasjon eller kulturminner.
+
+*Endret ved forskrift 15 mars 2013 nr. 284 (i kraft 1 juli 2013).*
+
+## Kapittel III. Unntak, tillatelse og dispensasjon
+
+### § 11. (utrykning og oppsyn)
+
+Bestemmelsene i kapittel II er ikke til hinder for gjennomføring av tiltak i oppsyns- og forvaltningsøyemed eller i forbindelse med politi-, kystvakt-, rednings- eller ambulansevirksomhet.
+
+### § 12. (særskilt tillatelse)
+
+Forvaltningsmyndigheten kan etter søknad gi tillatelse til
+
+- a. nødvendig transport av materiell og personer i forbindelse med vedlikehold av etablerte bygninger, anlegg og installasjoner,
+- b. nødvendig transport av brensel og forsyninger til hyttene og
+- c. nødvendig opprensking av forurenset grunn.
+- d. bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i § 5a for andre formål enn fritids- og hobbyformål.
+
+*Endret ved forskrift 9 feb 2024 nr. 230 (i kraft 1 jan 2025).*
+
+### § 13. (dispensasjon fra fredningsbestemmelsene)
+
+Når vitenskapelige eller særlige grunner, eksempelvis lagring av sikkerhets- og beredskapsutstyr, og etablering og vedlikehold av nødvendige navigasjonshjelpemidler og styringssystemer for petroleumsproduksjon i forbindelse med eventuell fremtidig leteboring eller drift av petroleumsfelt i havområdene utenfor Bjørnøya taler for det, kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i kapittel II, dersom det ikke strider mot fredningsforskriftens formål eller ikke vil påvirke verneverdiene nevneverdig.
+
+## Kapittel IV. Avsluttende bestemmelser
+
+### § 14. (forvaltningstiltak)
+
+Forvaltningsmyndigheten, eller den forvaltningsmyndigheten bestemmer, kan gjennomføre forvaltningstiltak for å fremme formålet med fredningen. Det kan utarbeides en forvaltningsplan med nærmere retningslinjer for gjennomføring av slike tiltak. Planen skal godkjennes av Miljødirektoratet etter samråd med Riksantikvaren.
+
+*Endret ved forskrift 15 mars 2013 nr. 284 (i kraft 1 juli 2013).*
+
+### § 15. (forvaltningsmyndighet)
+
+Sysselmesteren på Svalbard er forvaltningsmyndighet etter denne forskrift.
+
+*Endret ved forskrift 3 des 2021 nr. 3395.*
+
+### § 16. (straff)
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes med bøter eller med fengsel inntil 1 år. Er det inntrådt eller voldt fare for betydelig miljøskade, eller det for øvrig foreligger særdeles skjerpende omstendigheter kan fengsel inntil 3 år anvendes.
+
+Medvirkning straffes på samme måte.
+
+### § 17. (ikrafttredelse)
+
+Denne forskrift trer i kraft straks.
+
+## Kart
+
+*Bjørnøya naturreservat, Svalbard*
+
+![](https://lovdata.no/static/SF/sf-20020816-0903-01-01.gif)
+
+*Detaljkart – sør med sone A*
+
+![](https://lovdata.no/static/SF/sf-20020816-0903-02-01.gif)
+
+*Detaljkart – nord med sone B*
+
+![](https://lovdata.no/static/SF/sf-20020816-0903-03-01.gif)
+
+*Tilføyd ved forskrift 12 des 2008 nr. 1345.*

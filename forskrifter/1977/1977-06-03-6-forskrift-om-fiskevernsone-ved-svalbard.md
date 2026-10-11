@@ -1,0 +1,85 @@
+---
+title: "Forskrift om fiskevernsone ved Svalbard."
+short_title: "Forskrift om fiskevernsone ved Svalbard"
+identifier: "FOR-1977-06-03-6"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1977-06-03
+in_force_from: 1977-06-15
+last_amended: 2001-03-02
+last_amended_by: "forskrift/2001-03-02-225"
+ministry: "Utenriksdepartementet"
+published_in: "I 1977 508"
+applies_to: "Svalbard"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1977-06-03-6"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om fiskevernsone ved Svalbard.
+
+> Fastsatt ved kgl.res. 3. juni 1977 med hjemmel i lov av 17. desember 1976 nr. 91 om Norges økonomiske sone § 1. Fremmet av Utenriksdepartementet. Endret 12 aug 1994 nr. 802, 16 sep 1994 nr. 874, 13 juli 1995 nr. 643, 19 juli 1996 nr. 704, 2 mars 2001 nr. 225.
+
+## § 1.
+
+Det opprettes en fiskevernsone i havområdene utenfor Svalbard for bevaring av de levende ressurser i havet og regulering av fiske og fangst.
+
+Yttergrensen for fiskevernsonen skal gå i en avstand av 200 nautiske mil (én nautisk mil = 1.852 meter) fra de grunnlinjer som er fastsatt, eller der grunnlinjer ikke er fastsatt, fra linjer som forbinder øygruppenes ytterste punkter.
+
+Fiskevernsonen begrenses videre av yttergrensen for den økonomiske sone utenfor det norske fastland, slik denne er fastsatt ved kgl.res. 17. desember 1976.
+
+Der fiskevernsonen støter opp mot annen stats myndighetsområde, skal grensen trekkes i samsvar med avtale.
+
+## § 2.
+
+Bestemmelsene i § 3 i lov av 17. desember 1976 nr. 91 om Norges økonomiske sone kommer foreløpig ikke til anvendelse i fiskevernsonen.
+
+## § 3.
+
+Fiskeridepartementet gis fullmakt til å fastsette:
+
+- 1\. Forbud mot å drive fiske i nærmere bestemte områder for å beskytte oppveksten av ungfisk og sikre rekruttering til bestandene.
+
+  Forbudet kan gjelde hele året eller deler av året.
+
+- 2\. Bestemmelser om redskapsreguleringer og minstemål for fisk.
+
+- 3\. Største årlige tillatte fangstmengde og fiskeinnsats for hvert enkelt fiskeslag.
+
+  Fangstmengden og fiskeinnsatsen kan på hensiktsmessig måte fordeles over året, og på land som kan delta i fisket.
+
+- 4\. Bestemmelser om hvilke lands fartøy som har adgang til drive fiske.
+
+- 5\. Bestemmelser om registrering og andre vilkår for å delta i fisket.
+
+- 6\. Bestemmelser om maskevidde, dimensjoner og utforming av fiskeredskaper.
+
+- 7\. Bestemmelser om tillatt bifangst.
+
+- 8\. Forbud mot eller regulering av fangstmåter og bruk av redskaper.
+
+- 9\. Forbud mot en bestemt anvendelse av fangsten.
+
+- 10\. Forbud mot å ha bestemte redskaper om bord og oppbevaring av fiskeredskaper som ikke kan nyttes i det område fartøyet befinner seg.
+
+- 11\. Bestemmelser om oppgaveplikt og rapporteringsplikt vedrørende fangstkvantum, fiskeslag, fangsttid, fangstområde, fiskeredskap o.l.
+
+- 12\. Bestemmelser om gjennomføring av kontroll, herunder plikter for fartøyets fører/eier.
+
+- 13\. Bestemmelser om plikt til å ha og anvende bestemt utstyr for kontroll, rapportering og posisjonsbestemmelse. Departementet kan bestemme i hvilken utstrekning fartøy skal dekke kostnadene ved anskaffelse, installasjon og bruk av slikt utstyr.
+
+*Endret ved forskrifter 12 aug 1994 nr. 802, 16 sep 1994 nr. 874, 19 juli 1996 nr. 704, 2 mars 2001 nr. 225.*
+
+## § 4.
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift er gjenstand for straff og inndragning etter bestemmelsene i § 8 og § 9 i lov av 17. desember 1976 nr. 91 om Norges økonomiske sone.
+
+*Endret ved forskrifter 12. aug 1994 nr. 802, 16 sep 1994 nr. 874 (tidligere § 6), 13 juli 1995 nr. 643.*
+
+## § 5.
+
+Disse forskrifter trer i kraft 15. juni 1977.
+
+*Endret ved forskrift 16 sep 1994 nr. 874 (tidligere § 7).*

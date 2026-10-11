@@ -1,0 +1,125 @@
+---
+title: "Forskrift om krystallglass"
+short_title: "Forskrift om krystallglass"
+identifier: "FOR-1997-07-03-773"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-07-03
+in_force_from: 1997-08-01
+ministry: "Barne- og familiedepartementet"
+published_in: "Avd I 1997 1696"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-07-03-773"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om krystallglass
+
+> Hjemmel: Fastsatt av Barne- og familiedepartementet (nå Barne-, likestillings- og inkluderingsdepartementet) 3. juli 1997 med hjemmel i lov 18. desember 1981 nr. 90 om merking av forbruksvarer m.v. § 3.
+
+## § 1. Virkeområde
+
+Denne forskrift får anvendelse på varer etter nummer 70.13 i Tolltariffen som omsettes ved salg eller er beregnet på slik omsetning her i landet. Forskriften omfatter således varer av glass: bordservice, husholdnings-, toalett- og kontorartikler, dekorasjonsgjenstander osv.
+
+## § 2. Krav til merking
+
+Bare varer som omfattes av forskriften og som tilfredsstiller kravene i vedlegg 1 kan merkes med de betegnelser som er nevnt i vedlegg 1. Ved siden av de beskrevne betegnelser kan det også benyttes de symboler som er beskrevet i vedlegg 1. Betegnelser og symboler kan benyttes på samme etikett/merke.
+
+På varer som ikke har de kjennetegn som nevnes i vedlegg 1 er det forbudt å benytte de i vedlegg 1 anførte betegnelser og symboler eller betegnelser eller symboler som kan forveksles med disse.
+
+## § 3. Mer om merking
+
+Dersom en vare som omfattes av denne forskrift, bærer en av betegnelsene gjengitt i vedlegg 1, kan den også bære identifikasjonssymbolet vist og definert i vedlegg 1.
+
+Dersom et varemerke, foretaksnavn eller annen påskrift inneholder enten som hovedledd eller som adjektiv etter rotord, en av de betegnelser fastsatt i vedlegg 1 eller de kan føre til forveksling med disse betegnelser, skal det med tydelig skrift være påført umiddelbart før merket eller foretaksnavnet eller påskriften:
+
+- a. betegnelsen på varen når denne har egenskaper som er angitt i vedlegg 1,
+- b. opplysning om varens materiale, når dette ikke har de egenskaper som er angitt i vedlegg 1.
+
+## § 4. Analysemetoder
+
+Metodene i vedlegg 2 skal benyttes for å fastslå samsvar mellom betegnelsene og identifikasjonssymbolene på den ene side, og egenskapene fastsatt i vedlegg 1.
+
+## § 5. Straff
+
+Overtredelse av denne forskrift straffes med bøter.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. august 1997.
+
+## Vedlegg 1. Liste over krystallglasskategorier
+
+<table><thead><tr><th colspan="2">Betegnelser</th><th colspan="2">Egenskaper</th><th colspan="4">Merking</th></tr><tr><th></th><th></th><th>Metaloksider i prosenter</th><th>Tetthet</th><th>Brytningstall</th><th>Overflatehardhet</th><th>Symbolets form</th><th>Merknader</th></tr></thead><tbody><tr><td>1</td><td>Cristal Superiuer</td><td></td><td></td><td></td><td></td><td></td><td>Runde merker</td></tr><tr><td></td><td>30%</td><td></td><td></td><td></td><td></td><td></td><td>Farge: gull</td></tr><tr><td></td><td>Cristallo Superiore</td><td></td><td></td><td></td><td></td><td></td><td>diameter:</td></tr><tr><td></td><td>30%<sup>[1]</sup></td><td>PbO</td><td></td><td></td><td></td><td></td><td>≥1 cm</td></tr><tr><td></td><td>Hochbleikristall</td><td>≥30%</td><td>≥3,00</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>30%<sup>[1]</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Volloodkristal 30%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Full Lead Crystal</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>30%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Krystall 30%</td><td></td><td></td><td></td><td></td><td></td><td><br></td></tr><tr><td>2</td><td>Cristal au Plomb</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>24%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Cristallo al Plombo</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>24%</td><td>PbO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Bleikristall 24%</td><td>≥24%</td><td>≥2,90</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Loodkristal 24%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Lead Crystal 24%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Krystall 24%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>Krystallin</td><td>ZnO</td><td></td><td></td><td></td><td></td><td>Kvadratiske</td></tr><tr><td></td><td></td><td>BaO</td><td></td><td></td><td></td><td></td><td>merker</td></tr><tr><td></td><td></td><td>K<sub>2</sub> O</td><td>≥2,45</td><td>nD</td><td></td><td></td><td>Farge: sølv</td></tr><tr><td></td><td></td><td>PbO</td><td></td><td>≥1,520</td><td></td><td></td><td>side: ≥1 cm</td></tr><tr><td></td><td></td><td>alene eller sammen</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>≥10%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>Krystallin</td><td>BaO,</td><td></td><td></td><td>Vickers</td><td></td><td>Merker i</td></tr><tr><td></td><td></td><td>PbO,</td><td>≥2,40</td><td></td><td>-550</td><td></td><td>form av</td></tr><tr><td></td><td></td><td>K<sub>2</sub> O</td><td></td><td></td><td></td><td></td><td>en like-</td></tr><tr><td></td><td></td><td>alene eller</td><td></td><td></td><td>± 20</td><td></td><td>sidet trekant.</td></tr><tr><td></td><td></td><td>sammen</td><td></td><td></td><td></td><td></td><td>Farge: sølv</td></tr><tr><td></td><td></td><td>≥10%</td><td></td><td></td><td></td><td></td><td>side: ≥1 cm</td></tr></tbody></table>
+
+[^1]: Tallet angir blyoksidinnholdet i prosent
+
+## Vedlegg 2. Metoder for bestemmelse av de kjemiske og fysiske egenskaper ved krystallgrupper
+
+### 1. Kjemiske analyser
+
+**1.1.** *BaO og PbO*
+
+**1.1.1.** *Bestemmelse av det samlede innholdet av BaO + PbO*
+
+Vei opp med en nøyaktighet på 0,0001 g ca. 0,5 g pulverisert glass, som overføres til en platinaskål. Fukt med vann og tilsett 10 ml 15% svovelsyre og 10 ml hydrogenfluorid. Varm opp i sandbad til det avgis hvit damp. La blandingen avkjøles og behandles på ny med 10 ml hydrogenfluorid. Varm opp inntil det igjen avgis hvit damp. Avkjøl igjen, og skålens vegger skylles av med vann. Varm opp igjen inntil det avgis hvit damp. La blandingen avkjøles og tilsett forsiktig 10 ml vann, og overfør så til et 400 ml begerglass. Skyll skålen flere ganger med en løsning av 10% svovelsyre og tynn ut til 100 ml med samme løsning. Kok i 2 til 3 minutter. La stå over natten.
+
+Filtrer gjennom en filterdigel med porøsitet 4, vask først med en 10% svovelsyreløsning og deretter 2 eller 3 ganger med etanol. Tørk én time ved 150O C i tørkeskap. Vei BaSO<sub>4</sub> + PbSO<sub>4</sub>.
+
+**1.1.2.** *Bestemmelse av BaO*
+
+Vei opp med en nøyaktighet på 0,0001 g ca. 0,5 g pulverisert glass, som overføres til en platinaskål. Fukt med vann og tilsett 10 ml hydrogenfluorid og 5 ml perklorsyre. Varm opp i sandbad til det avgis hvit damp.
+
+La blandingen avkjøles og tilsett igjen 10 ml hydrogenfluorid. Varm opp til det avgis hvit damp på nytt. La blandingen avkjøles og skyll sidene på skålen med destillert vann. Varm opp på nytt og la blandingen dampe inn til den nesten er tørr. Begynn på nytt med 50 ml 10% saltsyre og varm forsiktig opp for å lette oppløsningen. Overfør til et 400 ml begerglass og tynn ut med vann til 200 ml. Kok opp og send en strøm av hydrogensulfid gjennom den varme løsningen. Stans gasstrømmen når bunnfallet av blysulfid har sunket ned til bunnen av begerglasset. Filtreres gjennom et finfilterpapir og vask med kaldt vann mettet med hydrogensulfid.
+
+Kok filtratene og reduser dem om nødvendig til 300 ml ved fordamping. Ha 10 ml av en løsning på 10% svovelsyre i den kokende blandingen. Ta av varmen og la blandingen stå i minst 4 timer.
+
+Filtrer gjennom et finfilterpapir og vask med kaldt vann. Kalsiner bunnfallet ved 1050° C og vei BaSO<sub>4</sub>.
+
+**1.2.** *Bestemmelse av ZnO*
+
+Damp inn filtratet fra utskilling av BaSO<sub>4</sub> slik at mengden reduseres til 200 ml. Nøytraliser med ammoniak med tilstedeværelse av metylrød og tilsett 20 ml N/10 svovelsyre. Juster pH-verdien til 2 (pH-meter) ved å tilsette av enten N/10 svovelsyre eller N/10 natriumhydroksid, alt etter tilfellet, og fell ut sinksulfid kaldt ved å sende en strøm av hydrogensulfid gjennom løsningen. La bunnfallet stå i fire timer, og samle det deretter på et finfilterpapir. Vask med kaldt vann mettet med hydrogensulfid. Løs bunnfallet på filteret ved å helle gjennom det 25 ml av en varm løsning av 10% saltsyre. Vask filteret med kokende vann til det er blitt en mengde på ca. 150 ml. Nøytraliser med ammoniak under tilstedeværelse av lakkmuspapir, tilsett deretter 1-2 g urotropin i fast form for å fiksere pH-verdien ca. 5. Tilsett noen dråper av en nytillaget vannrik oppløsning av 0,5% xylenoloransje og titrer med en N/10 Complexon III til fargen skifter fra lyserød til sitrongul.
+
+**1.3.** *Bestemmelse av K<sub>2</sub> O*
+
+ved utfelling og veiing av kaliumtetrafenylborat
+
+| Fremgangsmåte: | 2 g glass knuses og siktes, og |
+|---|---|
+|  | oppløses deretter i: |
+|  | 2 ml konsentrert HNO<sub>3</sub> |
+|  | 15 ml HCO<sub>4</sub> |
+|  | 25 ml HF |
+
+i platinaskål i vannbad og deretter i sandbad. Når det er avgitt tett damp av perklorsyre (damp inn til tørt) løses blandingen i 20 ml varmt vann og 2-3 ml konsentrert HCL.
+
+Ha det over i en 200 ml målekolbe og fyll opp med destillert vann til volumet er nådd.
+
+*Reagenser:* 6% løsning av natriumtetrafenylborat: løs opp 1,5 g av reagensen i 250 ml destillert vann. Fjern den gjenværende lette uklarheten ved å tilsette 1 g aluminiumhydrat. Rist i 5 minutter og filtrer, og pass på å filtrere de første 20 ml på nytt gjennom filteret.
+
+*Løsning til vasking av bunnfallet:* Litt kaliumsalt fremstilt ved til 0,1 g KCL i 50 ml N/10 HCl helles opp i en løsning av tetrafenylborat under omrøring inntil bunnfallet opphører. Filtrer gjennom sinter. Vask med destillert vann. Tørk i en eksikkator ved romtemperatur. Ha deretter 20-30 mg av dette saltet i 250 ml destillert vann. Rør om av og til. Etter 30 minutter tilsettes 0,5-1 g aluminiumhydrat. Rør i noen minutter. Filtrer.
+
+*Fremgangsmåte:* Ta en del av saltsyreoppløsningen som tilsvarer ca. 10 mg K<sub>2</sub> O. Fortynn til ca. 100 ml. Hell sakte oppi reagensløsningen, ca. 10 ml pr. 5 mg med antatt K<sub>2</sub> O, under forsiktig omrøring. La hvile i høyst 15 minutter og filtrer i sintret tarert filterdigel nr. 3 eller nr. 4. Vask med vaskeløsning. Tørk i 30 minutter ved 120° C. Omregningsfaktor for K<sub>2</sub> O er 0,13143.
+
+**1.4.** *Analysetoleranser*
+
+± 0,1 i absolutt verdi ved hver bestemmelse.
+
+Dersom en analyse gir en verdi innenfor toleransen som er mindre enn de fastsatte grensene (30, 24 eller 10%), må det tas et gjennomsnitt fra minst tre analyser. Hvis gjennomsnittet er høyere enn eller likt med henholdsvis 29,95, 23,95 eller 9,95 skal glasset godtas i kategoriene tilsvarende henholdsvis 30, 24 eller 10%.
+
+### 2. Bestemmelse av de fysiske egenskaper
+
+**2.1.** *Tetthet*
+
+Metode ved hjelp av en hydrostatisk vekt med en nøyaktighet på ± 0,01. En prøve på minst 20 g blir veiet i luften og i 20° C varmt destillert vann.
+
+**2.2.** *Brytningstall*
+
+Brytningstall måles med refraktometer med en nøyaktighet på ± 0,001.
+
+**2.3.** *Mikrohardhet*
+
+Vickers hardhet skal måles etter standard ASTM E 92-65-normen (revisjon 1965), men med en vekt på 50 g og et gjennomsnitt av 15 bestemmelser.

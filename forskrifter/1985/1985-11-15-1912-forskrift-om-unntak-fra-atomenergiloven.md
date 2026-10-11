@@ -1,0 +1,56 @@
+---
+title: "Forskrift om unntak for små mengder atomsubstans og visse typer atomsubstans fra bestemmelsene i lov om atomenergivirksomhet"
+short_title: "Forskrift om unntak fra atomenergiloven"
+identifier: "FOR-1985-11-15-1912"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1985-11-15
+in_force_from: 1986-01-03
+last_amended: 2019-01-01
+last_amended_by: "forskrift/2018-12-20-2067 fra 2019-01-01"
+ministry: "Helse- og omsorgsdepartementet"
+published_in: "I 1985 1189"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1985-11-15-1912"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om unntak for små mengder atomsubstans og visse typer atomsubstans fra bestemmelsene i lov om atomenergivirksomhet
+
+> Hjemmel: Fastsatt ved kgl.res. av 15. november 1985, med hjemmel i lov av 12. mai 1972 nr. 28 om atomenergivirksomhet § 2 nr. 1. Fremmet av Olje- og energidepartementet (nå Helse- og omsorgsdepartementet).Endret ved forskrifter 18 des 1992 nr. 1098, 30 april 2008 nr. 982, 20 des 2018 nr. 2067. Rettelser: 01.12.2013 (§ 2 siste komma tilbakeført), 19.02.2015 (§ 2 siste komma, bilag 2 tilføyd), 03.01.2019 (bilag 1 oppdatert).
+
+## § 1.
+
+Små mengder atomsubstans som en innehaver av et atomanlegg sender til en mottaker til bruk hos denne, er unntatt fra atomenergilovens kapittel III mens partiet er utenfor et atomanlegg, forutsatt at partiet ved avsendingen tilfredsstiller bestemmelsene i OECDs atomenergibyrås (NEA) beslutning av 3.–4. november 2016, som følger med bilag 1 til disse forskrifter.
+
+*Endret ved forskrifter 30 april 2008 nr. 982, 20 des 2018 nr. 2067 (i kraft 1 jan 2019).*
+
+## § 2.
+
+Atomsubstans som i det vesentlige består av uran, er unntatt fra atomenergilovens kapittel III dersom substansen tilfredsstiller bestemmelsene i NEA's beslutning av 27. oktober 1977, som følger som bilag 2 til disse forskrifter.
+
+## Bilag 1. OECDs atomenergibyrås (NEA) beslutning av 3.–4. november 2016
+
+(pdf)
+
+*Tilføyd ved forskrift 30 april 2008 nr. 982, endret ved forskrift 20 des 2018 nr. 2067.*
+
+## Bilag 2. NEAs beslutning av 27. oktober 1977
+
+NEAs styringskomité bestemmer:
+
+Atomsubstans som i det vesentlige består av uran der
+
+- a. den samlete aktiviteten pr. gram av alle radioaktive isotoper i dette materialet, bortsett fra uranisotoper som normalt er til stede i naturlig uran eller som datterprodukter av slike uranisotoper,
+
+  - i. ikke overstiger 200 000 alfa-desintegrasjoner pr. minutt fra samtlige isotoper som avgir alfastråling, og
+  - ii. ikke overstiger 20µCi (0,74 MBq) fra samtlige isotoper som avgir beta- eller gammastråling, og
+
+- b. uran-235-isotopets vekt ikke overstiger 1 % av den totale vekt i samtlige uranisotoper i atomsubstansen,
+
+betraktes ikke som atomsubstans i relasjon til Paris-konvensjonen.
+
+*Tilføyd 19 feb 2015.*

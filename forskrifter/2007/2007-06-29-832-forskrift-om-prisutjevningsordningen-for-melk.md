@@ -1,0 +1,162 @@
+---
+title: "Forskrift om prisutjevningsordningen for melk"
+short_title: "Forskrift om prisutjevningsordningen for melk"
+identifier: "FOR-2007-06-29-832"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2007-06-29
+in_force_from: 2007-07-01
+last_amended: 2024-11-01
+last_amended_by: "forskrift/2024-10-31-2606 fra 2024-11-01"
+ministry: "Landbruks- og matdepartementet"
+published_in: "I 2007 hefte 7"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2007-06-29-832"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om prisutjevningsordningen for melk
+
+> Hjemmel: Fastsatt av Landbruks- og matdepartementet 29. juni 2007 med hjemmel i lov 10. juli 1936 nr. 6 til å fremja umsetnaden av jordbruksvaror § 6, § 7, § 8, § 11 andre og tredje ledd og § 13.Endret ved forskrifter 18 des 2007 nr. 1540, 29 mai 2013 nr. 553, 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734, 17 feb 2017 nr. 191, 31 mars 2017 nr. 420, 20 juni 2016 nr. 734 som endret ved forskrift 7 mai 2020 nr. 964 (i kraft 1 juli 2020), 31 okt 2024 nr. 2606 (i kraft 1 nov 2024).
+
+## § 1. Formål
+
+Prisutjevningsordningen for melk har som formål å regulere prisdifferensieringen av melk som råvare til ulike anvendelser, og samtidig gi melkeprodusenter muligheter for å oppnå lik pris for melken uavhengig av melkeanvendelse og lokalisering av produksjonen.
+
+*Endret ved forskrift 31 okt 2024 nr. 2606 (i kraft 1 nov 2024).*
+
+## § 2. Virkeområde
+
+Forskriften gjelder melk og biprodukter som foredles og omsettes som melkeprodukter av meieriselskap lokalisert i Norge.
+
+Forskriften gjelder likevel bare dersom melken og biproduktene foredles av meieriselskaper som i et enkelt år foredler mer enn
+
+- a. 200 000 liter melk anvendt til flytende melkeprodukter, eller
+- b. 500 000 liter melk anvendt til faste melkeprodukter.
+
+Forskriften gjelder ikke melk og biprodukter som foredles i utlandet med mindre melken er produsert i Norge og melkeproduktet omsettes i Norge.
+
+## § 3. Definisjoner
+
+I denne forskriften menes med:
+
+- a. *Melk*: Flytende ku- og geitemelk, ubehandlet eller varmebehandlet (termisert eller pasteurisert).
+- b. *Melkeprodukter*: Bearbeidede produkter av melk eller av biprodukter av melk.
+- c. *Flytende melkeprodukter*: Alle melkeprodukter som plasseres i prisgruppene 2 eller i biproduktgruppe 1, samt flytende melkeprodukter plassert i prisgruppene 1, 3 eller 4.
+- d. *Biprodukter:* Produksjonsfløte og myse hvor kumelk er råvare.
+- e. *Meieriselskap*: Foretak som benytter melk, fløte eller myse til foredling eller produksjon av melkeprodukter.
+
+*Endret ved forskrift 20 juni 2016 nr. 734 (i kraft 1 juli 2020).*
+
+## § 4. Utjevning mellom hovedmelkeanvendelser
+
+For å utjevne mellom ulike anvendelser av melk, innplasserer Landbruksdirektoratet melkeprodukter som omfattes av denne forskriften i følgende prisgrupper:
+
+<table><thead><tr><th><i>Markeder</i></th><th colspan="4"><i>Produktgrupper</i></th></tr></thead><tbody><tr><td></td><td><i>Sure og søte smakstilsatte flytende melkeprodukter og ferske oster</i></td><td><i>Ikke smakstilsatte flytende melkeprodukter</i></td><td><i>Modnede oster, mysoster og geitemelks-produkter</i></td><td><i>Tørrmelk og kasein</i></td></tr><tr><td><i>Dagligvare:</i> Marked for innenlands og utenlands salg av melkeprodukter til detaljister, grossister, storhusholdnings-kunder, skoler, institusjoner og lignende</td><td>Prisgruppe 1</td><td>Prisgruppe 2</td><td>Prisgruppe 3</td><td></td></tr><tr><td><i>Industri:</i> Marked for innenlands og utenlands salg av melkeprodukter til foredlingsindustri for bruk til fremstilling av annen videreforedlet vare</td><td colspan="4">Prisgruppe 4<sup>[1]</sup></td></tr></tbody></table>
+
+[^1]: Flytende produkter, ferske oster, modnede oster, mysoster og geitemelksprodukter i industrimarkedet, samt tørrmelk og kasein i industri- og dagligvaremarkedet.
+
+Det kvantum som det skal svares avgift eller kan kreves tilskudd for, skal være beregnet mengde anvendt melk bak det produserte kvantum melkeprodukter innenfor prisgruppene i første ledd.
+
+Landbruksdirektoratet fastsetter satser for avgifter og tilskudd for de enkelte prisgruppene.
+
+For melk som selges direkte fra melkeprodusenter til meieriselskap som Tine SA ikke har bestemmende innflytelse over, jf. samvirkelova § 5, og som anvendes i dette selskapets foredling, reduseres avgiften eller økes tilskuddet med en sats fastsatt av Landbruksdirektoratet.
+
+For melk anvendt av meieriselskap som Tine SA ikke har bestemmende innflytelse over, jf. samvirkeloven § 5, til melkeprodukter som avregnes i prisgruppene 1, 2, 3 eller 4, med unntak av tørrmelks- og kaseinprodukter og produkter som eksporteres, reduseres avgiften eller økes tilskuddet med 27 øre per liter.
+
+*Endret ved forskrifter 29 mai 2013 nr. 553 (i kraft 1 juli 2013), 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734 (i kraft 1 juli 2016), 20 juni 2016 nr. 734 som endret ved forskrift 7 mai 2020 nr. 964 (i kraft 1 juli 2020).*
+
+## § 5. Biproduktutjevning
+
+For å utjevne mellom ulike anvendelser av fløte og myse, innplasserer Landbruksdirektoratet melkeprodukter som består av disse biproduktene i følgende grupper:
+
+| *Biproduktgrupper* |  |
+|---|---|
+| *Avgiftspliktige* | *Tilskuddsberettigede* |
+| 1) Flytende melkeprodukter omsatt i dagligvaremarkedet, og hvor melkedelen av produktet har høyere fettinnhold enn helmelk (kremfløteprodukter) | 2) Smørprodukter omsatt i dagligvaremarkedet |
+| 4) Mysoster omsatt i dagligvaremarkedet og industrimarkedet | 3) Følgende produkter omsatt i industrimarkedet:<br>Smørprodukter, blandingsprodukter av melkefett og annet fett, tørrmelks- og kaseinprodukter med fettinnhold i prisgruppe 4, melkeprodukter med fettinnhold for fremstilling av iskremprodukter |
+
+Det kvantum som det skal svares avgift eller kan kreves tilskudd for, skal være beregnet mengde produksjonsfløte eller myse med kumelk som råvare, bak det solgte eller produserte kvantum melkeprodukter innenfor biproduktgruppene i første ledd.
+
+Landbruksdirektoratet fastsetter satser for avgifter og tilskudd for de enkelte biproduktgruppene.
+
+*Endret ved forskrifter 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734 som endret ved forskrift 7 mai 2020 nr. 964 (i kraft 1 juli 2020).*
+
+## § 6. (Opphevet).
+
+*Endret ved forskrift 3 sep 2014 nr. 1144, opphevet ved forskrift 20 juni 2016 nr. 734 (i kraft 1 juli 2020).*
+
+## § 7. Administrasjonskostnader, likviditetsreserve
+
+Kostnader ved administrasjon av utjevningsordningen finansieres av innkrevd avgift etter denne forskriften. Innkrevd avgift kan benyttes til å etablere en nødvendig likviditetsreserve i ordningen.
+
+## § 8. Fraktutjevning
+
+Meieriselskap som henter melk hos melkeprodusent og som utjevner for fraktkostnader mellom egne leverandører, kan kreve et innfrakttillegg. Tillegget gis pr. liter innveid melk i den kommunen der melken er produsert, og etter satser fastsatt av Landbruksdirektoratet.
+
+Meieriselskap som distribuerer melkeprodukter i prisgruppe 2 og biproduktgruppe 1 i Nord-Norge og selv bærer transportkostnadene, gis et tillegg. Meieriselskap som produserer og selger melkeprodukter i prisgruppe 2 til barnehager, barne- og ungdomsskoler og videregående skoler gis et tillegg til delvis dekning av distribusjonskostnader. Tilleggene gis per liter distribuert melkeprodukt etter satser fastsatt av Landbruksdirektoratet.
+
+Meieriselskap som Tine SA ikke har bestemmende innflytelse over, jf. samvirkelova § 5, og som etter Landbruksdirektoratets skjønn har vesentlig høyere distribusjonskostnader enn Tine SA, kan gis et tilskudd på inntil 50 øre per liter til distribusjon av melkeprodukter i prisgruppe 2 og biproduktgruppe 1. Tilskuddet begrenses oppad til 100 millioner liter per meieriselskap for distribuert kvantum innenfor perioden 1. juli t.o.m. 30. juni. Dersom kvantum distribuert melkeprodukt for meieriselskapene samlet overstiger 115 millioner liter i denne perioden, reduseres tilskuddssatsen forholdsmessig innenfor en samlet økonomisk ramme på 57,5 millioner kroner.
+
+Tilskudd etter denne paragrafen kan ikke gis for distribusjon av melkeprodukter omfattet av protokoll 3 til EØS-avtalen.
+
+*Endret ved forskrifter 18 des 2007 nr. 1540 (i kraft 1 feb 2008), 29 mai 2013 nr. 553 (i kraft 1 juli 2013), 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734 (i kraft 1 juli 2016), 31 mars 2017 nr. 420 (i kraft 1 april 2017).*
+
+## § 9. Rapportering
+
+Meieriselskap som omfattes av denne forskriften skal sende Landbruksdirektoratet rapport over solgt kvantum melkeprodukter og lagerbeholdning for foregående måned i henhold til § 4 og § 5.
+
+Fristen for å sende inn rapport som nevnt i første ledd er 15 dager, regnet fra siste dag i måneden det rapporteres for.
+
+Landbruksdirektoratet kan gi nærmere regler om rapportering. Herunder kan det kreves at oppgavene som nevnt i første ledd innsendes i elektronisk form, og at de bekreftes hvert halvår av statsautorisert eller registrert revisor. Landbruksdirektoratet kan også gi meieriselskaper som er del av samme konsern eller annen fellessammenslutning tillatelse til å rapportere samlet etter denne paragrafen.
+
+*Endret ved forskrifter 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734 (i kraft 1 juli 2016).*
+
+## § 10. Avregning
+
+Landbruksdirektoratet beregner avgifter og tilskudd for hvert meieriselskap etter § 4, § 5 og § 8. Differansen mellom beregnede avgifter og tilskudd, skal avregnes månedlig (nettoavregning).
+
+Feil i avregningen rettes ved justering av senere avregninger eller som egen avregning.
+
+For beregning av avgiftspliktig og tilskuddsberettiget kvantum etter første ledd fastsetter Landbruksdirektoratet omregningsfaktorer.
+
+Meieriselskaper som rapporterer samlet i henhold til § 9 annet ledd kan avregnes samlet.
+
+*Endret ved forskrifter 3 sep 2014 nr. 1144, 20 juni 2016 nr. 734 (i kraft 1 juli 2016), 17 feb 2017 nr. 191.*
+
+## § 11. Opplysningsplikt
+
+Den som skal svare avgift eller ytes tilskudd etter denne forskriften plikter å gi melding om dette til Landbruksdirektoratet, og for øvrig gi alle nødvendige opplysninger som Landbruksdirektoratet krever. Landbruksdirektoratet kan også kreve opplysninger som er nødvendig for å avgjøre om et meieriselskap plikter å svare avgift eller har rett til tilskudd etter denne forskriften.
+
+*Endret ved forskrift 3 sep 2014 nr. 1144.*
+
+## § 12. Kontroll
+
+Landbruksdirektoratet fører tilsyn med at oppgaver over innbetalinger eller krav om utbetalinger er riktige, og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer prisutjevningsordningen.
+
+*Endret ved forskrift 3 sep 2014 nr. 1144.*
+
+## § 13. Administrasjon, klage
+
+Landbruksdirektoratet administrerer prisutjevningsordningen for melk. Herunder forestår Landbruksdirektoratet innkreving av avgifter og utbetaling av tilskudd og kan gi utfyllende bestemmelser til denne forskriften.
+
+Enkeltvedtak fattet av Landbruksdirektoratet i medhold av forskriften kan påklages til Landbruks- og matdepartementet etter lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kapittel VI.
+
+*Endret ved forskrift 3 sep 2014 nr. 1144.*
+
+## § 14. Dispensasjon
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra denne forskriften.
+
+*Endret ved forskrift 3 sep 2014 nr. 1144.*
+
+## § 15. Straff
+
+Overtredelse av bestemmelser i denne forskriften eller i medhold av forskriften, er straffbart etter omsetningsloven § 15 dersom overtredelsen ikke rammes av en strengere straffebestemmelse.
+
+## § 16. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. juli 2007. Fra samme tid oppheves forskrift 4. desember 2003 nr. 1453 om prisutjevningsordningen for melk.

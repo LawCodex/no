@@ -1,0 +1,72 @@
+---
+title: "Forskrift om informasjonssikkerhet i sivil luftfart"
+identifier: "FOR-2025-10-24-2093"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2025-10-24
+in_force_from: 2025-10-24
+last_amended: 2026-07-01
+last_amended_by: "forskrift/2026-07-01-1481"
+ministry: "Samferdselsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2025-10-24-2093"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om informasjonssikkerhet i sivil luftfart
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 24. oktober 2025 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, § 4-10, § 5-1, § 5-3, § 5-4 første ledd, § 6-13 fjerde ledd, § 7-1, § 7-2, § 7-4 annet, tredje og fjerde ledd § 7-11, § 7-26, § 9-1, § 13a-5, § 13-8, § 15-3, § 15-4 og § 16-1 første ledd, jf. delegeringsvedtak 6. april 2001 nr. 321. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66zbg (forordning (EU) 2022/1645, nr. 66zbh (forordning (EU) 2023/203 endret ved forordning (EU) 2025/2293). Endret ved forskrift 1 juli 2026 nr. 1481.
+
+## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
+
+(1) EØS-avtalen vedlegg XIII nr. 66zbg (forordning (EU) 2022/1645) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2018/1139 med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av kommisjonsforordning (EU) nr. 748/2012 og (EU) nr. 139/2014, og om endring av kommisjonsforordning (EU) nr. 748/2012 og (EU) nr. 139/2014, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+(2) EØS-avtalen vedlegg XIII nr. 66zbh (forordning (EU) 2023/203) om fastsettelse av regler for anvendelsen av forordning (EU) 2018/1139 med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av forordning (EU) nr. 1321/2014, (EU) nr. 965/2012, (EU) nr. 1178/2011 og (EU) 2015/340 og forordning (EU) 2017/373 og (EU) 2021/664, og for vedkommende myndigheter som omfattes av forordning (EU) nr. 748/2012, (EU) nr. 1321/2014, (EU) nr. 965/2012, (EU) nr. 1178/2011, (EU) 2015/340 og (EU) nr. 139/2014 og forordning (EU) 2017/373 og (EU) 2021/664, og om endring av forordning (EU) nr. 1178/2011, (EU) nr. 748/2012, (EU) nr. 965/2012, (EU) nr. 139/2014, (EU) nr. 1321/2014 og (EU) 2015/340 og forordning (EU) 2017/373 og (EU) 2021/664, endret ved:
+
+- a. forordning (EU) 2023/1769,
+- b. forordning (EU) 2024/1109,
+- c. forordning (EU) 2025/2293,
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 1 juli 2026 nr. 1481.*
+
+## § 2. Geografisk virkeområde
+
+Forskriften gjelder innenfor norsk område, samt områder som Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester, styre lufttrafikkbevegelser og styre luftrommet for allmenn lufttrafikk, herunder på Svalbard. Forskriften gjelder likevel ikke på Svalbard som EØS-rett, jf. protokoll 40 til EØS-avtalen.
+
+## § 3. Ansvarlig myndighet
+
+Luftfartstilsynet er ansvarlig myndighet etter forordning (EU) 2023/203 artikkel 6 og forordning (EU) 2022/1645 artikkel 5, med mindre noe annet er bestemt i tilknytning til underliggende regelverk.
+
+## § 4. Delegering av myndighet til å fastsette gjennomføringsforskrifter
+
+Luftfartstilsynet kan gi forskrifter som gjennomfører utfyllende bestemmelser til regelverkene som er nevnt i § 1.
+
+## § 5. Overtredelsesgebyr
+
+Ved overtredelse av bestemmelser i vedlegget til forordning (EU) 2022/1645 og forordning (EU) 2023/203 vedlegg II som gjennomført i forskriften § 1, kan overtredelsesgebyr ilegges, jf. luftfartsloven § 13a-5.
+
+## § 6. Endringer i andre forskrifter
+
+**1.** Forskrift 28. november 2015 nr. 1365 om sertifisering av besetningsmedlemmer endres slik: – – –
+
+**2.** Forskrift 4. mars 2013 nr. 252 om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften) endres slik: – – –
+
+**3.** Forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner endres slik: – – –
+
+**4.** Forskrift 25. august 2015 nr. 1000 om sertifisering av flyplasser mv. endres slik: – – –
+
+**5.** Forskrift 7. mai 2015 nr. 488 om kontinuerlig luftdyktighet mv. (vedlikeholdsforskriften) endres slik: – – –
+
+**6.** Forskrift 17. juni 2016 nr. 710 om utdanning og sertifisering av flygeledere endres slik: – – –
+
+**7.** Forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m. endres slik: – – –
+
+**8.** Forskrift 23. oktober 2024 nr. 2572 om U-space og krav til en integrert digital luftfartspublikasjon for brukere av luftrommet endres slik: – – –
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft straks.

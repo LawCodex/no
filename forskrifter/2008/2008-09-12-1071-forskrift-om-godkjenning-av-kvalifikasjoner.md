@@ -1,0 +1,117 @@
+---
+title: "Forskrift om godkjenning av yrkeskvalifikasjoner for styrer og pedagogisk leder i barnehage fra annen stat"
+short_title: "Forskrift om godkjenning av kvalifikasjoner"
+identifier: "FOR-2008-09-12-1071"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2008-09-12
+in_force_from: 2008-10-03
+last_amended: 2023-01-01
+last_amended_by: "forskrift/2022-12-16-2323 fra 2023-01-01"
+ministry: "Kunnskapsdepartementet"
+published_in: "I 2008 hefte 10"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2008-09-12-1071"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om godkjenning av yrkeskvalifikasjoner for styrer og pedagogisk leder i barnehage fra annen stat
+
+> Hjemmel: Fastsatt av Kunnskapsdepartementet 12. september 2008 med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 24 tredje ledd, § 25 andre ledd.Endret ved forskrifter 8 feb 2018 nr. 178, 14 aug 2018 nr. 1236, 15 mai 2019 nr. 629, 3 okt 2019 nr. 1311 (i kraft 1 jan 2020), 19 mars 2021 nr. 801, 16 des 2022 nr. 2323 (i kraft 1 jan 2023).Rettelser: 18.02.2010 (EØS-henvisningsfeltet), 27.01.2012 (EØS-henvisningsfeltet), 23.10.2013 (EØS-henvisningsfeltet), 01.08.2018 (hjemmel), 23.03.2021 (tegnsetting i lister tilpasset universell utforming), 09.04.2021 (hjemmel og EØS-henvisninger).
+
+## § 1. Formål og virkeområde
+
+Formålet med forskriften er at søker som er kvalifisert til å inneha stilling som styrer eller pedagogisk leder i barnehage i hjemstaten skal være kvalifisert til å inneha stilling som styrer eller pedagogisk leder i barnehage i Norge under samme vilkår som norske borgere.
+
+Forskriften gjelder godkjenning av yrkeskvalifikasjoner fra annen stat for lovregulerte yrker i barnehagesektoren. Styrer og pedagogisk leder i barnehage er lovregulerte yrker i Norge. Forskriften gjelder for borgere som ikke er omfattet av yrkeskvalifikasjonsloven.
+
+*Endret ved forskrift 8 feb 2018 nr. 178.*
+
+## § 2. Definisjoner
+
+I denne forskriften forstås med
+
+- a. *yrkeskvalifikasjoner*: kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring.
+- b. *kvalifikasjonsbevis*: vitnemål, attester og annen dokumentasjon utstedt av en myndighet i en stat utpekt i henhold til lover eller forskrifter i staten.
+- c. *lovregulert yrke*: en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon.
+- d. *barnehage*: virksomhet som er godkjent i henhold til barnehageloven § 14 og § 15.
+
+*Endret ved forskrifter 8 feb 2018 nr. 178, 19 mars 2021 nr. 801.*
+
+## § 3. Krav om godkjenning av yrkeskvalifikasjoner fra annen stat
+
+Det kreves godkjenning etter denne forskriften dersom yrkeskvalifikasjoner fra annen stat skal gi adgang til å inneha stilling som styrer eller pedagogisk leder i barnehage.
+
+Den som får godkjenning av yrkeskvalifikasjoner etter forskriften har rett til å arbeide som styrer eller pedagogisk leder i barnehage på samme vilkår som personer med kvalifikasjoner etter barnehageloven § 24 andre ledd og § 25 første ledd.
+
+Godkjenning av yrkeskvalifikasjoner fra annen stat etter denne forskriften skal gis av Direktoratet for høyere utdanning og kompetanse.
+
+*Endret ved forskrifter 8 feb 2018 nr. 178, 15 mai 2019 nr. 629, 3 okt 2019 nr. 1311 (i kraft 1 jan 2020), 19 mars 2021 nr. 801, 16 des 2022 nr. 2323 (i kraft 1 jan 2023).*
+
+## § 4. Søknadens innhold
+
+Søknad om godkjenning av yrkeskvalifikasjoner skal fremmes på søknadsskjema utarbeidet av Direktoratet for høyere utdanning og kompetanse.
+
+For godkjenning av yrkeskvalifikasjoner skal Direktoratet for høyere utdanning og kompetanse kreve at søker framlegger:
+
+- a. bekreftet kopi av kvalifikasjonsbevis
+- b. bevis for søkerens statsborgerskap.
+
+Direktoratet for høyere utdanning og kompetanse kan kreve bevis for at søker har arbeidserfaring, dersom det er aktuelt å vurdere dette.
+
+Det kreves at søkeren har tilfredsstillende kunnskaper, ferdigheter og innsikt i norske samfunnsforhold og barnehageforhold. Dette gjelder ikke for søkere som har norsk, samisk, svensk, dansk, islandsk, finsk eller færøysk som førstespråk.
+
+*Endret ved forskrifter 8 feb 2018 nr. 178, 14 aug 2018 nr. 1236 (se denne for merknad til endringen), 15 mai 2019 nr. 629, 3 okt 2019 nr. 1311 (i kraft 1 jan 2020), 16 des 2022 nr. 2323 (i kraft 1 jan 2023).*
+
+## § 5. (Opphevet)
+
+*Opphevet ved forskrift 8 feb 2018 nr. 178.*
+
+## § 6. (Opphevet)
+
+*Opphevet ved forskrift 8 feb 2018 nr. 178.*
+
+## § 7. (Opphevet)
+
+*Opphevet ved forskrift 8 feb 2018 nr. 178.*
+
+## § 8. Vilkår for godkjenning av yrkeskvalifikasjoner
+
+For å få godkjenning etter forskriften, må søkeren dokumentere yrkeskvalifikasjoner med tilsvarende nivå som det som følger av barnehageloven § 24 andre ledd og § 25 første ledd. Beviset skal være utstedt av kompetent myndighet i en stat utpekt i samsvar med lov, forskrift eller administrasjonsbestemmelse i vedkommende stat.
+
+Det kan også gis godkjenning etter gjensidig avtale med fremmed stat.
+
+*Endret ved forskrifter 8 feb 2018 nr. 178, 15 mai 2019 nr. 629, 19 mars 2021 nr. 801.*
+
+## § 9. (Opphevet)
+
+*Opphevet ved forskrift 8 feb 2018 nr. 178.*
+
+## § 10. (Opphevet)
+
+*Opphevet ved forskrift 8 feb 2018 nr. 178.*
+
+## § 11. Saksbehandlingsregler
+
+Direktoratet for høyere utdanning og kompetanse skal bekrefte at søknaden er mottatt innen en måned etter at den er mottatt og informere søkeren om eventuelle mangler ved søknaden.
+
+Direktoratet for høyere utdanning og kompetanse skal avgjøre søknaden så raskt som mulig og senest innen fire måneder etter at all nødvendig dokumentasjon er framlagt.
+
+Direktoratet for høyere utdanning og kompetanses vedtak eller mangel på vedtak, kan påklages til Kunnskapsdepartementet.
+
+*Endret ved forskrifter 3 okt 2019 nr. 1311 (i kraft 1 jan 2020), 16 des 2022 nr. 2323 (i kraft 1 jan 2023).*
+
+## § 12. Avslag på søknad om godkjenning
+
+En søker som ikke får godkjent yrkeskvalifikasjoner etter forskriften kan ikke arbeide som styrer eller pedagogisk leder i barnehage i Norge.
+
+En søker som ikke får godkjenning etter forskriften kan likevel arbeide som styrer eller pedagogisk leder dersom kommunen dispenserer fra utdanningskravet etter forskrift 22. juni 2017 nr. 1049 om pedagogisk bemanning og dispensasjon i barnehager.
+
+*Endret ved forskrift 8 feb 2018 nr. 178.*
+
+## § 13. Ikrafttredelse
+
+Forskriften trer i kraft på tidspunkt for kunngjøringen.

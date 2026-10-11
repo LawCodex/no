@@ -1,0 +1,51 @@
+---
+title: "Forskrift om pensjonsordninger for kommunalt eller fylkeskommunalt ansatte"
+short_title: "Forskrift om pensjon for kommuneansatte"
+identifier: "FOR-1997-04-22-374"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-04-22
+in_force_from: 1997-05-01
+last_amended: 2014-01-01
+last_amended_by: "forskrift/2013-09-18-1094 fra 2014-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "Avd I 1997 823"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-04-22-374"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om pensjonsordninger for kommunalt eller fylkeskommunalt ansatte
+
+> Hjemmel: Fastsatt av Sosial- og helsedepartementet 22. april 1997 med hjemmel i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) § 24 nr. 4, jf. kgl.res. 18. desember 1992 nr. 1079.Endret ved forskrifter 18 des 2009 nr. 1726, 18 sep 2013 nr. 1094.
+
+## § 1. Pensjoner/aldersgrenser
+
+De kommunale og fylkeskommunale pensjonsordninger må ikke gi høyere ytelser enn etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse.
+
+Aldersgrensen må ikke være lavere enn fastsatt for tilsvarende stillinger i henhold til lov 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl.
+
+*Endret ved forskrift 18 sep 2013 nr. 1094 (i kraft 1 jan 2014, tidligere § 2).*
+
+## § 2. Omfang
+
+Pensjonsordningen skal omfatte alle arbeidstakere som er obligatorisk medlem i folketrygden, jf. lov 28. februar 1997 nr. 19 om folketrygd. Ordningen kan også omfatte de folkevalgte i kommuner og fylkeskommuner som er obligatorisk medlem i folketrygden. De nærmere vilkårene for medlemskap i pensjonsordningen fastsettes i regelverket for ordningen.
+
+*Endret ved forskrift 18 sep 2013 nr. 1094 (i kraft 1 jan 2014, tidligere § 3).*
+
+## § 3. Utfyllende bestemmelser
+
+Når særlige grunner taler for det, kan departementet – eller Finanstilsynet i den utstrekning departementet har gitt fullmakt til det – dispensere fra bestemmelsene i forskriften.
+
+Finanstilsynet kan gi nærmere regler til utfylling og gjennomføring av forskriften.
+
+*Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009), 18 sep 2013 nr. 1094 (i kraft 1 jan 2014, tidligere § 5).*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997. Fra samme tidspunkt oppheves forskrifter av 25. april 1975 nr. 1 om kommunale og fylkeskommunale pensjonsordninger.
+
+*Endret ved forskrift 18 sep 2013 nr. 1094 (i kraft 1 jan 2014, tidligere § 6).*

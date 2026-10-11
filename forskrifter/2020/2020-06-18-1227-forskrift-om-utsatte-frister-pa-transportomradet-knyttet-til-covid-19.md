@@ -1,0 +1,52 @@
+---
+title: "Forskrift om utsatte frister på transportområdet knyttet til covid-19"
+short_title: "Forskrift om utsatte frister på transportområdet knyttet til covid-19"
+identifier: "FOR-2020-06-18-1227"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2020-06-18
+in_force_from: 2020-06-18
+last_amended: 2021-03-08
+last_amended_by: "forskrift/2021-03-08-624"
+ministry: "Nærings- og fiskeridepartementet; Samferdselsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2020-06-18-1227"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om utsatte frister på transportområdet knyttet til covid-19
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet og Nærings- og fiskeridepartementet 18. juni 2020 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 10 og § 35, lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 24 og § 29, lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven) § 30, lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 3d, § 6 og § 16, jf. delegeringsvedtak 4. april 1997 nr. 275 og lov 16. februar 2007 nr. 9 om skipsikkerhet (skipssikkerhetsloven) § 39.EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 4b (forordning (EU) 2020/698) og nr. 4c (forordning (EU) 2021/267). Endret ved forskrifter 1 sep 2020 nr. 1701, 8 mars 2021 nr. 624.
+
+## § 1. Gjennomføring av forordning (EU) 2020/698 og forordning (EU) 2021/267 i norsk rett
+
+EØS-avtalen vedlegg XIII nr. 4b (forordning (EU) 2020/698) om fastsettelse av særlige midlertidige tiltak i forbindelse med covid-19-utbruddet og om gyldigheten av visse sertifikater, lisenser og tillatelser og utsettelsen av visse periodiske kontroller og opplæringstiltak på visse områder av transportregelverket og EØS-avtalen vedlegg XIII nr. 4c (forordning (EU) 2021/267) om fastsettelse av særlige og midlertidige tiltak på bakgrunn av den vedvarende covid-19-krisen med hensyn til fornyelse eller forlengelse av visse sertifikater, lisenser og tillatelser, utsettelse av visse periodiske kontroller og regelmessig opplæring på visse områder av transportregelverket samt forlengelse av visse perioder nevnt i forordning (EU) 2020/698, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 8 mars 2021 nr. 624.*
+
+## § 2. Utsatte frister etter forordning (EU) 2020/698
+
+Forordningens bestemmelser om utsatte frister i artikkel 4, 5, 7, 8 og 11 gjelder ikke for frister fastsatt av norske myndigheter.
+
+Forordningens bestemmelser om utsatte frister i artikkel 3 gjelder ikke for førerkort utstedt av norske myndigheter der innehaveren er over 80 år.
+
+*Endret ved forskrifter 1 sep 2020 nr. 1701, 8 mars 2021 nr. 624.*
+
+## § 3. Utsatte frister etter forordning (EU) 2021/267
+
+Forordningens bestemmelser om utsatte frister i artikkel 4, 5, 7, og 8 gjelder ikke for frister fastsatt av norske myndigheter.
+
+Forordningens bestemmelser om utsatte frister etter artikkel 2 nr. 2, 4 og 6 og artikkel 3 nr. 2 gjelder ikke for forlengelser etter forordning (EU) 2020/698. jf. denne forskrift § 1 og § 2.
+
+Forordningens bestemmelser om utsatte frister i artikkel 3 gjelder ikke for førerkort utstedt av norske myndigheter der innehaveren er over 80 år.
+
+*Tilføyd ved forskrift 8 mars 2021 nr. 624.*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+*Endret ved forskrift 8 mars 2021 nr. 624 (tidligere § 3).*

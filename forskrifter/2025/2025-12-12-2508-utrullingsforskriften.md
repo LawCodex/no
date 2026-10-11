@@ -1,0 +1,47 @@
+---
+title: "Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)"
+short_title: "Utrullingsforskriften"
+identifier: "FOR-2025-12-12-2508"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2025-12-12
+in_force_from: 2026-01-01
+last_amended: 2026-09-04
+last_amended_by: "forskrift/2026-09-04-1729"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2025-12-12-2508"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)
+
+> Hjemmel: Fastsatt av Skattedirektoratet 12. desember 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) § 40, jf. delegeringsvedtak 10. juni 2025 nr. 968 og delegeringsvedtak 12. juni 2025 nr. 1053. Endret ved forskrifter 10 feb 2026 nr. 178 (i kraft 16 feb 2026), 9 mars 2026 nr. 359 (i kraft 16 mars 2026), 30 mars 2026 nr. 516 (i kraft 7 april 2026), 4 sep 2026 nr. 1729.
+
+## § 1.
+
+Nytt regelverk for utlegg mv., etter kongelig resolusjon 10. juni 2025 nr. 968 punkt 1 første avsnitt, gjelder i saker om utlegg når skyldner oppfyller kriteriene i bokstav a til e. Kriteriene må være oppfylt på det tidspunktet alminnelig namsmann innregistrerer begjæring om utlegg eller begjæring om fortsettelse etter tvangsfullbyrdelsesloven § 7-7 tredje ledd. For Innkrevingsmyndigheten er tilsvarende tidspunkt utsendelse av varsel om utlegg eller, hvis det ikke sendes et slikt varsel, når Innkrevingsmyndigheten skal ta beslutning om utlegg.
+
+- a. Skyldner er registrert bosatt eller har registrert forretningsadresse i Finnmark, Troms eller Nordland fylke, unntatt Bindal kommune.
+
+- b. Skyldner har ikke løpende utleggstrekk besluttet etter tidligere regelverk.
+
+- c. Skyldner har ikke en utleggssak under behandling etter tidligere regelverk. Dette gjelder likevel ikke saker hos kommunal namsmyndighet eller saker som omfatter kravstyper angitt i forskrift 1. juli 2025 nr. 1418 § 8.
+
+- d. Skyldner er ikke registrert med fortrolig eller strengt fortrolig adresse.
+
+- e. Skyldner har ikke følgende kravtyper utestående hos Innkrevingsmyndigheten:
+
+  - kravstyper angitt i innkrevingsforskriften §§ 2-4 og 2-9 bokstav b,
+  - ansvarskrav etter tvangsfullbyrdelsesloven § 7-22, slik bestemmelsen lød før 1. januar 2026, når disse er knyttet til krav som nevnt i denne bokstaven,
+  - gebyrer, omkostninger og sakskostnader tilkjent ved rettergang eller i sak om tvangsfullbyrdelse, når disse er knyttet til krav som nevnt i denne bokstaven.
+
+For saker hos kommunal namsmyndighet gjelder nytt regelverk om utlegg mv. først fra det tidspunkt alminnelig namsmann eller Innkrevingsmyndigheten har etablert ett utleggstrekk mot skyldner etter nytt regelverk, jf. forskrift om overgangsregler for innkrevingsloven og endringer i andre lover § 1 andre ledd.
+
+*Endret ved forskrifter 10 feb 2026 nr. 178 (i kraft 16 feb 2026), 9 mars 2026 nr. 359 (i kraft 16 mars 2026), 30 mars 2026 nr. 516 (i kraft 7 april 2026), 4 sep 2026 nr. 1729.*
+
+## § 2.
+
+Forskriften trer i kraft 1. januar 2026.

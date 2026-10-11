@@ -1,0 +1,48 @@
+---
+title: "Forskrift om statens overtagelse av krigsrisikoen for fiskeflåten."
+short_title: "Forskrift om overtagelse av krigsrisiko"
+identifier: "FOR-1939-12-22-8707"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1939-12-22
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "II 1939 s 745"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1939-12-22-8707"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om statens overtagelse av krigsrisikoen for fiskeflåten.
+
+> I medhold av Stortingets vedtak av 15. september 1939 om statens overtagelse av krigsrisikoen for fiske- og fangstflåten bestemmes:
+
+- 1\. Staten overtar krigsrisikoen for fiske- og fangstflåten (krigsforsikringen for fiskeflåten) fra 1. september 1939 og inntil videre.
+
+- 2\. Det betales ikke premie. Forhåndsanmeldelse for fartøy eller den enkelte tur finner ikke sted.
+
+- 3\. Forsikringen omfatter alle fartøyer som er merkepliktige i henhold til lov av 5. desember 1917 nr. 1, dog bare under:
+
+  - a. Fiske eller fangst fra norsk havn, herunder også ved deltagelse i torske- og sildefiskeriene ved Island, uansett om fangsten ilandbringes på Island eller i norsk havn.
+
+  - b. Føring av egen fangst innenfor den grense i havet som er fastsatt for håndhevelse av Norges nøytralitet i den krig som er brutt ut mellom fremmede makter, d.v.s. 3 nautiske mil fra kysten.
+
+  - c. Føring av levende eller fersk fisk innenfor samme grense som under punkt b.
+
+  - d. Annen fart innenfor samme grense som under punkt b, når fartøyet brukes til fiske eller fangst eller til føring av levende eller fersk fisk og bare for enkelte turer brukes i annen fart.
+
+    Fartøy som brukes til storhvalfangst og fraktefartøyer som bare unntaksvis brukes til fiske omfattes ikke av forsikringen.
+
+    Redningsskøytene tilhørende Norsk Selskab til Skibbrudnes redning omfattes av forsikringen, uansett hvor farten foregår, dog ikke sålenge de er bortleiet til private.
+
+- 4\. Ved siden av erstatning for fartøyet skal det ytes erstatning:
+
+  - a. for utrustning av redskap og utstyr,
+  - b. for utrustning av klær og effekter,
+  - c. for proviant,
+  - d. for tap av hyre ved arbeidsledighet som følge av krigsforlis,
+  - e. for liv og invaliditet.
+
+- 5\. De nærmere regler for forsikringen og dens omfang og tariffer for erstatningene fastsettes av Handelsdepartementet.

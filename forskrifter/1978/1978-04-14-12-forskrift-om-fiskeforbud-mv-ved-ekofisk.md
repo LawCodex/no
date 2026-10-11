@@ -1,0 +1,45 @@
+---
+title: "Forskrifter om forbud mot oppankring og mot fiske med visse redskaper i Ekofisk-området"
+short_title: "Forskrift om fiskeforbud mv ved Ekofisk"
+identifier: "FOR-1978-04-14-12"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1978-04-14
+in_force_from: 1978-04-14
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 1978 s 204"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1978-04-14-12"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrifter om forbud mot oppankring og mot fiske med visse redskaper i Ekofisk-området
+
+> Fastsatt ved kgl.res. av 14. april 1978 med hjemmel i lov av 21. juni 1963 nr. 12 om utforskning og utnyttelse av undersjøiske naturforekomster og lov av 17. desember 1976 nr. 91 om Norges Økonomiske sone. Fremmet av Olje- og energidepartementet. Ved ny sikkerhetsforskrift 28. juni 1985 nr. 1215 ble ansvaret for denne forskrift tillagt Kommunal- og arbeidsdepartementet og delegert videre til Oljedirektoratet ved vedtak samme dag.
+
+## § 1.
+
+Disse forskrifter er fastsatt med hjemmel i lov av 21. juni 1963 om utforskning og utnyttelse av undersjøiske naturforekomster § 3 og lov av 17. desember 1976 om Norges økonomiske sone § 4, og får anvendelse i området innenfor rette linjer trukket gjennom koordinatene for følgende installasjoner på Ekofiskfeltet:
+
+| 1. A-plattformen | N 56°31′15″ | O 03°13′22″ |
+|---|---|---|
+| 2. B-plattformen | N 56°33′55″ | O 03°12′15″ |
+| 3. Lastebøye SBM II | N 56°33′36″ | O 03°15′25″ |
+| 4. Lastebøye SBM I | N 56°32′06″ | O 03°15′34″ |
+
+samt i en 500 meters sone rundt nevnte område.
+
+## § 2.
+
+Innenfor det området som er nevnt i § 1 forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade installasjoner på eller over havbunnen.
+
+## § 3.
+
+Overtredelse av disse forskrifter straffes med bøter, jfr. straffeloven § 339 nr. 2, såfremt ikke strengere straffebestemmelser kommer til anvendelse på forholdet.
+
+## § 4.
+
+Disse forskrifter trer i kraft straks.

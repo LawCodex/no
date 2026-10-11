@@ -1,0 +1,73 @@
+---
+title: "Forskrift om tilskudd til viltformål"
+identifier: "FOR-2018-12-19-2172"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2018-12-19
+in_force_from: 2019-01-01
+last_amended: 2025-06-18
+last_amended_by: "forskrift/2025-06-18-1070"
+ministry: "Landbruks- og matdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2018-12-19-2172"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tilskudd til viltformål
+
+> Hjemmel: Fastsatt av Landbruks- og matdepartementet 19. desember 2018 med hjemmel i Stortingets årlige budsjettvedtak jf. kapittel 1140 post 71. Endret ved forskrifter 8 feb 2021 nr. 346, 18 juni 2025 nr. 1070.Rettet 26.01.2021 (hjemmel), 10.02.2021 (tegnsetting i lister tilpasset universell utforming).
+
+## § 1. Formålet med ordningen
+
+Tilskuddsordningen skal bidra til en forvaltning som fremmer et høstingsverdig overskudd av viltet. Innenfor denne rammen, skal ordningen legge til rette for rekruttering og verdiskaping basert på jakt og fangst som del av friluftslivet.
+
+## § 2. Tildelingskriterier
+
+Frivillige organisasjoner, institusjoner, kommuner og enkeltpersoner kan få tilskudd til
+
+- a. tilrettelegging for verdiskaping og rekruttering til jakt og fangst
+- b. informasjon om jakt og jaktmuligheter
+- c. kartlegging av viltressursene og viltets leveområder, samt viltinteresser i kommuner og regioner
+- d. innarbeiding av viltets leveområde og viltinteresser i kommunale planer etter plan- og bygningsloven
+- e. oppretting og drift av lokale samarbeidsråd
+- f. deltakelse i rettighetshavernes driftsplanarbeid
+- g. forvaltningsrettet forskning og overvåking.
+
+Søknader om tilskudd til tiltak som inngår som en del av et planmessig arbeid vil bli prioriterte.
+
+*Endret ved forskrift 18 juni 2025 nr. 1070.*
+
+## § 3. Kunngjøring
+
+Landbruksdirektoratet kunngjør årlig søknadsfrister.
+
+*Endret ved forskrift 18 juni 2025 nr. 1070.*
+
+## § 4. Krav til søknaden
+
+Søknad om tilskudd skal sendes Landbruksdirektoratet innen den fastsatte søknadsfristen. Det organet som mottar søknaden kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
+
+Dersom søknaden inneholder flere prosjekt må hvert av disse spesifiseres.
+
+*Endret ved forskrift 18 juni 2025 nr. 1070.*
+
+## § 5. Krav om rapportering
+
+Mottager av tilskudd skal levere sluttrapport og sluttregnskap til Landbruksdirektoratet innen fristen fastsatt i vedtaksbrevet om tildeling av tilskudd. Nærmere krav om rapportering kan gis i vedtaksbrevet.
+
+*Endret ved forskrift 18 juni 2025 nr. 1070.*
+
+## § 6. Omgjøring og tilbakebetaling
+
+Tilskudd som ikke er brukt i samsvar med vilkårene i tildelingsvedtaket kan kreves tilbakebetalt.
+
+*Endret ved forskrift 8 feb 2021 nr. 346.*
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2019.
+
+*Endret ved forskrift 8 feb 2021 nr. 346.*

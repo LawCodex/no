@@ -1,0 +1,40 @@
+---
+title: "Forskrift om endring i forskrift om arbeidsmarkedstiltak"
+short_title: "Endr. i forskrift om arbeidsmarkedstiltak"
+identifier: "FOR-2007-12-21-1773"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2007-12-21
+in_force_from: 2008-01-01
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2008 hefte 1"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2007-12-21-1773"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om endring i forskrift om arbeidsmarkedstiltak
+
+> Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 21. desember 2007 med hjemmel i lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 12 og § 13.
+
+## I
+
+I forskrift 20. desember 2001 nr. 1544 om arbeidsmarkedstiltak gjøres følgende endringer: – – –
+
+## II
+
+*Ikrafttredelse og overgangsbestemmelser:*
+
+Endringene trer i kraft fra 1. januar 2008 med følgende overgangsbestemmelser:
+
+Løpende stønad innvilget før 1. januar 2008 etter tidligere § 10-2 første ledd nr. 3 avvikles 1. juli 2008.
+
+For personer som i overgangsperioden 1. januar 2008-1. juli 2008 mottar stønaden etter tidligere § 10-2 første ledd nr. 3 gjelder:
+
+- Adgang til gjenopptak av stønad etter avbrudd i henhold til tidligere § 10-11 videreføres til 1. juli 2008.
+- Rett til 75 prosent av full stønad ved sykdom i inntil 257 dager opprettholdes frem til 1. juli 2008.
+- Personer som i perioder uten deltakelse i tiltak har inntekt fra sporadisk arbeid, har ikke rett til stønad for dager med arbeid.
+- Inntrer forhold som nevnt i folketrygdloven § 4-20 om tidsbegrenset bortfall av dagpenger, jf. § 4-10, faller stønaden helt bort. Bortfallet av stønad vil vare inntil nye rettigheter til dagpenger er opparbeidet.

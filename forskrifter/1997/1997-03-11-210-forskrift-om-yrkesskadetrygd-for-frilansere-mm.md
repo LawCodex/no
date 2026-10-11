@@ -1,0 +1,63 @@
+---
+title: "Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere"
+short_title: "Forskrift om yrkesskadetrygd for frilansere mm"
+identifier: "FOR-1997-03-11-210"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-03-11
+in_force_from: 1997-05-01
+last_amended: 2010-03-01
+last_amended_by: "forskrift/2010-02-23-236 fra 2010-03-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 1997 526"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-03-11-210"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere
+
+> Hjemmel: Fastsatt av Sosial- og helsedepartementet 11. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 3-30 femte ledd, § 13-13 tredje ledd og § 23-6 bokstav e.Endret ved forskrifter 21 des 2001 nr. 1556, 17 jan 2002 nr. 34, 30 juni 2006 nr. 790, 23 feb 2010 nr. 236.
+
+## § 1.
+
+Frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere tegnes for minst ett kalenderår.
+
+## § 2.
+
+Trygden gjelder fra det tidspunktet Arbeids- og velferdsetaten mottok søknaden. Er det søkt om frivillig trygd fra et bestemt framtidig tidspunkt, gjelder trygden fra dette tidspunktet.
+
+Trygden trer bare i kraft dersom premien er betalt innen fire uker etter at vedkommende har fått melding om at søknaden er innvilget.
+
+*Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).*
+
+## § 3.
+
+Premien skal betales forskottsvis for hvert enkelt kalenderår.
+
+Årlig premie utgjør 0,4 prosent av forventet årsinntekt utenfor tjeneste. Premien for tegningsåret beregnes fra og med den måneden trygden gjelder fra.
+
+Det skal ikke betales premie for inntekter som overstiger 12 ganger grunnbeløpet på det tidspunktet trygden gjelder fra.
+
+Forventet årsinntekt fastsettes i samråd med søkeren og med utgangspunkt i tidligere års pensjonsgivende inntekt eller sykepengegrunnlaget. Inntekten avrundes til nærmeste hele tusen kroner.
+
+## § 4.
+
+Når det skal fastsettes antatt årlig arbeidsinntekt på skadetidspunktet etter folketrygdloven § 3-30 og § 11-26 medregnes ikke høyere inntekt utenfor tjeneste enn forventet årsinntekt etter § 3 i denne forskriften.
+
+*Endret ved forskrift 21 des 2001 nr. 1556 (i kraft 1 jan 2002), 17 jan 2002 nr. 34 (i kraft 1 jan 2002), 23 feb 2010 nr. 236 (i kraft 1 mars 2010).*
+
+## § 5.
+
+Den frivillige yrkesskadetrygden opphører ved utgangen av kalenderåret dersom premien for det neste året ikke er betalt innen fire uker etter skriftlig påkrav.
+
+Det kan bestemmes at trygden skal opphøre hvis vedkommende tross påkrav ikke oppfyller sine plikter overfor trygden. Trygden opphører i alle tilfeller fra det tidspunktet virksomheten opphører. Premie for overskytende tidsrom refunderes ikke.
+
+*Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).*
+
+## § 6.
+
+Forskriften trer i kraft den 1. mai 1997.

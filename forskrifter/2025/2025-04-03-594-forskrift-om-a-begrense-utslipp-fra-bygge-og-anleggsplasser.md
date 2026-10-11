@@ -1,0 +1,37 @@
+---
+title: "Forskrift om å begrense utslipp fra bygge- og anleggsplasser"
+identifier: "FOR-2025-04-03-594"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2025-04-03
+in_force_from: 2025-04-03
+last_amended: 2025-06-17
+last_amended_by: "forskrift/2025-06-17-1436"
+ministry: "Klima- og miljødepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2025-04-03-594"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om å begrense utslipp fra bygge- og anleggsplasser
+
+> Hjemmel: Fastsatt av Klima- og miljødepartementet 3. april 2025 med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 82, jf. delegeringsvedtak 20. desember 2024 nr. 3301. Endret ved forskrift 17 juni 2025 nr. 1436.
+
+## § 1. Kommunens myndighet
+
+Kommunen kan fastsette forskrift etter forurensningsloven § 9 om å påby bruk av nullutslippsløsninger og biogass på bygge- og anleggsplasser. Med nullutslippsløsninger menes at det ikke er direkte utslipp av CO<sub>2</sub> og andre klimagasser eller NO<sub>x</sub> og svevestøv fra energibruk på bygge- og anleggsplassen. Kommunen kan ikke stille krav til anleggsplasser som strekker seg ut over kommunens grenser eller tiltak som er unntatt kommunens byggesaksbehandling etter lov 27. juni 2008 nr. 71 § 20-5 første ledd, med tilhørende forskrifter. Kommunen skal tilpasse kravene til lokale forhold og forutsetninger
+
+*Endret ved forskrift 17 juni 2025 nr. 1436.*
+
+## § 2. Unntak fra kravene
+
+Vedtar kommunen forskrift som nevnt i § 1, skal forskriften åpne for unntak i tilfeller der kravene:
+
+- a. ikke er teknisk mulig å nå,
+- b. blir uforholdsmessig kostbare.
+
+## § 3. Ikrafttreden
+
+Forskriften trer i kraft straks.

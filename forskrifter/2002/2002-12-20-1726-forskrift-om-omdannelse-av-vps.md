@@ -1,0 +1,77 @@
+---
+title: "Forskrift om omdannelse av Verdipapirsentralen"
+short_title: "Forskrift om omdannelse av VPS"
+identifier: "FOR-2002-12-20-1726"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2002-12-20
+in_force_from: 2003-01-01
+last_amended: 2009-12-21
+last_amended_by: "forskrift/2009-12-18-1726 fra 2009-12-21"
+ministry: "Finansdepartementet"
+published_in: "I 2002 hefte 19"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2002-12-20-1726"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om omdannelse av Verdipapirsentralen
+
+> Hjemmel: Fastsatt av Finansdepartementet 20. desember 2002 med hjemmel i lov av 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) § 12-2 femte ledd.Endret ved forskrift 18 des 2009 nr. 1726.
+
+## I
+
+### § 1. Definisjoner
+
+Med *Verdipapirsentralen* menes i denne forskrift den selveiende institusjonen Verdipapirsentralen som er opprettet i medhold av lov av 14. juni 1985 nr. 62 om Verdipapirsentral.
+
+Med *verdipapirregister* menes i denne forskrift et nystiftet allmennaksjeselskap som overtar Verdipapirsentralenes eiendeler og forpliktelser i samsvar med verdipapirregisterloven § 12-2 annet ledd, eller allmennaksjeselskap som er holdingselskap for slikt allmennaksjeselskap.
+
+### § 2. Avvikling
+
+Verdipapirsentralen er under avvikling i perioden fra det tidspunkt Verdipapirsentralens eiendeler og forpliktelser i samsvar med verdipapirregisterloven § 12-2 annet ledd er overført til verdipapirregisteret og til Verdipapirsentralen er endelig avviklet.
+
+Verdipapirsentralen skal være endelig avviklet innen to år fra ikrafttredelsen av verdipapirregisterloven. Finansdepartementet kan gi dispensasjon fra dette kravet.
+
+Mens Verdipapirsentralen er under avvikling skal dens navn inneholde betegnelsen «under avvikling».
+
+### § 3. Avviklingsstyre
+
+Før Verdipapirsentralen kommer under avvikling skal representantskapet velge et avviklingsstyre som under avvikling skal ha de oppgaver som i henhold til lov av 14. juni 1985 nr. 62 om Verdipapirsentral ellers tilligger styret og administrerende direktør i Verdipapirsentralen.
+
+### § 4. Verdipapirsentralen under avvikling
+
+Overføring av Verdipapirsentralens eiendeler og forpliktelser som nevnt i verdipapirregisterloven § 12-2 annet ledd skal skje under ett.
+
+### § 5. Salg av aksjer
+
+Aksjene utstedt av verdipapirregisteret skal selges i henhold til bestemmelsene i verdipapirregisterloven § 12-2 tredje ledd.
+
+Prospektet skal godkjennes av avviklingsstyret i samsvar med verdipapirhandelloven § 5-10. Tildelingskriteriene skal på forhånd forelegges Finansdepartementet. Tildelingskriteriene ved dette salget skal bidra til at aksjene blir solgt til markedsmessig pris ved offentlig salg.
+
+### § 6. Salgsproveny
+
+Når salget av aksjene utstedt av verdipapirregisteret er gjennomført skal salgssummen, med fradrag for kostnader i forbindelse med aksjesalget og avsetning til dekning av avviklingskostnader, overføres i samsvar med verdipapirregisterloven § 12-2 tredje ledd innen en måned. Departementet kan i særlige tilfeller forlenge denne fristen. Departementet avgjør hva som skal regnes som kostnader i forbindelse med aksjesalget, og hvor stor avsetning til dekning av avviklingskostnadene skal være.
+
+### § 7. Revidert avslutningsregnskap med mer
+
+Før Verdipapirsentralen endelig avvikles fremlegges revidert avslutningsregnskap for representantskapet for godkjennelse. Avslutningsregnskapet skal på forhånd forelegges Finansdepartementet. Avviklingsstyret skal sørge for at selskapets oppbevaringspliktige regnskapsmateriale og bøker blir oppbevart på forsvarlig vis.
+
+Når avslutningsregnskapet er godkjent skal det meldes til Enhetsregisteret at Verdipapirsentralen er avviklet.
+
+### § 8. Tilsyn mv.
+
+Finanstilsynet fører tilsyn med omdannelse og avvikling av Verdipapirsentralen, og kan gi pålegg om gjennomføringen av omdannelsen og avviklingen.
+
+*Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009).*
+
+### § 9. Departementets kompetanse
+
+Finansdepartementet kan fatte enkeltvedtak til utfylling og gjennomføring av denne forskriften.
+
+## II
+
+Forskriften trer i kraft 1. januar 2003.

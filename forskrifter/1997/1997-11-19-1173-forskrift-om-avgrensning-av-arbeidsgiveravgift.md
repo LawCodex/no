@@ -1,0 +1,66 @@
+---
+title: "Forskrift om avgrensning av arbeidsgiveravgiftsfritaket etter folketrygdloven § 23-2 sjuende ledd for private arbeidsoppdrag i hjemmet mv"
+short_title: "Forskrift om avgrensning av arbeidsgiveravgift"
+identifier: "FOR-1997-11-19-1173"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-11-19
+in_force_from: 1998-01-01
+last_amended: 2014-01-01
+last_amended_by: "forskrift/2014-12-19-1861 fra 2014-01-01"
+ministry: "Finansdepartementet"
+published_in: "Avd I 1997 2100"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-11-19-1173"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om avgrensning av arbeidsgiveravgiftsfritaket etter folketrygdloven § 23-2 sjuende ledd for private arbeidsoppdrag i hjemmet mv
+
+> Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 19. november 1997 med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 sjuende ledd.Endret ved forskrifter 16 des 2003 nr. 1583, 5 juni 2009 nr. 633, 5 okt 2012 nr. 945, 14 nov 2012 nr. 1067, 19 des 2014 nr. 1861.
+
+## I
+
+### § 1. Forskriftens virkeområde
+
+Forskriften avgrenser området for fritak for arbeidsgiveravgift ved private arbeidsoppdrag i hjemmet etter lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 sjuende ledd.
+
+*Endret ved forskrift 16 des 2003 nr. 1583 (i kraft 1 jan 2004).*
+
+### § 2. Arbeid som omfattes av fritaket
+
+Som privat arbeidsoppdrag i hjemmet regnes lønnet arbeid som skjer på eller i tilknytning til arbeidsgiverens hjem eller fritidsbolig. Arbeidet kan blant annet gjelde omsorgsfunksjoner i hjemmet, innkjøp, renhold, hagestell, snømåking, vedlikeholdstjenester og påkostninger på fritakslignet bolig- eller fritidseiendom etter skatteloven § 7-1 og § 7-2, leiet bolig, innbo eller privat kjøretøy.
+
+Det regnes ikke som privat arbeidsoppdrag etter første ledd når en gjenstand sendes bort for vedlikehold, utbedring eller påkostning mv. Det samme gjelder arbeid på byggeplass før bolig eller fritidsbolig tas i bruk av arbeidsgiveren.
+
+Fritaket i folketrygdloven § 23-2 sjuende ledd gjelder tilsvarende for godtgjørelse til verge etter vergemålsloven § 30, når godtgjørelsen dekkes av den vergetrengende. Fritaket etter dette ledd gjelder selv om den vergetrengende krever inntektsfradrag for godtgjørelsen.
+
+*Endret ved forskrifter 5 okt 2012 nr. 945, 14 nov 2012 nr. 1067, 19 des 2014 nr. 1861 (i kraft fra inntektsåret 2014).*
+
+### § 3. Krav til partenes forhold
+
+Arbeidsoppdrag etter § 2 må avtales av arbeidsgiveren som privatperson. Lønnsutgifter som er fradragsberettiget i arbeidsgiverens næringsvirksomhet eller ved regnskapsligning av bolig- og fritidseiendom, omfattes ikke av avgiftsfritak som nevnt i § 2.
+
+Et arbeidsoppdrag går ikke inn under § 2 dersom det utføres:
+
+- a. av en næringsdrivende, med mindre oppdraget faller utenfor næringsvirksomheten,
+- b. i et slikt omfang at dette i seg selv må regnes som næringsvirksomhet, eller innebærer en utvidelse av en eksisterende næringsvirksomhet,
+- c. av en ansatt som har dominerende eierandel eller innflytelse i et aksjeselskap når oppdraget etter sin art omfattes av selskapets virksomhet, eller
+- d. av en arbeids- eller oppdragstaker hos en hovedoppdragstaker som oppdragsgiveren har inngått avtale med.
+
+### § 4. Beregningsenheten
+
+Beløpsgrensen som er fastsatt i folketrygdloven § 23-2 sjuende ledd, gjelder den enkelte husstands samlede lønnsutgifter, herunder eventuelle feriepenger og verdien av fri kost og losji, utbetalt til eller stilt til disposisjon for en eller flere arbeidstakere i løpet av inntektsåret. Beløpsgrensen gjelder uavhengig av antall medlemmer i husstanden. Som en husstand regnes den eller de som har felles husholdning. I generasjonsboliger gjelder beløpsgrensen for hver av husstandene dersom de har egen husholdning.
+
+*Endret ved forskrifter 16 des 2003 nr. 1583 (i kraft 1 jan 2004), 5 juni 2009 nr. 633 (fom inntektsåret 2008).*
+
+### § 5. Arbeidsgiverens ansvar
+
+Arbeidsgiveren er ansvarlig for arbeidsgiveravgift som påløper ved at vilkårene for avgiftsfritak, herunder vilkårene i § 2, ikke er oppfylt.
+
+## II
+
+Forskriften trer i kraft 1. januar 1998. Den avløser forskrift av 19. januar 1996 nr. 27 om avgrensning av arbeidsgiveravgiftsfritaket etter folketrygdloven § 16-3 første ledd for private arbeidsoppdrag i hjemmet m.v., som er opphevet fra samme tidspunkt, jf kgl res av 25. april 1997 nr. 378 om forskrift til lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) om videreføring av enkelte forskrifter gitt i medhold av lov av 17. juni 1966 nr. 12 om folketrygd (folketrygdloven).

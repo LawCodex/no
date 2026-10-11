@@ -1,0 +1,43 @@
+---
+title: "Forskrift om det europeiske sjøsikkerhetsbyrået EMSA (European Maritime Safety Agency)"
+short_title: "Forskrift om EMSA"
+identifier: "FOR-2011-03-11-271"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2011-03-11
+in_force_from: 2011-03-11
+last_amended: 2024-01-26
+last_amended_by: "forskrift/2024-01-26-120"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "I 2011 hefte 3"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2011-03-11-271"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om det europeiske sjøsikkerhetsbyrået EMSA (European Maritime Safety Agency)
+
+> Hjemmel: Fastsatt av Nærings- og handelsdepartementet 11. mars 2011 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2 og § 41, jf. delegeringsvedtak 16. februar 2007 nr. 171 og lov 17. april 2009 nr. 19 om havner og farvann § 52 jf. delegeringsvedtak 18. februar 2011 nr. 156.Tilføyd hjemmel: Lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven) § 37. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 56o (forordning (EF) nr. 1406/2002, endret ved forordning (EF) nr. 1644/2003, forordning (EF) nr. 724/2004 og forordning (EF) nr. 1891/2006 som rettet til forordning (EF) nr. 2038/2006, forordning (EU) nr. 100/2013, forordning (EU) nr. 2016/1625).Endret ved forskrift 26 jan 2024 nr. 120.
+
+## § 1. Det europeiske sjøsikkerhetsbyrået EMSA
+
+EØS-avtalen vedlegg XIII nr. 56o (forordning (EF) nr. 1406/2002, som endret ved forordning (EF) nr. 1644/2003, forordning (EF) nr. 724/2004, forordning (EF) nr. 1891/2006 som rettet til forordning (EF) nr. 2038/2006, forordning (EU) nr. 100/2013 og forordning (EU) nr. 2016/1625) om opprettelse av et europeisk sjøsikkerhetsbyrå gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 26 jan 2024 nr. 120.*
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+## Forordninger
+
+For å lese forordning (EF) nr. 1406/2002 se her: (pdf)
+
+For å lese forordning (EF) nr. 1891/2006 se her: (pdf)
+
+For å lese forordning (EF) nr. 1644/2003 se her: (pdf)
+
+For å lese forordning (EF) nr. 724/2004 se her: (pdf)

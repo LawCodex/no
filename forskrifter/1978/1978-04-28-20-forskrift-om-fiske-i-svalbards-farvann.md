@@ -1,0 +1,64 @@
+---
+title: "Forskrift om regulering ved fiske og fangst mv. i Svalbards territorialfarvann og indre farvann"
+short_title: "Forskrift om fiske i Svalbards farvann"
+identifier: "FOR-1978-04-28-20"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1978-04-28
+in_force_from: 1978-05-15
+last_amended: 2008-06-06
+last_amended_by: "forskrift/2008-06-06-552"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "I 1978 258"
+applies_to: "Svalbard"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1978-04-28-20"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om regulering ved fiske og fangst mv. i Svalbards territorialfarvann og indre farvann
+
+> Hjemmel: Fastsatt ved kgl.res. 28. april 1978 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4 og lov 3. juni 1983 nr. 40 om saltvannsfiske m.v. § 1, § 2, § 4, § 9 og § 9a.Endret ved forskrifter 3 juli 1989 nr. 538, 16 sep 1994 nr. 875, 19 juli 1996 nr. 705, 7 feb 1997 nr. 109, 6 nov 1997 nr. 1145, 2 mars 2001 nr. 226, 20 april 2001 nr. 417, 29 juni 2001 nr. 911, 19 mars 2004 nr. 541, 4 mars 2005 nr. 198, 30 mars 2005 nr. 268, 6 juni 2008 nr. 552 (bl.a tittel og hjemmel).
+
+## § 1. Reguleringsfullmakter.
+
+Fiskeridepartementet gis fullmakt til å fastsette:
+
+- 1\. Forbud mot å drive fiske i nærmere bestemte områder for å beskytte oppveksten av ungfisk og sikre rekruttering til bestandene.
+
+  Forbudet gjelder hele året eller deler av året.
+
+- 2\. Bestemmelser om redskapsreguleringer og minstemål for fisk.
+
+- 3\. Største årlige tillatte fangstmengde og fiskeinnsats for hvert enkelt fiskeslag.
+
+Fangstmengden og fiskeinnsatsen kan på hensiktsmessig måte fordeles over året, og på land som kan delta i fisket.
+
+- 4\. Bestemmelser om registrering og andre vilkår for å delta i fisket.
+- 5\. Bestemmelser om maskevidde, dimensjoner og utforming av fiskeredskaper.
+- 6\. Bestemmelser om tillatt bifangst.
+- 7\. Forbud mot eller regulering av fangstmåter og bruk av redskaper.
+- 8\. Forbud mot en bestemt anvendelse av fangsten.
+- 9\. Forbud mot å ha bestemte redskaper om bord og oppbevaring av fiskeredskaper som ikke kan nyttes i det område fartøyet befinner seg.
+- 10\. Bestemmelser om plikt til å ha og anvende bestemt utstyr for kontroll, rapportering og posisjonsbestemmelse. Departementet kan bestemme i hvilken utstrekning fartøy skal dekke kostnadene ved anskaffelse, installasjon og bruk av slikt utstyr.
+- 11\. Bestemmelser om oppgaveplikt og rapporteringsplikt vedrørende fangstkvantum, fiskeslag, fangsttid, fangstområde, fiskeredskap o.l.
+- 12\. Bestemmelser om gjennomføring av kontroll, herunder plikter for fartøyets fører/eier.
+- 13\. Bestemmelser om rapporteringsplikt vedrørende omlasting, landing, transport, oppbevaring og ved kontroll av omsetning av fisk.
+
+*Endret ved forskrifter 16 sep 1994 nr. 875, 19 juli 1996 nr. 705, 2 mars 2001 nr. 226, 4 mars 2005 nr. 198, 6 juni 2008 nr. 552.*
+
+## § 2. Straff.
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift eller medvirkning til det, straffes etter § 4 annet ledd i lov av 17. juli 1925 om Svalbard.
+
+*Endret ved forskrifter 16 sep 1994 nr. 875 (tidligere § 4), 6 nov 1997 nr. 1145, 30 mars 2005 nr. 268 (i kraft 1 mai 2005, tidligere § 6).*
+
+## § 3. Ikrafttredelse.
+
+Disse forskrifter trer i kraft 15. mai 1978, med unntak av § 2 annet ledd bokstav d, som trer i kraft fra den tid Fiskeridirektoratet bestemmer.[^1]
+
+*Endret ved forskrifter 16 sep 1994 nr. 875 (tidligere § 5), 30 mars 2005 nr. 268 (i kraft 1 mai 2005, tidligere § 7).*
+
+[^1]: § 2 er opphevet fra 1 mai 2005, jf. forskrift 30 mars 2005 nr. 268.

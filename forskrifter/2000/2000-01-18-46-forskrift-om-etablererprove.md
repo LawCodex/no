@@ -1,0 +1,79 @@
+---
+title: "Forskrift om etablererprøve for daglig leder av serveringssted"
+short_title: "Forskrift om etablererprøve – serveringssted"
+identifier: "FOR-2000-01-18-46"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2000-01-18
+in_force_from: 2000-01-01
+last_amended: 2010-03-01
+last_amended_by: "forskrift/2010-02-02-176 fra 2010-03-01"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "Avd I 2000 86"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2000-01-18-46"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om etablererprøve for daglig leder av serveringssted
+
+> Hjemmel: Fastsatt av Nærings- og handelsdepartementet 18. januar 2000 med hjemmel i lov av 13. juni 1997 nr. 55 om serveringsvirksomhet (serveringsloven) § 5 annet ledd.Endret ved forskrift 2 feb 2010 nr. 176.
+
+## § 1. Krav om etablererprøve
+
+Serveringsstedets styrer må ha dokumentert kunnskap innen områder som angitt i § 2. Dette kravet er oppfylt ved bestått etablererprøve etter bestemmelsene i denne forskriften.
+
+Kravet anses også oppfylt for den som har bestått eksamen i en konkret utdanning som er godkjent av Nærings- og handelsdepartementet som kompetansegivende.
+
+## § 2. Innhold i og utforming av etablererprøven
+
+Etablererprøven skal være en flervalgsprøve som prøver kandidatens kunnskaper om økonomistyring og lovgivning av betydning for drift av serveringssteder, herunder serveringsloven, skatte- og avgiftslovgivningen, regnskapslovgivningen, konkurslovgivningen, arbeidsmiljølovgivningen og alkoholloven.
+
+Prøven skal være basert på det materiale som er gitt i læreboken: «Læremateriell – etablererprøven for serveringsvirksomhet», utarbeidet for Nærings- og handelsdepartementet av Veiledningsinstituttet i Nord-Norge.
+
+## § 3. Prøvemyndighet
+
+Kommunen er ansvarlig for å avholde og rette etablererprøven for daglig leder i serveringssteder i kommunen som har eller søker om serveringsbevilling.
+
+Kommunen kan også avholde etablererprøve for kandidater uten tilknytning til virksomhet.
+
+Flere kommuner kan samarbeide om et felles opplegg for avholdelse av etablererprøven.
+
+*Endret ved forskrift 2 feb 2010 nr. 176 (i kraft 1 mars 2010).*
+
+## § 4. Gjennomføring av etablererprøven
+
+Kommunen skal avholde prøven innen to måneder etter at den har mottatt melding om at prøve ønskes avlagt.
+
+## § 5. Prøven og prøvetid
+
+Etablererprøven skal være en flervalgsprøve med 50 spørsmål. For å bestå prøven må kandidaten ha riktig besvarelse på minst 40 av spørsmålene. Det skal avsettes 90 minutter til elektronisk besvarelse av prøven. I tillegg får kandidater som avleverer papirbasert prøve 10 minutter til å overføre svarene til kolonnene på forsiden av prøven.
+
+*Endret ved forskrift 2 feb 2010 nr. 176 (i kraft 1 mars 2010).*
+
+## § 6. Bevis for bestått prøve
+
+Ved bestått etablererprøve utsteder kommunen bevis.
+
+## § 7. Gebyr
+
+For avleggelse av prøve, herunder forsøk på avleggelse, kan kommunen kreve et forskuddsgebyr på inntil kr 400,-.
+
+*Endret ved forskrift 2 feb 2010 nr. 176 (i kraft 1 mars 2010).*
+
+## § 8. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2000.
+
+## § 9. Overgangsordning
+
+Kravet til etablererprøve for serveringsstedets styrer gjøres ikke gjeldende for de steder som har fått serveringsbevilling innen 31. desember 1999, eller for de steder som har søkt om serveringsbevilling innen 31. desember 1999.
+
+Ved skifte av styrer fra og med 1. januar 2000, gjelder kravet om bestått etablererprøve.
+
+Ved skifte av styrer eller ved søknad om serveringsbevilling fra og med 1. januar 2000, må styrer ha bestått etablererprøven innen 31. desember 2000.
+
+Ved søknad om serveringsbevilling fra og med 1. januar 2001 må kravet til bestått etablererprøve for serveringsstedets styrer være oppfylt før serveringsbevilling gis.

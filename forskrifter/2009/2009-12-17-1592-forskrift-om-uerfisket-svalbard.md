@@ -1,0 +1,51 @@
+---
+title: "Forskrift om regulering av fisket etter uer i fiskevernsonen ved Svalbard"
+short_title: "Forskrift om uerfisket, Svalbard,"
+identifier: "FOR-2009-12-17-1592"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2009-12-17
+in_force_from: 2010-01-01
+last_amended: 2014-01-01
+last_amended_by: "forskrift/2013-12-20-1669 fra 2014-01-01"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "I 2009 hefte 14"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2009-12-17-1592"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om regulering av fisket etter uer i fiskevernsonen ved Svalbard
+
+> Hjemmel: Fastsatt av Fiskeri- og kystdepartementet (nå Nærings- og fiskeridepartementet) 17. desember 2009 med hjemmel i lov 17. desember 1976 nr. 91 om Norges økonomiske sone og lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 16, jf. forskrift 3. juni 1977 nr. 6 om fiskevernsonen ved Svalbard § 3.Endret ved forskrifter 3 des 2012 nr. 1122, 20 des 2013 nr. 1669.
+
+## § 1. Generelt forbud
+
+Det er forbudt å fiske uer i fiskevernsonen ved Svalbard for norske og utenlandske fartøyer av ethvert slag som driver fiske i ervervsøyemed eller som bistår fiskeflåten, herunder lete- og forsøksfartøy.
+
+## § 2. Bifangst
+
+Ved fiske etter andre fiskeslag i fiskevernsonen ved Svalbard er det tillatt å ha inntil 20 % uer i vekt i de enkelte fangster og ved landing.
+
+*Endret ved forskrift 3 des 2012 nr. 1122 (i kraft 1 jan 2013).*
+
+## § 3. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, kan ilegges overtredelsesgebyr i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressursloven.
+
+*Tilføyd ved forskrift 20 des 2013 nr. 1669 (i kraft 1 jan 2014).*
+
+## § 4. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i denne forskrift straffes etter lov 17. desember 1976 nr. 91 om Norges økonomiske sone § 8 og § 9 og lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressurser § 61, § 64 og § 65. Forsøk og medvirkning straffes på samme måte.
+
+*Endret ved forskrift 20 des 2013 nr. 1669 (i kraft 1 jan 2014, tidligere § 3).*
+
+## § 5. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2010. Fra samme tidspunkt oppheves forskrift 22. desember 1999 nr. 1487 om regulering av fisket etter uer i fiskevernsonen ved Svalbard.
+
+*Endret ved forskrift 20 des 2013 nr. 1669 (i kraft 1 jan 2014, tidligere § 4).*

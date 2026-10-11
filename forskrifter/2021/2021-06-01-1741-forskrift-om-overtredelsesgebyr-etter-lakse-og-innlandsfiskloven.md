@@ -1,0 +1,81 @@
+---
+title: "Forskrift om overtredelsesgebyr etter lakse- og innlandsfiskloven"
+short_title: "Forskrift om overtredelsesgebyr etter lakse- og innlandsfiskloven"
+identifier: "FOR-2021-06-01-1741"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2021-06-01
+in_force_from: 2021-06-01
+last_amended: 2021-06-17
+last_amended_by: "forskrift/2021-06-17-2021"
+ministry: "Klima- og miljødepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2021-06-01-1741"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overtredelsesgebyr etter lakse- og innlandsfiskloven
+
+> Hjemmel: Fastsatt av Klima- og miljødepartementet 1. juni 2021 med hjemmel i lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven) § 48a første og tredje ledd, jf. delegeringsvedtak 28. mai 2021 nr. 1702. Tilføyd hjemmel: Delegeringsvedtak 1 juni 2021 nr. 1742. Endret ved forskrift 17 juni 2021 nr. 2021.
+
+## § 1. Virkeområde
+
+Forskriften gir regler om utmåling av overtredelsesgebyr etter lakse- og innlandsfiskloven § 48a.
+
+## § 2. Overtredelsesgebyr etter faste satser
+
+(1) Ved overtredelse av følgende bestemmelser kan Miljødirektoratet ilegge overtredelsesgebyr etter en fast sats på 3 000 kroner:
+
+- a. plikten til å betale fiskeravgift eller til å føre kontroll med slik betaling, fastsatt i, eller i medhold av, lakse- og innlandsfiskloven § 30 første og fjerde ledd.
+- b. bestemmelser om kvoter, redskapsbruk, minstemål mv. ved fiske etter anadrome laksefisk med stang og håndsnøre i vassdrag og sjøen fastsatt i medhold av lakse- og innlandsfiskloven § 11 og § 33.
+- c. bestemmelser om utsetting og opptak av fortøyninger o.l. for faststående redskap fastsatt i medhold av lakse- og innlandsfiskloven § 33.
+- d. bestemmelser om fisketid, redskapstyper, fangstmetoder, maskevidde, minstemål mv. ved fiske etter innlandsfisk fastsatt i medhold av lakse- og innlandsfiskloven § 34.
+- e. bestemmelser om merking av faststående redskap fastsatt i medhold av lakse- og innlandsfiskloven § 43 tredje ledd.
+
+(2) Ved overtredelse av følgende bestemmelser kan Miljødirektoratet ilegge overtredelsesgebyr etter en fast sats på 6 000 kroner:
+
+- a. forbudet mot å bruke stang eller håndsnøre på en slik måte at fisken vil krøkes fastsatt i medhold av lakse- og innlandsfiskloven § 33.
+- b. forbudet mot å sette faststående redskap lenger ut fra land enn en fjerdedel av fjorden eller sundets bredde, jf. forskrift 25. februar 2003 nr. 256 om oppgaveplikt og om redskaper som er tillatt benyttet ved fiske etter anadrome laksefisk § 11, jf. lakse- og innlandsfiskloven § 33.
+- c. bestemmelser om fisketid ved fiske etter anadrome laksefisk med stang og håndsnøre i vassdrag og sjøen fastsatt i medhold av lakse- og innlandsfiskloven § 11 og § 33.
+- d. bestemmelser om fisketid, redskapstyper, fangstmetoder, maskevidde, minstemål mv. ved fangst av edelkreps og ved fiske med faststående redskap i lokaliteter med bestemmelser om fiske etter storørret, fastsatt i medhold av lakse- og innlandsfiskloven § 34.
+- e. forbudet mot fangst- og avlivingsmetoder fastsatt i, eller i medhold av, lakse- og innlandsfiskloven § 37 tredje og fjerde ledd.
+- f. forbudet mot å transportere levende fisk i og ved vassdrag uten tillatelse, jf. lakse- og innlandsfiskloven § 37 femte ledd.
+- g. plikten til å omgående avlive all fisk som fanges og ikke settes ut umiddelbart, jf. lakse- og innlandsfiskloven § 37 sjette ledd, første punktum.
+- h. forbudet mot gjenutsetting, eller plikten til umiddelbar avliving, av fremmede organismer, jf. lakse- og innlandsfiskloven § 37 sjette ledd, andre punktum.
+- i. bestemmelser om fiske med stang og håndsnøre ved utløpet av vassdrag med anadrome laksefisk fastsatt i medhold av lakse- og innlandsfiskloven § 40.
+- j. plikten til gjenutsetting av anadrome laksefisk som er fanget med redskap som er ulovlig til fangst av slik fisk eller utenfor lovlig fisketid for denne, jf. lakse- og innlandsfiskloven § 47 første ledd.
+
+(3) Ved overtredelse av følgende bestemmelser kan Miljødirektoratet ilegge overtredelsesgebyr etter en fast sats på 12 000 kroner:
+
+- a. bestemmelser om fisketid for faststående redskaper fastsatt i medhold av lakse- og innlandsfiskloven § 33.
+- b. bestemmelser om stenging av faststående redskaper fastsatt i medhold av lakse- og innlandsfiskloven § 33.
+- c. bestemmelser om bruk av ledegarn til faststående redskap fastsatt i medhold av lakse- og innlandsfiskloven § 33.
+
+(4) Overtredelsesgebyr kan ilegges på stedet.
+
+(5) Foreligger det flere overtredelser som alle kan avgjøres ved overtredelsesgebyr etter faste satser, kan disse avgjøres ved et felles overtredelsesgebyr. Det høyeste enkeltgebyret gis fullt ut, og summen av de øvrige gebyrene reduseres med 50 %. Overtredelsesgebyr skal likevel ikke utferdiges når dette etter disse bestemmelser vil overstige 18 000 kroner.
+
+## § 3. Øvre ramme for individuelt utmålt overtredelsesgebyr
+
+(1) Ved overtredelse av andre bestemmelser enn de som er nevnt i § 2 kan Miljødirektoratet ilegge individuelt utmålt overtredelsesgebyr. Den øvre ramme for overtredelsesgebyr som utmåles i det enkelte tilfelle er 50 000 kroner for fysiske personer og 100 000 kroner for foretak.
+
+(2) Foreligger det flere overtredelser som alle kan avgjøres ved overtredelsesgebyr, kan disse avgjøres ved et felles overtredelsesgebyr. Den øvre rammen gjelder også der flere overtredelser kan avgjøres ved et felles overtredelsesgebyr.
+
+## § 4. Saksbehandling
+
+For behandlingen av vedtak om overtredelsesgebyr gjelder saksbehandlingsreglene i forvaltningsloven kapittel II–VI og reglene om administrative sanksjoner i forvaltningsloven kapittel IX.
+
+## § 5. Betaling
+
+(1) Fristen for å betale overtredelsesgebyr er 30 dager fra vedtaket ble fattet, med mindre annet er fastsatt i vedtaket.
+
+(2) Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Overtredelsesgebyret tilfaller statskassen.
+
+*Endret ved forskrift 17 juni 2021 nr. 2021.*
+
+## § 6. Ikrafttreden
+
+Forskriften trer i kraft straks.

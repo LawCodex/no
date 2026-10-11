@@ -1,0 +1,62 @@
+---
+title: "Forskrift om oppheving av abortforskriften og endringer i medisinsk fødselsregisterforskriften og abortregisterforskriften mv."
+identifier: "FOR-2025-05-15-805"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2025-05-15
+in_force_from: "2025-05-15, 2025-06-01, departementet bestemmer"
+ministry: "Helse- og omsorgsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2025-05-15-805"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om oppheving av abortforskriften og endringer i medisinsk fødselsregisterforskriften og abortregisterforskriften mv.
+
+> Hjemmel: Fastsatt ved kgl.res. 15. mai 2025 med hjemmel i lov 20. desember 2024 nr. 96 om abort (abortloven) § 28, lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 33, lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) §§ 8, 9, 10, 11, 12, 13 og 33, lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) §§ 35 og 37 og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13d. Fremmet av Helse- og omsorgsdepartementet.
+
+## I
+
+Forskrift 15. juni 2001 nr. 635 om svangerskapsavbrudd oppheves.
+
+## II
+
+I forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister gjøres følgende endringer:
+
+– – –
+
+## III
+
+I forskrift 14. desember 2007 nr. 1418 om innsamling og behandling av helseopplysninger i register over svangerskapsavbrudd gjøres følgende endringer:
+
+– – –
+
+## IV
+
+I forskrift 11. juni 2021 nr. 1877 om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister, romertall I, gjøres følgende endringer:
+
+§ 1-2 første ledd nytt punkt nr. 6 skal lyde:
+
+kvinner som blir behandlet med assistert befruktning og kvinnens eventuelle partner.
+
+§ 1-7 innledningen i første ledd skal lyde:
+
+Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om moren til den fødte, samt om kvinner som nevnt i § 1-2 første ledd nr. 2, 5 og 6 i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+§ 1-10 første ledd skal lyde:
+
+Medisinsk fødselsregister kan uten samtykke inneholde opplysninger om navn, fødselsnummer og adresse til den fødtes far eller medmor. Medisinsk fødselsregister kan også inneholde slike opplysninger om faren eller medmoren til fostre der hvor svangerskapet er avbrutt på grunn av forhold som nevnt i § 1-2 første ledd nr. 2 og 5.
+
+## V
+
+I forskrift 31. mai 2013 nr. 563 om nasjonal kjernejournal skal § 5 første ledd første punktum lyde: – – –
+
+## VI
+
+Forskriftens romertall I til III gjelder fra 1. juni 2025.
+
+Forskriftens romertall IV trer i kraft fra den tiden departementet bestemmer. Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tid.
+
+Forskriftens romertall V trer i kraft straks.

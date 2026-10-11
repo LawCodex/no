@@ -1,0 +1,30 @@
+---
+title: "Forskrift om forvaltningsområdet for samiske språk"
+identifier: "FOR-2005-06-17-657"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2005-06-17
+in_force_from: 2006-01-01
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-09-26-1935 fra 2026-01-01"
+ministry: "Kommunal- og distriktsdepartementet"
+published_in: "I 2005 hefte 9"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2005-06-17-657"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om forvaltningsområdet for samiske språk
+
+> Hjemmel: Fastsatt ved kgl.res. 17. juni 2005 med hjemmel i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven) § 3-1 nr. 1 og § 3-15. Fremmet av Kultur- og kirkedepartementet.Endret ved forskrifter 14 des 2007 nr. 1431, 4 sep 2009 nr. 1147, 12 okt 2012 nr. 964, 5 mai 2017 nr. 532, 15 mai 2018 nr. 722, 20 april 2018 nr. 598 som endret ved forskrift 15 mai 2018 nr. 722, 12 mai 2020 nr. 986 (i kraft 1 juli 2020), 16 juni 2023 nr. 906 (i kraft 1 jan 2024, bl.a. tittel), 26 sep 2025 nr. 1935 (i kraft 1 jan 2026).
+
+## § 1.
+
+Forvaltningsområdet for samiske språk består av alle språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner. Karasjok, Kautokeino, Nesseby og Tana er språkutviklingskommuner. Porsanger, Kåfjord, Lavangen, Tjeldsund, Hattfjelldal, Hamarøy, Røyrvik, Røros og Snåsa er språkvitaliseringskommuner. Saltdal er språkstimuleringskommune.
+
+Forvaltningsområdet for samiske språk består i tillegg av Troms fylkeskommune, Finnmark fylkeskommune, Nordland fylkeskommune og Trøndelag fylkeskommune.
+
+*Endret ved forskrifter 14 des 2007 nr. 1431 (i kraft 1 jan 2008), 4 sep 2009 nr. 1147 (i kraft 1 okt 2009), 12 okt 2012 nr. 964 (i kraft 1 jan 2013), 5 mai 2017 nr. 532 (i kraft 1 juli 2017), 15 mai 2018 nr. 722 (i kraft 1 juli 2018), 20 april 2018 nr. 598 som endret ved forskrift 15 mai 2018 nr. 722 (i kraft 1 jan 2020), 12 mai 2020 nr. 986 (i kraft 1 juli 2020), 16 juni 2023 nr. 906 (i kraft 1 jan 2024), 26 sep 2025 nr. 1935 (i kraft 1 jan 2026).*

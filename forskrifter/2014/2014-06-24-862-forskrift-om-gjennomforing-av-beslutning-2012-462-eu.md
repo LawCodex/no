@@ -1,0 +1,33 @@
+---
+title: "Forskrift om gjennomføring av kommisjonsbeslutning 2012/462/EU om endring av vedtak 2002/731/EF, 2002/732/EF, 2002/733/EF, 2002/735/EF og 2006/66/EF og om oppheving av vedtak 2002/730/EF om tekniske spesifikasjoner for samtrafikkevne"
+short_title: "Forskrift om gjennomføring av beslutning 2012/462/EU"
+identifier: "FOR-2014-06-24-862"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2014-06-24
+in_force_from: 2014-07-01
+ministry: "Samferdselsdepartementet"
+published_in: "I 2014 hefte 9"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2014-06-24-862"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gjennomføring av kommisjonsbeslutning 2012/462/EU om endring av vedtak 2002/731/EF, 2002/732/EF, 2002/733/EF, 2002/735/EF og 2006/66/EF og om oppheving av vedtak 2002/730/EF om tekniske spesifikasjoner for samtrafikkevne
+
+> Hjemmel: Fastsatt av Statens jernbanetilsyn 24. juni 2014 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 4, § 5, § 6 og § 16 og forskrift 16. juni 2010 nr. 820 om samtrafikkevnen i jernbanesystemet (samtrafikkforskriften) § 3 sjette ledd. Tilføyd hjemmel: Forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 5.EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 37ab, 37af, 37aca, 37ad og 37ga (beslutning 2012/462/EU). Rettet 11.01.2023 (hjemmel oppdatert).
+
+## § 1.
+
+EØS-avtalen vedlegg XIII nr. 37ab, 37af, 37aca, 37ad og 37ga (kommisjonsbeslutning 2012/462/EU om endring av vedtak 2002/731/EF, 2002/732/EF, 2002/733/EF, 2002/735/EF og 2006/66/EF og om oppheving av vedtak 2002/730/EF om tekniske spesifikasjoner for samtrafikkevne) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 2.
+
+Forskriften trer i kraft 1. juli 2014.
+
+## Beslutning 2012/462/EU
+
+For å lese beslutning 2012/462/EU se her: (pdf)

@@ -1,0 +1,142 @@
+---
+title: "Forskrift om registrering som kjøper av fangst"
+short_title: "Forskrift om registrering som kjøper av fangst"
+identifier: "FOR-2010-11-26-1475"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2010-11-26
+in_force_from: 2015-01-01
+last_amended: 2022-11-01
+last_amended_by: "forskrift/2022-10-28-1807 fra 2022-11-01"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "I 2010 hefte 13"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2010-11-26-1475"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om registrering som kjøper av fangst
+
+> Hjemmel: Fastsatt ved kgl.res. 26. november 2010 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 38 og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 27a. Fremmet av Fiskeri- og kystdepartementet.Endret ved forskrifter 19 des 2014 nr. 1844, 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).
+
+## § 1. Virkeområde
+
+Forskriften gjelder for kjøpere i første hånd av fangst som er omfattet av lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) eller forskrifter fastsatt i medhold av fiskesalslagslova.
+
+Forskriften gjelder ikke for fangst som er høstet utenfor erverv så lenge fangsten ikke skal omsettes direkte eller på et senere tidspunkt.
+
+*Endret ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*
+
+## § 2. Kjøp av fangst i første hånd
+
+Den som skal kjøpe fangst i første hånd skal være registrert som kjøper i Fiskeridirektoratets register over kjøpere. Det er forbudt å kjøpe fangst på andre steder enn de mottaksanlegg eller steder som er registrert i Fiskeridirektoratets register over kjøpere av fangst.
+
+Med kjøper menes alle som kjøper fangst i første hånd som er landet fra et fiske- eller transportfartøy dersom fangsten ikke tidligere er omsatt til en registrert kjøper.
+
+Med landing menes alle tilfeller der fisk losses fra fiskefartøy, herunder omlasting og lossing av fisk fra fartøy som transporterer omlastet fisk, samt opptak av fisk fra lås/steng.
+
+Det er forbudt å omsette fangst i første hånd til andre enn kjøpere som er registrert som kjøper i første hånd i Fiskeridirektoratets register over kjøpere av fangst.
+
+Den som har fått tildelt dispensasjon fra en salgsorganisasjon for å drive kaisalg, skal også være registrert som kjøper i Fiskeridirektoratets register over kjøpere.
+
+*Endret ved forskrifter 19 des 2014 nr. 1844 (i kraft 1 jan 2015), 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 3. (Opphevet)
+
+*Opphevet ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*
+
+## § 4. Vilkår for registrering
+
+For å bli registrert som kjøper må søker være registrert i Foretaksregisteret og Enhetsregisteret, og sende søknad til Fiskeridirektoratet med følgende opplysninger:
+
+- a. Søker/foretakets organisasjonsnummer, navn, adresse, telefonnummer, epostadresse, samt navn og adresse for styreleder og daglig leder.
+- b. Nøyaktig stedsangivelse for hvor kjøp av fangst skal skje. Dette omfatter også mottaksanlegg og lignende. Med nøyaktig stedsangivelse menes besøksadresse og kommunenummeret hvor kjøpet av fangst skal skje, eventuelt godkjenningsnummer, samt nøyaktige koordinater angitt i grader og desimalminutter.
+- c. En bekreftelse på at kjøper forplikter seg til å holde seg orientert om og overholde salgsorganisasjonens forretningsregler og omsetnings- og salgsbestemmelser, herunder til enhver tid stille den bankgaranti eller tilsvarende sikkerhet som salgsorganisasjonene krever, jf. lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar § 10.
+
+Dersom det søkes om registrering for å drive kjøp ved flere mottaksanlegg eller steder, gjelder bokstav b for det enkelte mottaksanlegg eller sted.
+
+Dersom søker er tildelt dispensasjon for kaisalg skal det opplyses om dette.
+
+Opplysningsplikten i bokstav b gjelder ikke for mottak og kjøp som foregår på sjøen. I slike tilfeller skal fartøyet som benyttes identifiseres med fartøynavn, kjenningssignal og IMO-nummer dersom det er tildelt. Fartøyet skal følge reglene i forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy.
+
+Kjøper må til enhver tid oppfylle vilkårene for registrering. Retten til å være registrert i kjøperegisteret kan ikke overføres.
+
+*Endret ved forskrifter 19 des 2014 nr. 1844 (i kraft 1 jan 2015), 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 5. Antall kjøpere ved samme mottaksanlegg
+
+Det kan bare registreres én kjøper ved samme mottaksanlegg.
+
+Fiskeridirektoratet kan tillate registrering av flere kjøpere på samme mottaksanlegg. Det kan stilles vilkår i tillatelsen.
+
+*Endret ved forskrifter 19 des 2014 nr. 1844 (i kraft 1 jan 2015), 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 6. Melding ved endring og opphør
+
+Kjøper skal melde fra til Fiskeridirektoratet ved endring av opplysninger som nevnt i § 4.
+
+Ved opphør av kjøpervirksomheten plikter kjøper å melde fra til Fiskeridirektoratet.
+
+*Endret ved forskrift 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 7. Suspensjon
+
+Vedkommende salgsorganisasjon kan med øyeblikkelig virkning treffe vedtak om suspensjon av adgangen til å stå registrert som kjøper dersom kjøper ikke stiller garanti eller tilsvarende sikkerhet i henhold til salgsorganisasjonens salgsvilkår, jf. lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar § 10.
+
+Vedtak om suspensjon som nevnt i første ledd opphører fra det tidspunkt salgsorganisasjonen bekrefter ovenfor Fiskeridirektoratet at kjøper igjen stiller garanti.
+
+*Endret ved forskrifter 19 des 2014 nr. 1844 (i kraft 1 jan 2015), 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 8. Tilbakekall av registreringen
+
+Registrering som kjøper kan kalles tilbake dersom
+
+- a. Kjøper ikke har kjøpt fangst i første hånd i en tidsperiode på 12 måneder, eller
+- b. Kjøper ikke til enhver tid fyller vilkårene i § 4.
+
+Vedtak om tilbakekall kan gjøres midlertidig. I slike tilfeller kan det fastsettes at kjøper ikke trenger å søke på nytt når tilbakekallsperioden er utløpt.
+
+*Endret ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*
+
+## § 9. Unntak fra hovedreglene
+
+Fiskeridirektoratet kan dispensere fra bestemmelsene i denne forskrift, og sette vilkår for dispensasjonen.
+
+*Endret ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*
+
+## § 10. Tvangsmulkt
+
+For å sikre gjennomføring av bestemmelsene i denne forskrift kan det i henhold til i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 58 pålegges tvangsmulkt.
+
+## § 11. Overtredelsesgebyr
+
+Den som forsettlig eller uaktsomt overtrer denne forskrift kan pålegges overtredelsesgebyr i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 59.
+
+*Endret ved forskrift 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 12. Bemyndigelse og vedtakskompetanse
+
+Departementet kan endre denne forskriften.
+
+Fiskeridirektoratet fatter vedtak i første instans. Fiskeridirektoratets klagesaksenhet er klageinstans.
+
+*Endret ved forskrift 28 okt 2022 nr. 1807 (i kraft 1 nov 2022).*
+
+## § 13. (Opphevet)
+
+*Opphevet ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*
+
+## § 14. Straff
+
+Den som forsettlig eller uaktsomt overtrer denne forskrift kan straffes i henhold til i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 62, jf. § 64. Straffeprosessuell inndragning kan skje i henhold til samme lovs § 65.
+
+## § 15. Ikrafttredelse og opphevelse
+
+Denne forskrift trer i kraft 1. januar 2015.
+
+Fra samme tidspunkt oppheves kgl.res. 19. september 1997 nr. 1016 om betaling av gebyr for behandling av søknad om registrering som kjøper i første hånd av råfisk m.v. og forskrift 19. september 1997 nr. 1019 om registrering som kjøper i første hånd av råfisk m.v.
+
+*Endret ved forskrift 19 des 2014 nr. 1844 (i kraft 1 jan 2015).*

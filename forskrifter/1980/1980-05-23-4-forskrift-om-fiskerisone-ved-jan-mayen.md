@@ -1,0 +1,41 @@
+---
+title: "Forskrift om opprettelse av fiskerisone ved Jan Mayen. Delegering av fullmakt."
+short_title: "Forskrift om fiskerisone ved Jan Mayen"
+identifier: "FOR-1980-05-23-4"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1980-05-23
+in_force_from: 1980-05-29
+ministry: "Utenriksdepartementet"
+published_in: "I 1980 s 355"
+applies_to: "Jan Mayen"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1980-05-23-4"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om opprettelse av fiskerisone ved Jan Mayen. Delegering av fullmakt.
+
+> Fastsatt ved kgl.res. 23. mai 1980. Fremmet av Utenriksdepartementet.
+
+## 1
+
+Med hjemmel i lov av 17. desember 1976 nr. 91 om Norges økonomiske sone opprettes en fiskerisone i havområdene ved Jan Mayen med virkning fra 29. mai 1980.
+
+## 2
+
+Yttergrensen for fiskerisonen skal trekkes i en avstand av 200 n. mil (en nautisk mil = 1.852 meter) fra de grunnlinjer som er fastsatt for Jan Mayen, likevel ikke ut over midtlinjen i forhold til Grønland eller ut over den linje som utgjør yttergrensen for Islands økonomiske sone, slik denne i dag er fastlagt i islandsk lov nr. 41 av 1. juni 1979.
+
+## 3
+
+Hvor fiskerisonen støter opp mot sonen utenfor Øst-Grønland skal delelinjen trekkes i samsvar med avtale.
+
+## 4
+
+Fiskeridepartementet gis fullmakt til, under hensyntagen til avtaler som måtte være sluttet med fremmed stat, å gi bestemmelser vedrørende forvaltningen av fiskerisonen med sikte på vern om fiskebestandene, begrensning av utenlandsk fiske og sikring av en rasjonell og forsvarlig utøvelse av fisket.
+
+## 5
+
+Fiskeridepartementet gis fullmakt til å gi forskrifter vedrørende håndhevelsen av bestemmelsene gitt for fiskerisonen.

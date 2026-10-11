@@ -1,0 +1,53 @@
+---
+title: "Forskrift om utfasing av særfradraget for store sykdomsutgifter"
+short_title: "Forskrift om særfradrag for sykdomsutgifter"
+identifier: "FOR-2012-03-30-270"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2012-03-30
+in_force_from: "Inntektsåret 2012"
+last_amended: 2015-01-01
+last_amended_by: "forskrift/2015-03-04-190 fra 2015-01-01"
+ministry: "Finansdepartementet"
+published_in: "I 2012 hefte 5"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2012-03-30-270"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om utfasing av særfradraget for store sykdomsutgifter
+
+> Hjemmel: Fastsatt av Finansdepartementet 30. mars 2012 med hjemmel i lov 9. desember 2011 nr. 52 om endringer i skatteloven del V, jf. lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).Endret ved forskrifter 17 des 2013 nr. 1564, 19 des 2014 nr. 1881, 4 mars 2015 nr. 190.
+
+## § 1. Anvendelsesområde for overgangsregler om utfasing av særfradraget for store sykdomsutgifter
+
+Skattyter som har fått særfradrag for store sykdomsutgifter etter skatteloven § 6-83 for inntektsårene 2010 og 2011, gis fradrag for store sykdomsutgifter fra og med inntektsåret 2012. Fradraget gis på samme vilkår som for inntektsåret 2011, med de begrensninger som følger av denne forskriften.
+
+*Endret ved forskrift 4 mars 2015 nr. 190 (fom inntektsåret 2015).*
+
+## § 2. Begrensning av fradragsformål fra og med inntektsåret 2012
+
+Særfradrag for store sykdomsutgifter gis ikke for utgifter til følgende formål:
+
+- a. Tannlege- og tannpleierhjelp.
+- b. Påbygging, ombygging og tilpasning av bolig og uteområde, herunder fritidsbolig, garasje mv., og anskaffelse og montering av spesialtilpasset innredning i bolig mv.
+- c. Transport, herunder anskaffelse av kjøretøy og spesialutstyr i kjøretøy, drift og merbruk av kjøretøy.
+
+Utgifter til anskaffelser som ikke kan påregnes å ha en markedsverdi ved omsetning, og som skattyter før inntektsåret 2012 har valgt å føre til fradrag over flere år, kan likevel fradragsføres i henhold til opprinnelig innvilget fradragsperiode, såfremt skattyter ikke får nyttiggjort seg resterende fradrag innen inntektsåret 2014. Eventuell fradragsføring av slike utgifter skal ikke trappes ned etter § 3.
+
+*Endret ved forskrift 19 des 2014 nr. 1881 (fom inntektsåret 2015).*
+
+## § 3. Nedtrapping av særfradraget fra og med inntektsåret 2013
+
+Fra og med inntektsåret 2013 gis særfradrag med 67 prosent av fradragsberettigede utgifter.
+
+*Endret ved forskrift 17 des 2013 nr. 1564 (i kraft straks og gjelder for inntektsåret 2014), 19 des 2014 nr. 1881 (fom inntektsåret 2015).*
+
+## § 4. Ikrafttredelse
+
+Forskriften gjelder fra og med inntektsåret 2012.
+
+*Endret ved forskrift 19 des 2014 nr. 1881 (fom inntektsåret 2015, tidligere romertall II).*

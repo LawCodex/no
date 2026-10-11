@@ -1,0 +1,49 @@
+---
+title: "Forskrift om overgangsregler for personer som har rett til barnetillegg til uføretrygd per 31. desember 2015"
+short_title: "Forskrift om overgangsregler barnetillegg til uføretrygd"
+identifier: "FOR-2015-09-23-1095"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2015-09-23
+in_force_from: 2016-01-01
+last_amended: 2017-01-01
+last_amended_by: "forskrift/2016-12-18-1820 fra 2017-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2015 hefte 11"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2015-09-23-1095"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsregler for personer som har rett til barnetillegg til uføretrygd per 31. desember 2015
+
+> Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 23. september 2015 med hjemmel i lov 19. desember 2014 nr. 74 om endringar i folketrygdlova og einskilde andre lover del IX nr. 4. Tilføyd hjemmel: Lov 18. desember 2015 nr. 103 om endringer i folketrygdloven og enkelte andre lover (økning i grunnpensjon til gifte og samboende pensjonister og andre endringer) del X nr. 7.Endret ved forskrift 18 des 2016 nr. 1820. Rettelser: 28.12.2015 (hjemmel).
+
+## § 1. Virkeområdet og personkrets
+
+Forskriften inneholder særlig bestemmelser om barnetillegg etter folketrygdloven § 12-15 for personer som har rett til barnetillegg per 31. desember 2015.
+
+Barnetillegg beregnes etter § 2 så lenge personen har rett til barnetillegg i overgangsperioden, det vil si fra 1. januar 2016 til 31. desember 2018. Dersom det er opphold i retten til barnetillegg på en kalendermåned eller mer, er personen ikke lenger omfattet av forskriften.
+
+## § 2. Øvre tak på summen av uføretrygd og barnetillegg
+
+For personer som er omfattet av § 1 gis bestemmelsen i folketrygdloven § 12-15 tredje ledd virkning først fra 1. januar 2021. I overgangsperioden gjelder særlige regler, jf. andre til sjette ledd.
+
+Fra 1. januar 2016 til 31. desember 2016 kan summen av uføretrygd og barnetillegg ikke utgjøre mer enn 110 prosent av inntekt før uførhet.
+
+Fra 1. januar 2017 til 31. desember 2017 kan summen av uføretrygd og barnetillegg ikke utgjøre mer enn 107 prosent av inntekt før uførhet.
+
+Fra 1. januar 2018 til 31. desember 2018 kan summen av uføretrygd og barnetillegg ikke utgjøre mer enn 104 prosent av inntekt før uførhet.
+
+Fra 1. januar 2019 til 31. desember 2019 kan summen av uføretrygd og barnetillegg ikke utgjøre mer enn 101 prosent av inntekt før uførhet.
+
+Fra 1. januar 2020 til 31. desember 2020 kan summen av uføretrygd og barnetillegg ikke utgjøre mer enn 98 prosent av inntekt før uførhet.
+
+*Endret ved forskrift 18 des 2016 nr. 1820 (i kraft 1 jan 2017).*
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2016.

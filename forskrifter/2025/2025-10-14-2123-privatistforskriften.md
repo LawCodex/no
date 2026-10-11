@@ -1,0 +1,65 @@
+---
+title: "Forskrift om rett til eksamen som privatist ved Universitetet i Stavanger (privatistforskriften)"
+short_title: "Privatistforskriften"
+identifier: "FOR-2025-10-14-2123"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2025-10-14
+in_force_from: 2026-01-01
+ministry: "Kunnskapsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2025-10-14-2123"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om rett til eksamen som privatist ved Universitetet i Stavanger (privatistforskriften)
+
+> Hjemmel: Fastsatt av styret ved Universitetet i Stavanger 14. oktober 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 11-4 tredje ledd.
+
+## Kapittel I
+
+### § 1. Privatist
+
+Med privatist menes en person som har rett til eksamen etter bestemmelsene i lov om universiteter og høyskoler § 11-4, og som ønsker å melde seg opp til eksamen i andre emner enn de vedkommende kan melde seg til som følge av opptak til universitetet.
+
+### § 2. Privatistens rettigheter og plikter
+
+(1) Privatister må betale eksamensavgift, jf. vedtak i styret. Privatister kan betale semesteravgift, jf. studentsamskipnadsloven § 10 andre ledd.
+
+(2) Privatister skal registrere seg i samsvar med forskrift om studier og eksamen ved Universitetet i Stavanger § 3-2.
+
+(3) For privatister som har rett til å gå opp til eksamen i samsvar med lov om universiteter og høyskoler § 11-4, gjelder reglene i universitets- og høyskoleloven §§ 11-5 til 11-12 tilsvarende.
+
+(4) Privatister ved universitetet i Stavanger har rett til deltakelse i offentlige forelesninger. Det fakultetet som har ansvar for emnet, kan gi privatister tilgang til undervisning som ikke er offentlig.
+
+(5) Privatister som ikke oppfyller fastsatte krav for å kunne gå opp til eksamen, i form av obligatoriske aktiviteter som ikke kan prøves, har ikke rett til eksamen.
+
+(6) For privatister gjelder reglene om kontinuasjonseksamen i forskrift om studier og eksamen ved Universitetet i Stavanger § 6-7 tilsvarende.
+
+(7) Privatister har ikke rett til eksamen i emner som har praksis.
+
+(8) Studenter som er utestengt fra universitetet og har mistet sin eksamensrett i samsvar med universitets- og høyskoleloven kapittel 12, har ikke adgang til eksamen som privatist.
+
+### § 3. Oppmelding til eksamen
+
+Privatister må søke om å få melde seg opp til eksamen innen fastsatte frister. Privatistene må legge ved dokumentasjon som viser at de oppfyller kravene til opptak, jf. universitets- og høyskoleloven §§ 8-1 eller 8-2, og eventuelle andre opptakskrav.
+
+### § 4. Eksamensavgift
+
+Privatister må betale eksamensavgiften innen fastsatt frist. Privatister som ikke har betalt avgiften innen fristen, har ikke tilgang til eksamen. Universitetet kan i særlige tilfeller gjøre unntak fra bestemmelsene i denne paragrafen.
+
+### § 5. Vitnemål
+
+Privatister som planlegger å fullføre en utdanning ved universitetet, bør på forhånd ta kontakt med universitetet for å få satt opp en plan som kvalifiserer for å få vitnemål.
+
+### § 6. Klagerett
+
+Klage på vedtak etter denne forskriften sendes til Universitetet i Stavanger.
+
+## Kapittel II
+
+### § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2026. Samtidig oppheves forskrift 6. desember 2005 nr. 1402 om adgang til å gå opp til eksamen mv. som privatist ved Universitetet i Stavanger.

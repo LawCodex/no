@@ -1,0 +1,48 @@
+---
+title: "Forskrift om volummodell melk"
+identifier: "FOR-2024-10-31-2605"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2024-10-31
+in_force_from: 2024-11-01
+ministry: "Landbruks- og matdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2024-10-31-2605"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om volummodell melk
+
+> Hjemmel: Fastsatt av Landbruks- og matdepartementet 31. oktober 2024 med hjemmel i lov 10. juli 1936 nr. 6 til å fremja umsetnaden av jordbruksvaror § 14.Rettet 05.11.2024 (§ 5).
+
+## § 1. Formål
+
+Formålet med denne forskriften er å regulere frister for fastsettelse av planlagt gjennomsnittlig engrospris for melk og regulere årlig kvantum for markedsregulators innlegging av melkeprodukter på reguleringslager.
+
+## § 2. Planlagt gjennomsnittlig engrospris og prisløype
+
+Markedsregulator skal fastsette en planlagt gjennomsnittlig engrospris for rå melk som skal gjelde henholdsvis for periodene 1. januar til 30. juni og 1. juli til 31. desember. Med utgangspunkt i planlagt gjennomsnittlig engrospris skal markedsregulator fastsette en tilhørende planlagt prisløype. Den fastsatte planlagte gjennomsnittlige engrosprisen skal være bindende oppover per halvårsperiode, men kan settes ned en gang i løpet av perioden.
+
+Dersom Landbruksdirektoratet for å hindre alvorlig markedsforstyrrelse har satt tollavgiftssatsen til null i medhold av forskrift om administrative nedsettelser av tollavgiftssatser for landbruksvarer kapittel 2a, kan markedsregulator suspendere fastsatt planlagt gjennomsnittlig engrospris med tilhørende prisløype for den resterende del av halvåret.
+
+## § 3. Frister
+
+Markedsregulator skal fastsette planlagt gjennomsnittlig engrospris innen utgangen av 20. april og 20. oktober hvert år. Planlagt prisløype skal fastsettes innen utgangen av 25. april og 25. oktober.
+
+Markedsregulator skal kunngjøre eventuell reduksjon av gjennomsnittlig engrospris, sammen med tilhørende prisløype samtidig som offentliggjøringen av volumprognosene i mars og september. Dersom det vurderes som nødvendig kun å endre prisløypen for å oppnå fastsatt gjennomsnittlig engrospris for prisperioden, skal dette meddeles samtidig.
+
+Markedsregulators kunngjøring av beslutninger i samsvar med paragrafen her skal skje umiddelbart etter at beslutningen er truffet.
+
+## § 4. Grunnlaget for planlagt gjennomsnittlig engrospris
+
+Markedsregulator skal, uten ugrunnet opphold etter at planlagt gjennomsnittlig engrospris er fastsatt, legge frem vurderingene som beslutningen bygger på.
+
+## § 5. Maksimalt årlig kvantum for innlegging av varer på reguleringslager
+
+Innlegging av varer på reguleringslager i melkesektoren skal skje innenfor et maksimalt årlig kvantum. For kumelk er kvantumsgrensen 7 100 tonn for proteinfraksjonen og 3 800 tonn for fettfraksjonen. Proteinfraksjonen defineres som mengden skummetmelkpulver multiplisert med en faktor på 1,1 pluss mengden hvitost. Fettfraksjonen defineres som mengden fløtemysost multiplisert med en faktor på 0,33 pluss mengden smør. For geitemelk er kvantumsgrensen 3 100 tonn brunostprodukter. Mengden av ekte geitost, FG33, teller inn med en faktor på 7,5 som legges til mengden gudbrandsdalsost G35.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. november 2024.

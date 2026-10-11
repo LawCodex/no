@@ -1,0 +1,36 @@
+---
+title: "Forskrift om overgangsregler til viltressursloven og oppheving av forskrifter med hjemmel i viltloven og naturskadeerstatningsloven"
+identifier: "FOR-2026-06-22-1158"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2026-06-22
+in_force_from: "2026-06-22, 2026-07-01"
+ministry: "Landbruks- og matdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2026-06-22-1158"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsregler til viltressursloven og oppheving av forskrifter med hjemmel i viltloven og naturskadeerstatningsloven
+
+> Hjemmel: Fastsatt av Landbruks- og matdepartementet 22. juni 2026 med hjemmel i lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven) § 61, delegeringsvedtak 19. juni 2026 nr. 1153, lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven) §§ 37 og 38 og lov 15. august 2014 nr. 59 om erstatning for naturskader (naturskadeerstatningsloven) § 19, jf. delegeringsvedtak 15. august 2014 nr. 1085.
+
+## I
+
+Forvaltningsvedtak gitt med direkte hjemmel i viltloven og med varighet etter viltressurslovens ikrafttredelse gjelder også etter ikrafttredelse av viltressursloven. Det samme gjelder privatrettslige avtaler med varighet etter viltressurslovens ikrafttredelse.
+
+Eksisterende avtaler, flertallsvedtak og offentlige vedtak med hjemmel i viltloven §§ 37 og 38, og med varighet etter viltressurslovens ikrafttredelse, gjelder frem til avtalens utløp.
+
+## II
+
+Følgende forskrifter oppheves:
+
+- 1\. Forskrift 24. oktober 1984 nr. 1878 om gjennomføringen av bestemmelsene om sammenslåing av eiendommer til felles viltområde i viltlovens § 37
+- 2\. Forskrift 24. oktober 1984 nr. 1879 om gjennomføringen av bestemmelsene om sammenslåing for å oppnå minsteareal for hjorteviltjakt i viltlovens § 38
+- 3\. Forskrift 18. september 2023 nr. 1440 om forenklet saksbehandling av søknader om naturskadeerstatning etter flomhendelsene høsten 2023.
+
+## III
+
+Forskriften trer i kraft 1. juli 2026 med unntak av opphevelse av forskrift 18. september 2023 nr. 1440 om forenklet saksbehandling av søknader om naturskadeerstatning etter flomhendelsene høsten 2023 som trer i kraft straks.

@@ -1,0 +1,84 @@
+---
+title: "Forskrift om tilskudd til klimatiltak i kommunene, fylkeskommunene og Longyearbyen lokalstyre"
+short_title: "Forskrift om tilskudd til klimatiltak i kommunene, fylkeskommunene og Longyearbyen lokalstyre"
+identifier: "FOR-2017-10-26-1771"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2017-10-26
+in_force_from: 2017-12-01
+last_amended: 2021-03-11
+last_amended_by: "forskrift/2021-03-11-659"
+ministry: "Klima- og miljødepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2017-10-26-1771"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tilskudd til klimatiltak i kommunene, fylkeskommunene og Longyearbyen lokalstyre
+
+> Hjemmel: Fastsatt av Klima- og miljødepartementet 26. oktober 2017 med hjemmel i Stortingets årlige budsjettvedtak, jf. kap. 1420 post 61 og post 62. Endret ved forskrift 11 mars 2021 nr. 659 (bl.a. tittel).
+
+## § 1. Formålet med ordningen
+
+Tilskuddsordningens formål er å fremme klimatiltak i kommuner, fylkeskommuner og Longyearbyen lokalstyre ved å støtte prosjekter som bidrar til reduksjon i utslipp av klimagasser og omstilling til lavutslippssamfunnet.
+
+Tilskuddsordningens delmål er å bidra til at:
+
+- a. kommunen, fylkeskommunen og Longyearbyen lokalstyre integrerer klimahensyn i sine aktiviteter
+- b. kommunen, fylkeskommunen og Longyearbyen lokalstyre styrker rollen som samfunnsutvikler og pådriver som tilrettelegger for samarbeid på klimaområdet mellom ulike aktører.
+
+*Endret ved forskrift 11 mars 2021 nr. 659.*
+
+## § 2. Målgruppe
+
+Tilskudd fra ordningen kan tildeles kommuner og fylkeskommuner, samt Longyearbyen lokalstyre.
+
+*Tilføyd ved forskrift 11 mars 2021 nr. 659.*
+
+## § 3. Tildelingskriterier
+
+Tilskudd kan tildeles til tiltak som oppfyller følgende tildelingskriterier:
+
+- a. tiltaket skal bidra til reduserte klimagassutslipp, omstilling til lavutslippssamfunnet eller begge deler
+- b. søknaden skal være politisk forankret i kommunen
+- c. tilskuddet skal være utløsende for at tiltaket gjennomføres og
+- d. kommunen må bidra med egeninnsats.
+
+For tilskudd til nettverk og erfaringsdeling gjelder likevel egne kriterier som vil fremgå av utlysningen.
+
+Årlige satsningsområder for tilskuddsordningen kunngjøres i utlysningen.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 2).*
+
+## § 4. Krav til søknaden
+
+Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter innen søknadsfristene som blir kunngjort på Miljødirektoratets nettsider. Miljødirektoratet kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 3).*
+
+## § 5. Krav om rapportering
+
+Mottaker av tilskudd skal levere sluttrapport og sluttregnskap i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet. Nærmere krav om rapportering kan gis i tilskuddsbrevet.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 4).*
+
+## § 6. Omgjøring og tilbakebetaling
+
+Tilskudd som ikke er brukt i samsvar med vilkårene i tilskuddsbrevet kan kreves tilbakebetalt.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 5).*
+
+## § 7. Ansvarlig myndighet
+
+Miljødirektoratet avgjør hvilke søknader som innvilges, støttesum og krav til rapportering. Forvaltningslovens bestemmelser om klage gjelder ikke tilskudd til kommuner etter forskriften her.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 6).*
+
+## § 8. Ikraftsetting
+
+Forskriften trer i kraft 1. desember 2017.
+
+*Endret ved forskrift 11 mars 2021 nr. 659 (tidligere § 7).*

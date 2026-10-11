@@ -1,0 +1,77 @@
+---
+title: "Forskrift om Miljøvedtaksregisteret"
+short_title: "Forskrift om Miljøvedtaksregisteret"
+identifier: "FOR-2013-06-14-643"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2013-06-14
+in_force_from: 2014-04-01
+last_amended: 2013-10-04
+last_amended_by: "forskrift/2013-10-04-1182"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2013 hefte 8"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2013-06-14-643"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om Miljøvedtaksregisteret
+
+> Hjemmel: Fastsatt ved kgl.res. 14. juni 2013 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 68. Fremmet av Miljøverndepartementet.Endret ved forskrift 4 okt 2013 nr. 1182.
+
+## § 1. Formål
+
+Forskriften oppretter og regulerer Miljøvedtaksregisteret, som driftes av Miljødirektoratet.
+
+## § 2. Tilgjengelighet og kostnadsfri bruk
+
+Opplysningene og dokumentene i registeret skal være tilgjengelige for alle og bruk av registeret skal være kostnadsfri.
+
+Opplysningene og dokumentene i registeret kan brukes til alle formål hvis ikke annen lovgivning eller tredjepersons rettigheter er til hinder for det.
+
+## § 3. Forskrifter og enkeltvedtak som skal registreres, av hvem og når
+
+Miljødirektoratet registrerer følgende forskrifter i registeret:
+
+- a. forskrifter fastsatt med hjemmel i naturmangfoldloven § 23 og § 24, § 28 til § 31, § 34 til § 39, § 40, § 45 første og annet ledd, § 52 og § 58 til § 61
+- b. forskrifter fastsatt med hjemmel i lov 19. juni 1970 nr. 63 om naturvern, jf. naturmangfoldloven § 77
+- c. forskrift 18. mars 2005 nr. 242 om forvaltning av rovvilt.
+
+Følgende enkeltvedtak skal registreres i registeret:
+
+- a. enkeltvedtak fastsatt med hjemmel i forskriftene i første ledd
+- b. enkeltvedtak fastsatt med hjemmel i naturmangfoldloven § 48
+- c. enkeltvedtak som berører en forekomst av en utvalgt naturtype, jf. naturmangfoldloven § 53.
+
+Ballastvannforskriften skal ikke registreres i registeret. Det samme gjelder enkeltvedtak som er fastsatt med hjemmel i ballastvannforskriften.
+
+Den forvaltningsmyndighet som fastsetter enkeltvedtaket eller fremmer resolusjonen om enkeltvedtak Kongen fastsetter, skal registrere enkeltvedtakene ved bruk av registerets registreringsløsning.
+
+Et enkeltvedtak skal registreres senest tre virkedager etter at parten er underrettet om vedtaket, jf. forvaltningsloven § 27.
+
+*Endret ved forskrift 4 okt 2013 nr. 1182.*
+
+## § 4. Hva som skal registreres
+
+Forskrifter og dokumenter som inneholder enkeltvedtak skal legges inn i registeret i fulltekst. Unntak gjelder for dokumenter som inneholder opplysninger som kan unntas fra offentlighet etter offentleglova eller opplysninger som nevnt i offentlegforskrifta § 7 annet ledd.
+
+Enkeltvedtak skal registreres med tittel på sak og dokument, type tiltak, lov eller forskriftshjemmel for vedtaket, vedtaksdato, hvilke kommuner vedtaket gjelder i og om vedtaket er offentlig eller helt eller delvis unntatt offentlighet.
+
+Enkeltvedtak skal stedfestes til administrativt område, berørt forekomst eller representasjonspunkt.
+
+## § 5. Forholdet til annen lovgivning
+
+Registrering i Miljøvedtaksregisteret erstatter ikke offentlige myndigheters plikt til å kunngjøre og varsle etter forvaltningsloven, naturmangfoldloven og andre lover.
+
+## § 6. Registerets anvendelse for Svalbard og Jan Mayen
+
+Naturmangfoldloven § 68 gjelder for Svalbard og Jan Mayen for så vidt gjelder forskrifter fastsatt med hjemmel i § 58 til § 61 og enkeltvedtak fastsatt med hjemmel i slike forskrifter.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. april 2014.
+
+Forskriften gjelder bare for enkeltvedtak fastsatt etter ikrafttredelsen.

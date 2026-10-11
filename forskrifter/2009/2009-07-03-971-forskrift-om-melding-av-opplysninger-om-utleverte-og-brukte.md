@@ -1,0 +1,86 @@
+---
+title: "Forskrift om melding av opplysninger om utleverte og brukte legemidler til dyr"
+identifier: "FOR-2009-07-03-971"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2009-07-03
+in_force_from: 2010-07-01
+last_amended: 2010-08-06
+last_amended_by: "forskrift/2010-08-06-1147"
+ministry: "Helse- og omsorgsdepartementet; Landbruks- og matdepartementet; Nærings- og fiskeridepartementet"
+published_in: "I 2009 hefte 9"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2009-07-03-971"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om melding av opplysninger om utleverte og brukte legemidler til dyr
+
+> Hjemmel: Fastsatt av Fiskeri- og kystdepartementet, Helse- og omsorgsdepartementet og Landbruks- og matdepartementet 3. juli 2009 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 36, jf. delegeringsvedtak 11. juni 2010 nr. 814, lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 14 femte ledd, lov 2. juni 2000 nr. 39 om apotek (apotekloven) § 5-5, lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 17 og § 24 tredje og sjette ledd og lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 29 annet ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790.Endret ved forskrifter 22 okt 2009 nr. 1312, 6 aug 2010 nr. 1147.
+
+## § 1. Formål
+
+Forskriften skal sikre at utleverere og rekvirenter melder opplysninger om utleverte og brukte legemidler til dyr og at opplysningene registreres og bearbeides til bruk i arbeidet for å sikre helsemessig trygge næringsmidler, fremme folkehelse, dyrehelse, dyrevelferd og forbrukerhensyn samt ivareta miljøvennlig produksjon.
+
+## § 2. Definisjoner
+
+I denne forskriften forstås med
+
+- a. *utleverere:* apotek, legemiddelgrossister, fôrfirmaer og medisinfôrfirmaer
+- b. *rekvirenter:* veterinærer og fiskehelsebiologer
+- c. *bruksområder:* kategorier av sykdommer og andre indikasjoner som begrunner bruk av reseptpliktige legemidler, herunder medisinfôr, eller av fôr som er tilsatt koksidiostatika.
+
+## § 3. Meldeplikt
+
+Utleverere skal melde fra til Mattilsynet om all utlevering av
+
+- a. reseptpliktige legemidler til dyr, herunder medisinfôr
+- b. fôr som er tilsatt koksidiostatika.
+
+Rekvirenter skal melde fra til Mattilsynet om alle reseptpliktige legemidler som de får utlevert og deretter bruker til matproduserende dyr og hester. Rekvirentene skal spesifisere om det er de selv eller dyreholdere som tilfører dyrene legemidlene.
+
+Meldingen skal inneholde nødvendige og relevante opplysninger om
+
+- a. utlevereren
+- b. rekvirenten
+- c. dyreholdets identitet, unntatt for kjæledyr som holdes privat
+- d. dyr som tilføres legemidler
+- e. bruksområde
+- f. hvorvidt legemidler er utlevert til rekvirent
+- g. legemidler, herunder medisinfôr
+- h. fôr som er tilsatt koksidiostatika
+- i. tidspunkt for utlevering
+- j. tidspunkt for reell eller forventet bruk
+- k. tilbakeholdelsestider
+- l. varigheten av startforbud for hest i henhold til norsk dopingreglement.
+
+Det sentrale Mattilsynet spesifiserer i meldesystemet hva som er nødvendige og relevante opplysninger om forhold nevnt i tredje ledd, herunder bruk av kodeverk.
+
+Det sentrale Mattilsynet spesifiserer meldingenes form og tidsfrister for melding.
+
+## § 4. Direkte tilgang til registrerte opplysninger
+
+Mattilsynet skal gi utleverere, rekvirenter og dyreholdere direkte tilgang til registrerte opplysninger som gjelder deres egen virksomhet.
+
+## § 5. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften.
+
+## § 6. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i § 3, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+## § 7. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37, legemiddelloven § 31, apotekloven § 9-5, dyrehelsepersonelloven § 37 og matloven § 28.
+
+*Endret ved forskrift 6 aug 2010 nr. 1147.*
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2010.
+
+*Endret ved forskrift 22 okt 2009 nr. 1312.*

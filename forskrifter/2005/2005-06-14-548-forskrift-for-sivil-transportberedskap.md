@@ -1,0 +1,69 @@
+---
+title: "Forskrift for sivil transportberedskap"
+short_title: "Forskrift for sivil transportberedskap"
+identifier: "FOR-2005-06-14-548"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2005-06-14
+in_force_from: 2005-07-01
+last_amended: 2021-06-01
+last_amended_by: "forskrift/2020-12-10-3342 fra 2021-06-01"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2005 hefte 8"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2005-06-14-548"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift for sivil transportberedskap
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 14. juni 2005 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 37. Endret ved forskrift 10 des 2020 nr. 3342 (i kraft 1 juni 2021). Rettet 01.06.2021 (tegnsetting i liste tilpasset universell utforming).
+
+## § 1. Formål og virkeområde
+
+Forskriftens formål er å gi grunnlag for å sikre en nødvendig nasjonal sivil transportberedskap i fredstid, ved beredskap, i krig og ved ekstraordinære kriseforhold ved å pålegge fylkeskommunene transportberedskapsoppgaver.
+
+## § 2. Overordnet myndighet
+
+Samferdselsdepartementet har det overordnede ansvaret for å sikre og tilrettelegge for en nødvendig nasjonal sivil transportberedskap.
+
+Samferdselsdepartementet skal ivareta kontakten med sivile og militære beredskaps- og forsyningsmyndigheter, etater, virksomheter og fylkeskommuner.
+
+Samferdselsdepartementet skal etablere og lede et rådgivende forum for sivil transportberedskap.
+
+## § 3. Myndighet for regional transportberedskap
+
+Fylkeskommunen har ansvar for å sikre og tilrettelegge for en nødvendig og regionalt tilpasset sivil transportberedskap i fylket.
+
+Fylkeskommunen skal samarbeide med statsforvalter, politiet, transportnæringen og andre sivile og militære myndigheter for en best mulig koordinert sivil transportberedskap.
+
+Fylkeskommunen skal bidra med transportfaglige råd, og på anmodning fra departement, statsforvalter, politiet eller andre sivile eller militære myndigheter formidle kontakt med løyvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller målepliktig fartøy og verksteder.
+
+*Endret ved forskrift 10 des 2020 nr. 3342 (i kraft 1 juni 2021).*
+
+## § 4. Alminnelige plikter
+
+Fylkeskommunen skal:
+
+- a. Avklare fylkets transportberedskapsbehov ved å avdekke hvilke kriser som kan utløse transportbehov, hvilke typer transportbehov det dreier seg om og hvordan organiseringen gjøres mest hensiktsmessig. Avklaring basert på risiko- og sårbarhetsanalyse (ROS-analyse) etter nærmere retningslinjer gitt av Samferdselsdepartementet anses tilstrekkelig.
+- b. Utpeke og føre oversikt over løyvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller målepliktig fartøy og verksteder, herunder deres personell og transportmateriell, som kan ha en særskilt rolle innen den sivile transportberedskapen.
+- c. Årlig avholde kontaktmøter med aktører som nevnt i bokstav b) og andre samarbeidsparter.
+- d. Delta i beredskapsøvelser etter anmodning fra departement, statsforvalter, politiet eller Forsvaret.
+- e. Orientere Samferdselsdepartementet om eventuelle avtaler som er inngått med aktører som nevnt i bokstav b) for planlegging og utførelsen av beredskapsoppdrag.
+
+*Endret ved forskrift 10 des 2020 nr. 3342 (i kraft 1 juni 2021).*
+
+## § 5. Dokumentasjon
+
+Fylkeskommunen skal på anmodning fra Samferdselsdepartementet eller statsforvalter fremlegge dokumentasjon på at pliktene etter denne forskrift er ivaretatt.
+
+*Endret ved forskrift 10 des 2020 nr. 3342 (i kraft 1 juni 2021).*
+
+## § 6. Ikrafttreden og opphevelse av annen forskrift
+
+Denne forskrift trer i kraft 1. juli 2005. Fra samme tid oppheves forskrift 8. juni 1979[^1] om planlegging, organisering og utøving av den sivile vegtransport- og kysttransportberedskap med senere endringer.
+
+[^1]: Ikke kunngjort i Norsk Lovtidend.

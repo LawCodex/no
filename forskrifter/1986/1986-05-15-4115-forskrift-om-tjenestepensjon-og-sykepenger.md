@@ -1,0 +1,46 @@
+---
+title: "Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43)"
+short_title: "Forskrift om tjenestepensjon og sykepenger"
+identifier: "FOR-1986-05-15-4115"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1986-05-15
+in_force_from: 1985-07-01
+last_amended: 2015-01-01
+last_amended_by: "forskrift/2014-11-26-1468 fra 2015-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1986-05-15-4115"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43)
+
+> Hjemmel: Fastsatt av Sosialdepartementet 15. mai 1986 med hjemmel i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 31 første ledd, jf. § 22 femte ledd, lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 14 første ledd, jf. § 8 nr. 1 fjerde ledd og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere § 17 første ledd, jf. § 9 fjerde ledd.Endret ved forskrifter 16 des 2001 nr. 1649, 23 okt 2007 nr. 1178, 26 nov 2014 nr. 1468.
+
+## § 1.
+
+Uførepensjon fra Statens Pensjonskasse, Pensjonsordning for apotekvirksomhet og Pensjonsordning for sykepleiere som er beregnet etter full pensjonsgivende tjenestetid og hel arbeidsuførhet, faller bort i den utstrekning pensjonisten får utbetalt sykepenger fra folketrygden.
+
+Er uførepensjon ikke beregnet etter full pensjonsgivende tjenestetid og hel arbeidsuførhet, skal fradraget i uførepensjonen avkortes forholdsmessig.
+
+Fradrag for sykepenger foretas fra og med den dag pensjonisten oppebærer slik ytelse og opphører fra og med den dag sykepengene opphører.
+
+*Endret ved forskrifter 16 des 2001 nr. 1649 (i kraft 1 jan 2002), 23 okt 2007 nr. 1178.*
+
+## § 2.
+
+Alderspensjon fra Statens Pensjonskasse, Pensjonsordningen for apotekvirksomhet og Pensjonsordningen for sykepleiere settes ned etter tilsvarende regler som under § 1, dersom sykepengene er beregnet av inntekter som også har vært pensjonsgivende i pensjonsordningen.
+
+*Endret ved forskrift 23 okt 2007 nr. 1178.*
+
+## § 3.
+
+Disse forskrifter trer i kraft fra 1. juli 1985.
+
+Tilsvarende regler gjelder for de kommunale pensjonsordninger.
+
+*Endret ved forskrifter 16 des 2001 nr. 1649 (i kraft 1 jan 2002), 26 nov 2014 nr. 1468 (i kraft 1 jan 2015).*

@@ -1,0 +1,70 @@
+---
+title: "Forskrift for medisinsk embetseksamen og medisinsk eksamen ved Universitetet i Tromsø."
+short_title: "Forskrift om medisinsk embetseksamen, UiT"
+identifier: "FOR-1976-03-22-8875"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1976-03-22
+in_force_from: 1976-03-22
+last_amended: 1987-08-14
+last_amended_by: "forskrift/1987-08-14-681"
+ministry: "Kunnskapsdepartementet"
+published_in: "I 1976 139"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1976-03-22-8875"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift for medisinsk embetseksamen og medisinsk eksamen ved Universitetet i Tromsø.
+
+> Fastsatt av Kultur- og vitenskapsdepartementet 22. mars 1976.Endret ved forskrifter 5. juli 1982 nr. 1118, 19. februar 1987 nr. 132, 14. august 1987 nr. 681.
+
+## § 1.
+
+Medisinsk embetseksamen består av fire trinn. Embetseksamen skal normalt kunne avlegges i løpet av 6 år. Bestått embetseksamen gir rett til tittelen candidatus medicinae (cand.med.)
+
+Medisinsk eksamen består av de to første trinn til embetseksamen og skal normalt avlegges i løpet av 4 år, medregnet examen philosophicum.[^1] Bestått medisinsk eksamen gir rett til tittelen candidatus magisterii (cand.mag.).
+
+Hvert trinn inndeles i avsnitt/semestre/kurs etter universitetstingets bestemmelser.
+
+[^1]: Jf forskrift om examen philosophicum ved Universitetet i Tromsø av 19. februar 1987 nr. 130.
+
+## § 2.
+
+Etter forslag fra Studiestyret for medisin fastsetter universitetstinget hvilke fag/fagkombinasjoner det skal avlegges eksamen i, oppmeldingsprosedyre, prøveformer og til hvilken tid eksamen skal være avlagt.
+
+På samme måte fastsetter universitetstinget obligatoriske kurs og obligatorisk klinisk tjeneste.
+
+## § 3.
+
+Alle eksamener blir holdt minst en gang i året. Ved eksamen gis karakteren «bestått» eller «ikke bestått». Universitetstinget kan i tillegg fastsette nærmere regler for skriftlig bedømmelse av selvvalgt skriftlig prøve.
+
+## § 4.
+
+Det er i samme semester ikke adgang til å framstille seg til eksamen i et fag ved mer enn ett norsk universitet.
+
+Universitetstinget fastsetter de regler som skal gjelde for framstilling til eksamen for dem som ikke har bestått og for dem som vil gjenta bestått eksamen.
+
+Unnlatt oppmelding til eksamen i rett tid, unnlatt frammøte og trekk under eksamen regnes som ikke bestått eksamen når godkjent forfallsgrunn ikke foreligger.
+
+## § 5.
+
+Fagstyret for medisin kan etter innstilling fra studiestyret for medisin, frita for eksamen eller prøve:
+
+- 1\. Når tilsvarende krav er oppfylt ved annen institusjon
+- 2\. På bakgrunn av eksamen eller prøve i et velegnet fag utenfor fagkretsen avlagt ved universitetet eller annen institusjon.
+
+Universitetsstyret er klageinstans.
+
+Opplysninger om generelle fritak skal tas inn i studieplanen.
+
+## § 6.
+
+De forskrifter universitetstinget gir med hjemmel i dette reglement, tas inn i studieplanen.
+
+## § 7.
+
+Dette reglement tar til å gjelde straks.

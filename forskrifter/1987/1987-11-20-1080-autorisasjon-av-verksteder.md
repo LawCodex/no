@@ -1,0 +1,38 @@
+---
+title: "Forskrift om autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr."
+short_title: "Autorisasjon av verksteder"
+identifier: "FOR-1987-11-20-1080"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1987-11-20
+in_force_from: 1988-01-01
+ministry: "Justis- og beredskapsdepartementet"
+published_in: "I 1987 s 1122"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1987-11-20-1080"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr.
+
+> Fastsatt av NVE i medhold av § 2 i lov av 24. mai 1929 om tilsyn med elektriske anlegg og bemyndigelse av 6. oktober 1971 fra Industridepartementet.
+
+- 1\. Verksteder som skal foreta visse arbeider på eksplosjonsbeskyttet elektrisk utstyr, må ha autorisasjon.
+
+Veiledning:
+
+Av retningslinjene, se pkt. 3, fremgår hvilke arbeider som det kreves autorisasjon for å utføre.
+
+- 2\. Autorisasjon av verksteder meddeles av Norges Elektriske Materiellkontroll (NEMKO) etter avtale med Norges vassdrags- og energiverk (NVE).
+- 3\. For autorisasjonen gjelder retningslinjer for autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr. Retningslinjene skal være godkjent av NVE.
+
+Veiledning:
+
+Retningslinjer kan fås ved henvendelse til NVE, Elsikkerhetsavdelingen.
+
+- 4\. Forskriftene trer i kraft 1. januar 1988.
+
+Meddelelsen vil inngå i neste nr. av vårt informasjonsblad «Paragrafen» – nr. 34, og vil derfor ikke bli distribuert gjennom NEVF's abonnementsordning som særtrykk.

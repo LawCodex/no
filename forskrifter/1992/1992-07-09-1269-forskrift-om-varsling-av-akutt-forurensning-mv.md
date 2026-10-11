@@ -1,0 +1,72 @@
+---
+title: "Forskrift om varsling av akutt forurensning eller fare for akutt forurensning."
+short_title: "Forskrift om varsling av akutt forurensning mv"
+identifier: "FOR-1992-07-09-1269"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1992-07-09
+in_force_from: 1993-01-01
+last_amended: 2007-06-27
+last_amended_by: "forskrift/2007-06-27-723"
+ministry: "Samferdselsdepartementet"
+published_in: "Avd I 1993 1005"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1992-07-09-1269"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om varsling av akutt forurensning eller fare for akutt forurensning.
+
+> Hjemmel: Fastsatt av Miljøverndepartementet 9. juli 1992 med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 39 tredje ledd, jf. delegeringsvedtak 20. desember 2002 nr. 1805.Endret ved forskrifter 31 aug 2001 nr. 1016 (virkeområdet omfatter ikke lenger kontinentalsokkelen), 27 juni 2007 nr. 723 (bl.a. hjemmel).
+
+## § 1. Definisjon
+
+Med akutt forurensning menes forurensning av betydning, som inntrer plutselig, og som ikke er tillatt etter bestemmelsene i eller i medhold av forurensningsloven.
+
+## § 2. Virkeområde
+
+Denne forskriften gjelder for akutt forurensning
+
+- riket
+- i norsk økonomisk sone eller som truer å inntreffe i norsk økonomisk sone når forurensningskilden er norsk fartøy eller innretning
+
+*Endret ved forskrift 31 aug 2001 nr. 1016 (i kraft 1 jan 2002).*
+
+## § 3. Varslingsplikt
+
+Den ansvarlige for akutt forurensning plikter straks å varsle i samsvar med denne forskrift. Denne varslingsplikten påhviler også oppdragstaker som utfører arbeid på vegne av den ansvarlige for forurensningen.
+
+Enhver annen enn den ansvarlige for forurensningen har varslingsplikt, med mindre det er åpenbart unødvendig.
+
+Denne plikten gjelder også akutt forurensning fra virksomhet som har tillatelse i medhold av lov av 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall § 11 (konsesjon).
+
+Varslingsplikten gjelder også ved fare for akutt forurensning.
+
+## § 4. Varslingsinstanser – Hvem som skal varsles
+
+Brannvesenet skal varsles om akutt forurensning eller fare for akutt forurensning fra landbasert virksomhet.
+
+Hovedredningssentralen eller nærmeste kystradio skal varsles ved akutt forurensning eller fare for akutt forurensning fra fartøy.
+
+Hovedredningssentralen og Oljedirektoratet skal varsles ved akutt forurensning eller fare for akutt forurensning fra virksomhet på kontinentalsokkelen.
+
+Kystverket kan utarbeide et system for viderevarsling.
+
+*Endret ved forskrift 27 juni 2007 nr. 723.*
+
+## § 5. Særskilt om varsling fra luftfartøy
+
+Luftfartøy som oppdager akutt forurensning skal varsle den enhet av lufttrafikktjenesten som luftfartøyet har kontakt med.
+
+## § 6. Tilsynsmyndighet
+
+Kystverket, eller den Fiskeri- og kystdepartementet bemyndiger, fører tilsyn med at denne forskrift blir overholdt.
+
+*Endret ved forskrift 27 juni 2007 nr. 723.*
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 1993. Fra samme dato oppheves forskrift av 10. august 1977 om varsling av utslipp av olje eller oljeholdig blanding i sjøen, i vassdrag eller på land.

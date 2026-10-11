@@ -1,0 +1,41 @@
+---
+title: "Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet"
+short_title: "Forskrift om samordnet pensjon t.o.m. 1943-kullet"
+identifier: "FOR-2010-10-12-1330"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2010-10-12
+in_force_from: 2011-01-01
+last_amended: 2020-01-01
+last_amended_by: "forskrift/2019-12-20-2150 fra 2020-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2010 hefte 11"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2010-10-12-1330"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet
+
+> Hjemmel: Fastsatt av Arbeidsdepartementet 12. oktober 2010 med hjemmel i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) § 30.Endret ved forskrifter 11 april 2011 nr. 376, 19 aug 2014 nr. 1092, 20 des 2019 nr. 2150 (i kraft 1 jan 2020).
+
+## § 1.
+
+Denne forskriften gjelder personer født senest i 1943 som har tatt ut alderspensjon i folketrygden senest før 1. februar 2011, der uttak av hel eller delvis alderspensjon fra offentlig tjenestepensjonsordning starter etter 31. desember 2010.
+
+*Endret ved forskrifter 11 april 2011 nr. 376 (med virkning fra 1 jan 2011), 19 aug 2014 nr. 1092 (med virkning fra 1 jan 2011), 20 des 2019 nr. 2150 (i kraft 1 jan 2020).*
+
+## § 2.
+
+Alderspensjon fra offentlig tjenestepensjonsordning skal i tilfeller som nevnt i § 1 samordnes med alderspensjon fra folketrygden etter bestemmelsene i samordningsloven § 19 og § 23. De supplerende bestemmelsene i samordningsloven § 24 nr. 1 kommer ikke til anvendelse. Det skal ved samordningen tas hensyn til at alderspensjon fra folketrygden har vært regulert etter folketrygdloven § 19-14.
+
+Bestemmelsene i første ledd kommer likevel ikke til anvendelse dersom alderspensjonen fra folketrygden blir omregnet etter 31. desember 2010 på grunn av endring i pensjonsgrad, jf. folketrygdloven § 19-12.
+
+*Endret ved forskrift 19 aug 2014 nr. 1092 (med virkning fra 1 jan 2011).*
+
+## § 3.
+
+Forskriften trer i kraft 1. januar 2011.

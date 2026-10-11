@@ -1,0 +1,52 @@
+---
+title: "Forskrift om tilskudd til kommuner for å bedre tilgangen til strandsonen langs Oslofjorden"
+identifier: "FOR-2022-09-20-1602"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2022-09-20
+in_force_from: 2022-10-01
+ministry: "Klima- og miljødepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2022-09-20-1602"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tilskudd til kommuner for å bedre tilgangen til strandsonen langs Oslofjorden
+
+> Hjemmel: Fastsatt av Klima- og miljødepartementet 20. september 2022 med hjemmel i Stortingets årlige budsjettvedtak jf. kap. 1420 post 66.
+
+## § 1. Formål
+
+Tilskuddsordningen skal bidra til å bedre allmennhetens tilgang til strandsonen langs Oslofjorden og mulighetene for å utøve friluftsliv langs Oslofjorden.
+
+## § 2. Tildelingskriterier
+
+Miljødirektoratet kan tildele tilskudd til Oslo kommune og kommuner med grense til Oslofjorden i Viken fylke og i Vestfold og Telemark fylke.
+
+Tilskuddet kan gis til juridisk bistand til arbeid med å klargjøre grensene mellom innmark og utmark, og til juridisk bistand til arbeid med å fjerne ulovlige stengsler og hindringer som reduserer eller hindrer allmennhetens lovlige tilgang til sjøen og strandsonen.
+
+Miljødirektoratet kan også tildele tilskudd til kompetansehevingstiltak knyttet til tilgang til strandsonen.
+
+Miljødirektoratet kan ikke tildele tilskudd til juridisk bistand under domstolsbehandling.
+
+Kommunen skal innhente juridisk bistand fra advokater som Miljødirektoratet har inngått rammeavtale med. Miljødirektoratet kan etter søknad gjøre unntak fra dette kravet dersom kommunen er bundet av avtale med annen advokat med spesialkompetanse på fagområdet.
+
+## § 3. Krav til søknaden
+
+Søknad om tilskudd sendes via Miljødirektoratets elektroniske søknadssenter innen den søknadsfristen som fremgår av utlysningen av tilskuddet.
+
+Miljødirektoratet kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
+
+## § 4. Krav til rapportering
+
+Tilskuddsmottaker skal levere sluttrapport og sluttregnskap med bilag i Miljødirektoratets elektroniske søknadssenter innen fristen som angitt i tilsagn om tilskudd. Det kan fastsettes ytterligere rapporteringsplikter i tilsagnet om tilskudd.
+
+## § 5. Omgjøring og tilbakebetaling
+
+Tilskudd som ikke er brukt i samsvar med vilkårene i tildelingsvedtaket kan kreves tilbakebetalt.
+
+## § 6. Ikraftsetting
+
+Forskriften trer i kraft 1. oktober 2022.

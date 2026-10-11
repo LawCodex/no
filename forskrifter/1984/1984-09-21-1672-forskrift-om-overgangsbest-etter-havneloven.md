@@ -1,0 +1,69 @@
+---
+title: "Forskrift om overgangsbestemmelser i medhold av lov om havner og farvann"
+short_title: "Forskrift om overgangsbest. etter havneloven"
+identifier: "FOR-1984-09-21-1672"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1984-09-21
+last_amended: 1993-12-17
+last_amended_by: "forskrift/1993-12-17-1152"
+ministry: "Samferdselsdepartementet"
+published_in: "I 1984 837"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1984-09-21-1672"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsbestemmelser i medhold av lov om havner og farvann
+
+> Hjemmel: Fastsatt ved kgl.res. av 21. september 1984. Fremmet av Fiskeridepartementet.Endret ved forskrifter 18 okt 1985 nr. 1880, 30 des 1988 nr. 1182, 17 des 1993 nr. 1152.
+
+## Overgangsbestemmelser i medhold av del III tredje ledd i lov 8. juni 1984 nr. 51 om havner og farvann:
+
+### § 1. Definisjoner.
+
+I disse overgangsbestemmelsene betyr:
+
+- 1\. Den tidligere lov: lov 24. juni 1933 nr. 8 om havnevesenet.
+- 2\. Den nye lov: lov 8. juni 1984 nr. 51 om havner og farvann.
+
+### § 2. (Opphevet ved forskrift 17 des 1993 nr. 1152.)
+
+### § 3. Havnedistrikter.
+
+Fiskeridepartementet kan sette en frist for kommunestyrets innsendelse av forslag til havnedistriktsgrenser etter den nye lovs § 14 annet ledd samt en frist for kommunestyrets fastsettelse av grensen på land etter samme paragrafs siste ledd.
+
+### § 4. Avgiftsområde.
+
+Inntil kommunestyret har fastsatt avgiftsområde i medhold av den nye lovs § 15 gjelder havnedistriktene ved utløpet av 1984 som avgiftsområde. Der det ved utløpet av 1984 ble krevet opp havneavgifter utenom havnedistrikt, kan det fortsatt kreves opp havneavgifter inntil kommunestyret har truffet vedtak etter den nye lovs § 15.
+
+### § 5. (Opphevet ved forskrift 17 des 1993 nr. 1152.)
+
+### § 6. Havnekassen.
+
+Den hittil gjeldende kontoplan for havnekassens budsjett og regnskaper anvendes fortsatt for 1985 og inntil videre. På kap. 1.78 i kommunekassens budsjett og regnskap må det imidlertid tas inn en minimumsspesifikasjon, i likhet med det som gjøres for elektrisitetsverk med særbudsjett og særregnskap, forskriftene side 211 flg. Minimumsspesifikasjonen må være omkodet til kommunal standard. I kommunekassens hovedoversikt føres tilskudd til eller fra havnekassen slik som sagt i fotnoten på side 172 i forskriftene. I kommunekassens budsjett og regnskap behandles regnskapsunderskudd og regnskapsoverskudd for havnevesenet etter reglene på side 32 i forskriftene og 9 i Kommunaldepartementets rundskriv H-29/79. Kommunen overtar fra 1. januar 1985 havnekassens aktiva og ansvaret for dens passiva pr. 31. desember 1984.
+
+### § 7. Havneavgifter.
+
+*Tonnasjeavgift* kreves opp med de samme satser som gjaldt ved utgangen av 1984.
+
+### § 8. (Opphevet ved forskrift 17 des 1993 nr. 1152.)
+
+### § 9. Forurensning.
+
+Bestemmelsene i den tidligere lovs § 24 om forurensning gjelder fortsatt inntil det blir avløst av forskrifter i medhold av den nye lovs § 11 nr. 4 og 5.
+
+### § 10. Isbryting.
+
+Bestemmelsene i den tidligere lovs § 56 om isbryting gjelder fortsatt inntil de blir avløst av forskrifter i medhold av den nye lovs §§ 5 og 16.
+
+### § 11. (Opphevet ved forskrift 30 des 1988 nr. 1182.)
+
+### § 12. (Opphevet ved forskrift 17 des 1993 nr. 1152.)
+
+### § 13. Straffbarhet.
+
+Straffbare overtredelser av bestemmelser i den tidligere lov og forskrifter gitt i medhold av den er fortsatt straffbare når vedkommende lovbestemmelse og forskrift gjelder etter den nye lovs ikrafttreden.

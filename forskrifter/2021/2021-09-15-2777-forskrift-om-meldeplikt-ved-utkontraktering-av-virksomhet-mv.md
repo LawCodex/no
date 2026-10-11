@@ -1,0 +1,73 @@
+---
+title: "Forskrift om meldeplikt ved utkontraktering av virksomhet mv."
+identifier: "FOR-2021-09-15-2777"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2021-09-15
+in_force_from: 2022-01-01
+last_amended: 2025-07-01
+last_amended_by: "forskrift/2025-06-27-1363 fra 2025-07-01"
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2021-09-15-2777"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om meldeplikt ved utkontraktering av virksomhet mv.
+
+> Hjemmel: Fastsatt av Finanstilsynet 15. september 2021 med hjemmel i lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven) § 4c tredje ledd.Tilføyd hjemmel: Lov 21. juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven) § 4-6 tredje ledd. Endret ved forskrift 27 juni 2025 nr. 1363 (i kraft 1 juli 2025).
+
+## § 1. Samlet oversikt over avtaler om utkontraktering
+
+Alle foretak som er omfattet av finanstilsynsloven § 1 skal ha en oppdatert oversikt over alle avtaler om utkontraktering av virksomhet.
+
+Oversikten skal inneholde opplysninger som nevnt i § 4 første ledd.
+
+Denne bestemmelsen gjelder ikke for IKT-tjenesteavtaler som er omfattet av lov om digital operasjonell motstandsdyktighet i finanssektoren.
+
+*Endret ved forskrift 27 juni 2025 nr. 1363 (i kraft 1 juli 2025).*
+
+## § 2. Foretak som er unntatt fra meldeplikten etter finanstilsynsloven § 4c
+
+Meldeplikt ved utkontraktering etter finanstilsynsloven § 4c gjelder ikke for:
+
+- a. forvaltningsselskap for verdipapirfond
+- b. forvaltere av alternative investeringsfond
+- c. regnskapsførerforetak
+- d. revisjonsforetak
+- e. eiendomsmeglingsforetak
+- f. advokater som driver eiendomsmegling
+- g. inkassoforetak
+- h. låneformidlere
+- i. forsikringsformidlere.
+
+Foretak som nevnt i bokstav a og b som yter investeringstjenester, jf. verdipapirfondloven § 2-1 annet og tredje ledd, og AIF-loven § 2-2 tredje og fjerde ledd, skal likevel være omfattet av forskriften for så vidt gjelder disse tjenestene.
+
+## § 3. Meldepliktige utkontrakteringsavtaler
+
+Meldeplikten ved utkontraktering etter finanstilsynsloven § 4-6 gjelder avtaler om utkontraktering av virksomhet som er kritisk eller viktig for foretaket.
+
+*Endret ved forskrift 27 juni 2025 nr. 1363 (i kraft 1 juli 2025).*
+
+## § 4. Krav til melding
+
+Melding om utkontraktering av virksomhet skal inneholde opplysninger om:
+
+- a. navn og organisasjonsnummer på oppdragstaker
+- b. virksomheten/oppgavene som utkontrakteres
+- c. oppdragstaker driver virksomhet i Norge, i norsk selskap, i filial eller som grensekryssende virksomhet. Dersom oppdragstaker er etablert i utlandet skal det også opplyses hvilket land foretakets hovedkontor er etablert i
+- d. navn og organisasjonsnummer på underleverandører som oppdragstaker bruker ved utførelse av oppgaver på vegne av foretaket. Dersom underleverandør er etablert i utlandet bes det opplyst hvilket land
+- e. avtalens oppstarts- og opphørsdato, herunder opplysninger om rullerende avtaleperiode
+- f. hvordan foretaket vil følge opp sitt ansvar for den utkontrakterte virksomheten, samt foretakets risikovurdering av utkontrakteringen.
+
+*Endret ved forskrift 27 juni 2025 nr. 1363 (i kraft 1 juli 2025).*
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2022.
+
+Følgende forskrift oppheves når forskrift om meldeplikt ved utkontraktering av virksomhet mv. trer i kraft:
+
+- Forskrift 5. juni 2015 nr. 613 om unntak fra meldeplikt ved utkontraktering av virksomhet.

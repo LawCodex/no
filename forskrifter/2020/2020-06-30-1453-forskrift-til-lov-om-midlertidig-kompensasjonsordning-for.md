@@ -1,0 +1,68 @@
+---
+title: "Forskrift til utfylling og gjennomføring av lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)"
+short_title: "Forskrift til lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)"
+identifier: "FOR-2020-06-30-1453"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2020-06-30
+in_force_from: 2020-06-30
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-06-13-1005 fra 2026-01-01"
+ministry: "Finansdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2020-06-30-1453"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift til utfylling og gjennomføring av lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)
+
+> Hjemmel: Fastsatt av Finansdepartementet 30. juni 2020 med hjemmel i lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) § 4 annet ledd, § 6 og § 9. Endret ved forskrift 13 juni 2025 nr. 1005 (i kraft 1 jan 2026).
+
+## I
+
+### § 4-1. Endring av grunnlaget for tilskudd
+
+Tilskuddsmyndigheten og skattemyndighetene kan etter varsel til arbeidsgiver fatte et felles vedtak om endring i grunnlaget for tilskuddet og grunnlaget for arbeidsgiveravgift.
+
+### § 9-1. Kravsmyndighet mv.
+
+Krav på tilbakebetaling av uriktig utbetalt tilskudd etter § 9-3 og administrative sanksjoner betales til og innkreves av Innkrevingsmyndigheten.
+
+*Endret ved forskrift 13 juni 2025 nr. 1005 (i kraft 1 jan 2026).*
+
+### § 9-2. Forfall for utbetaling av tilskudd
+
+Utbetaling av tilskudd skal skje snarest og senest tre uker etter at det er fattet vedtak om utbetaling av tilskudd. Utbetaling skal skje ved overføring av beløpet til tilskuddsmottakers bankkonto.
+
+### § 9-3. Tilbakebetaling av uriktig utbetalt tilskudd
+
+Dersom det er utbetalt tilskudd i strid med bestemmelsene i lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) eller forskrift gitt med hjemmel i denne lov, skal det uriktig utbetalte beløp tilbakebetales.
+
+### § 9-4. Forfall for krav om tilbakebetaling og administrativ sanksjon
+
+(1) Krav om tilbakebetaling etter § 9-3 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.
+
+(2) Før utbetaling av tilskudd skjer etter § 9-1, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.
+
+(3) Administrative sanksjoner ilagt etter lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) § 7 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter skatteforvaltningsloven § 14-10 annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
+
+### § 9-5. Beløpsgrense for utbetaling og tilbakebetaling av tilskudd
+
+Tilskudd og tilbakebetalingskrav som alene utgjør under 100 kroner, utbetales eller tilbakebetales ikke.
+
+### § 9-6. Forsinkelsesrenter ved for sen betaling
+
+(1) For tilbakebetalingskrav og administrative sanksjoner som ikke er betalt i innen forfall etter § 9-4, betales forsinkelsesrente.
+
+(2) Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene beregnes fra forfall etter § 9-4 og inntil betaling skjer. Forsinkelsesrenteloven § 2 annet ledd gjelder tilsvarende.
+
+### § 9-7. Rentegodtgjørelse ved forsinket utbetaling av tilskudd
+
+Utbetales tilskudd senere enn den frist som er fastsatt i § 9-2, skal det ytes rentegodtgjørelse fra forfallstidspunktet og frem til utbetalingen skjer. For øvrig gjelder § 9-6 annet ledd tilsvarende.
+
+## II
+
+Endringene under I trer i kraft straks.

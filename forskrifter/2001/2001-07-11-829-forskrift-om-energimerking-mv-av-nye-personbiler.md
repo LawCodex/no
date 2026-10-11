@@ -1,0 +1,139 @@
+---
+title: "Forskrift om energimerking mv. av nye personbiler"
+identifier: "FOR-2001-07-11-829"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2001-07-11
+in_force_from: 2001-07-11
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-12-17-2679 fra 2026-01-01"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2001 hefte 9"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2001-07-11-829"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om energimerking mv. av nye personbiler
+
+> Hjemmel: Fastsatt av Vegdirektoratet 11. juli 2001 med hjemmel i lov 18. desember 1981 nr. 90 om merking av forbruksvarer m.v. § 3, § 6 første ledd, § 7 fjerde ledd, § 8 og § 10, jf. delegeringsvedtak 28. januar 2011 nr. 101, jf. delegeringsvedtak 14. februar 2011 nr. 749.Tilføyd hjemmel: Delegeringsvedtak 29. april 2020 nr. 893. EØS-henvisninger: EØS-avtalen vedlegg XX kap. III nr. 21ac (direktiv 1999/94/EF som endret ved direktiv 2003/73/EF og rekommandasjon (EU) 2017/948).Endret ved forskrifter 5 nov 2004 nr. 1442, 5 juli 2011 nr. 760, 10 okt 2012 nr. 963, 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 17 mars 2020 nr. 888 (i kraft 1 mai 2020), 19 sep 2022 nr. 1661, 19 des 2022 nr. 2370, 17 des 2025 nr. 2679 (i kraft 1 jan 2026).
+
+## § 1. Virkeområde og definisjoner
+
+Forskriften omfatter forbrukerinformasjon om drivstofforbruk, CO<sub>2</sub>- og NO<sub>x</sub>-utslipp i forbindelse med markedsføring av nye personbiler.
+
+Med salgsfremmende dokumentasjon forstås i denne forskrift dokumentasjon i trykt eller elektronisk form som benyttes til markedsføring, reklame og salgsfremmende virksomhet for kjøretøyer overfor offentligheten. Dette omfatter som et minimum tekniske håndbøker, brosjyrer, plakater, reklame i aviser, blader, fagpresse og på internett.
+
+Med nye personbiler forstås i denne forskrift biler som er innrettet for å benyttes til befordring av maksimalt 9 personer inkludert føreren (M1), og som tidligere ikke har vært registrert i Norge eller utlandet.
+
+Med utsalgssted menes i denne forskrift ethvert sted hvor personbiler er utstilt eller tilbys for salg eller leasing. Messer hvor personbiler vises frem for offentligheten og fjernsalg er omfattet av denne definisjonen.
+
+Med fjernsalg menes i denne forskrift tilbud om salg eller leasing, blant annet via postordre, katalog, internett eller pr. telefon, hvor forbrukeren ikke gis anledning til å se kjøretøyet utstilt.
+
+*Endret ved forskrift 19 sep 2022 nr. 1661.*
+
+## § 2. Forhandleres og fabrikanters forpliktelser
+
+Enhver som utstiller nye personbiler på et utsalgssted, skal før utstilling anbringe et energimerke i henhold til § 3 klart synlig på eller i nærheten av hver enkelt bil. For personbiler som tilbys for salg eller leasing via fjernsalg, skal utstiller sikre at energimerket vises tett ved prisangivelsen. Nye personbiler må ikke forsynes med andre etiketter, symboler eller inskripsjoner enn det i § 3 nevnte energimerke dersom disse kan virke villedende eller misvisende.
+
+Enhver som utstiller personbiler på et utsalgssted skal vederlagsfritt gi tilgang til den i § 6 nevnte oversikt over drivstofforbruk, CO<sub>2</sub>- og NO<sub>x</sub>-utslipp til forbrukere som ber om det.
+
+Enhver som stiller ut nye personbiler på et utsalgssted, skal på lett synlig sted sette opp en plakat eller et display for hvert enkelt bilmerke i overensstemmelse med § 4.
+
+Fabrikanten eller importør skal stille nødvendige opplysninger til rådighet for forhandleren slik at denne kan utføre sine plikter i henhold til denne forskrift.
+
+Pliktene etter første ledd gjelder ikke for utstilte nullutslippsbiler. Pliktene etter andre og tredje ledd gjelder ikke for utsalgssted som bare utstiller nullutslippsbiler.
+
+*Endret ved forskrifter 10 okt 2012 nr. 963 (i kraft 1 jan 2013), 19 sep 2022 nr. 1661, 19 des 2022 nr. 2370.*
+
+## § 3. Energimerke
+
+Energimerke med informasjon om nye personbilers drivstofforbruk mv. skal inneholde informasjon og utformes som spesifisert i denne forskrift, jf. art. 3 i direktiv 1999/94/EF, som endret ved direktiv 2003/73/EF og anbefalt i rekommandasjon (EU) 2017/948. På utsalgssted skal merket ha størrelse 297 mm x 210 mm (A4-format) og plasseres stående. På digitale plattformer skal energimerket være av en slik størrelse, at det er klart synlig og lett leselig. Merket skal inneholde følgende informasjon under hverandre og i nevnte rekkefølge:
+
+- en henvisning til modell og drivstofftype for den personbil merkingen er knyttet til og hvor EØF-typegodkjente personbilers angivelse av modell, type og/eller variant skal samsvare med det som er angitt i typegodkjenningen,
+- den numeriske verdi for det spesifikke CO<sub>2</sub>-utslipp avrundet til nærmeste hele tall i gram pr. kilometer (g/km), den numeriske verdien for NO<sub>x</sub>-utslipp avrundet til nærmeste hele tall i milligram pr. km (mg/km), den numeriske verdien for drivstofforbruket i liter pr. 100 kilometer (1/100 km) med en desimal, og
+- tekstene «En oversikt over drivstofføkonomi, CO<sub>2</sub>-utslipp og NO<sub>x</sub>-utslipp med data om samtlige nye personbiler fins tilgjengelig på www.vegvesen.no (Nybilvelgeren). Tilgang til oversikten fås gratis på alle utsalgssteder.» og «Et kjøretøys drivstofforbruk og CO<sub>2</sub>-utslipp bestemmes ikke bare av dets energieffektivitet, men også av kjørestil og andre ikke-tekniske faktorer. CO<sub>2</sub> er den viktigste drivhusgassen som er ansvarlig for den globale oppvarmingen. Oppgitt NO<sub>x</sub>-utslipp representerer ikke reelle utslipp da disse vil påvirkes av ulike faktorer, eksempelvis kjørestil og temperatur. Dette gjelder spesielt for dieselkjøretøy. NO<sub>x</sub> påvirker lokal luftkvalitet og har en negativ effekt på helsen.»
+
+Drivstofforbruk og CO<sub>2</sub>-utslipp fastsettes i overensstemmelse med prøveprosedyre «Worldwide harmonized Light vehicles Test Procedure» (WLTP) fastsatt i kommisjonsforordning (EU) 2017/1151 og som angitt i kjøretøyets samsvarssertifikat.
+
+*Endret ved forskrifter 5 nov 2004 nr. 1442, 10 okt 2012 nr. 963 (i kraft 1 jan 2013), 19 sep 2022 nr. 1661, 19 des 2022 nr. 2370.*
+
+## § 4. Plakat/elektronisk skjerm
+
+En plakat eller et display med informasjon om nye personbilers drivstofforbruk mv. skal inneholde informasjon og være utformet som spesifisert i denne forskrift, jf. art. 5 i direktiv 1999/94/EF, som endret ved direktiv 2003/73/EF og anbefalt i rekommandasjon (EU) 2017/948.
+
+Plakaten eller displayet skal ha en minstestørrelse på 70 cm x 50 cm. Når opplysningene vises på en elektronisk skjerm, skal displayet minst være 25 cm x 32 cm (17'').
+
+Plakaten eller displayet skal minst inneholde:
+
+- en gruppering av personbilmodellene hvor de anføres særskilt etter drivstofftype. Innenfor den enkelte drivstofftype ordnes modellene etter stigende CO<sub>2</sub>-utslipp med modellen med det laveste drivstofforbruk øverst,
+- en angivelse av den numeriske verdi for drivstofforbruket, CO<sub>2</sub>-utslipp og NO<sub>x</sub>-utslipp, som angitt i § 3, og
+- tekstene «En oversikt over drivstofføkonomi, CO<sub>2</sub>-utslipp og NO<sub>x</sub>-utslipp med data om samtlige nye personbiler fins tilgjengelig på www.vegvesen.no (Nybilvelgeren). Tilgang til oversikten fås gratis på alle utsalgssteder.» og «Et kjøretøys drivstofforbruk og CO<sub>2</sub>-utslipp bestemmes ikke bare av dets energieffektivitet, men også av kjørestil og andre ikke-tekniske faktorer. CO<sub>2</sub> er den viktigste drivhusgassen som er ansvarlig for den globale oppvarmingen. Oppgitt NO<sub>x</sub>-utslipp representerer ikke reelle utslipp da disse vil påvirkes av ulike faktorer, eksempelvis kjørestil og temperatur. Dette gjelder spesielt for dieselkjøretøy. NO<sub>x</sub> påvirker lokal luftkvalitet og har en negativ effekt på helsen.»
+
+Plakaten eller displayet skal ajourføres minst hver sjette måned. Når det benyttes en elektronisk skjerm, skal opplysningene ajourføres minst én gang hver tredje måned.
+
+Plakaten/displayet kan fullstendig og permanent erstattes av en elektronisk skjerm. I så fall skal den elektroniske skjermen plasseres slik at den i det minste tiltrekker seg forbrukernes oppmerksomhet med samme grad som det ellers ville vært tilfelle ved hjelp av plakat eller display.
+
+*Endret ved forskrifter 5 nov 2004 nr. 1442, 10 okt 2012 nr. 963 (i kraft 1 jan 2013), 19 sep 2022 nr. 1661, 19 des 2022 nr. 2370.*
+
+## § 5. Salgsfremmende dokumentasjon
+
+Salgsfremmende dokumentasjon som anvendes i markedsføring av nye personbiler skal inneholde informasjon om drivstofforbruk, CO<sub>2</sub>-utslipp og NO<sub>x</sub>-utslipp for de modeller og varianter som dokumentasjonen omhandler. Opplysningene skal være enkle å lese og forstå, og skal være minst like synlige som øvrige opplysninger i dokumentasjonen. Dokumentasjonen fastsettes i overensstemmelse med prøveprosedyre «Worldwide harmonized Light vehicles Test Procedure» (WLTP) fastsatt i kommisjonsforordning (EU) 2017/1151 og som angitt i kjøretøyets samsvarssertifikat
+
+Opplysningene om offisielt drivstofforbruk må fremlegges for samtlige modeller som omfattes av dokumentasjonen. Dersom dokumentasjonen omfatter mer enn en modell, er det mulig å angi enten det offisielle drivstofforbruket eller området mellom modellen som har den dårligste og den som har den beste drivstofføkonomien. Det offisielle drivstofforbruket angis i liter pr. 100 kilometer (1/100 km) med en desimal.
+
+Hvis den salgsfremmende dokumentasjonen kun omhandler et merke og ikke en bestemt modell, er det ikke påkrevet å anføre informasjon om drivstofforbruk, CO<sub>2</sub>-utslipp og NO<sub>x</sub>-utslipp.
+
+*Endret ved forskrift 19 sep 2022 nr. 1661.*
+
+## § 6. Oversikt over drivstofforbruk, CO<sub>2</sub>- og NO<sub>x</sub>-utslipp
+
+Statens vegvesen utarbeider og ajourholder løpende en oversikt over drivstofforbruk, CO<sub>2</sub>- og NO<sub>x</sub>-utslipp for nye personbiler, jf. art. 4 i direktiv 1999/94/EF, som endret ved direktiv 2003/73/EF og anbefalt i rekommandasjon (EU) 2017/948. Oversikten gjøres tilgjengelig for forbrukerne på www.vegvesen.no (Nybilvelgeren). Forbrukerne skal ved forespørsel gis gratis tilgang til oversikten på utsalgsstedene og hos Statens vegvesen.
+
+*Endret ved forskrifter 5 nov 2004 nr. 1442, 10 okt 2012 nr. 963 (i kraft 1 jan 2013), 19 sep 2022 nr. 1661.*
+
+## § 7. Tilsyn
+
+Statens vegvesen fører tilsyn med at enhver som utstiller nye personbiler på et utsalgssted eller for fjernsalg oppfyller bestemmelsene om miljømerking og miljøinformasjon slik dette er bestemt i § 2 og i bestemmelsene om salgsfremmende dokumentasjon i § 5. Statens vegvesen kan også føre tilsyn med fabrikant og importør av nye personbiler for å se om de oppfyller bestemmelsene om salgsfremmende dokumentasjon i § 5.
+
+Utsalgsstedet plikter å gi Statens vegvesen adgang til lokalene, utlevere dokumenter og bistå slik det ellers er nødvendig for å gjennomføre tilsyn.
+
+*Tilføyd ved forskrift 10 okt 2012 nr. 963 (i kraft 1 jan 2013), endret ved forskrift 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 19 sep 2022 nr. 1661.*
+
+## § 8. Påbud om retting og tvangsmulkt
+
+Statens vegvesen kan treffe vedtak om retting innen en gitt frist dersom tilsyn viser at utstiller eller fabrikant/importør overtrer bestemmelsene om miljømerking og miljøinformasjon i § 2 og § 5.
+
+Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt løpende fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 første ledd bokstav d. Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+*Tilføyd ved forskrift 10 okt 2012 nr. 963 (i kraft 1 jan 2013), endret ved forskrifter 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 17 mars 2020 nr. 888 (i kraft 1 mai 2020), 19 sep 2022 nr. 1661, 17 des 2025 nr. 2679 (i kraft 1 jan 2026).*
+
+## § 9. Overtredelsesgebyr
+
+Dersom noen på vegne av foretaket som utstiller personbiler for salg eller leasing forsettlig eller uaktsomt overtrer bestemmelsene om energimerking som fastsatt i § 2 første ledd, kan Statens vegvesen ilegge utsalgsstedet et overtredelsesgebyr.
+
+Overtredelsesgebyret utmåles i det enkelte tilfelle. Utmålingen skal foretas med utgangspunkt i de hensyn som oppregnes i forvaltningsloven § 46 andre ledd. Øvre ramme for gebyret fastsettes til 20 ganger rettsgebyr, jf. lov 17. desember 1982 nr. 86 om rettsgebyr. Statens vegvesen kan gi nærmere retningslinjer for utmålingen av overtredelsesgebyret.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 første ledd bokstav d. Overtredelsesgebyret kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+*Tilføyd ved forskrift 10 okt 2012 nr. 963 (i kraft 1 jan 2013), endret ved forskrifter 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 19 sep 2022 nr. 1661, 17 des 2025 nr. 2679 (i kraft 1 jan 2026).*
+
+## § 10. Klage
+
+Enkeltvedtak fattet etter denne forskriften kan påklages til Vegdirektoratet.
+
+*Tilføyd ved forskrift 19 sep 2022 nr. 1661.*
+
+## § 11. Overgangsbestemmelser
+
+Energimerke som nevnt i § 3, plakat/elektronisk skjerm som nevnt i § 4 og salgsfremmende dokumentasjon som nevnt i § 5 som ikke er i overensstemmelse med denne forskriftens krav, men som oppfyller kravene i forskrift 11. juli 2001 nr. 829 om energimerking mv. av nye personbiler med senere endringer, kan nyttes inntil 6 måneder etter denne forskriftens ikrafttredelse.
+
+*Endret ved forskrifter 10 okt 2012 nr. 963 (i kraft 1 jan 2013, tidligere § 7), 19 sep 2022 nr. 1661 (tidligere § 10).*
+
+## § 12. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+*Endret ved forskrifter 10 okt 2012 nr. 963 (i kraft 1 jan 2013, tidligere § 8), 19 sep 2022 nr. 1661 (tidligere § 11).*

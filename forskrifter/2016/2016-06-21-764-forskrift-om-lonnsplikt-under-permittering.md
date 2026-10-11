@@ -1,0 +1,59 @@
+---
+title: "Forskrift om lønnsplikt under permittering"
+short_title: "Forskrift om lønnsplikt under permittering"
+identifier: "FOR-2016-06-21-764"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-06-21
+in_force_from: 2016-07-01
+last_amended: 2026-09-02
+last_amended_by: "forskrift/2026-09-02-1725"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2016 hefte 9"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-06-21-764"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om lønnsplikt under permittering
+
+> Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 21. juni 2016 med hjemmel i lov 6. mai 1988 nr. 22 om lønnsplikt under permittering § 3.Endret ved forskrifter 18 des 2018 nr. 2161, 27 mars 2020 nr. 496, 23 juni 2020 nr. 1295 (i kraft 1 juli 2020), 30 okt 2020 nr. 2213 (i kraft 1 nov 2020), 30 okt 2020 nr. 2215 (i kraft 1 nov 2020), 19 feb 2021 nr. 499, 19 feb 2021 nr. 510, 28 mai 2021 nr. 1697 (i kraft 31 mai 2021), forskrift 30 okt 2020 nr. 2213 som endret ved forskrifter 21 des 2020 nr. 3102, 19 feb 2021 nr. 510 og 28 mai 2021 nr. 1697 (i kraft 1 juni 2021), 19 juni 2021 nr. 2115 (i kraft 1 juli 2021), 21 sep 2021 nr. 2806, 29 okt 2021 nr. 3112, 17 des 2021 nr. 3715 (i kraft 1 jan 2022), 26 jan 2022 nr. 125, 2 sep 2026 nr. 1725. Rettet 01.01.2021 (endringer reversert etter utsatt ikrafttredelse).
+
+## § 1. Perioden med fritak fra lønnsplikt
+
+Arbeidsgiver er fritatt fra lønnsplikt under permittering i inntil 26 uker innenfor en periode på 18 måneder. Fritaksperioden løper fra utløpet av arbeidsgiverperiode I, jf. permitteringslønnsloven § 3 første ledd.
+
+*Endret ved forskrifter 18 des 2018 nr. 2161 (i kraft 1 jan 2019, se endringsforskriften for delvis ikrafttredelser og virkningstid), 30 okt 2020 nr. 2213 (i kraft 1 nov 2020), forskrift 30 okt 2020 nr. 2213 som endret ved forskrifter 21 des 2020 nr. 3102 og 19 feb 2021 nr. 510 og 28 mai 2021 nr. 1697 (i kraft 1 juni 2021), 19 juni 2021 nr. 2115 (i kraft 1 juli 2021, se endringsforskriften romertall II for overgangsbestemmelse), 2 sep 2026 nr. 1725.*
+
+## § 1a. (Opphevet)
+
+*Tilføyd ved forskrift 19 feb 2021 nr. 499, endret ved forskrifter 28 mai 2021 nr. 1697 (i kraft 31 mai 2021), 21 sep 2021 nr. 2806, 29 okt 2021 nr. 3112, 17 des 2021 nr. 3715 (i kraft 1 jan 2022), 26 jan 2022 nr. 125, opphevet ved forskrift 2 sep 2026 nr. 1725.*
+
+## § 2. (Opphevet)
+
+*Opphevet ved forskrift 18 des 2018 nr. 2161 (i kraft 1 jan 2019), tilføyd ved forskrift 27 mars 2020 nr. 496, endret ved forskrift 23 juni 2020 nr. 1295 (i kraft 1 juli 2020), opphevet ved forskrift 30 okt 2020 nr. 2215 (i kraft 1 nov 2020).*
+
+## § 3. Beregning av perioden med fritak fra lønnsplikt
+
+Alle dager eller uker med permittering regnes med i fritaksperioden. Det samme gjelder dager eller uker med arbeid som ikke medfører avbrudd i permitteringen, med tilhørende varslingsplikt og ny arbeidsgiverperiode.
+
+Perioder der arbeidstakeren likevel ville hatt tjenestefri eller fravær regnes ikke med ved beregning av fritaksperioden.
+
+Arbeid hos annen arbeidsgiver har ikke betydning for beregningen.
+
+## § 3a. (Opphevet)
+
+*Tilføyd ved forskrift 30 okt 2020 nr. 2213 (i kraft 1 nov 2020), endret ved forskrift 19 feb 2021 nr. 510, opphevet ved forskrift 2 sep 2026 nr. 1725.*
+
+## § 4. Forskyvning i beregningsperioden
+
+Beregningsperioden på 18 måneder forskyves løpende. Lønnspliktperiodene og fritaksperiodene vurderes derfor også løpende 18 måneder bakover i tid.
+
+*Endret ved forskrift 18 des 2018 nr. 2161 (i kraft 1 jan 2019).*
+
+## § 5. Ikrafttredelse mv.
+
+Denne forskriften trer i kraft 1. juli 2016.

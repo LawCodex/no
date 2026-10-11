@@ -1,0 +1,61 @@
+---
+title: "Forskrift om omsetning av tømmer og treprodukter med opprinnelse utenfor Norge"
+short_title: "Forskrift om omsetning av tømmer mv., opprinnelse utenfor Norge"
+identifier: "FOR-2015-04-24-406"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2015-04-24
+in_force_from: 2015-05-01
+last_amended: 2015-07-30
+last_amended_by: "forskrift/2015-07-30-928"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2015 hefte 4"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2015-04-24-406"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om omsetning av tømmer og treprodukter med opprinnelse utenfor Norge
+
+> Hjemmel: Fastsatt ved kgl.res. 24. april 2015 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 26. Fremmet av Klima- og miljødepartementet.EØS-henvisninger: EØS-avtalen vedlegg II kap. XVII nr. 9c (forordning (EU) nr. 995/2010), nr. 9ca (forordning (EU) nr. 363/2012) og nr. 9cb (forordning (EU) nr. 607/2012).Endret ved forskrift 30 juli 2015 nr. 928.
+
+## § 1. Virkeområde
+
+Forskriften gjelder tømmer og treprodukter med opprinnelse utenfor Norge som en virksomhet omsetter på EØS-markedet for første gang, i Norge, jf. vedlegg til forordning (EU) nr. 995/2010.
+
+*Endret ved forskrift 30 juli 2015 nr. 928.*
+
+## § 2. Gjennomføring av forordning (EU) nr. 995/2010 og tilhørende rettsakter
+
+EØS-avtalen vedlegg II kap. XVII nr. 9c, 9ca og 9cb (forordning (EU) nr. 995/2010 om fastsettelse av forpliktelser for virksomheter som bringer tømmer og treprodukter i omsetning, samt tilhørende forordning (EU) nr. 363/2012 og forordning (EU) nr. 607/2012) gjelder som forskrift med de endringer og tillegg som følger av vedlegg II kap. XVII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift 30 juli 2015 nr. 928.*
+
+## § 3. Ansvarlig myndighet
+
+Miljødirektoratet er ansvarlig myndighet etter forskriften når det gjelder tømmer og treprodukter med opprinnelse utenfor Norge. Miljødirektoratet fører tilsyn med at forskriften overholdes.
+
+## § 4. Klage
+
+Vedtak truffet av Miljødirektoratet etter forskriften kan påklages til Klima- og miljødepartementet.
+
+## § 5. Håndheving og sanksjoner
+
+Ved overtredelse av forskriften eller vedtak fattet i medhold av den, kommer bestemmelsene om håndheving og sanksjoner i naturmangfoldloven til anvendelse, for så vidt overtredelsen ikke rammes av strengere straffebestemmelser.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. mai 2015.
+
+## Forordninger
+
+Nedenfor gjengis EØS-avtalen vedlegg II kap. XVII nr. 9c, 9ca og 9cb (forordning (EU) nr. 995/2010) om fastsettelse av forpliktelser for virksomheter som bringer tømmer og treprodukter i omsetning, samt tilhørende (forordning (EU) nr. 607/2012) og (forordning (EU) nr. 363/2012) slik Klima- og miljødepartementet tolker denne delen av EØS-avtalen med de endringer og tillegg som følger av EØS-tilpasningen av rettsaktene i samsvar med vedlegg II kap. XVII, protokoll 1 til avtalen og avtalen for øvrig.
+
+For å lese forordning (EU) nr. 995/2010 se her
+
+For å lese forordning (EU) nr. 607/2012 se her
+
+For å lese forordning (EU) nr. 363/2012 se her

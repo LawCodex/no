@@ -1,0 +1,51 @@
+---
+title: "Forskrift om utlevering av frikort og refusjon av betalte egenandeler uten at det er satt fram krav"
+short_title: "Forskrift om utlevering av frikort og refusjon mv"
+identifier: "FOR-2009-12-18-1690"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2009-12-18
+in_force_from: 2010-01-01
+last_amended: 2022-03-15
+last_amended_by: "forskrift/2022-03-15-388"
+ministry: "Helse- og omsorgsdepartementet"
+published_in: "I 2009 hefte 14"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2009-12-18-1690"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om utlevering av frikort og refusjon av betalte egenandeler uten at det er satt fram krav
+
+> Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 18. desember 2009 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 22-13 første ledd. Endret ved forskrifter 22 des 2016 nr. 1839, 18 des 2020 nr. 2997 (i kraft 1 jan 2021), 15 mars 2022 nr. 388.
+
+## § 1. Virkeområde
+
+Forskriften regulerer automatisk utlevering av frikort til personer som har nådd egenandelstaket, og refusjon av betalte egenandeler, uten at rettighetshaver har satt fram krav, jf. folketrygdloven § 22-13 første ledd og egenandelsregisterforskriften.
+
+Forskriften gjelder utlevering av frikort og refusjon av betalte egenandeler basert på opplysninger meldt inn fra behandlere og tjenesteytere.
+
+*Endret ved forskrifter 22 des 2016 nr. 1839 (i kraft 1 jan 2017), 15 mars 2022 nr. 388.*
+
+## § 2. Utlevering av frikort
+
+Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, kan fatte vedtak om utstedelse av frikort til personer som har nådd egenandelstaket. Vedtak kan fattes, og frikort kan utstedes automatisk, uten at rettighetshaver har satt fram krav om det.
+
+*Endret ved forskrifter 22 des 2016 nr. 1839 (i kraft 1 jan 2017), 18 des 2020 nr. 2997 (i kraft 1 jan 2021), 15 mars 2022 nr. 388.*
+
+## § 3. Refusjon av betalte egenandeler ut over egenandelstaket
+
+Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, kan fatte vedtak om å refundere betalte egenandeler utover egenandelstaket. Vedtak kan fattes, og aktuelt beløp kan refunderes, uten at rettighetshaver har satt fram krav om det.
+
+*Endret ved forskrifter 22 des 2016 nr. 1839 (i kraft 1 jan 2017), 18 des 2020 nr. 2997 (i kraft 1 jan 2021), 15 mars 2022 nr. 388.*
+
+## § 4. Refusjon av betalte egenandeler for personer med fritak fra å betale egenandeler
+
+Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, kan fatte vedtak om å refundere betalte egenandeler for personer med fritak fra å betale egenandeler. Vedtak kan fattes, og aktuelt beløp kan refunderes, uten at rettighetshaver har satt fram krav om det.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2010.

@@ -1,0 +1,61 @@
+---
+title: "Forskrift om målform i eksamensoppgåver."
+short_title: "Forskrift om målform i eksamensoppgåver"
+identifier: "FOR-1987-07-07-4148"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1987-07-07
+in_force_from: 1987-08-01
+ministry: "Kultur- og likestillingsdepartementet"
+published_in: "Ikke kunngjort"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1987-07-07-4148"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om målform i eksamensoppgåver.
+
+> Heimel: Fastsette av Kulturdepartementet 7. juli 1987 i medhald av forskrift 5. desember 1980 nr. 4938 § 7 tredje ledd om målbruk i offentleg teneste.Rettingar: 27.11.2018 (heimel).
+
+## § 1.
+
+Denne forskrifta gjeld for eksamenar ved statlege lærestader som ikkje kjem inn under grunnskolelova eller lov om vidaregåande opplæring.
+
+## § 2.
+
+Som hovudregel skal eksamensoppgåver i andre fag enn norsk, gitt på norsk mål, liggje føre i begge målformer.
+
+Eksamenskandidater kan få oppgåvene på bokmål eller nynorsk etter ønske.
+
+Lærestadene kan skaffe seg oversikt over målønska til kandidatane, t.d. ved bindande val av målform ved oppmelding til eksamen.
+
+## § 3.
+
+Lærestaden kan gjere unntak frå reglane i § 2 første og andre ledd når
+
+- a. det er klart at alle kandidatanene har ønskt same målforma
+- b. det gjeld særleg omfattande eksamensoppgåver
+- c. fagterminologi manglar eller er ukjend for kandidatane i ei målform, og det derfor kan vere fare for mistydinger.
+
+Også elles kan lærestaden gjere unntak i særlge tilfelle, til dømes dersom særleg omfattande eksamensoppgåver må lagast på svært kort tid på grunn av nye reglar eller andre spesielle tilhøve.
+
+## § 4.
+
+Unntak for ein eksamen kan gjelde for eit visst semester, eller for ein periode på inntil fem år. Det kan gjelde ein eller fleire eksamenar ved lærestaden, og heile eksamen eller delar av ein eksamen. Vedlegg til eksamensoppgåver treng ikkje liggje føre i begge målformer.
+
+## § 5.
+
+Vedtak om unntak må gjerast seinast tre månader før vedkommande eksamen.
+
+Eksamenskandidater kan klage på vedtaket til Kultur- og vitenskapsdepartementet.
+
+Klagefrist er tre veker frå vedtaket vart kunngjort.
+
+For slike klager gjeld reglane i forvaltningslova kap. VI.
+
+## § 6.
+
+Reglane gjeld frå 1. august 1987.

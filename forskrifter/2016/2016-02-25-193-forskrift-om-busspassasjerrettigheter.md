@@ -1,0 +1,86 @@
+---
+title: "Forskrift om busspassasjerrettigheter"
+identifier: "FOR-2016-02-25-193"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-02-25
+in_force_from: 2016-04-01
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-12-18-2735 fra 2026-01-01"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2016 hefte 3"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-02-25-193"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om busspassasjerrettigheter
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 25. februar 2016 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 32a.EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 36aa (forordning (EU) nr. 181/2011).Endret ved forskrifter 6 feb 2024 nr. 447 (i kraft 1 april 2024), 18 des 2025 nr. 2735 (i kraft 1 jan 2026).
+
+## § 1. Gjennomføring av forordning (EU) nr. 181/2011 i norsk rett
+
+EØS-avtalen vedlegg XIII nr. 36aa (forordning (EU) nr. 181/2011 om passasjerers rettigheter ved buss- og turvogntransport og endring av forordning (EF) nr. 2006/2004) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 2. Virkeområde
+
+Forskriften gjelder for den som driver persontransport med motorvogn i rute eller med turvogn eller andre som i forbindelse med slik transport har plikter overfor passasjerene.
+
+Forskriften er ikke til hinder for at den som driver persontransport med motorvogn i rute eller med turvogn eller andre som i forbindelse med slik transport har plikter overfor passasjerene kan tilby passasjerene kontraktmessige vilkår som er gunstigere enn det som følger av forskriften.
+
+## § 3. Medvirkning for organisasjoner som representerer personer med nedsatt funksjonsevne eller redusert bevegelighet
+
+Statens vegvesen skal ta initiativ til at det nedsettes en gruppe i samsvar med forordning (EU) nr. 181/2011 artikkel 11.
+
+## § 4. Utpeking av bussterminaler som skal tilby assistanse til personer med nedsatt funksjonsevne eller redusert bevegelighet
+
+Statens vegvesen peker ut bussterminaler som skal tilby kostnadsfri assistanse til reisende med nedsatt funksjonsevne eller redusert bevegelighet.
+
+Utpekingen skjer ved enkeltvedtak.
+
+*Endret ved forskrift 6 feb 2024 nr. 447 (i kraft 1 april 2024).*
+
+## § 5. Håndheving og tilsyn
+
+Statens vegvesen håndhever denne forskrift i henhold til forordning (EU) nr. 181/2011 artikkel 28 nr. 1 og fører tilsyn med om reglene i forskriften fastsatt for den som driver persontransport i rute eller med turvogn eller andre som i forbindelse med slik transport har plikter overfor passasjerene, herunder utpekte bussterminaler, etterleves, jf. yrkestransportloven § 32a første til fjerde ledd.
+
+Statens vegvesen kan uten hensyn til taushetsplikt kreve innsyn og informasjon fra den som mot vederlag driver persontransport i rute eller andre som i forbindelse med slik transport har plikter overfor passasjerene.
+
+Enhver plikter å medvirke til gjennomføring av tilsyn. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre tilsynet.
+
+*Endret ved forskrift 6 feb 2024 nr. 447 (i kraft 1 april 2024).*
+
+## § 6. Reaksjoner
+
+Som ledd i tilsynet kan Statens vegvesen treffe vedtak om pålegg eller forbud som er nødvendig for å sikre at plikter etter denne forskrift etterleves, jf. yrkestransportloven § 32a sjette ledd.
+
+Dersom påbud eller forbud ikke er oppfylt innen en gitt frist, kan Statens vegvesen fastsette en tvangsmulkt, jf. yrkestransportloven § 32a syvende ledd. Statens vegvesen kan også fastsette tvangsmulkt for den som har plikt til å gi opplysninger eller stadfesting som nevnt i yrkestransportloven § 32a femte ledd. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunktet en frist for retting er overskredet og til rettingen er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2. Tvangsmulkt inndrives av Innkrevingsmyndigheten og tilfaller staten.
+
+*Endret ved forskrifter 6 feb 2024 nr. 447 (i kraft 1 april 2024), 18 des 2025 nr. 2735 (i kraft 1 jan 2026).*
+
+## § 7. Overtredelsesgebyr
+
+Dersom noen på vegne av en virksomhet forsettlig eller uaktsomt har overtrådt bestemmelsene i forskriften, kan Statens vegvesen ilegge virksomheten et overtredelsesgebyr, jf. yrkestransportloven § 32a åttende ledd. Gebyret kan ilegges på stedet.
+
+Overtredelsesgebyret utmåles i det enkelte tilfelle. Utmålingen skal foretas med utgangspunkt i de hensynene som fremgår av forvaltningsloven § 46 andre ledd. Øvre ramme for gebyret fastsettes til 60 ganger rettsgebyr, jf. lov 17. desember 1982 nr. 86 om rettsgebyr. Statens vegvesen kan gi nærmere retningslinjer for utmålingen av overtredelsesgebyret.
+
+Endelig vedtak om betaling av overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 bokstav d. Overtredelsesgebyret kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+*Tilføyd ved forskrift 6 feb 2024 nr. 447 (i kraft 1 april 2024), endret ved forskrift 18 des 2025 nr. 2735 (i kraft 1 jan 2026).*
+
+## § 8. Klageadgang
+
+Enkeltvedtak fattet etter denne forskriften kan påklages til Vegdirektoratet.
+
+*Tilføyd ved forskrift 6 feb 2024 nr. 447 (i kraft 1 april 2024).*
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 1. april 2016.
+
+Forordning (EU) nr. 181/2011 artikkel 16 nr. 1 får ikke anvendelse før 1. mars 2018.
+
+*Endret ved forskrift 6 feb 2024 nr. 447 (i kraft 1 april 2024, tidligere § 7).*

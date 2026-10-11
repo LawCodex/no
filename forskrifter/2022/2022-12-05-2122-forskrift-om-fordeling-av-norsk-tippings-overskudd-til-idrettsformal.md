@@ -1,0 +1,48 @@
+---
+title: "Forskrift om fordeling av Norsk Tippings overskudd til idrettsformål"
+identifier: "FOR-2022-12-05-2122"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2022-12-05
+in_force_from: 2023-01-01
+ministry: "Kultur- og likestillingsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2022-12-05-2122"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om fordeling av Norsk Tippings overskudd til idrettsformål
+
+> Hjemmel: Fastsatt av Kultur- og likestillingsdepartementet 5. desember 2022 med hjemmel i lov 18. mars 2022 nr. 12 om pengespill (pengespilloven) § 12.
+
+## § 1. Formål og virkeområde
+
+Forskriften fastsetter rammene for fordelingen av andelen av Norsk Tippings overskudd til idrettsformål, jf. lov om pengespill § 12 femte ledd nr. 5.
+
+## § 2. Hvem som fordeler midlene
+
+Kongen fordeler andelen av Norsk Tippings overskudd til idrettsformål etter innstilling fra Kultur- og likestillingsdepartementet.
+
+Kultur- og likestillingsdepartementet, eller den departementet gir fullmakt, fordeler midler innenfor rammen av de enkelte idrettsformål som fastsatt i § 3.
+
+## § 3. Hva det kan fordeles midler til
+
+Det kan fordeles midler til følgende idrettsformål:
+
+- a. bygging og rehabilitering av anlegg for idrett og fysisk aktivitet
+- b. Norges Idrettsforbund og olympiske og paralympiske komité
+- c. andre idrettsformål.
+
+Kultur- og likestillingsdepartementet fastsetter nærmere bestemmelser for tildeling av tilskudd.
+
+## § 4. Kontroll, oppfølging og tilbakebetaling av tildelte midler
+
+Kultur- og likestillingsdepartementet, den departementet gir fullmakt, og revisor av spillemidlene kan kontrollere at tilskuddsmidlene til idrettsformål benyttes i samsvar med forutsetningen for tildelingen.
+
+Kultur- og likestillingsdepartementet eller den departementet gir fullmakt kan kreve tilbakebetaling av hele eller deler av midlene dersom midlene ikke er benyttet i samsvar med forutsetningene for tildelingen. Tilskudd som ikke er anmodet utbetalt innen 2 år etter tildeling kan inndras.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2023.

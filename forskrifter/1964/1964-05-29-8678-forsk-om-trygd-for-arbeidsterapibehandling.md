@@ -1,0 +1,72 @@
+---
+title: "Forskrift om yrkesskadetrygd for personer som under opphold på sykehus eller liknende får arbeidsterapeutisk behandling."
+short_title: "Forsk. om trygd for arbeidsterapibehandling"
+identifier: "FOR-1964-05-29-8678"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1964-05-29
+in_force_from: 1960-01-01
+last_amended: 2006-07-01
+last_amended_by: "forskrift/2006-06-30-730 fra 2006-07-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1964-05-29-8678"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om yrkesskadetrygd for personer som under opphold på sykehus eller liknende får arbeidsterapeutisk behandling.
+
+> Fastsatt ved kgl.res. 29. mai 1964. Endret ved forskrift 30 juni 2006 nr. 730.
+
+## § 1. Omfang.
+
+Pliktig trygdet etter disse bestemmelser er den som under opphold på sykehus, kursted o.l. godkjent av det offentlige som behandlingssted får arbeidsterapeutisk behandling etter opplegg og under tilsyn av institusjonens personell, innenfor eller utenfor institusjonens område.
+
+Med slik behandling menes behandling som ved hjelp av arbeid tar sikte på å oppøve spesielle funksjoner. Så vel ren sysselsetting som spesiell arbeidstrening eller yrkesopplæring omfattes av trygden.
+
+Arbeidstrening (yrkesopplæring) ved attføringsinstitutt eller liknende som går inn under yrkesskadetrygdlovens § 1, punkt 1 g, omfattes ikke av disse bestemmelser.
+
+## § 2. Vilkår for rett til stønad.
+
+Stønad ytes for arbeidsskade som inntreffer på behandlingsstedet i behandlingstiden og under utøvelse av virksomhet som er ledd i arbeidsterapeutisk behandling.
+
+Med arbeidsskade forstås legemsskade eller sykdom forårsaket av arbeidsulykke, jfr. § 10 i lov om yrkesskadetrygd.
+
+## § 3. Ytelser.
+
+1\. Har arbeidsskaden ført med seg tap av ervervsevne eller forvoldt døden, gis ytelser etter kapittel III i lov om yrkesskadetrygd.
+
+Ved bedømmelsen av tapet av ervervsevnen tas omsyn til skadedes muligheter for ervervsmessig inntekt før og etter den arbeidsterapeutiske behandling.
+
+2\. Skadede har ikke rett til uførepensjon før fra og med den måned han fyller 18 år. Dersom særlige grunner taler for det kan det gis hel eller delvis uførepensjon fra et tidligere tidspunkt.
+
+*Endret ved forskrift 30 juni 2006 nr. 730 (i kraft 1 juli 2006).*
+
+## § 4. Trygdet arbeidsinntekt.
+
+Ved fastsettelse av ytelser kan trygdet arbeidsinntekt ikke settes lavere enn 5.000 kroner pr. år.
+
+## § 5. Premie
+
+Premien som skal svare til utgiftene etter § 3, utredes av staten.
+
+## § 6.
+
+Blir en person påført legemsskade eller sykdom som kan medføre rett til stønad etter disse bestemmelser, skal vedkommende sykehus eller liknende straks sende melding til trygdekassen.
+
+## § 7.
+
+For øvrig gjelder bestemmelsene i lov om yrkesskadetrygd og de bestemmelser som er eller blir gitt med hjemmel i nevnte lov så langt de passer og ikke står i strid med nærværende bestemmelser.
+
+## § 8.
+
+Arbeids- og velferdsdirektoratet kan gi nærmere regler om gjennomføring av disse bestemmelser.
+
+*Endret ved forskrift 30 juni 2006 nr. 730 (i kraft 1 juli 2006).*
+
+## § 9.
+
+Denne resolusjonen trer i kraft straks og gis virkning fra 1. januar 1960.

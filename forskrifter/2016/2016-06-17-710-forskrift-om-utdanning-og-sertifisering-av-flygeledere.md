@@ -1,0 +1,97 @@
+---
+title: "Forskrift om utdanning og sertifisering av flygeledere"
+identifier: "FOR-2016-06-17-710"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-06-17
+in_force_from: 2016-08-01
+last_amended: 2026-07-01
+last_amended_by: "forskrift/2026-07-01-1487"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2016 hefte 9"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-06-17-710"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om utdanning og sertifisering av flygeledere
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 17. juni 2016 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-2, § 7-4 annet, tredje og fjerde ledd, § 9-1, § 15-3, § 15-4 § 16-1 første ledd.Tilføyd hjemmel: Delegeringsvedtak 10. desember 1999 nr. 1265.EØS-henvisninger: EØS-avtalen vedlegg XIII kap. VI nr. 66nj (forordning (EU) 2015/340 endret ved forordning (EU) 2023/893, forordning (EU) 2023/203, forordning (EU) 2025/2143 og forordning (EU) 2025/2293).Endret ved forskrifter 28 feb 2018 nr. 287, 7 mai 2020 nr. 945, 26 april 2021 nr. 1285 (i kraft 1 aug 2021), 10 sep 2024 nr. 2113, 4 feb 2025 nr. 159, 24 okt 2025 nr. 2093, 25 mars 2026 nr. 475, 1 juli 2026 nr. 1487.Rettelser: 29.04.2021 (tegnsetting i lister tilpasset universell utforming).
+
+## § 1. Gjennomføring av kommisjonsforordning (EU) 2015/340
+
+Forordning (EU) 2015/340 om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i EØS-avtalen vedlegg XIII kap. VI nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning (EU) 2023/893
+- forordning (EU) 2023/203
+- forordning (EU) 2025/2143
+- forordning (EU) 2025/2293.
+
+*Endret ved forskrifter 10 sep 2024 nr. 2113, 4 feb 2025 nr. 159, 24 okt 2025 nr. 2093, 25 mars 2026 nr. 475, 1 juli 2026 nr. 1487.*
+
+## § 2. Geografisk og saklig virkeområde
+
+Forskriften gjelder i Norge, herunder på Svalbard. Forskriften gjelder også for områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester, styre lufttrafikkbevegelser og styre luftrommet for allmenn lufttrafikk.
+
+## § 3. Ansvarlig myndighet
+
+Luftfartstilsynet er ansvarlig myndighet etter kommisjonsforordning (EU) 2015/340 artikkel 5 nr. 1 og artikkel 6.
+
+## § 4. Delegering av myndighet til å endre forskriften
+
+Luftfartstilsynet kan foreta endringer i forskriften med unntak av § 3, så lenge det er forenlig med kommisjonsforordning (EU) 2015/340.
+
+## § 5. Norsk språkkrav
+
+Flygeledere og flygelederelever som utfører tårnkontrolltjeneste, skal ha bestått norsk CEFR-språktest med minimum nivå B2 i henhold til Det felles europeiske rammeverket for språk eller dokumentert norskkunnskaper fra videregående skole med minimum karakter 3.
+
+Underveis- og innflygingskontrolltjenesteenheter som benytter personell som ikke har bestått norsk CEFR-språktest eller dokumentert norskkunnskaper fra videregående skole med minimum karakter 3, skal
+
+- a. legge til rette for at kommunikasjon med luftfartøy kan foregå på norsk ved behov, og
+- b. ha SMS, avtaler, og andre styrende dokumenter som benyttes av flygeledere tilgjengelig på engelsk.
+
+*Endret ved forskrift 28 feb 2018 nr. 287.*
+
+## § 6. Vedtak om å avslutte institusjonell utdanning eller enhetstrening
+
+Utdanningsorganisasjonens vedtak om å avslutte institusjonell utdanning eller enhetstreningen til en flygeleder eller flygelederelev, eller en flygeleder under overføringstrening, regnes som et enkeltvedtak.
+
+*Endret ved forskrift 26 april 2021 nr. 1285 (i kraft 1 aug 2021).*
+
+## § 7. Krav til saksbehandling
+
+For saksbehandlingen av vedtak om å avslutte institusjonell trening eller enhetstrening gjelder forvaltningslovens regler om enkeltvedtak og klage, med de begrensninger og særkrav som følger av denne forskriften.
+
+*Endret ved forskrift 26 april 2021 nr. 1285 (i kraft 1 aug 2021).*
+
+## § 8. Særlige krav til utdanningsorganisasjonens saksforberedelsestid i klagesaker
+
+Tar utdanningsorganisasjonen ikke klagen til følge, skal sakens dokumenter sendes til klageinstansen så snart saken er tilrettelagt, og senest innen tre uker etter at klagen ble fremmet.
+
+## § 9. Klageinstanser
+
+Luftfartstilsynet er klageinstans etter forvaltningsloven over vedtak om å avslutte institusjonell utdanning eller enhetstrening. Luftfartstilsynet kan prøve alle sider av saken, med unntak av om en flygelederelev eller flygeleder under enhetstrening og overføringstrening er personlig egnet eller skikket til å arbeide som flygeleder. Luftfartstilsynets vedtak i klagesaken kan ikke påklages.
+
+Enkeltvedtak som gjelder legeattester, kan påklages til Nasjonalt klageorgan for helsetjenesten etter reglene i forvaltningsloven.
+
+Andre vedtak fattet med hjemmel i forskriften, kan påklages til Samferdselsdepartementet.
+
+*Endret ved forskrifter 7 mai 2020 nr. 945, 26 april 2021 nr. 1285 (i kraft 1 aug 2021).*
+
+## § 10. Ikrafttredelse og opphevelse
+
+Forskriften trer i kraft 1. august 2016.
+
+Vedlegg I–IV til kommisjonsforordning (EU) 2015/340 skal tre i kraft 31. desember 2016. Fra samme tid oppheves forskrift 2. juli 2013 nr. 851 om sertifisering av flygeledere.
+
+## § 11. Endring av andre forskrifter
+
+- 1\. Fra den tid forskriften trer i kraft, gjøres følgende endringer i forskrift 11. november 2003 nr. 1345 om etablering, organisering og drift av lufttrafikktjeneste: ---
+- 2\. Fra den tid forskriften trer i kraft, gjøres følgende endringer i forskrift 22. desember 2014 nr. 1903 om lufttrafikkregler og operative prosedyrer: ---
+
+## Forordninger
+
+Se her for å lese uoffisiell norsk oversettelse av forordning (EU) 2015/340: (pdf)

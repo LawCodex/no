@@ -1,0 +1,68 @@
+---
+title: "Forskrift om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon."
+short_title: "Forskrift om fiske i statsløse områder"
+identifier: "FOR-1998-03-04-173"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1998-03-04
+in_force_from: 1998-03-04
+last_amended: 1999-06-25
+last_amended_by: "forskrift/1999-06-25-757"
+ministry: "Nærings- og fiskeridepartementet"
+published_in: "Avd I 1998 269"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1998-03-04-173"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon.
+
+> Fastsatt av Fiskeridepartementet 4. mars 1998 med hjemmel i lov av 16. juni 1972 nr. 57 om regulering av deltagelsen i fisket § 6, jf. kgl.res. av 29. oktober 1993 nr. 955 og lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v. § 4 og § 9. Endret ved forskrift 25 juni 1999 nr. 757.
+
+## § 1. Virkeområde
+
+Denne forskrift gjelder for norske statsborgere og personer bosatt i Norge som driver fiske med norske fartøyer i farvann utenfor noen stats fiskerijurisdiksjon.
+
+*Endret ved forskrift 25 juni 1999 nr. 757.*
+
+## § 2. Deltakelse
+
+Det er forbudt å drive fiske som beskrevet i § 1 uten på forhånd å ha fått tillatelse til å registrere fartøyet hos Fiskeridirektoratet. Registreringen gjelder for ett kalenderår.
+
+Fiskeridirektoratet kan ved forskrift gi nærmere bestemmelser om registrering etter denne paragraf.
+
+## § 3. Adgang til å nekte registrering av fartøy
+
+Fiskeridirektoratet kan nekte registrering av fartøy når
+
+- a. fisket anses å være i strid med norske fiskeriinteresser,
+- b. når internasjonale avtaler gjør det nødvendig,
+- c. når fisket er regulert av regionale – eller subregionale, fiskeriforvaltningsorganisasjoner eller -arrangementer,
+- d. en rasjonell eller hensiktsmessig utøvelse eller gjennomføring av fisket tilsier det.
+
+## § 4. Adgang til å stryke fartøy som er registrert
+
+Fiskeridirektoratet kan stryke fartøy i registeret når fartøyeier eller -bruker har overtrådt gjeldende forskrifter for området angitt i § 1, eller når bevarings- og forvaltningstiltak fastsatt av regionale- eller subregionale fiskeriforvaltningsorganisasjoner eller -arrangementer er overtrådt.
+
+## § 5. Rapporteringsplikt
+
+Den som deltar i fisket i henhold til § 2, skal sende melding om når fisket starter, når fisket avsluttes og ukentlige meldinger til Fiskeridirektoratet om oppfisket kvantum spesifisert på fiskearter og med angivelse av hvilke områder fangsten er tatt. Det skal også sendes melding til Fiskeridirektoratet ved overføring av fangst.
+
+Fiskeridirektoratet kan ved forskrift fastsette nærmere bestemmelser om rapporteringsplikten etter første ledd.
+
+*Endret ved forskrift 25 juni 1999 nr. 757.*
+
+## § 6. Oppgaveplikt
+
+Den som deltar i fisket i henhold til § 2, skal føre fangstdagbok og innen én måned etter endt tur sende dagboken til Fiskeridirektoratet, jfr. forskrift av 26. juli 1993 nr. 772 om oppgaveplikt for fiske og fangstfartøy.
+
+## § 7. Straff
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til lov av 16. juni 1972 nr. 57 om regulering av deltagelsen i fisket § 11 og lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v. § 53.
+
+## § 8. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

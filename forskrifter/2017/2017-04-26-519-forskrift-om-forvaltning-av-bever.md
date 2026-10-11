@@ -1,0 +1,54 @@
+---
+title: "Forskrift om forvaltning av bever"
+short_title: "Forskrift om forvaltning av bever"
+identifier: "FOR-2017-04-26-519"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2017-04-26
+in_force_from: 2017-05-15
+last_amended: 2026-07-01
+last_amended_by: "forskrift/2026-06-26-1380 fra 2026-07-01"
+ministry: "Landbruks- og matdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2017-04-26-519"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om forvaltning av bever
+
+> Hjemmel: Fastsatt av Miljødirektoratet 26. april 2017 med hjemmel i lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven) § 9, § 16, § 26 nr. 10 og § 50, jf. delegeringsvedtak 2. april 1982 nr. 592.Tilføyd hjemmel: Lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven) § 44.Endret ved forskrift 26 juni 2026 nr. 1380 (i kraft 1 juli 2026, bl.a. hjemmel). Rettet 30.04.2021 (departementstilhørighet).
+
+## § 1. Formål
+
+Formålet med denne forskriften er å bidra til at forvaltningen av bever skjer i samsvar med forvaltningsmålet for arter i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 5. Forskriften skal legge til rette for en lokal og bærekraftig forvaltning med nærings- og rekreasjonsmessig nyttiggjøring av viltressursen. Forskriften skal samtidig bidra til å hindre unødige skader og ulemper på andre samfunnsinteresser.
+
+## § 2. Mål for forvaltningen av bever
+
+Kommunen skal vedta målsetting for utvikling av bestandene av bever i samsvar med formålet i § 1.
+
+Nabokommuner med felles vassdrag med bever bør samarbeide og koordinere sin forvaltning.
+
+## § 3. Åpning av jakt og fangst av bever
+
+Kommunen kan ved forskrift åpne for jakt og fangst av bever i hele eller deler av kommunen i en nærmere fastsatt periode, innenfor jakttid for arten fastsatt i forskrift om jakt og fangsttider vedtatt med hjemmel i viltressursloven § 10.
+
+Kommunen kan innenfor de områder som åpnes for jakt og fangst fastsette en kvote for uttaket.
+
+Forskriften fastsettes i samsvar med vedtatt målsetting i § 2 og vilkårene for høsting i naturmangfoldloven § 16 tredje og fjerde ledd.
+
+*Endret ved forskrift 26 juni 2026 nr. 1380 (i kraft 1 juli 2026).*
+
+## § 4. Endring eller opphør av jakt og fangst
+
+For å ivareta målsettingen for bestandsutviklingen for bever kan kommunen til enhver tid endre eller stenge adgangen til jakt og fangst av bever. Endring eller stenging skjer ved forskrift.
+
+## § 5. Rapportering
+
+Kommunen kan pålegge jeger og jaktrettshaver å gi opplysninger om felte dyr, herunder innlevere hele eller deler av viltet til statistiske eller vitenskapelige formål.
+
+## § 6. Ikrafttreden og oppheving
+
+Forskriften trer i kraft 15. mai 2017. Fra samme tidspunkt oppheves forskrift 22. mars 2002 nr. 314 om forvaltning av hjortevilt og bever.

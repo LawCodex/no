@@ -1,0 +1,75 @@
+---
+title: "Forskrift om beregning og fastsetting m.v. av arbeidsgiveravgift til folketrygden"
+short_title: "Forskrift om beregning av a-avgift mv"
+identifier: "FOR-1997-12-02-1385"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-12-02
+in_force_from: 1998-01-01
+last_amended: 2023-03-31
+last_amended_by: "forskrift/2023-03-31-455"
+ministry: "Finansdepartementet"
+published_in: "Avd I 1997 2400"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-12-02-1385"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om beregning og fastsetting m.v. av arbeidsgiveravgift til folketrygden
+
+> Hjemmel: Fastsatt av Skattedirektoratet 2. desember 1997 med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 siste ledd og § 24-5 første og annet ledd, jf. delegeringsvedtak av 18. november 1997 nr. 1168.Tilføyd hjemmel: Delegeringsvedtak 9. desember 2022 nr. 2139. Endret ved forskrifter 11 mars 1998 nr. 193, 2 des 1998 nr. 1289, 28 nov 2003 nr. 1413, 27 jan 2004 nr. 344, 19 jan 2005 nr. 44, 30 juni 2005 nr. 796, 19 des 2007 nr. 1552, 19 des 2008 nr. 1537, 26 mars 2010 nr. 465, 18 des 2014 nr. 1792, 9 des 2016 nr. 1495, 18 des 2018 nr. 2090, 12 okt 2020 nr. 2018 (i kraft 1 nov 2020), 9 jan 2023 nr. 25 (i kraft 1 jan 2023), 31 mars 2023 nr. 455.
+
+## § 1. Virkeområdet for reglene – Uttrykkene arbeidsgiver og arbeidstaker
+
+1\. Disse reglene gjelder for beregning og fastsettelse av arbeidsgiveravgift etter lov 28. februar 1997 nr. 19 om folketrygd med utfyllende forskrifter.
+
+2\. Med arbeidsgiver i disse reglene forstås den som er pliktig til å svare arbeidsgiveravgift etter folketrygdloven med utfyllende forskrifter, og med arbeidstaker den som mottar godtgjørelse arbeidsgiveren plikter å svare arbeidsgiveravgift av.
+
+*Endret ved forskrift 19 des 2008 nr. 1537 (i kraft 1 jan 2009).*
+
+## § 2. (Opphevet)
+
+*Opphevet ved forskrift 18 des 2018 nr. 2090 (med virkning fra inntektsåret 2019).*
+
+## § 3. Om tidspunktet for beregningen av arbeidsgiveravgiften
+
+Arbeidsgiveren plikter for den enkelte kalendermåned å ta med til avgiftsberegning avgiftspliktig lønn eller annen godtgjørelse (medregnet avgiftspliktige naturalytelser og utgiftsgodtgjørelser) som er utbetalt i kalendermåneden eller som er tatt med ved beregning av forskuddstrekk.
+
+*Endret ved forskrift 18 des 2014 nr. 1792 (i kraft 1 jan 2015 med virkning fom inntektsåret 2015).*
+
+## § 4. (Opphevet)
+
+*Opphevet ved forskrift 18 des 2014 nr. 1792 (i kraft 1 jan 2015 med virkning fra og med inntektsåret 2015).*
+
+## § 5. Opplysninger om beregnet arbeidsgiveravgift
+
+Arbeidsgiveren skal levere opplysninger om beregnet arbeidsgiveravgift og grunnlaget for beregningen for kalendermåneden, jf. skatteforvaltningsloven § 8-6 første ledd.
+
+Privat arbeidsgiver som nevnt i folketrygdloven § 23-2 sjuende ledd som overskrider beløpsgrensen i bestemmelsen skal ved førstkommende levering etter a-opplysningsforskriften § 2-1 åttende ledd ta med opplysninger om de samlede avgiftspliktige utbetalinger som til da er foretatt.
+
+Veldedig eller allmennyttig institusjon eller organisasjon som nevnt i folketrygdloven § 23-2 åttende ledd som overskrider beløpsgrensene i bestemmelsen skal ved førstkommende levering etter a-opplysningsforskriften § 2-1 åttende ledd ta med opplysninger om de samlede avgiftspliktige utbetalinger som til da er foretatt.
+
+*Tilføyd ved forskrift 26 mars 2010 nr. 465 (i kraft 1 april 2010), endret ved forskrifter 18 des 2014 nr. 1792 (fom inntektsåret 2015), 9 jan 2023 nr. 25 (i kraft 1 jan 2023), 31 mars 2023 nr. 455.*
+
+## § 6. Fastsettelse av arbeidsgiveravgift
+
+Fastsettelse av arbeidsgiveravgift i medhold av skatteforvaltningsloven § 12-1 skal foretas av skattekontoret for den kommunen hvor arbeidsgiveravgiften skal innbetales.
+
+*Endret ved forskrifter 11 mars 1998 nr. 193 (fom inntektsåret 1998), 2 des 1998 nr. 1289 (fra 1 jan 1999), 27 jan 2004 nr. 344 (i kraft 1 sep 2003), 30 juni 2005 nr. 796, 19 des 2007 nr. 1552 (i kraft 1 jan 2008), 19 des 2008 nr. 1537 (i kraft 1 jan 2009), 26 mars 2010 nr. 465 (i kraft 1 april 2010, tidligere § 5), 18 des 2014 nr. 1792 (fom inntektsåret 2015), 9 des 2016 nr. 1495 (i kraft 1 jan 2017).*
+
+## § 7. Om arbeidsgiverens plikt til å gi opplysninger og legge fram regnskap m.v.
+
+1\. Skattekontoret og den som har fullmakt fra skattekontoret, kan til enhver tid kreve fremlagt arbeidsgiverens regnskap med bilag, lønningslister, noteringer, kontrakter, korrespondanse eller andre dokumenter av betydning for kontrollen av arbeidsgiveravgiften.
+
+2\. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for kontrollen av arbeidsgiveravgiften og for fastsettelsen av avgiften og avgiftsgrunnlaget etter skatteforvaltningsloven § 8-6.
+
+*Endret ved forskrifter 19 des 2007 nr. 1552 (i kraft 1 jan 2008), 26 mars 2010 nr. 465 (i kraft 1 april 2010, tidligere § 6), 18 des 2014 nr. 1792 (fom inntektsåret 2015), 12 okt 2020 nr. 2018 (i kraft 1 nov 2020), 9 jan 2023 nr. 25 (i kraft 1 jan 2023).*
+
+## § 8. Ikrafttreden
+
+Forskriften trer i kraft med virkning fra 1. januar 1998. Den avløser forskrift av 15. desember 1981 nr. 9858 om beregning og oppgjør mv. av arbeidsgiveravgift til folketrygden, som er opphevet fra samme tidspunkt, jf. kgl.res. av 25. april 1997 nr. 378.
+
+*Endret ved forskrift 26 mars 2010 nr. 465 (i kraft 1 april 2010, tidligere § 7).*

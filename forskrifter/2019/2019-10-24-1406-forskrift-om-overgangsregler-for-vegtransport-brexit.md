@@ -1,0 +1,32 @@
+---
+title: "Forskrift om overgangsregler for vegtransporttjenester mellom EØS og Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) med hensyn til Storbritannias uttreden fra EU"
+short_title: "Forskrift om overgangsregler for vegtransport (brexit)"
+identifier: "FOR-2019-10-24-1406"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2019-10-24
+in_force_from: 2019-10-24
+last_amended: 2021-02-22
+last_amended_by: "forskrift/2021-02-22-525"
+ministry: "Samferdselsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2019-10-24-1406"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsregler for vegtransporttjenester mellom EØS og Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) med hensyn til Storbritannias uttreden fra EU
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 24. oktober 2019 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 10.EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 26f (forordning (EU) 2019/501 endret ved forordning (EU) 2019/1795) og nr. 26g (forordning (EU) 2020/2224).Endret ved forskrifter 2 des 2019 nr. 1607, 22 feb 2021 nr. 525 (bl.a. tittel).
+
+## § 1. Gjennomføring av forordning (EU) 2020/2224 i norsk rett
+
+EØS-avtalen vedlegg XIII nr. 26g (forordning (EU) 2020/2224 om felles regler som sikrer grunnleggende forbindelser ved gods- og persontransport på vei i forbindelse med utløpet av overgangsperioden etter Det forente kongerike Storbritannia og Nord-Irlands utmeldelse fra Unionen og Det europeiske atomenergifellesskap) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrifter 2 des 2019 nr. 1607, 22 feb 2021 nr. 525.*
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.

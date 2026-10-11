@@ -1,0 +1,129 @@
+---
+title: "Forskrift om oppgaveplikt og om redskaper som er tillatt benyttet ved fiske etter anadrome laksefisk."
+short_title: "Forskrift om redskaper mv. ved laksefiske"
+identifier: "FOR-2003-02-25-256"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2003-02-25
+in_force_from: 2003-03-01
+last_amended: 2026-05-18
+last_amended_by: "forskrift/2026-05-18-859"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2003 hefte 3"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2003-02-25-256"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om oppgaveplikt og om redskaper som er tillatt benyttet ved fiske etter anadrome laksefisk.
+
+> Hjemmel: Fastsatt av Direktoratet for naturforvaltning (nå Miljødirektoratet) 25. februar 2003 med hjemmel i lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. § 33, § 43 og § 44, jf. kgl.res. av 27. november 1992 nr. 877 § 5.Endret ved forskrifter 21 mars 2017 nr. 363, 18 mai 2026 nr. 859. Endres ved forskrift 18 mai 2026 nr. 859 (i kraft fra den tid Miljødirektoratet bestemmer).
+
+## Kapittel 1. Oppgaveplikt
+
+### § 1. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+## Kapittel 2. Definisjon av tillatte redskaper
+
+### § 2. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 3. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 4. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 5. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 6. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 7. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 8. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 9. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+## Kapittel 3. Registrering av redskap
+
+### § 10. Registreringsplikt for faststående redskaper
+
+Enhver som skal fiske anadrome laksefisk med faststående redskap i sjøen skal hvert år senest en måned før fisket åpnes sende melding om dette til fylkesmannen. Fylkesmannen kan fastsette annen dato for registreringsplikten.
+
+Meldingen skal inneholde fiskerens navn og adresse, antall og type redskap og stedet fisket skal skje.
+
+***Oppheves** ved forskrift 18 mai 2026 nr. 859 (i kraft fra den tid Miljødirektoratet bestemmer).*
+
+## Kapittel 4. Plassering av redskap
+
+### § 11. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 12. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 13. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+## Kapittel 5. Merking av redskaper
+
+### § 14. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+## Kapittel 6. Stenging av redskaper
+
+### § 15. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 16. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 17. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 18. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 19. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 20. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+## Kapittel 7. Avsluttende regler
+
+### § 21. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*
+
+### § 22. (Opphevet)
+
+*Opphevet ved forskrift 18 mai 2026 nr. 859*

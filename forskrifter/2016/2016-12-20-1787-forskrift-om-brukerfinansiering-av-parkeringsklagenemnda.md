@@ -1,0 +1,71 @@
+---
+title: "Forskrift om brukerfinansiering av Parkeringsklagenemnda"
+identifier: "FOR-2016-12-20-1787"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-12-20
+in_force_from: 2017-01-01
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-11-21-2400 fra 2026-01-01"
+ministry: "Samferdselsdepartementet"
+published_in: "I 2016 hefte 18"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-12-20-1787"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om brukerfinansiering av Parkeringsklagenemnda
+
+> Hjemmel: Fastsatt av styret for Parkeringsklagenemnda 20. desember 2016 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 8 tredje ledd og forskrift 18. mars 2016 nr. 260 om vilkårsparkering for allmennheten og håndheving av private parkeringsreguleringer (parkeringsforskriften) § 3, § 45 tredje ledd og § 58.Endret ved forskrifter 21 des 2017 nr. 2359, 19 des 2018 nr. 2175, 13 nov 2019 nr. 1508 (i kraft 1 jan 2020), 14 sep 2020 nr. 1983 (i kraft 1 jan 2021), 27 nov 2023 nr. 1955 (i kraft 1 jan 2024), 14 juni 2024 nr. 1047 (i kraft 1 juli 2024), 21 nov 2025 nr. 2400 (i kraft 1 jan 2026).
+
+## § 1. Formål
+
+Formålet med denne forskriften er å sikre brukerfinansiering av Parkeringsklagenemnda.
+
+## § 2. Plikt til å bidra til å finansiere Parkeringsklagenemnda
+
+Følgende skal bidra til å finansiere Parkeringsklagenemnda:
+
+- Parkeringsvirksomhet (foretak, enkeltpersonforetak eller forvaltningsorgan) som ilegger kontrollsanksjon, jf. parkeringsforskriften § 36.
+- Andre (virksomhet eller person) som ilegger sanksjon i henhold til parkeringsforskriften § 3 andre ledd andre og tredje punktum eller som håndhever parkeringsrestriksjoner etter § 3 tredje ledd inkludert fjerningsvirksomheter som fjerner etter parkeringsforskriften § 38.
+
+*Endret ved forskrift 21 des 2017 nr. 2359 (i kraft 1 jan 2018).*
+
+## § 3. Bidragets størrelse
+
+Bidraget til Parkeringsklagenemnda skal være 6 kroner for hver ilagt sanksjon, jf. parkeringsforskriften § 58 første ledd, samt 500 kroner for hver sak som påklages til Parkeringsklagenemnda og som omhandler klage på kontrollsanksjon. For saker som omhandler fjerning av kjøretøy skal det betales et bidrag på 3000 kroner for hver sak som påklages til Parkeringsklagenemnda. Saker som omhandler fjerning fra parkeringsplasser reservert for forflytningshemmede faktureres med 500 kroner for hver sak som påklages til Parkeringsklagenemnda.
+
+Det skal i tillegg innbetales 1000 kroner for hver sak som omhandler kontrollsanksjon og som trekkes av andre grunner enn forhold hos klageren, og 3500 kroner for hver sak som omhandler kontrollsanksjon og som tapes til Parkeringsklagenemnda, jf. parkeringsforskriften § 58 andre ledd. For saker som omhandler fjerning av kjøretøy er satsen for trukket sak 3000 kroner og satsen for tapt sak 7000 kroner. Kravet forbundet med tapt eller trukket sak oppstår på det tidspunktet saken ble avgjort, slik at det er beløpet gjeldende på dette tidspunktet som skal faktureres virksomheten. Beløp for tapt sak skal innbetales uavhengig av om saken senere bringes inn for domstolene.
+
+I saker der klager gis delvis medhold, ansees saken som tapt. Det er den innklagede virksomheten som skal betale gebyr for behandlet, trukket eller tapt sak. Dette gjelder også der klager trekker saken som følge av at virksomheten har informert om at kravet skal frafalles, og kravet ikke er frafalt før saken ble bragt inn for Parkeringsklagenemnda.
+
+*Endret ved forskrifter 21 des 2017 nr. 2359 (i kraft 1 jan 2018), 19 des 2018 nr. 2175 (i kraft 1 jan 2019), 13 nov 2019 nr. 1508 (i kraft 1 jan 2020), 14 sep 2020 nr. 1983 (i kraft 1 jan 2021), 27 nov 2023 nr. 1955 (i kraft 1 jan 2024), 14 juni 2024 nr. 1047 (i kraft 1 juli 2024), 21 nov 2025 nr. 2400 (i kraft 1 jan 2026).*
+
+## § 4. Innrapportering av antallet ilagte kontrollsanksjoner
+
+De som omfattes av § 2 skal innen 1. desember hvert år rapportere til Parkeringsklagenemnda om det forventede antallet sanksjoner for det kommende året. Antallet som rapporteres skal være virksomhetens totale antall ilagte sanksjoner og skal også inkludere sanksjoner som er opphevet/frafalt/makulert.
+
+Dersom rapporteringen avviker vesentlig i forhold til antall sanksjoner som en virksomhet faktisk ilegger et år, skal virksomheten melde fra om dette snarest mulig og senest innen 5. januar påfølgende år. For lite innrapporterte sanksjoner vil bli fakturert virksomheten på lik linje som at en virksomhet kan få refusjon for overrapportering. Avvik under 500 sanksjoner skal ikke rapporteres eller faktureres/krediteres.
+
+Parkeringsvirksomhet eller andre, som nevnt i § 2 første og annet strekpunkt, og som starter med å ilegge kontrollsanksjoner i løpet av året skal innrapportere antall forventede sanksjoner for dette året så snart virksomheten begynner.
+
+Parkeringsklagenemnda kan stipulere antall sanksjoner for det kommende året for de virksomheter som ikke rapporterer innen fristen i første ledd. Det stipulerte antallet legges til grunn for fakturering.
+
+*Endret ved forskrifter 21 des 2017 nr. 2359 (i kraft 1 jan 2018), 14 sep 2020 nr. 1983 (i kraft 1 jan 2021).*
+
+## § 5. Fakturering
+
+Fakturering av bidrag etter § 3 første avsnitt skjer i forkant, mens fakturering av bidrag etter § 3 andre avsnitt skjer i etterkant.
+
+## § 6. Evaluering
+
+Bidragets størrelse i § 3 skal evalueres årlig. Evalueringen skal basere seg på innrapporterte tall om antallet sanksjoner og statistikk fra Parkeringsklagenemnda.
+
+Bidragets størrelse kan ikke settes høyere enn det som kreves for å drive Parkeringsklagenemnda.
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2017.

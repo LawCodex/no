@@ -1,0 +1,53 @@
+---
+title: "Forskrift om overgangsbestemmelser etter naturmangfoldloven § 77 i forbindelse med erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven"
+short_title: "Overgangsbestemmelser etter naturmangfoldloven"
+identifier: "FOR-2010-10-15-1339"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2010-10-15
+in_force_from: 2010-10-15
+last_amended: 2014-01-01
+last_amended_by: "forskrift/2013-12-19-1757 fra 2014-01-01"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 2010 hefte 12"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2010-10-15-1339"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsbestemmelser etter naturmangfoldloven § 77 i forbindelse med erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven
+
+> Hjemmel: Fastsatt ved kgl.res 15. oktober 2010 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 77. Fremmet av Miljøverndepartementet.Endret ved forskrift 19 des 2013 nr. 1757.
+
+## § 1. Erstatningskrav ved vernevedtak etter naturmangfoldloven
+
+For krav om erstatning etter naturmangfoldloven § 50 i forbindelse med vernevedtak truffet med hjemmel i naturmangfoldloven, gjelder de frister som er fastsatt i naturmangfoldloven § 51.
+
+## § 2. Rett til erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter naturvernloven
+
+I henhold til naturmangfoldloven § 77 kan eier eller rettighetshaver som har fått område vernet som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven (lov 19. juni 1970 nr. 63 om naturvern), kreve erstatning etter naturmangfoldloven dersom den ordinære fristen for å kreve erstatning ikke var gått ut 1. januar 2002.
+
+## § 3. Frist for å fremme erstatningskrav ved vedtak etter naturvernloven
+
+Krav om erstatning i henhold til forskriften § 2 må være fremsatt innen 31. desember 2009, jf. Klima- og miljødepartementets vedtak 13. november 2008 nr. 1693 om fristutsettelse, hjemlet i naturvernloven § 20b.
+
+For vernevedtak etter naturvernloven som er truffet etter 31. desember 2008, må kravet være fremsatt innen ett år etter at vedtaket ble kunngjort.
+
+For øvrig reguleres spørsmålet om erstatning av naturmangfoldloven § 50 og § 51.
+
+*Endret ved forskrift 19 des 2013 nr. 1757 (i kraft 1 jan 2014).*
+
+## § 4. Avgrensing av retten til å fremme erstatningskrav
+
+Retten til erstatning etter naturmangfoldloven § 77 gjelder ikke for grunneiere/rettighetshavere som, til tross for at de har fått fristutsettelse, har tatt ut skjønnsbegjæring før naturmangfoldlovens ikrafttredelse.
+
+## § 5. Frist for staten til å komme med tilbud
+
+Staten skal innen 1. juli 2012 ha fremsatt tilbud om erstatning til grunneiere og rettighetshavere som har fremmet krav om erstatning etter § 3 første og annet ledd. I særlige tilfeller kan departementet forlenge fristen.
+
+## § 6. Ikraftsetting
+
+Forskriften trer i kraft straks.

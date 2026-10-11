@@ -1,0 +1,67 @@
+---
+title: "Forskrift om avliving av hund og katt"
+short_title: "Forskrift om avliving av hund og katt"
+identifier: "FOR-1998-10-11-991"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1998-10-11
+in_force_from: 1998-10-11
+last_amended: 2013-02-01
+last_amended_by: "forskrift/2013-01-21-62 fra 2013-02-01"
+ministry: "Landbruks- og matdepartementet"
+published_in: "Avd I 1998 1557"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1998-10-11-991"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om avliving av hund og katt
+
+> Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 11. oktober 1998 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 12, jf. delegeringsvedtak 11. juni 2010 nr. 814.Endret ved forskrifter 9 jan 2004 nr. 52, 6 aug 2010 nr. 1147, 21 jan 2013 nr. 62.
+
+## § 1.
+
+Formålet med forskriften er å sikre at avliving av hund og katt utføres på en slik måte at dyrene ikke kommer i fare for å lide unødig.
+
+Forskriften gjelder for dyr av artene hund (Canis familiaris) og katt (Felis catus).
+
+Ved avliving av hund og katt i forbindelse med sanering gjelder forskriften i tillegg til forordning (EF) nr. 1099/2009 som er gjennomført i forskrift 13. januar 2013 nr. 60 om avliving av dyr.
+
+*Endret ved forskrift 21 jan 2013 nr. 62 (i kraft 1 feb 2013).*
+
+## § 2.
+
+Avliving kan bare foretas med:
+
+- 1\. Skudd mot dyrets hjerne – fortrinnsvis med haglgevær, eventuelt annet dertil egnet skytevåpen – som avfyres på en avstand tilpasset det våpen som anvendes, og mens dyret er i ro. Avlivingen må foretas av person som er kyndig i bruk av vedkommende skytevåpen.
+- 2\. Elektrisk apparat som er godkjent av Mattilsynet, som kan sette vilkår for godkjenningen. Før godkjenning gis, må apparatet m.v. og eventuell installasjon av det være godkjent av de myndigheter som fører kontroll og tilsyn med materiell og apparater for elektriske anlegg og installasjon av slike.
+- 3\. Medikament eller annet giftstoff, herunder gasser. Slik avliving må foretas av veterinær eller med veterinær til stede. Veterinær kan ikke skrive ut resept på bedøvingsmiddel for at andre personer skal bruke det til avliving av dyr, f.eks. ved utlegging av åtegift.
+
+*Endret ved forskrift 9 jan 2004 nr. 52.*
+
+## § 3.
+
+Uten hinder av bestemmelsene i § 2 kan inntil 8 dager gammel hund og katt avlives ved slag mot hjernekassen (pannen eller bakhodet) av slik styrke at det påfører dyret øyeblikkelig bevisstløshet og umiddelbar død.
+
+## § 4.
+
+Hvis avblødning ikke foretas etter avlivingen, skal den som har foretatt avlivingen, forvisse seg om at dyret er dødt.
+
+## § 5.
+
+Mattilsynet kan dispensere fra kravene i denne forskriften og sette vilkår for dispensasjonen.
+
+*Endret ved forskrift 9 jan 2004 nr. 52.*
+
+## § 6.
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37.
+
+*Endret ved forskrift 6 aug 2010 nr. 1147.*
+
+## § 7.
+
+Denne forskriften trer i kraft straks. Fra samme tid oppheves forskrift av 13. september 1972 nr. 1 om avliving av hund og katt, og av pelsdyr i fangenskap.

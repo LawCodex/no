@@ -1,0 +1,93 @@
+---
+title: "Forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt"
+short_title: "Forskrift om nedsettelse av pensjonsgivende inntekt mv"
+identifier: "FOR-1997-12-18-1408"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1997-12-18
+in_force_from: 1998-01-01
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-06-13-1017 fra 2026-01-01"
+ministry: "Finansdepartementet"
+published_in: "I 1997 2447"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1997-12-18-1408"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
+
+> Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 18. desember 1997 med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 3-15 femte ledd.Tilføyd hjemmel: delegeringsvedtak 18. november 1997 nr. 1168. Endret ved forskrifter 3 jan 2002 nr. 9, 1 feb 2002 nr. 128 (hjemmel), 11 des 2006 nr. 1399, 21 des 2007 nr. 1771, 9 des 2016 nr. 1508, 12 okt 2020 nr. 2017 (i kraft 1 nov 2020), 13 juni 2025 nr. 1017 (i kraft 1 jan 2026).Endres ved forskrift 13 juni 2025 nr. 1017 (i kraft 1 jan 2027).
+
+## I
+
+### § 1.
+
+Pensjonsgivende inntekt som nevnt i folketrygdloven § 3-15 første og annet ledd, skal nedsettes hvis trygdeavgift som nevnt i folketrygdloven § 23-3 og skatt og avgift som er fastsatt sammen med denne, ikke er betalt fullt ut innen 3 år etter utløpet av skattefastsettingsåret. Slik nedsettelse skal likevel foretas tidligere når det foreligger vedtak om utgiftsføring eller nedsettelse/ettergivelse av fastsatt skatt og avgift. Pensjonsgivende inntekt reduseres tilsvarende forholdet mellom ubetalt beløp og samlet fastsatt skatt og avgift i samsvar med reglene i folketrygdloven kapittel 3.
+
+Nedsettelse av den pensjonsgivende inntekt etter folketrygdloven § 3-15 femte ledd foretas som endringssak etter skatteforvaltningsloven kapittel 12. Fristen for å ta opp en sak til endring skal være 2 år etter det tidspunkt da nedsettelsen kunne vært foretatt. Når grunnlaget for nedsettelse er vedtak om utgiftsføring eller nedsettelse/ettergivelse av skatt og avgift som nevnt i første ledds annet punktum, skal fristen være 2 år fra utløpet av det år slikt vedtak ble truffet.
+
+*Endret ved forskrifter 11 des 2006 nr. 1399, 9 des 2016 nr. 1508 (i kraft 1 jan 2017).*
+
+### § 2.
+
+Nedsettelse av den pensjonsgivende inntekt foretas likevel ikke i den utstrekning skyldige skatter og avgifter betales innen en frist som angis i varsel etter skatteforvaltningsloven § 5-6. Fristen skal være minst 14 dager. Når særlige grunner foreligger, kan den angitte frist forlenges. Når nedsettelse/ettergivelse av fastsatt skatt og avgift i medhold av innkrevingsloven §§ 18 og 19, vil føre til nedsettelse av den pensjonsgivende inntekt etter folketrygdloven § 3-15 fjerde ledd, skal skattyteren underrettes om dette i varsel etter skatteforvaltningsloven § 5-6 før vedtak om skattenedsettelse treffes. Skattyteren skal også underrettes ved slikt varsel om at pensjonsgivende inntekt vil bli nedsatt, dersom det foretas utgiftsføring av fastsatt skatt og avgift.
+
+*Endret ved forskrifter 9 des 2016 nr. 1508 (i kraft 1 jan 2017), 13 juni 2025 nr. 1017 (i kraft 1 jan 2026).*
+
+### § 3.
+
+Pensjonsgivende inntekt nedsettes ikke når:
+
+- a. nedsettelsen av den pensjonsgivende inntekt ikke vil utgjøre mer enn 25 prosent av folketrygdens grunnbeløp for det inntektsår nedsettelsen gjelder,
+- b. fastsatt skatt nedsettes etter søknad i forbindelse med etterbetaling av skatte- og avgiftspliktige ytelser etter opptjeningsåret,
+- c. det pågår avdragsbetaling i henhold til avtale mellom Innkrevingsmyndigheten og skattyter, og denne ikke misligholdes,
+- d. det pågår tvangsmessig innfordring i form av utleggstrekk,
+- e. videre innfordring etter skattekontorets avgjørelse foreløpig er stilt i bero fordi skatte- og avgiftskravet er sikret ved pant,
+- f. skatte- og avgiftskravet er brakt inn for domstolene, og saken ikke er endelig avgjort,
+- g. det er klart at fastsettingen vil bli endret,
+- h. foreldre, adoptivforeldre eller pleieforeldre som skattlegges under ett med barn, jf. skatteloven § 2-14 første, annet og tredje ledd, får nedsatt eller ettergitt skatt av formue og/eller inntekt som ikke har inngått i beregningsgrunnlaget for pensjonsgivende inntekt.
+
+*Endret ved forskrifter 9 des 2016 nr. 1508 (i kraft 1 jan 2017), 12 okt 2020 nr. 2017 (i kraft 1 nov 2020), 13 juni 2025 nr. 1017 (i kraft 1 jan 2026). **Endres** ved forskrift 13 juni 2025 nr. 1017 (i kraft 1 jan 2027).*
+
+### § 4.
+
+Ny pensjonsopptjening beregnes etter reglene i folketrygdloven § 3-13 og § 3-14 på grunnlag av den nedsatte pensjonsgivende inntekt. Reglene i § 1 annet ledd og § 2 gjelder tilsvarende.
+
+*Endret ved forskrift 9 des 2016 nr. 1508 (i kraft 1 jan 2017).*
+
+### § 5.
+
+Reduksjon av pensjonsgivende inntekt og pensjonsopptjening får ikke konsekvenser for:
+
+- a. allerede utbetalte ytelser,
+- b. løpende sykepenger.
+
+*Endret ved forskrifter 3 jan 2002 nr. 9, 9 des 2016 nr. 1508 (i kraft 1 jan 2017).*
+
+### § 6.
+
+Innbetaling av ubetalte skatter og avgifter etter at nedsettelse av pensjonsgivende inntekt og pensjonsopptjening er foretatt, medfører ikke adgang til å tilbakeføre pensjonsopptjening.
+
+*Endret ved forskrift 9 des 2016 nr. 1508 (i kraft 1 jan 2017).*
+
+### § 7.
+
+Fastsatt trygdeavgift etter folketrygdloven § 23-3 annet ledd nr. 2 og 3 blir å nedsette av skattemyndighetene på grunnlag av vedtak om nedsettelse av den pensjonsgivende inntekt og pensjonsopptjening. Nedsettelsen foretas tilsvarende forholdet mellom ubetalt skatt og avgift og samlet fastsatt skatt og avgift. Skattebetalingsloven § 7-2 kommer ikke til anvendelse.
+
+Skattekontoret posterer nedsettelsen i skatteregnskapet.
+
+Reglene i § 1 annet ledd og § 2 gjelder tilsvarende ved nedsettelse etter første ledd.
+
+*Endret ved forskrifter 21 des 2007 nr. 1771 (i kraft 1 jan 2008), 9 des 2016 nr. 1508 (i kraft 1 jan 2017), 12 okt 2020 nr. 2017 (i kraft 1 nov 2020).*
+
+### § 8.
+
+Skattedirektoratet kan gi regler om gjennomføringen av nedsettelsen.
+
+## II
+
+Forskriften trer i kraft 1. januar 1998. Den avløser forskrift av 7. desember 1990 nr 957 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når utlignet skatt og avgift helt eller delvis ikke blir betalt, som er opphevet fra samme tidspunkt, jf kgl.res. av 25. april 1997 nr. 378.

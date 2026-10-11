@@ -1,0 +1,1172 @@
+---
+title: "Forskrift om årsregnskap for livsforsikringsforetak"
+identifier: "FOR-2015-12-18-1824"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2015-12-18
+in_force_from: "2016-01-01, med virkning for regnskapsår påbegynt 1. januar 2016 og senere"
+last_amended: 2024-11-01
+last_amended_by: "forskrift/2024-11-01-2610"
+ministry: "Finansdepartementet"
+published_in: "I 2015 hefte 17"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2015-12-18-1824"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om årsregnskap for livsforsikringsforetak
+
+> Hjemmel: Fastsatt av Finansdepartementet 18. desember 2015 med hjemmel i lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 1-5 trettende ledd, § 8-1 tredje ledd og § 10-1 første ledd.Endret ved forskrifter 16 des 2016 nr. 1656, 20 des 2018 nr. 2208, 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 2 mars 2022 nr. 334, 7 april 2022 nr. 556, 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrifter 12 feb 2021 nr. 1225 og 19 okt 2022 nr. 1766), 17 aug 2022 nr. 1453 (i kraft 1 jan 2023), 4 juli 2023 nr. 1243, 20 des 2023 nr. 2228 (i kraft 1 jan 2024), 1 nov 2024 nr. 2610.Rettet 01.01.2017 (begrep i § 1-1, § 2-4 og § 4-7), 05.01.2017 (begrep i § 4-4), 01.01.2022 (tegnsetting i lister tilpasset universell utforming), 13.09.2022 (tilbakeført til versjon før endring 17 aug 2022 nr. 1453).
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+(1) Forskriften gjelder for livsforsikringsforetak, jf. lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-13.
+
+(2) Forskriften gjelder for filialer av utenlandske livsforsikringsforetak, med unntak av kapittel 6 om delårsregnskap.
+
+(3) For blandede finanskonsern gjelder følgende bestemmelser så langt de passer:
+
+- a. bestemmelsene om konsernregnskap i regnskapsloven,
+- b. forskrift om årsregnskap for banker, kredittforetak og finansieringsforetak,
+- c. forskrift om årsregnskap for skadeforsikringsforetak,
+- d. denne forskriften.
+
+(4) For konsern med skadeforsikringsvirksomhet gjelder følgende bestemmelser så langt de passer:
+
+- a. bestemmelsene om konsernregnskap i regnskapsloven,
+- b. forskrift om årsregnskap for skadeforsikringsforetak,
+- c. denne forskriften.
+
+(5) Salgsinntekter i regnskapsloven § 1-5 skal for livsforsikringsforetak forstås som forfalte bruttopremier, jf. post 1.1 i § 4-4 i denne forskrift.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 1 nov 2024 nr. 2610.*
+
+### § 1-2. Anvendelse av internasjonale regnskapsstandarder i selskapsregnskapet
+
+Selskapsregnskapet skal utarbeides i samsvar med forskrifter om internasjonale regnskapsstandarder gitt i medhold av regnskapsloven § 3-9 annet ledd hvis ikke annet følger av denne forskriften. Regnskapsloven § 3-9 tredje ledd, fjerde ledd annet punktum, samt forskrifter gitt i medhold av regnskapsloven § 3-9 femte ledd, gjelder ikke.
+
+### § 1-3. Anvendelse av internasjonale regnskapsstandarder i konsernregnskapet
+
+(1) Foretak som ikke anvender adgangen etter regnskapsloven § 3-9 fjerde ledd første punktum til å utarbeide konsernregnskap etter internasjonale regnskapsstandarder, skal utarbeide konsernregnskap etter bestemmelsene i denne forskriften.
+
+(2) For konsernregnskap som utarbeides etter internasjonale regnskapsstandarder i samsvar med regnskapsloven § 3-9 første ledd og fjerde ledd første punktum, gjelder kun følgende bestemmelser i denne forskriften: § 2-1, § 2-3, § 2-4, § 5-11 tredje ledd, § 5-13, § 5-31, § 5-40 første og annet ledd, § 5-45, § 5-46, § 5-54, § 6-1 og § 6-4.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+### § 1-4. Unntak fra regnskapsloven
+
+Regnskapsloven § 3-1 tredje ledd om unntak fra bestemmelser i regnskapsloven, gjelder ved utarbeidelse av selskapsregnskap og konsernregnskap som nevnt i denne forskriften § 1-3 første ledd hvis ikke annet følger av denne forskriften.
+
+### § 1-5. Definisjon av store og små livsforsikringsforetak
+
+(1) Som store livsforsikringsforetak regnes:
+
+- a. Foretak som inngår i konsern der konsernregnskapet utarbeides etter internasjonale regnskapsstandarder i samsvar med regnskapsloven § 3-9 og
+- b. Foretak som har utstedt verdipapirer på regulert marked i en EØS-stat.
+
+(2) Som små livsforsikringsforetak regnes foretak som ikke er store.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 1 nov 2024 nr. 2610.*
+
+### § 1-6. Filialer av utenlandske livsforsikringsforetak
+
+Filialer av utenlandske livsforsikringsforetak som regnes som store livsforsikringsforetak etter § 1-5 første ledd, kan anvende kravene til å gi noteopplysninger som gjelder for små livsforsikringsforetak
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 1 nov 2024 nr. 2610.*
+
+## Kapittel 2. Årsregnskap og årsberetning
+
+### § 2-1. Plikt til å utarbeide årsregnskap og årsberetning
+
+Forslag til årsregnskap og årsberetning skal vedtas av foretakets styre innen tre måneder etter regnskapsårets slutt. Årsregnskap og årsberetning for filialer av utenlandske foretak skal vedtas innen fem måneder etter regnskapsårets slutt.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 2 mars 2022 nr. 334.*
+
+### § 2-2. Rettvisende bilde
+
+Hvis anvendelsen av en bestemmelse i kapittel 3 til 5 er uforenlig med plikten til å gi et rettvisende bilde av årsregnskapet, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i regnskapsloven § 3-2a første ledd.
+
+### § 2-3. Årsberetningens innhold
+
+(1) Dersom foretaket ikke oppfyller gjeldende krav til ansvarlig kapital eller kapitalen for øvrig ikke er forsvarlig sett i forhold til virksomheten, skal styret redegjøre for dette og uttale seg om tiltak som er truffet eller som skal treffes for å sikre foretakets drift.
+
+(2) Det skal gis en beskrivelse av de finansielle risikoer som foretaket er, og gjennom regnskapsåret har vært, eksponert for. Styret skal redegjøre for de mål og strategier som er fastsatt for risikostyring, og sammenhengen mellom disse og foretakets overordnede mål og strategier. Det skal gis en overordnet beskrivelse av foretakets risikostyring og organiseringen av denne.
+
+(3) Dersom bufferfond benyttes til å dekke renteforpliktelser på forsikringskontrakter, skal styret redegjøre for dette.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+### § 2-4. Begrensninger i unntak fra konsernregnskapsplikten
+
+(1) Regnskapsloven § 3-7 får kun anvendelse dersom forsikringsforetakets morselskap er underlagt denne forskriften eller forskrift om årsregnskap for skadeforsikringsforetak.
+
+(2) Hvis forsikringsforetakets morselskap også har datterforetak som følger andre vurderingsregler etter denne forskriften eller har datterforetak som er underlagt forskrift om årsregnskap m.m. for banker, kredittforetak og finansieringsforetak, skal morselskap i underkonsern likevel utarbeide konsernregnskap.
+
+(3) Finanstilsynet kan i særlige tilfeller gjøre unntak fra første og annet ledd.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+### § 2-5. Horisontale konsern
+
+(1) Finanskonsern uten morselskap som er godkjent etter bestemmelsene i finansforetaksloven kapittel 17, skal utarbeide konsernregnskap.
+
+(2) Konsernregnskap for horisontale konsern skal omfatte de samarbeidende foretakene, samt deres datterforetak.
+
+(3) Konsernregnskapet skal utarbeides etter reglene som gjelder for konsern i regnskapsloven og denne forskriften.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+### § 2-6. Presentasjonsvaluta
+
+Regnskapsloven § 3-4 annet ledd gjelder ikke. Årsregnskapet skal presenteres i norske kroner.
+
+### § 2-7. Offentliggjøring
+
+(1) Årsregnskapet, årsberetningen og revisjonsberetningen skal, etter fastsetting av årsregnskapet, uten unødig opphold offentliggjøres på foretakets hjemmeside på internett. Foretaket skal sørge for at årsregnskapet, årsberetningen og revisjonsberetningen forblir offentlig i minst fem år. Finanstilsynet kan pålegge foretaket å opprette hjemmeside på internett. For øvrig har enhver rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.
+
+(2) Første ledd gjelder ikke for filialer av utenlandske forsikringsforetak, jf. regnskapsloven § 8-1 annet ledd.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+## Kapittel 3. Regnskapsprinsipper mv.
+
+### § 3-1. Forsikringskontrakter mv.
+
+(1) Forsikringskapital, jf. forsikringsvirksomhetsloven § 3-8, skal innregnes som forsikringsforpliktelse.
+
+(2) Forsikringsforpliktelsene skal måles i samsvar med forsikringsvirksomhetsloven kapittel 3 med tilhørende forskrift. Beregningene skal hensynta alle opplysninger som foreligger på tidspunktet for avleggelse av årsregnskapet og avsetningene skal være tilstrekkelige til å dekke foretakets totale forsikringsforpliktelser i henhold til forsikringsavtalene.
+
+(3) Gjenforsikringsandeler skal innregnes som eiendel. Gjenforsikringsandelen av forsikringsforpliktelser (brutto) omfatter de beløp som foretaket forventer å motta fra gjenforsikringsforetak i henhold til inngåtte gjenforsikringsavtaler. Dersom gjenforsikringsavtalen har falt i verdi, skal gjenforsikringsandelens balanseførte verdi reduseres tilsvarende. En gjenforsikringsandel har falt i verdi dersom og bare dersom det foreligger objektiv informasjon på at en tapshendelse har inntruffet og at tapshendelsen reduserer det beløp som pensjonsforetak kan forvente å motta fra gjenforsikringsforetaket.
+
+(4) Forsikringskontrakter anskaffet ved en virksomhetssammenslutning eller porteføljeovertakelse skal innregnes og måles i samsvar med første og annet ledd. Differansen mellom virkelig verdi av de overtatte kontraktsmessige forsikringsrettighetene og forsikringsforpliktelsene og beløpet etter første punktum, skal innregnes som immateriell eiendel. Den etterfølgende måling av denne eiendelen skal være i samsvar med målingen av den tilknyttede forsikringsforpliktelsen.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 17 aug 2022 nr. 1453 (i kraft 1 jan 2023), 4 juli 2023 nr. 1243, 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+### § 3-2. Risikoutjevningsfond
+
+(1) Risikoutjevningsfond skal klassifiseres som egenkapital og innregnes og måles i samsvar med forsikringsvirksomhetsloven kapittel 3 med tilhørende forskrift.
+
+(2) Det skal ikke beregnes utsatt skatt av risikoutjevningsfond.
+
+### § 3-3. Personforsikringer som ikke er livsforsikring
+
+Personforsikringer som ikke er livsforsikring, jf. finansforetaksloven § 2-13 første ledd, skal innregnes og måles i samsvar med forskrift om årsregnskap for skadeforsikringsforetak § 3-5.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (tidligere § 3-4).*
+
+### § 3-4. Finansielle instrumenter
+
+Finansielle instrumenter skal innregnes og måles i samsvar med IFRS 9 med unntak av finansielle instrumenter som ikke omfattes av standardens virkeområder, jf. IFRS 9 kapittel 2. Finansielle eiendeler som tilfredsstiller kriteriene i IFRS 9.4.1.2A, kan likevel måles til amortisert kost.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (tidligere § 3-5), forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrifter 12 feb 2021 nr. 1225 og 19 okt 2022 nr. 1766).*
+
+### § 3-5. Investeringseiendommer
+
+Investeringseiendommer skal innregnes og måles i samsvar med virkelig verdi-modellen i IAS 40.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (tidligere § 3-6).*
+
+### § 3-6. Eierbenyttet eiendom
+
+Eierbenyttet eiendom skal innregnes og måles i samsvar med verdireguleringsmodellen i IAS 16.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (tidligere § 3-7).*
+
+### § 3-7. Aksjer og andeler i datterforetak og tilknyttede foretak
+
+Aksjer og andeler i datterforetak skal i selskapsregnskapet regnskapsføres etter egenkapitalmetoden eller i samsvar med IFRS 9. Dersom et datterforetak utarbeider regnskapet etter andre prinsipper enn forsikringsforetaket, skal datterforetakets regnskap omarbeides i samsvar med de prinsipper forsikringsforetakets selskapsregnskap utarbeides etter. Kravet til omarbeidelse gjelder ikke for skadeforsikringskontrakter som regnskapsføres i samsvar med IFRS 17 i datterforetakets selskapsregnskap. Tilsvarende gjelder for aksjer og andeler i tilknyttede foretak. Dette er likevel ikke til hinder for at aksjer og andeler i datterforetak og tilknyttede foretak som kun inngår i selskapsporteføljen, vurderes etter kostmetoden i selskapsregnskapet.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (tidligere § 3-8), forskrifter 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225), 17 aug 2022 nr. 1453 (i kraft 1 jan 2023).*
+
+### § 3-8. Deltakelse i felleskontrollerte foretak
+
+Deltakelse i felleskontrollerte foretak skal i selskapsregnskapet regnskapsføres etter bruttometoden, egenkapitalmetoden eller i samsvar med IFRS 9. Dersom det felleskontrollerte foretaket utarbeider regnskapet etter andre prinsipper enn forsikringsforetaket, skal regnskapet omarbeides i samsvar med de prinsipper forsikringsforetakets selskapsregnskap utarbeides etter. Dette er likevel ikke til hinder for at deltakelse i felles kontrollert foretak som kun inngår i selskapsporteføljen, vurderes etter kostmetoden i selskapsregnskapet.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (tidligere § 3-9), forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+### § 3-9. Måling til virkelig verdi
+
+Eiendeler og forpliktelser som måles til virkelig verdi etter IFRS, skal måles i samsvar med IFRS 13.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (tidligere § 3-10).*
+
+### § 3-10. Ytelser til ansatte
+
+Ytelser til ansatte, herunder pensjonsforpliktelser, skal innregnes og måles i samsvar med IAS 19.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (tidligere § 3-11).*
+
+### § 3-11. Adgang til å fravike måle- og innregningsregler i IFRS
+
+(1) IFRS kan fravikes i samsvar med forskrift 7. februar 2022 nr. 182 om forenklet anvendelse av internasjonale regnskapsstandarder § 3-1 nr. 1 til 3 og § 3-2 nr. 1.
+
+(2) Små foretak kan på områder som ikke er særskilt regulert i dette kapitlet anvende regnskapsloven kapittel 4 og 5 istedenfor IFRS.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (tidligere § 3-12), 17 aug 2022 nr. 1453 (i kraft 1 jan 2023).*
+
+## Kapittel 4. Resultatregnskap, balanse, oppstilling av endringer i egenkapital og kontantstrømoppstilling
+
+### § 4-1. Resultatregnskap, balanse og kontantstrømoppstilling
+
+Regnskapsloven kapittel 6 gjelder ikke.
+
+### § 4-2. Oppdeling eller sammenslåing av poster
+
+(1) Hovedposter og underposter skal inndeles ytterligere når foretakets forhold tilsier det. Det er ikke anledning til å tilføye nye hovedposter eller endre rekkefølgen av hovedpostene.
+
+(2) Underposter innenfor samme hovedpost skal slås sammen hvis sammenslåingen fører til et mer oversiktlig årsregnskap, med de unntak som følger av tredje, fjerde og femte ledd.
+
+(3) Underposter i resultatregnskapet under følgende hovedposter kan ikke slås sammen: Premieinntekter (post 1), erstatninger (post 5), resultatførte endringer i forsikringsforpliktelser (post 6 og 7) og andre inntekter og kostnader (post 19).
+
+(4) Underposter i balansen som gjelder forsikringsforpliktelser, gjenforsikringsandeler og egenkapital, kan ikke slås sammen.
+
+(5) Fordringer på og forpliktelser til datterforetak, tilknyttede foretak og felleskontrollerte foretak, skal vises særskilt som underposter til den enkelte balansepost.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+### § 4-3. Kontantstrømoppstilling
+
+Kontantstrømoppstillingen skal gi en oversikt over innbetalinger og utbetalinger og forklare likviditetsendringer.
+
+### I. Oppstillingsplan
+
+#### § 4-4. Oppstillingsplan resultatregnskap
+
+Resultatregnskapet skal ha følgende oppstillingsplan:
+
+<table><tbody><tr><td colspan="4">TEKNISK REGNSKAP</td></tr><tr><td>1.</td><td colspan="3"><strong>Premieinntekter</strong></td></tr><tr><td></td><td>1.1</td><td colspan="2">Forfalte premier, brutto</td></tr><tr><td></td><td>1.2</td><td colspan="2">– Avgitte gjenforsikringspremier</td></tr><tr><td></td><td>1.3</td><td colspan="2">Overføring av premiereserve og pensjonskapital mv. fra andre forsikringsforetak/pensjonskasser</td></tr><tr><td></td><td colspan="3"><i>Sum premieinntekter for egen regning</i></td></tr><tr><td>2.</td><td colspan="3"><strong>Netto inntekter fra investeringer i kollektivporteføljen</strong></td></tr><tr><td></td><td>2.1</td><td colspan="2">Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>2.2</td><td colspan="2">Renteinntekt og utbytte mv. på finansielle eiendeler</td></tr><tr><td></td><td>2.3</td><td colspan="2">Netto driftsinntekt fra eiendom</td></tr><tr><td></td><td>2.4</td><td colspan="2">Verdiendringer på investeringer</td></tr><tr><td></td><td>2.5</td><td colspan="2">Realisert gevinst og tap på investeringer</td></tr><tr><td></td><td colspan="3"><i>Sum netto inntekter fra investeringer i kollektivporteføljen</i></td></tr><tr><td>3.</td><td colspan="3"><strong>Netto inntekter fra investeringer i investeringsvalgporteføljen</strong></td></tr><tr><td></td><td>3.1</td><td colspan="2">Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>3.2</td><td colspan="2">Renteinntekt og utbytte mv. på finansielle eiendeler</td></tr><tr><td></td><td>3.3</td><td colspan="2">Netto driftsinntekt fra eiendom</td></tr><tr><td></td><td>3.4</td><td colspan="2">Verdiendringer på investeringer</td></tr><tr><td></td><td>3.5</td><td colspan="2">Realisert gevinst og tap på investeringer</td></tr><tr><td></td><td colspan="3"><i>Sum netto inntekter fra investeringer i investeringsvalgporteføljen</i></td></tr><tr><td>4.</td><td colspan="3"><strong>Andre forsikringsrelaterte inntekter</strong></td></tr><tr><td>5.</td><td colspan="3"><strong>Erstatninger</strong></td></tr><tr><td></td><td>5.1</td><td colspan="2">Utbetalte erstatninger</td></tr><tr><td></td><td></td><td>5.1.1</td><td>Brutto</td></tr><tr><td></td><td></td><td>5.1.2</td><td>– Gjenforsikringsandel av utbetalte erstatninger</td></tr><tr><td></td><td>5.2</td><td colspan="2">Overføring av premiereserve, pensjonskapital mv. og bufferfond til andre forsikringsforetak/pensjonskasser</td></tr><tr><td></td><td colspan="3"><i>Sum erstatninger</i></td></tr><tr><td>6.</td><td colspan="3"><strong>Resultatførte endringer i forsikringsforpliktelser – kontraktsfastsatte forpliktelser</strong></td></tr><tr><td></td><td>6.1</td><td colspan="2">Endring i premiereserve mv.</td></tr><tr><td></td><td></td><td>6.1.1</td><td>Endring i premiereserve mv., brutto</td></tr><tr><td></td><td></td><td>6.1.2</td><td>– Endring i gjenforsikringsandel av premiereserve mv.</td></tr><tr><td></td><td>6.2</td><td colspan="2">Endring i bufferfond</td></tr><tr><td></td><td>6.3</td><td colspan="2">Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv.</td></tr><tr><td></td><td>6.4</td><td colspan="2">Endring i tekniske avsetninger for skadeforsikringsvirksomheten</td></tr><tr><td></td><td></td><td>6.4.1</td><td>Til (fra) tekniske avsetninger for skadeforsikringsvirksomheten</td></tr><tr><td></td><td></td><td>6.4.2</td><td>– Endring i gjenforsikringsandelen av tekniske avsetninger for skadeforsikringsvirksomheten</td></tr><tr><td></td><td>6.5</td><td colspan="2">Overføring av bufferfond fra andre forsikringsforetak/pensjonskasser</td></tr><tr><td></td><td colspan="3"><i>Sum resultatførte endringer i forsikringsforpliktelser – kontraktsfastsatte forpliktelser</i></td></tr><tr><td>7.</td><td colspan="3"><strong>Resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje</strong></td></tr><tr><td></td><td>7.1</td><td colspan="2">Endring i pensjonskapital mv.</td></tr><tr><td></td><td>7.2</td><td colspan="2">Endring i gjenforsikringsandel av pensjonskapital mv.</td></tr><tr><td></td><td>7.3</td><td colspan="2">Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv.</td></tr><tr><td></td><td>7.4</td><td colspan="2">Endring i andre avsetninger</td></tr><tr><td></td><td>7.5</td><td colspan="2">Overføring av bufferfond fra andre forsikringsforetak/pensjonskasser</td></tr><tr><td></td><td colspan="3"><i>Sum resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje</i></td></tr><tr><td>8.</td><td colspan="3"><strong>Midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser</strong></td></tr><tr><td></td><td>8.1</td><td colspan="2">Overskudd på avkastningsresultatet</td></tr><tr><td></td><td>8.2</td><td colspan="2">Risikoresultat tilordnet forsikringskontraktene</td></tr><tr><td></td><td>8.3</td><td colspan="2">Annen tilordning av overskudd</td></tr><tr><td></td><td colspan="3"><i>Sum midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser</i></td></tr><tr><td>9.</td><td colspan="3"><strong>Forsikringsrelaterte driftskostnader</strong></td></tr><tr><td></td><td>9.1</td><td colspan="2">Forvaltningskostnader</td></tr><tr><td></td><td>9.2</td><td colspan="2">Salgskostnader</td></tr><tr><td></td><td>9.3</td><td colspan="2">Endring i forskuddsbetalte direkte salgskostnader</td></tr><tr><td></td><td>9.4</td><td colspan="2">Forsikringsrelaterte administrasjonskostnader (inkl. provisjoner for mottatt gjenforsikring)</td></tr><tr><td></td><td>9.5</td><td colspan="2">– Gjenforsikringsprovisjoner og gevinstandeler</td></tr><tr><td></td><td colspan="3"><i>Sum forsikringsrelaterte driftskostnader</i></td></tr><tr><td>10.</td><td colspan="3"><strong>Andre forsikringsrelaterte kostnader</strong></td></tr><tr><td>11.</td><td colspan="3"><strong>Resultat av teknisk regnskap</strong></td></tr><tr><td colspan="4">IKKE-TEKNISK REGNSKAP</td></tr><tr><td>12.</td><td colspan="3"><strong>Netto inntekter fra investeringer i selskapsporteføljen</strong></td></tr><tr><td></td><td>12.1</td><td colspan="2">Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>12.2</td><td colspan="2">Renteinntekt og utbytte mv. på finansielle eiendeler</td></tr><tr><td></td><td>12.3</td><td colspan="2">Netto driftsinntekt fra eiendom</td></tr><tr><td></td><td>12.4</td><td colspan="2">Verdiendringer på investeringer</td></tr><tr><td></td><td>12.5</td><td colspan="2">Realisert gevinst og tap på investeringer</td></tr><tr><td></td><td colspan="3"><i>Sum netto inntekter fra investeringer i selskapsporteføljen</i></td></tr><tr><td>13.</td><td colspan="3"><strong>Andre inntekter</strong></td></tr><tr><td>14.</td><td colspan="3"><strong>Forvaltningskostnader og andre kostnader knyttet til selskapsporteføljen</strong></td></tr><tr><td></td><td>14.1</td><td colspan="2">Forvaltningskostnader</td></tr><tr><td></td><td>14.2</td><td colspan="2">Andre kostnader</td></tr><tr><td>15.</td><td colspan="3"><strong>Resultat av ikke-teknisk regnskap</strong></td></tr><tr><td>16.</td><td colspan="3"><strong>Resultat før skattekostnad</strong></td></tr><tr><td>17.</td><td colspan="3"><strong>Skattekostnader</strong></td></tr><tr><td>18.</td><td colspan="3"><strong>Resultat før andre inntekter og kostnader</strong></td></tr><tr><td>19.</td><td colspan="3"><strong>Andre inntekter og kostnader</strong></td></tr><tr><td></td><td>19.1</td><td colspan="2">Andre inntekter og kostnader som ikke blir omklassifisert til resultatet</td></tr><tr><td></td><td></td><td>19.1.1</td><td>Verdireguleringer – eiendom, anlegg og utstyr</td></tr><tr><td></td><td></td><td>19.1.2</td><td>Estimatendringer knyttet til ytelsesbaserte pensjonsordninger</td></tr><tr><td></td><td></td><td>19.1.3</td><td>Øvrige andre inntekter og kostnader</td></tr><tr><td></td><td></td><td>19.1.4</td><td>Justering av forsikringsforpliktelsene</td></tr><tr><td></td><td></td><td>19.1.5</td><td>Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet</td></tr><tr><td></td><td>19.2</td><td colspan="2">Andre inntekter og kostnader som kan bli omklassifisert til resultatet</td></tr><tr><td></td><td></td><td>19.2.1</td><td>Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>19.2.2</td><td>Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring</td></tr><tr><td></td><td></td><td>19.2.3</td><td>Øvrige andre inntekter og kostnader</td></tr><tr><td></td><td></td><td>19.2.4</td><td>Justering av forsikringsforpliktelsene</td></tr><tr><td></td><td></td><td>19.2.5</td><td>Skatt på andre inntekter og kostnader som kan bli omklassifisert</td></tr><tr><td>20.</td><td colspan="3"><strong>TOTALRESULTAT</strong></td></tr></tbody></table>
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 4-5. Oppstillingsplan balanse
+
+Balansen skal ha følgende oppstillingsplan:
+
+<table><tbody><tr><td colspan="4">EIENDELER I SELSKAPSPORTEFØLJEN</td></tr><tr><td>1.</td><td colspan="3"><strong>Immaterielle eiendeler</strong></td></tr><tr><td></td><td>1.1</td><td colspan="2">Goodwill</td></tr><tr><td></td><td>1.2</td><td colspan="2">Andre immaterielle eiendeler</td></tr><tr><td></td><td></td><td colspan="2"><i>Sum immaterielle eiendeler</i></td></tr><tr><td>2.</td><td colspan="3"><strong>Investeringer</strong></td></tr><tr><td></td><td>2.1</td><td colspan="2">Bygninger og andre faste eiendommer</td></tr><tr><td></td><td></td><td>2.1.1</td><td>Investeringseiendommer</td></tr><tr><td></td><td></td><td>2.1.2</td><td>Eierbenyttet eiendom</td></tr><tr><td></td><td>2.2</td><td colspan="2">Datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>2.2.1</td><td>Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>2.2.2</td><td>Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>2.3</td><td colspan="2">Finansielle eiendeler som måles til amortisert kost</td></tr><tr><td></td><td></td><td>2.3.1</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>2.3.2</td><td>Utlån og fordringer</td></tr><tr><td></td><td>2.4</td><td colspan="2">Finansielle eiendeler som måles til virkelig verdi</td></tr><tr><td></td><td></td><td>2.4.1</td><td>Aksjer og andeler (inkl. aksjer og andeler målt til kost)</td></tr><tr><td></td><td></td><td>2.4.2</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>2.4.3</td><td>Utlån og fordringer</td></tr><tr><td></td><td></td><td>2.4.4</td><td>Finansielle derivater</td></tr><tr><td></td><td></td><td>2.4.5</td><td>Andre finansielle eiendeler</td></tr><tr><td></td><td>2.5</td><td colspan="2">Gjenforsikringsdepoter</td></tr><tr><td></td><td colspan="3"><i>Sum investeringer</i></td></tr><tr><td>3.</td><td colspan="3"><strong>Fordringer</strong></td></tr><tr><td></td><td>3.1</td><td colspan="2">Fordringer i forbindelse med direkte forretninger</td></tr><tr><td></td><td>3.2</td><td colspan="2">Fordringer i forbindelse med gjenforsikringsforretninger</td></tr><tr><td></td><td>3.3</td><td colspan="2">Andre fordringer</td></tr><tr><td></td><td colspan="3"><i>Sum fordringer</i></td></tr><tr><td>4.</td><td colspan="3"><strong>Andre eiendeler</strong></td></tr><tr><td></td><td>4.1</td><td colspan="2">Anlegg og utstyr</td></tr><tr><td></td><td>4.2</td><td colspan="2">Kasse, bank</td></tr><tr><td></td><td>4.3</td><td colspan="2">Eiendeler ved skatt</td></tr><tr><td></td><td>4.4</td><td colspan="2">Andre eiendeler betegnet etter sin art</td></tr><tr><td></td><td colspan="3"><i>Sum andre eiendeler</i></td></tr><tr><td>5.</td><td colspan="3"><strong>Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter</strong></td></tr><tr><td></td><td>5.1</td><td colspan="2">Opptjente, ikke mottatte leieinntekter</td></tr><tr><td></td><td>5.2</td><td colspan="2">Forskuddsbetalte direkte salgskostnader</td></tr><tr><td></td><td>5.3</td><td colspan="2">Andre forskuddsbetalte kostnader og opptjente ikke mottatte inntekter</td></tr><tr><td></td><td colspan="3"><i>Sum forskuddsbetalte kostnader og opptjente ikke mottatte inntekter</i></td></tr><tr><td></td><td colspan="3"><i>Sum eiendeler i selskapsporteføljen</i></td></tr><tr><td colspan="4">EIENDELER I KUNDEPORTEFØLJENE</td></tr><tr><td>6.</td><td colspan="3"><strong>Investeringer i kollektivporteføljen</strong></td></tr><tr><td></td><td>6.1</td><td colspan="2">Bygninger og andre faste eiendommer</td></tr><tr><td></td><td></td><td>6.1.1</td><td>Investeringseiendommer</td></tr><tr><td></td><td></td><td>6.1.2</td><td>Eierbenyttet eiendom</td></tr><tr><td></td><td>6.2</td><td colspan="2">Datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>6.2.1</td><td>Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>6.2.2</td><td>Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>6.3</td><td colspan="2">Finansielle eiendeler som måles til amortisert kost</td></tr><tr><td></td><td></td><td>6.3.1</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>6.3.2</td><td>Utlån og fordringer</td></tr><tr><td></td><td>6.4</td><td colspan="2">Finansielle eiendeler som måles til virkelig verdi</td></tr><tr><td></td><td></td><td>6.4.1</td><td>Aksjer og andeler (inkl. aksjer og andeler målt til kost)</td></tr><tr><td></td><td></td><td>6.4.2</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>6.4.3</td><td>Utlån og fordringer</td></tr><tr><td></td><td></td><td>6.4.4</td><td>Finansielle derivater</td></tr><tr><td></td><td></td><td>6.4.5</td><td>Andre finansielle eiendeler</td></tr><tr><td></td><td colspan="3"><i>Sum investeringer i kollektivporteføljen</i></td></tr><tr><td>7.</td><td colspan="3"><strong>Gjenforsikringsandel av forsikringsforpliktelser i kollektivporteføljen</strong></td></tr><tr><td>8.</td><td colspan="3"><strong>Investeringer i investeringsvalgporteføljen</strong></td></tr><tr><td></td><td>8.1</td><td colspan="2">Bygninger og andre faste eiendommer</td></tr><tr><td></td><td></td><td>8.1.1</td><td>Investeringseiendommer</td></tr><tr><td></td><td></td><td>8.1.2</td><td>Eierbenyttet eiendom</td></tr><tr><td></td><td>8.2</td><td colspan="2">Datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>8.2.1</td><td>Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td></td><td>8.2.2</td><td>Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak</td></tr><tr><td></td><td>8.3</td><td colspan="2">Finansielle eiendeler som måles til amortisert kost</td></tr><tr><td></td><td></td><td>8.3.1</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>8.3.2</td><td>Utlån og fordringer</td></tr><tr><td></td><td>8.4</td><td colspan="2">Finansielle eiendeler som måles til virkelig verdi</td></tr><tr><td></td><td></td><td>8.4.1</td><td>Aksjer og andeler (inkl. aksjer og andeler målt til kost)</td></tr><tr><td></td><td></td><td>8.4.2</td><td>Rentebærende verdipapirer</td></tr><tr><td></td><td></td><td>8.4.3</td><td>Utlån og fordringer</td></tr><tr><td></td><td></td><td>8.4.4</td><td>Finansielle derivater</td></tr><tr><td></td><td></td><td>8.4.5</td><td>Andre finansielle eiendeler</td></tr><tr><td></td><td colspan="3"><i>Sum investeringer i investeringsvalgporteføljen</i></td></tr><tr><td>9.</td><td colspan="3"><strong>Gjenforsikringsandel av forsikringsforpliktelser i investeringsvalgporteføljen</strong></td></tr><tr><td></td><td colspan="3"><i>Sum eiendeler i kundeporteføljene</i></td></tr><tr><td colspan="4"><strong>SUM EIENDELER</strong></td></tr><tr><td colspan="4"><strong>EGENKAPITAL OG FORPLIKTELSER</strong></td></tr><tr><td>10.</td><td colspan="3"><strong>Innskutt egenkapital</strong></td></tr><tr><td></td><td>10.1</td><td colspan="2">Selskapskapital</td></tr><tr><td></td><td></td><td>10.1.1</td><td>Aksjekapital/eierandelskapital/garantifond</td></tr><tr><td></td><td></td><td>10.1.2</td><td>Beholdning av egne aksjer/egenkapitalbevis</td></tr><tr><td></td><td>10.2</td><td colspan="2">Overkurs</td></tr><tr><td></td><td>10.3</td><td colspan="2">Egenkapitalandel av sammensatte finansielle instrumenter og andre egenkapitalinstrumenter</td></tr><tr><td></td><td>10.4</td><td colspan="2">Annen innskutt egenkapital</td></tr><tr><td></td><td colspan="3"><i>Sum innskutt egenkapital</i></td></tr><tr><td>11.</td><td colspan="3"><strong>Opptjent egenkapital</strong></td></tr><tr><td></td><td>11.1</td><td colspan="2">Fond</td></tr><tr><td></td><td></td><td>11.1.1</td><td>Fond for vurderingsforskjeller</td></tr><tr><td></td><td></td><td>11.1.2</td><td>Fond for urealiserte gevinster</td></tr><tr><td></td><td></td><td>11.1.3</td><td>Risikoutjevningsfond</td></tr><tr><td></td><td>11.2</td><td colspan="2">Annen opptjent egenkapital</td></tr><tr><td></td><td colspan="3"><i>Sum opptjent egenkapital</i></td></tr><tr><td>12.</td><td colspan="3"><strong>Ansvarlig lånekapital mv.</strong></td></tr><tr><td></td><td>12.1</td><td colspan="2">Evigvarende ansvarlig lånekapital</td></tr><tr><td></td><td>12.2</td><td colspan="2">Ansvarlig lånekapital med tilknyttede konverteringsrettigheter</td></tr><tr><td></td><td>12.3</td><td colspan="2">Annen ansvarlig lånekapital</td></tr><tr><td></td><td>12.4</td><td colspan="2">Fondsobligasjoner</td></tr><tr><td></td><td colspan="3"><i>Sum ansvarlig lånekapital mv.</i></td></tr><tr><td>13.</td><td colspan="3"><strong>Forsikringsforpliktelser – kontraktsfastsatte forpliktelser</strong></td></tr><tr><td></td><td>13.1</td><td colspan="2">Premiereserve mv.</td></tr><tr><td></td><td>13.2</td><td colspan="2">Bufferfond</td></tr><tr><td></td><td>13.3</td><td colspan="2">Premiefond, innskuddsfond og fond for regulering av pensjoner mv.</td></tr><tr><td></td><td>13.4</td><td colspan="2">Andre tekniske avsetninger for skadeforsikringsvirksomheten</td></tr><tr><td></td><td colspan="3"><i>Sum forsikringsforpliktelser – kontraktsfastsatte forpliktelser</i></td></tr><tr><td>14.</td><td colspan="3"><strong>Forsikringsforpliktelser – særskilt investeringsportefølje</strong></td></tr><tr><td></td><td>14.1</td><td colspan="2">Pensjonskapital mv.</td></tr><tr><td></td><td>14.2</td><td colspan="2">Bufferfond</td></tr><tr><td></td><td>14.3</td><td colspan="2">Premiefond, innskuddsfond og fond for regulering av pensjoner mv.</td></tr><tr><td></td><td colspan="3"><i>Sum forsikringsforpliktelser – særskilt investeringsportefølje</i></td></tr><tr><td>15.</td><td colspan="3"><strong>Avsetninger for forpliktelser</strong></td></tr><tr><td></td><td>15.1</td><td colspan="2">Pensjonsforpliktelser o.l.</td></tr><tr><td></td><td>15.2</td><td colspan="2">Forpliktelser ved skatt</td></tr><tr><td></td><td></td><td>15.2.1</td><td>Forpliktelser ved periodeskatt</td></tr><tr><td></td><td></td><td>15.2.2</td><td>Forpliktelser ved utsatt skatt</td></tr><tr><td></td><td>15.3</td><td colspan="2">Andre avsetninger for forpliktelser</td></tr><tr><td></td><td colspan="3"><i>Sum avsetninger for forpliktelser</i></td></tr><tr><td>16.</td><td colspan="3"><strong>Premiedepot fra gjenforsikringsforetak</strong></td></tr><tr><td>17.</td><td colspan="3"><strong>Forpliktelser</strong></td></tr><tr><td></td><td>17.1</td><td colspan="2">Forpliktelser i forbindelse med direkte forsikring</td></tr><tr><td></td><td>17.2</td><td colspan="2">Forpliktelser i forbindelse med gjenforsikring</td></tr><tr><td></td><td>17.3</td><td colspan="2">Forpliktelser til kredittinstitusjoner</td></tr><tr><td></td><td>17.4</td><td colspan="2">Finansielle derivater</td></tr><tr><td></td><td>17.5</td><td colspan="2">Andre forpliktelser</td></tr><tr><td></td><td colspan="3"><i>Sum forpliktelser</i></td></tr><tr><td>18.</td><td colspan="3"><strong>Påløpte kostnader og mottatte ikke opptjente inntekter</strong></td></tr><tr><td></td><td>18.1</td><td colspan="2">Mottatte, ikke opptjente leieinntekter</td></tr><tr><td></td><td>18.2</td><td colspan="2">Andre påløpte kostnader og mottatte, ikke opptjente inntekter</td></tr><tr><td></td><td colspan="3"><i>Sum påløpte kostnader og mottatte, ikke opptjente inntekter</i></td></tr><tr><td colspan="4"><strong>SUM EGENKAPITAL OG FORPLIKTELSER</strong></td></tr><tr><td colspan="4"><strong>POSTER UTENOM BALANSEN</strong></td></tr><tr><td>19.</td><td colspan="3"><strong>Betingede forpliktelser</strong></td></tr><tr><td>20.</td><td colspan="3"><strong>Forpliktelser</strong></td></tr></tbody></table>
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 4-6. Oppstilling av endringer i egenkapital
+
+Det skal presenteres en oppstilling av endringer i egenkapital som viser:
+
+- a. totalresultat for perioden (resultatpost 20), som viser separat de samlede beløp som kan henføres til morselskapets eiere og til minoritetsinteresser,
+
+- b. for hver post under egenkapitalen, virkningene av endringer i regnskapsprinsipper og korreksjoner av feil innregnet i samsvar med IAS 8,
+
+- c. for hver bestanddel av egenkapitalen, en avstemming mellom den balanseførte verdien i begynnelsen og slutten av perioden, med separate opplysninger om endringer som følger av
+
+  - i. resultat før andre inntekter og kostnader (resultatpost 18)
+  - ii. andre inntekter og kostnader (resultatpost 19) spesifisert på de enkelte underposter (resultatpost 19.1–19.1.5 og 19.2–19.2.5)
+  - iii. transaksjoner med eiere i deres egenskap av eiere, med separat visning av bidrag fra og utdelinger til eiere.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+#### § 4-7. Konsernregnskapets oppstillingsplan
+
+1\) Konsernregnskapet for livs- og skadeforsikringskonsern skal settes opp som følger:
+
+- a. Resultatregnskapet settes opp i henhold til § 4-4 og forskrift om årsregnskap for skadeforsikringsforetak § 4-4, slik at teknisk regnskap for henholdsvis livsforsikring og skadeforsikring fremkommer hver for seg. I ikke-teknisk regnskap kan poster med samme innhold slås sammen.
+- b. Balansen settes opp i henhold til § 4-5 og forskrift om årsregnskap for skadeforsikringsforetak § 4-5. Underposter underlagt ulike vurderingsregler kan ikke slås sammen, men skal spesifiseres på separate underposter eller hovedposter.
+
+(2) Dersom aksjer eller andeler i et datterforetak eies av andre enn de konsoliderte foretakene, skal deres andel av egenkapitalen og årets resultat oppføres som minoritetsinteresser. Minoritetsinteresser oppføres under egenkapital i balansen, og som fradrag i årsresultatet i resultatregnskapet.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+### II. Resultatregnskap
+
+#### § 4-8. Premieinntekter – resultatpost 1
+
+1\) «Forfalte premier, brutto» omfatter alle beløp som i regnskapsperioden er forfalt på direkte tegnede forsikringsavtaler og overtatte gjenforsikringsavtaler, uavhengig av om disse helt eller delvis vedrører senere regnskapsår, herunder bl.a.
+
+- a. ennå ikke utfakturert premie når premien først kan beregnes ved årets utgang,
+- b. engangspremier,
+- c. tillegg til premier ved terminbetalinger,
+- d. forsikringsforetakets andel av samlet premie ved koassuransevirksomhet, og
+- e. gjenforsikringspremier fra avgivende forsikringsforetak og gjenforsikringsforetak, etter fradrag av tilbakebetaling eller godskriving av tidligere betalt premie.
+
+(2) «Avgitte gjenforsikringspremier» omfatter alle beløp som i regnskapsperioden er forfalt for gjenforsikringsavtaler som forsikringsforetaket har inngått frem til balansedagen.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 4-9. Flytting av livsforsikringskontrakter – resultatpostene 1.3, 5.2, 6.5 og 7.5
+
+(1) Resultatpost 1.3 «Overføring av premiereserve og pensjonskapital mv. fra andre forsikringsforetak/pensjonskasser» omfatter bare den del av de overførte midler som er knyttet til forsikringskontrakten som skal inngå i premiereserven til sikring av forpliktelsene i den nye kontrakten. Overskytende bufferfond føres under resultatpostene 6.5 og 7.5.
+
+(2) Resultatpost 5.2 «Overføring av premiereserve, pensjonskapital mv. og bufferfond til andre forsikringsforetak/pensjonskasser» omfatter alle midler som er knyttet til forsikringskontrakten ved opphør.
+
+(3) Livsforsikringskontrakter som flyttes med risikoovergang ved årsskiftet, skal resultatføres i det påfølgende regnskapsår. Oppgjørstidspunktet er ikke av betydning for regnskapsføringstidspunktet. I den grad det ikke foreligger fullstendig dokumentasjon for beregning av flyttebeløp, må flyttebeløpets størrelse estimeres.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 4-10. Erstatninger – resultatpost 5
+
+Utbetalte erstatninger (brutto) omfatter alle erstatningsbeløp som på grunnlag av forsikringsavtalene i regnskapsperioden er betalt til forsikringstakerne eller andre berettigede etter forsikringsavtalene.
+
+#### § 4-11. Midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser – resultatpost 8
+
+(1) «Midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser» omfatter alle beløp som i årsregnskapet skal tilføres forsikringskontraktene eller de berettigede etter forsikringsavtalene av det som er opptjent i regnskapsperioden, jf. forsikringsvirksomhetsloven kapittel 3 med tilhørende forskrift. Resultatpost 8 omfatter likevel ikke beløp som skal føres som justering av forsikringsforpliktelsene i resultatpost 19.1.4 og 19.2.4.
+
+(2) Med overskudd på avkastningsresultatet (post 8.1) menes tilordning av avkastning i samsvar med forsikringsvirksomhetsloven § 3-13 første og annet ledd, § 3-16 (jf. § 4-2 i forskrift til loven) og § 3-18. Resultatpost 8.1 omfatter likevel ikke beløp som skal føres som justering av forsikringsforpliktelsene i resultatpost 19.1.4 og 19.2.4.
+
+(3) Med risikoresultat tilordnet forsikringskontraktene (resultatpost 8.2) menes overskudd på risikoresultatet fratrukket eventuelle avsetninger til risikoutjevningsfond, jf. lovens § 3-14 og § 3-18. Posten omfatter ikke risikoresultat på kontrakter med garanterte renter og investeringsvalg.
+
+(4) Med annen tilordning av overskudd (resultatpost 8.3) menes tilordning til eksisterende portefølje av individuelle livsforsikringskontrakter (jf. § 7-1 i forskrift til loven). Resultatpost 8.3 omfatter likevel ikke beløp som skal føres som justering av forsikringsforpliktelsene i resultatpost 19.1.4 og 19.2.4.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+#### § 4-12. Forsikringsrelaterte driftskostnader – resultatpost 9
+
+(1) «Salgskostnader» omfatter direkte og indirekte kostnader som følger av salgsaktivitet ved inngåelse og fornyelse av forsikringsavtaler. Salgskostnadene omfatter direkte henførbare kostnader som lønn og drift av salgskorpset, indirekte kostnader knyttet til markedsføring, og administrasjonskostnader i forbindelse med kjøp av forsikring og utstedelse av forsikringsavtale.
+
+(2) Direkte variable salgskostnader kan balanseføres når de er vesentlige for foretaket.
+
+Kostnadsføring skal skje i takt med inntektsføring av premien, men minst med en femtedel årlig.
+
+(3) «Forsikringsrelaterte administrasjonskostnader» omfatter alle øvrige forsikringsrelaterte driftskostnader som ikke kan henføres til «Salgskostnader» eller til «Forvaltningskostnader», jf. resultatpost 9.1.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 4-13. Andre inntekter og kostnader – resultatpost 19
+
+(1) Andre inntekter og kostnader omfatter inntekts- og kostnadsposter som ikke blir innregnet i resultatet i henhold til IFRS, jf. IAS 1.7.
+
+(2) Resultatpost 19.1 omfatter andre inntekter og kostnader som etter IFRS ikke vil bli omklassifisert til resultatet, jf. IAS 1.82A litra a). Resultatpost 19.1.2 omfatter estimatendringer knyttet til ytelsesbaserte pensjonsordninger, jf. IAS 19.120 litra c).
+
+(3) Resultatpost 19.2 omfatter andre inntekter og kostnader som etter IFRS senere vil bli omklassifisert til resultatet når særlige vilkår er oppfylt, jf. IAS 1.82A litra b). Resultatpost 19.2.1 omfatter verdiendringer på renteinstrumenter som regnskapsføres etter IFRS 9.4.1.2A.
+
+*Endret ved forskrifter 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+### III. Balanse
+
+*Endret ved forskrift 4 juli 2023 nr. 1243.*
+
+#### § 4-14. Gjenforsikringsdepoter – balansepost 2.5
+
+(1) I balansen til et foretak som mottar gjenforsikring, skal posten «Gjenforsikringsdepot» omfatte de fordringer på avgivende foretak som svarer til den sikkerhet som er deponert hos disse eller hos tredjemann, eller som disse selskap har holdt tilbake.
+
+(2) Disse fordringer kan ikke slås sammen med andre fordringer gjenforsikrer har på avgivende forsikringsforetak, eller motregnes i gjenforsikrers gjeld til det avgivende forsikringsforetak.
+
+(3) Verdipapirer som er deponert hos et avgivende foretak eller hos tredjemann og som forblir gjenforsikringsforetakets eiendom, skal bokføres av sistnevnte foretak som eiendeler under den relevante post.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 4-15. Beholdning av egne aksjer/egenkapitalbevis – balansepost 10.1.2
+
+Egne aksjer/egenkapitalbevis føres til pålydende verdi.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 4-16. Risikoutjevningsfond – balansepost 11.1.3
+
+Risikoutjevningsfond forstås på samme måte som tilsvarende begrep i lov 10. juni 2005 nr. 44 om forsikringsvirksomhet (forsikringsvirksomhetsloven) og forskrift 30. juni 2006 nr. 869 til forsikringsvirksomhetsloven (livsforsikring mv.).
+
+#### § 4-17. Forsikringsforpliktelser – kontraktsfastsatte forpliktelser – balansepost 13
+
+(1) Premiereserve, bufferfond, premiefond, innskuddsfond og andre tekniske avsetninger for skadeforsikringsvirksomheten, forstås i denne forskriften på samme måte som tilsvarende begreper i forsikringsvirksomhetsloven og forskrift 30. juni 2006 nr. 869 til forsikringsvirksomhetsloven (livsforsikring mv.). Pensjonistenes overskuddsfond forstås på samme måte som tilsvarende begrep i lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven). Pensjonskapital forstås på samme måte som tilsvarende begrep i lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven). Pensjonsbeholdning, pensjonsreguleringsfond og reguleringsfond forstås på samme måte som tilsvarende begreper i lov 13. desember 2013 nr. 106 om tjenestepensjon (tjenestepensjonsloven). Innbetalinger til premiefond og innskuddsfond føres direkte i balansen.
+
+(2) Post 13.1 Premiereserve mv. omfatter premiereserve, pensjonskapital (eksklusive bufferfond) og pensjonsbeholdning for kontraktsfastsatte forpliktelser og forpliktelser med garantert rente, og som ikke er knyttet til særskilt investeringsportefølje.
+
+(3) Post 13.3 Premiefond, innskuddsfond og fond for regulering av pensjoner mv. omfatter premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 4-18. Forsikringsforpliktelser – særskilt investeringsportefølje – balansepost 14
+
+(1) Premiereserve, bufferfond samt premiefond og innskuddsfond, forstås i denne forskriften på samme måte som tilsvarende begreper i forsikringsvirksomhetsloven og forskrift 30. juni 2006 nr. 869 til forsikringsvirksomhetsloven (livsforsikring mv.). Pensjonistenes overskuddsfond forstås på samme måte som tilsvarende begrep i foretaksloven. Pensjonskapital forstås på samme måte som tilsvarende begrep i innskuddspensjonsloven. Pensjonsbeholdning, pensjonsreguleringsfond og reguleringsfond forstås på samme måte som tilsvarende begreper i tjenestepensjonsloven. Innbetalinger til premiefond og innskuddsfond føres direkte i balansen.
+
+(2) Post 14.1 Premiereserve mv. omfatter premiereserve, pensjonskapital (eksklusive bufferfond) og pensjonsbeholdning for forpliktelser knyttet til særskilt investeringsportefølje.
+
+(3) Post 14.3 Premiefond, innskuddsfond og fond for regulering av pensjoner mv. omfatter premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond, reguleringsfond og bufferavsetning.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 4-19. Avsetninger for forpliktelser – balansepost 15.3
+
+Posten omfatter avsetninger for forpliktelser som på balansedagen anses å være sannsynlige eller sikre, men hvor det foreligger en usikkerhet med hensyn på beløpets størrelse eller forfallstidspunkt.
+
+#### § 4-20. Premiedepot fra gjenforsikringsforetak – balansepost 16
+
+(1) «Premiedepot fra gjenforsikringsforetak» i et avgivende forsikringsforetaks balanse skal omfatte beløp som er deponert av eller holdt tilbake fra andre forsikringsforetak i henhold til gjenforsikringsavtaler.
+
+(2) Beløp som angitt i første ledd kan ikke motregnes i gjeld til eller fordringer på andre berørte foretak.
+
+(3) Dersom det avgivende forsikringsforetak har mottatt verdipapirer til deponering og fått overdratt eiendomsretten, skal denne post omfatte det beløp det avgivende foretak skal utbetale i henhold til deponeringen.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+### IV. Utenom balansen
+
+#### § 4-21. Forvaltning av eiendeler
+
+Eiendeler som forvaltes i tredjemanns navn og på vegne av tredjemann, skal ikke føres opp i balansen.
+
+#### § 4-22. Betingede forpliktelser utenom balansen
+
+Alle garantier som foretaket har avgitt og eiendeler som er stilt som sikkerhet på vegne av tredjemann, skal føres under denne posten.
+
+*Endret ved forskrift 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016).*
+
+#### § 4-23. Forpliktelser utenom balansen
+
+(1) Ugjenkallelige forpliktelser som vil kunne føre til fremtidige kostnader eller tap, inngår i denne posten.
+
+(2) Dersom foretaket har avhendet eiendeler hvor erverver har rett, men ikke plikt, til å tilbakeføre de overdratte eiendeler til foretaket til et fastsatt beløp og på fastsatt tidspunkt, skal den avtalte pris i tilfelle gjenkjøp føres opp under denne posten.
+
+(3) Forpliktelser som skal oppføres utenom balansen, omfatter ikke forpliktelser som er knyttet til forsikringsvirksomhet.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+## Kapittel 5. Noteopplysninger
+
+### I. Innledende bestemmelser
+
+#### § 5-1. Generelle bestemmelser
+
+(1) Krav til noteopplysninger etter regnskapsloven kapittel 7 og IFRS kan fravikes hvis ikke annet følger av bestemmelsene i dette kapitlet. På områder som ikke er særskilt regulert i dette kapitlet, skal det ved fravikelse fra IFRS gis opplysninger i henhold til krav etter god regnskapsskikk så langt det er relevant, enten standardene er endelige eller foreløpige.
+
+(2) Det skal gis opplysninger om hvilke forenklinger fra IFRS etter denne forskriften § 3-11 som er benyttet.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 5-2. Alminnelig opplysningsplikt
+
+(1) I noter til årsregnskapet skal det gis opplysninger som nevnt i dette kapitlet. I tillegg skal det gis opplysninger som er nødvendige for å bedømme den regnskapspliktiges eller konsernets stilling og resultat og som ikke framgår av årsregnskapet for øvrig.
+
+(2) Opplysninger kan utelates når de ikke er av betydning for å bedømme den regnskapspliktiges eller konsernets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i § 5-45, § 5-51 og § 5-54.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 4 juli 2023 nr. 1243.*
+
+#### § 5-3. Rettvisende bilde
+
+(1) Hvis anvendelsen av bestemmelsene i regnskapsloven og denne forskriften ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i regnskapsloven § 3-2a første ledd, skal det gis tilleggsopplysninger.
+
+(2) Dersom foretaket er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.
+
+(3) Ethvert fravik som nevnt i § 2-2 og regnskapsloven § 3-2a annet ledd skal angis.
+
+Regnskapsloven § 7-1 sjette ledd annet punktum gjelder tilsvarende.
+
+*Endret ved forskrift 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016).*
+
+#### § 5-4. Opplysninger om regnskapsprinsipper mv.
+
+(1) Det skal gis opplysninger om viktige regnskapsprinsipper og viktige kilder til estimeringsusikkerhet i samsvar med IAS 1.117-133. Endringer i hvilke prinsipper som anvendes skal begrunnes.
+
+(2) Det skal opplyses om datterforetak anvender andre regnskapsprinsipper enn de som anvendes i morselskapets selskapsregnskap.
+
+(3) Kontinuitet ved regnskapsføring av fusjon skal opplyses og begrunnes.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 5-5. Virkning av endring av regnskapsprinsipp mv.
+
+Det skal opplyses om virkning av endring av regnskapsprinsipp. Dersom sammenligningstall ikke er omarbeidet, skal virkningen av endringen opplyses i note. Det skal opplyses om vesentlige feil i tidligere årsregnskap som er ført mot egenkapitalen.
+
+#### § 5-6. Opplysninger om virkelig verdi
+
+(1) Store livsforsikringsforetak skal gi opplysninger om virkelig verdi i samsvar med IFRS 13.
+
+(2) Små livsforsikringsforetak skal for eiendeler og forpliktelser som måles til virkelig verdi:
+
+- a. opplyse om de verdsettingsmetodene og inndata som ble benyttet,
+- b. opplyse om det nivået innenfor hierarkiet for virkelig verdi der målingene av virkelig verdi i sin helhet er kategorisert,
+- c. der målingene av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som ble benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 1 nov 2024 nr. 2610.*
+
+### II. Forsikringskontrakter
+
+#### § 5-7. (Opphevet)
+
+*Endret ved forskrift 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), opphevet ved forskrift 17 aug 2022 nr. 1453 (i kraft 1 jan 2023).*
+
+#### § 5-8. Virkningen av endring i forutsetninger
+
+Det skal opplyses om virkningen av endringer i forutsetninger for forsikringsteknisk beregningsgrunnlag som er brukt ved måling av forsikringsforpliktelser, med separat angivelse av virkningen av endringer som har vesentlig innvirkning på årsregnskapet.
+
+Tilsvarende gjelder for endring av måling av gjenforsikringsandelen.
+
+*Endret ved forskrift 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016).*
+
+#### § 5-9. Endringer i forsikringsforpliktelser
+
+(1) Endringer i forsikringsforpliktelser i perioden til dekning av foretakets forpliktelser under kontrakter med kontraktsfastsatte forpliktelser skal, for hver balansepost i 13, vise:
+
+- 1\. *Inngående balanse*
+
+- 2\. *Resultatførte endringer i forsikringsforpliktelser*
+
+- 2.1 Netto resultatførte avsetninger (resultatpost 6 samt del av resultatpost 5.2.1)
+
+- 2.2 Overskudd på avkastningsresultatet (resultatpost 8.1)
+
+- 2.3 Risikoresultat tilordnet forsikringskontraktene (resultatpost 8.2)
+
+- 2.4 Annen tilordning av overskudd (resultatpost 8.3)
+
+- 2.5 Justering av forsikringsforpliktelsene fra andre inntekter og kostnader (del av resultatpost 19.1.4 og 19.2.4)
+
+  *Sum resultatførte endringer i forsikringsforpliktelser*
+
+- 3\. *Ikke resultatførte endringer i forsikringsforpliktelser*
+
+- 3.1 Overføringer mellom fond
+
+- 3.2 Overføringer til/fra foretaket
+
+  *Sum ikke resultatførte endringer i forsikringsforpliktelser*
+
+- 4\. *Utgående balanse*
+
+(2) Endringer i forsikringsforpliktelser i perioden til dekning av foretakets forpliktelser knyttet til verdien av særskilt investeringsportefølje skal, for hver balansepost i 14, vise:
+
+- 1\. *Inngående balanse*
+
+- 2\. *Resultatførte endringer i forsikringsforpliktelser*
+
+- 2.1 Netto resultatførte avsetninger (del av resultatpost 7 samt del av resultatpost 5.2.1)
+
+- 2.2 Avkastningsresultat tilordnet kontrakter med garanterte ytelser (del av resultatpost 7)
+
+- 2.3 Risikoresultat tilordnet forsikringskontraktene (del av resultatpost 7)
+
+- 2.4 Justering av forsikringsforpliktelsene fra andre inntekter og kostnader (del av resultatpost 19.1.4 og 19.2.4)
+
+  *Sum resultatførte endringer i forsikringsforpliktelser*
+
+- 3\. *Ikke resultatførte endringer i forsikringsforpliktelser*
+
+- 3.1 Overføringer mellom fond
+
+- 3.2 Overføringer til/fra foretaket
+
+  *Sum ikke resultatførte endringer i forsikringsforpliktelser*
+
+- 4\. *Utgående balanse*
+
+(3) Foretak som tilbyr foretakspensjonsordninger med flerårig avkastningsgaranti i henhold til kapittel 6 i forskrift til forsikringsvirksomhetsloven, skal spesifisere dette særskilt i annet ledd.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+#### § 5-10. Forsikringsforpliktelser
+
+Premiereserve, pensjonskapital, pensjonsbeholdning, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, reguleringsfond, pensjonsreguleringsfond, og andre tekniske avsetninger for skadeforsikringsvirksomheten, skal spesifiseres på de hovedbransjer og delbransjer som er angitt i § 5-11 første ledd.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 5-11. Spesifikasjon av resultatposter på bransjer
+
+*Bransjer*
+
+(1) Foretaket skal gi opplysningene i annet til sjette ledd fordelt på hovedbransjer (a) og opplysningene i annet og tredje ledd fordelt på delbransjer (b).
+
+- a. *Hovedbransjer*:
+
+  - Individuell kapitalforsikring
+  - Individuell rente- og pensjonsforsikring
+  - Kollektiv rente- og pensjonsforsikring, herunder kollektiv rente- og pensjonsforsikring for foreningsmedlemmer
+  - Kollektiv pensjonsforsikring for kommuner, herunder institusjoner med lignende pensjonsplaner
+  - Gruppelivsforsikring
+  - Ulykkesforsikring og andre skadebransjer.
+
+- b. *Delbransjer*
+
+  De individuelle hovedbransjene skal fordeles på:
+
+  - Overskuddsmodell etter forsikringsvirksomhetsloven § 3-13 og § 3-14
+  - Modifisert overskuddsmodell etter forsikringsvirksomhetsloven § 3-16
+  - Overskuddsmodell etter tidligere gjeldende regler i lov 10. juni 1988 nr. 39 om forsikringsvirksomhet § 8-1 med tilhørende forskrifter
+  - Kontrakter uten rett til andel av overskudd
+  - Investeringsvalg.
+
+  De kollektive pensjonsforsikringsbransjene skal fordeles på:
+
+  - Foretakspensjonsordninger uten investeringsvalg
+  - Foretakspensjonsordninger med investeringsvalg
+  - Fripoliser uten investeringsvalg
+  - Fripoliser med investeringsvalg
+  - Foretakspensjonsordninger uten rett til andel av overskudd
+  - Tjenestepensjonsordninger uten investeringsvalg
+  - Tjenestepensjonsordninger med investeringsvalg
+  - Pensjonsbevis uten investeringsvalg
+  - Pensjonsbevis med investeringsvalg
+  - Tjenestepensjonsordninger uten rett til andel av overskudd
+  - Innskuddspensjonsordninger uten investeringsvalg
+  - Innskuddspensjonsordninger med investeringsvalg
+  - Pensjonskapitalbevis uten investeringsvalg
+  - Pensjonskapitalbevis med investeringsvalg.
+
+*Resultat på hovedbransjer og delbransjer*
+
+(2) Det tekniske regnskapet skal angis med hovedpostene i oppstillingen av resultatregnskapet i § 4-4.
+
+*Resultatanalyse på hovedbransjer og delbransjer – fordeling mellom kunde og eier*
+
+(3) Foretaket skal redegjøre for:
+
+- Avkastningsresultat
+- Risikoresultat (forsikringsteknisk resultat), ekskl. fortjenesteelement
+- Administrasjonsresultat
+- Fortjenesteelement for risiko
+- Vederlag for rentegaranti.
+
+*Erstatninger*
+
+(4) Foretaket skal gi opplysninger om hvordan post 5.1 «Utbetalte erstatninger» fordeler seg på erstatninger i henhold til forsikringsavtalene og gjenkjøp.
+
+*Flytting*
+
+(5) Det skal gis opplysninger om beløp for både mottatt og avgitt premiereserve, pensjonskapital, pensjonsbeholdning, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, reguleringsfond og pensjonsreguleringsfond. Det skal også opplyses om hvor mange kunder/kontrakter tilgangen og avgangen fordeler seg på.
+
+*Nytegning*
+
+(6) Det skal gis opplysninger om omfanget av nytegningen i de siste to år.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+#### § 5-12. Fordeling av inntekter på geografiske områder
+
+Det skal gis opplysninger om samlede forfalte premieinntekter fra direkte forsikring som er inngått i Norge, i andre land omfattet av EØS-avtalen, samt i øvrige land. Slike opplysninger kan unnlates dersom bruttopremien utgjør mindre enn 5 prosent av totale brutto premieinntekter.
+
+#### § 5-13. Kapitalavkastning
+
+(1) Det skal gis opplysninger om kapitalavkastningsrente. Kapitalavkastningsrenten skal oppgis for hele kollektivporteføljen under ett og for de enkelte underporteføljer i kollektivporteføljen.
+
+(2) Opplysninger om kapitalavkastningsrente skal gis for de fem siste årene.
+
+(3) Finanstilsynet kan fastsette regler for beregning av kapitalavkastningsrente.
+
+(4) Det skal gis opplysninger om kapitalavkastningsrente for selskapsporteføljen i henhold til regler for beregning av kapitalavkastningsrente så langt de passer.
+
+### III. Finansielle instrumenter
+
+#### § 5-14. Opplysninger om finansielle instrumenter
+
+(1) Store livsforsikringsforetak skal gi opplysninger om finansielle instrumenter i samsvar med IFRS 7, § 5-6 og § 5-30 til § 5-37.
+
+(2) Små livsforsikringsforetak skal gi opplysninger om finansielle instrumenter i samsvar med § 5-6 og § 5-15 til § 5-37.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225), 1 nov 2024 nr. 2610.*
+
+#### § 5-15. Finansielle instrumenters betydning for finansiell stilling og inntjening
+
+Det skal gis opplysninger som setter brukere av årsregnskapet i stand til å evaluere finansielle instrumenters betydning for foretakets finansielle stilling og inntjening.
+
+*Endret ved forskrift 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016).*
+
+#### § 5-16. Kategorier av finansielle eiendeler og finansielle forpliktelser
+
+(1) Det skal gis opplysninger om den balanseførte verdien av hver av følgende kategorier som definert i IFRS 9:
+
+- a. finansielle eiendeler til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle eiendelene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,
+- b. finansielle forpliktelser til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle forpliktelsene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,
+- c. finansielle eiendeler målt til amortisert kost,
+- d. finansielle forpliktelser målt til amortisert kost, og
+- e. finansielle eiendeler målt til virkelig verdi over andre inntekter og kostnader, spesifisert på (i) gjeldsinstrumenter og egenkapitalinstrumenter.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+#### § 5-17. Finansielle eiendeler eller finansielle forpliktelser til virkelig verdi over resultatet
+
+(1) Dersom foretaket har øremerket et utlån eller en fordring (eller en gruppe av utlån eller fordringer) til virkelig verdi over resultatet, skal det gis opplysninger i samsvar med IFRS 7.9 og 7.11.
+
+(2) Dersom foretaket har øremerket en finansiell forpliktelse til virkelig verdi over resultatet, skal det gis opplysninger i samsvar med IFRS 7.10, 7.10A og 7.11.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+#### § 5-18. Investeringer i egenkapitalinstrumenter øremerket til virkelig verdi over andre inntekter og kostnader
+
+(1) Dersom foretaket har øremerket investeringer i egenkapitalinstrumenter til virkelig verdi over andre inntekter og kostnader, skal det gis opplysninger i samsvar med IFRS 7.11A.
+
+(2) Dersom foretaket har fraregnet investeringer i egenkapitalinstrumenter til virkelig verdi over andre inntekter og kostnader i løpet av regnskapsåret, skal det gis opplysninger i samsvar med IFRS 7.11B.
+
+*Tilføyd ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+#### § 5-19. Omklassifisering
+
+(1) Dersom foretaket har omklassifisert en finansiell eiendel, skal det gis opplysninger i samsvar med IFRS 7.12B–12D.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-18).*
+
+#### § 5-20. Motregning av finansielle eiendeler og forpliktelser
+
+Det skal gis opplysninger i samsvar med IFRS 7.13B-13F for alle innregnede finansielle instrumenter som motregnes i samsvar med IAS 32.42. IFRS 7.13B–13F gjelder også for innregnede finansielle instrumenter som er gjenstand for en håndhevbar generell avregningsordning eller lignende avtale, uansett om de motregnes i samsvar med IAS 32.42.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-19).*
+
+#### § 5-21. Sikkerhetsstillelse egne forpliktelser
+
+Det skal opplyses om den balanseførte verdien av finansielle eiendeler som foretaket har stilt som sikkerhet for forpliktelser eller betingede forpliktelser. Det skal videre opplyses om vilkår og betingelser knyttet til foretakets sikkerhetsstillelse.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-20).*
+
+#### § 5-22. Sikkerhetsstillelse for utlån og andre eiendeler
+
+Når foretaket har akseptert en sikkerhetsstillelse for eiendeler, som det kan selge eller stille som sikkerhet på nytt, skal det opplyses om
+
+- a. den virkelige verdien av sikkerhetsstillelsen,
+- b. den virkelige verdien av sikkerhet som er solgt eller stilt som sikkerhet på nytt, samt om foretaket har en plikt til å returnere den, og
+- c. vilkår og betingelser knyttet til foretakets bruk av sikkerhetsstillelsen.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-21).*
+
+#### § 5-23. Avsetning for kredittap
+
+(1) Det skal opplyses om nedskrivninger for kredittap på finansielle eiendeler som er gjeldsinstrumenter og som er klassifisert til virkelig verdi over andre inntekter og kostnader, jf. IFRS 7.16A.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-22).*
+
+#### § 5-24. Sammensatte finansielle instrumenter med flere innebygde derivater
+
+Dersom foretaket har utstedt et instrument som inneholder både en forpliktelsesdel og en egenkapitaldel (se IAS 32.28), og instrumentet har flere innebygde derivater hvis verdier er innbyrdes avhengige, skal foretaket opplyse om dette.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, som endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-23).*
+
+#### § 5-25. Mislighold og manglende oppfyllelse
+
+For innlån innregnet ved slutten av regnskapsåret skal foretaket opplyse om eventuelle mislighold og manglende oppfyllelse i samsvar med IFRS 7.18 og 7.19.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, som endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-24).*
+
+#### § 5-26. Sikringsbokføring
+
+Ved sikringsbokføring skal foretaket gi opplysninger i samsvar med IFRS 7.21A–24G.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-25).*
+
+#### § 5-27. Virkelig verdi av finansielle instrumenter målt til amortisert kost
+
+Det skal gis opplysninger om virkelig verdi for balansepost 2.3.1, 2.3.2, 6.3.1, 6.3.2, 8.3.1 og 8.3.2. Opplysninger om virkelig verdi kreves likevel ikke når den balanseførte verdien er en rimelig tilnærming til virkelig verdi.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-26).*
+
+#### § 5-28. Art og omfang av risiko som oppstår av finansielle instrumenter
+
+(1) Det skal gis opplysninger som gjør det mulig for brukere av årsregnskapet å vurdere arten og omfanget av risiko som oppstår av finansielle instrumenter, og som foretaket er eksponert for ved slutten av regnskapsåret. Opplysningene skal minst dekke kredittrisiko, likviditetsrisiko og markedsrisiko.
+
+(2) For hver type risiko knyttet til finansielle instrumenter skal det opplyses om; a) risikoeksponeringer, b) prinsipper og prosesser for håndtering av risiko, c) metoder for måling av risiko og d) eventuelle endringer av bokstav a), b) eller c) fra forrige periode.
+
+(3) For hver type av risiko som oppstår av finansielle instrumenter skal det gis et sammendrag av kvantitative data om eksponering for denne risikoen ved slutten av regnskapsåret. Disse opplysningene skal være basert på den informasjonen som gis internt til nøkkelpersoner i foretakets ledelse.
+
+(4) For hver type av risiko som oppstår av finansielle instrumenter skal det gis opplysninger som kreves av sjette til niende ledd i det omfang dette ikke fremgår av tredje ledd.
+
+(5) Det skal videre gis opplysninger om andre konsentrasjoner av risiko der dette ikke fremgår av tredje og fjerde ledd.
+
+(6) Dersom de kvantitative dataene det opplyses om ved slutten av regnskapsåret ikke er representative for risiko i løpet av perioden, skal foretaket legge frem ytterligere informasjon som er representativ.
+
+*Kredittrisiko*
+
+(7) Det skal gis opplysninger om kredittrisiko i samsvar med IFRS 7.35A–38.
+
+*Likviditetsrisiko*
+
+(8) Det skal presenteres en forfallsanalyse av finansielle forpliktelser som viser de gjenværende kontraktsmessige forfallene. Det skal i tillegg gis en beskrivelse av hvordan den iboende likviditetsrisikoen i forfallsanalysen håndteres.
+
+*Markedsrisiko*
+
+(9) Det skal gis en sensitivitetsanalyse for hver type markedsrisiko som foretaket er eksponert for ved slutten av regnskapsåret, som viser hvordan resultatet og egenkapitalen ville blitt påvirket av endringer i den relevante risikovariabelen innenfor et rimelig mulighetsområde på det tidspunktet. Det skal opplyses om metodene og forutsetningene som ble benyttet ved utarbeidelsen av sensitivitetsanalysen. Eventuelle endringer fra forrige periode i metoder og forutsetninger skal opplyses og begrunnes. Dersom foretaket utarbeider «value-at-risk» analyse, skal det gis opplysninger i henhold til IFRS 7.41.
+
+(10) Når den sensitivitetsanalysen som det ble opplyst om i samsvar med niende ledd, ikke er representativ for en iboende risiko i et finansielt instrument, skal foretaket opplyse om dette, samt om grunnen til at sensitivitetsanalysen ikke er representativ.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+#### § 5-29. Overføring av finansielle eiendeler
+
+(1) Det skal gis opplysninger som gjør det mulig for brukerne av årsregnskapet:
+
+- a. å forstå forholdet mellom overførte finansielle eiendeler som ikke er fraregnet i sin helhet og de tilknyttede forpliktelsene, og
+- b. å evaluere arten av og risikoene knyttet til foretakets vedvarende engasjement i fraregnede finansielle eiendeler.
+
+(2) Det skal gis opplysninger om overførte finansielle eiendeler som ikke er blitt fraregnet i sin helhet i samsvar med IFRS 7.42D.
+
+(3) Når et foretak fraregner overførte finansielle eiendeler i sin helhet, jf. IFRS 9 avsnitt 3.2.6(a) og (c)(i), men har et vedvarende engasjement i dem, skal det minst gis opplysninger for hver type vedvarende engasjement i samsvar med IFRS 7.42E–G.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225).*
+
+#### § 5-30. (Opphevet)
+
+*Tilføyd ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225), opphevet ved forskrift 1 nov 2024 nr. 2610.*
+
+#### § 5-31. Aksjer og andeler
+
+(1) Aksjer, egenkapitalbevis og andeler i andre foretak skal spesifiseres etter foretak. Norske foretak skal angis med organisasjonsnummer. Spesifikasjonen skal omfatte de største postene og minst utgjøre 90 prosent av foretakets beholdning av henholdsvis aksjer, egenkapitalbevis og andeler. Aksjer i finansforetak skal uansett spesifiseres.
+
+(2) Det skal redegjøres for risikoprofilen i foretakets aksjeportefølje per årsslutt og gjennom året.
+
+(3) For verdipapirer ført under balansepostene 2.4.1, 6.4.1 og 8.4.1 skal det opplyses om balanseført verdi. Andel av balanseført verdi som er børsnoterte verdipapirer skal opplyses.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-30).*
+
+#### § 5-32. Ansvarlig lånekapital i andre foretak
+
+Det skal gis opplysninger om foretakets ansvarlige lånekapital i andre foretak. Det skal opplyses hvordan den ansvarlige lånekapitalen fordeler seg mellom balansepost 2.2 og balansepost 2.4.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-31).*
+
+#### § 5-33. Andre finansielle eiendeler
+
+Balansepostene 2.4.5, 6.4.5 og 8.4.5 spesifiseres på de viktigste enkeltbeløp, dersom disse er av vesentlig betydning for vurderingen av årsregnskapet.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-32).*
+
+#### § 5-34. Andre fordringer
+
+Balansepost 3.3 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er av vesentlig betydning for vurderingen av årsregnskapet.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-33).*
+
+#### § 5-35. Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter
+
+Balansepost 5.3 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er av vesentlig betydning for vurderingen av årsregnskapet.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-34).*
+
+#### § 5-36. Ansvarlig lån
+
+(1) Foretaket skal gi følgende opplysninger når det gjelder ansvarlig lånekapital:
+
+- a. For hvert lån som overstiger 10 prosent av totalbeløpet for den ansvarlige lånekapital:
+
+  - 1\. lånets størrelse, den valuta det er oppgitt i, rentesats og forfall, eller opplysning om at det er en evigvarende ansvarlig lånekapital,
+  - 2\. om det er forhold som eventuelt krever en hurtigere tilbakebetaling og
+  - 3\. vilkårene for den ansvarlige lånekapital, eventuelle bestemmelser om at den ansvarlige lånekapital kan konverteres til egenkapital eller til en annen form for gjeld, samt vilkårene i disse bestemmelsene.
+
+- b. For annen ansvarlig lånekapital skal det gis en summarisk oversikt over betingelsene.
+
+(2) Dersom foretaket har opptatt ansvarlig lånekapital i utenlandsk valuta, skal valutakursgevinst eller valutakurstap på slik lånekapital angis. Dersom foretaket har inngått sikringsforretning som gjelder ansvarlig lånekapital i utenlandsk valuta skal dette opplyses.
+
+(3) Kostnader i forbindelse med foretakets ansvarlige lånekapital i løpet av regnskapsåret skal angis.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-35).*
+
+#### § 5-37. Andre forpliktelser
+
+Balansepost 17.5 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er av betydning for vurderingen av årsregnskapet.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-36).*
+
+### IV. Eiendom
+
+#### § 5-38. Investeringseiendom
+
+(1) Det skal opplyses om og under hvilke omstendigheter eiendomsinteresser som innehas i henhold til operasjonelle leieavtaler, er klassifisert og regnskapsført som investeringseiendom.
+
+(2) Det skal opplyses om hvilke kriterier som benyttes for å skille investeringseiendom fra eierbenyttet eiendom når klassifiseringen er vanskelig.
+
+(3) Det skal opplyses om virkelig verdi i samsvar med § 5-6.
+
+(4) Det skal opplyses om i hvilket omfang den virkelige verdien er basert på en verdsetting foretatt av en uavhengig takstmann med en anerkjent og relevant faglig kvalifikasjon og som nylig har hatt erfaring med lokaliseringen og kategorien av den investeringseiendommen som blir taksert. Dersom det ikke har skjedd noen slik verdsetting skal det opplyses om dette.
+
+(5) Det skal opplyses om hvilke beløp som er innregnet i resultatet for
+
+- a. leieinntekt fra investeringseiendommen
+- b. direkte driftskostnader knyttet til en investeringseiendom som genererte leieinntekt i løpet av perioden
+- c. direkte driftskostnader knyttet til en investeringseiendom som ikke genererte leieinntekt i løpet av perioden.
+
+(6) Det skal opplyses om eventuelle begrensninger og dets omfang i investeringseiendommens realiserbarhet, eller begrensninger i leiebetalinger og avhendelsesvederlag.
+
+(7) Det skal opplyses om kontraktsmessige plikter til å kjøpe, bygge eller utvikle investeringseiendom eller til reparasjoner, vedlikehold eller utbedringer.
+
+(8) For investeringseiendom målt til virkelig verdi skal det gis en avstemming mellom de balanseførte verdiene av investeringseiendom i begynnelsen og slutten av perioden som viser:
+
+- a. tilganger, spesifisert på:
+
+  - de tilganger som er resultat av anskaffelser
+  - de tilganger som er resultat av etterfølgende utgifter innregnet i en eiendels balanseførte verdi
+  - de tilganger som er resultat av anskaffelser i forbindelse med virksomhetssammenslutninger
+
+- b. investeringseiendommer klassifisert som holdt for salg i samsvar med IFRS 5 og andre avhendinger
+
+- c. netto gevinster eller tap ved justering av virkelig verdi
+
+- d. overføringer til og fra eierbenyttet eiendom
+
+- e. andre endringer.
+
+(9) Dersom verdsettelse av investeringseiendom blir justert for finansregnskapets formål, jf. IAS 40.77, for eksempel for å unngå dobbelregning av eiendeler eller forpliktelser som er innregnet som separate eiendeler og forpliktelser, jf. IAS 40.50, skal det gis en avstemming mellom den nevnte verdsettingen og den justerte verdsettingen som er inkludert i finansregnskapet, og som viser det samlede omfanget av alle innregnede leieplikter som er tilbakeført, samt eventuelle andre vesentlige justeringer.
+
+(10) I de unntaksvise tilfellene hvor virkelig verdi ikke kan fastsettes på en pålitelig måte (se IAS 40.53), skal det gis en beskrivelse av investeringseiendommen og forklare hvorfor virkelig verdi ikke kan fastsettes på en pålitelig måte. Det skal, om mulig, opplyses om det estimatområdet som den virkelige verdien mest sannsynlig vil ligge innenfor. Ved avhending av investeringseiendom som nevnt i første punktum skal følgende opplysninger gis:
+
+- a. det faktum at foreaket har avhendet investeringseiendom som ikke er regnskapsført til virkelig verdi
+- b. den balanseførte verdien av denne investeringseiendommen på salgstidspunktet, og beløpet for de gevinster og tap som er innregnet
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-37).*
+
+#### § 5-39. Eierbenyttet eiendom
+
+(1) Det skal gis en avstemming av balanseført verdi av eierbenyttet eiendom ved begynnelsen og slutten av perioden som viser:
+
+- a. tilgang og avgang
+- b. økninger eller reduksjoner som skyldes verdireguleringer
+- c. avskrivninger
+- d. andre endringer.
+
+(2) Det skal gis følgende opplysninger om verdiregulering:
+
+- a. tidspunktet for verdireguleringen
+- b. om en uavhengig takstmann ble benyttet
+- c. den balanseførte verdien som ville ha vært innregnet dersom eiendommen hadde vært balanseført i henhold til anskaffelseskostmodellen
+- d. verdireguleringsreserven, som viser endringen i reserven i perioden
+- e. opplysninger om virkelig verdi i samsvar med § 5-6.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-38).*
+
+### V. Foretak i samme konsern og tilknyttede foretak
+
+#### § 5-40. Aksjer og andeler i foretak i samme konsern og tilknyttede foretak mv.
+
+(1) Det skal opplyses om firma, forretningskontor, eierandel og stemmeandel for datterforetak, tilknyttet foretak og felles kontrollert virksomhet.
+
+(2) Regnskapspliktig som med hjemmel i regnskapsloven § 3-7 ikke har utarbeidet konsernregnskap, skal opplyse om firma og forretningskontor for morselskapet.
+
+(3) Det skal gis opplysninger om aksjer og andeler i foretak i samme konsern i henhold til norsk regnskapsstandard nr. 17 *Virksomhetskjøp*. Det skal gis opplysninger om aksjer og andeler i tilknyttede foretak og felleskontrollert virksomhet i henhold til foreløpig norsk regnskapsstandard *Investering i tilknyttet foretak og felleskontrollert virksomhet*.
+
+(4) For investeringer i datterforetak som innregnes og måles i samsvar med IAS 39, skal det gis opplysninger i henhold til IFRS 13. For investeringer i datterforetak som innregnes og måles etter egenkapitalmetoden, skal det gis følgende opplysninger for hver investering og samlet:
+
+- Verdi i balansen ved periodens begynnelse
+- \+/– Tilgang/avgang i perioden
+- \+/– Resultatandel
+- \+/– Internfortjenester
+- Utbytte
+- \+/– Egenkapitaljustering ført direkte mot egenkapitalen
+- \+/– Innbetalt i balansen ved periodens slutt
+- \= Verdi i balansen ved periodens slutt
+- Avskrevet merverdi i perioden
+- Merverdi ved periodens slutt
+- Eventuelle avvikende regnskapsår og forskjellige regnskapsprinsipper
+
+(5) For andeler i tilknyttet foretak og felleskontrollert virksomhet som er kjøpt i perioden og regnskapsføres etter egenkapitalmetoden, skal det i tillegg til opplysninger som nevnt i fjerde ledd annet punktum opplyses om anskaffelseskost og balanseført egenkapital på kjøpstidspunktet.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-39).*
+
+#### § 5-41. Fordringer på og verdipapirer utstedt av foretak i samme konsern og tilknyttede foretak
+
+Ansvarlig lånekapital i datterforetak, tilknyttede foretak og felleskontrollerte foretak skal spesifiseres på hver enkelt hovedpost. Regnskapsloven § 6-6 om sammenligningstall gjelder tilsvarende.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-40).*
+
+#### § 5-42. Virkning av endring av konsernsammensetning
+
+(1) Ved endring i konsernsammensetningen skal det gis opplysninger som muliggjør sammenligning med tidligere årsregnskap.
+
+(2) Ved hver virksomhetssammenslutning som er gjennomført i perioden, skal det gis opplysninger i samsvar med IFRS 3 nr. B64, B65 og B67 bokstav a til c.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-41).*
+
+### VI. Annet
+
+#### § 5-43. Avsetninger, betingede forpliktelser og betingede eiendeler
+
+(1) For hver klasse av avsetninger, jf. IAS 37 nr. 87, skal foretaket gi opplysninger i samsvar med IAS 37 nr. 84, nr. 85 og nr. 88.
+
+(2) For hver klasse av betingede forpliktelser, jf. IAS 37 nr. 87, skal foretaket gi opplysninger i samsvar med IAS 37 nr. 86 og nr. 88. Dersom det ikke er praktisk mulig å gi slik informasjon skal det opplyses om dette.
+
+(3) For hver klasse av betingede eiendeler skal foretaket gi opplysninger i samsvar med IAS 37 nr. 89 og nr. 90. Dersom det ikke er praktisk mulig å gi slik informasjon, skal det opplyses om dette.
+
+(4) Dersom opplysninger i første til tredje ledd i vesentlig grad kan forventes å påvirke foretakets stilling i en tvist med en annen part, kan det istedenfor gis opplysninger som nevnt i IAS 37 nr. 92.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-42).*
+
+#### § 5-44. Immaterielle eiendeler samt anlegg og utstyr
+
+(1) For hver post under immaterielle eiendeler samt anlegg og utstyr skal det opplyses om:
+
+- a. inngående balanse,
+- b. anskaffelseskost,
+- c. tilgang og avgang i løpet av regnskapsåret,
+- d. samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger,
+- e. avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret og
+- f. utgående balanse.
+
+(2) Det skal opplyses om endring i avskrivningsplan.
+
+*Immaterielle eiendeler*
+
+(3) For hver post under immaterielle eiendeler skal økonomisk levetid og valg av avskrivningsplan opplyses.
+
+(4) Goodwill skal spesifiseres for hvert enkelt virksomhetskjøp. Avskrivningsplan for goodwill som er lenger enn fem år, skal begrunnes.
+
+(5) Dersom immaterielle eiendeler regnskapsføres i samsvar med IAS 38, skal det gis opplysninger i samsvar med IAS 38 nr. 122 bokstav a, nr. 124 og nr. 125.
+
+*Anlegg og utstyr*
+
+(6) For hver post under anlegg og utstyr skal det opplyses om økonomisk levetid og valg av avskrivningsplan. For hver post skal det opplyses om balanseførte leieavtaler.
+
+(7) Det skal opplyses om hvilke forutsetninger som er lagt til grunn for nedskrivning og reversering av nedskrivning.
+
+(8) Ved leie av anlegg og utstyr som ikke er balanseført skal det opplyses om årlig leie med tilsvarende spesifikasjon som i oppstillingsplanen for balansen.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-43).*
+
+#### § 5-45. Egenkapital
+
+(1) Foretak som er aksjeselskap skal opplyse om aksjekapitalen og aksjenes pålydende fordelt på hver aksjeklasse. Det skal opplyses om vedtektsbestemmelser om stemmerett. Det skal opplyses om alle rettigheter som kan medføre at det blir utstedt nye aksjer med angivelse av hovedtrekkene i de vilkår som gjelder for retten.
+
+(2) Det skal gis opplysninger om navn og eierandel for de 20 største aksjeeierne. Opplysning om aksjeeiere som eier under 1 prosent av aksjene kan utelates.
+
+(3) Det skal opplyses om aksjer i foretaket samt rettigheter til slike, som eies av hvert enkelt medlem av styret, representantskap, kontrollkomiteen, samt administrerende direktør og de enkelte ledende ansatte. For hver aksjeeier skal medregnes aksjer som eies av personlig nærstående. Som personlig nærstående regnes:
+
+- a. ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,
+- b. mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i (a) som vedkommende bor sammen med, og
+- c. foretak der vedkommende selv eller noen som er nevnt i (a) og (b) har slik bestemmende innflytelse som nevnt i regnskapsloven § 1-3 annet ledd.
+
+(4) Foretak som er morselskap skal i tillegg opplyse om datterforetaks beholdning av morselskapets aksjer. Endringer i løpet av regnskapsåret i beholdningen av selskapets egne aksjer og datterforetakenes beholdning av aksjer i morselskapet skal spesifiseres. Det skal minst opplyses om:
+
+- a. bakgrunnen for erverv som har funnet sted,
+- b. antall aksjer som er ervervet, og vederlaget, og
+- c. antall aksjer som er avhendet, og vederlaget.
+
+(5) Regnskapspliktige som er utstedere med Norge som hjemstat etter verdipapirhandelloven § 5-4, skal opplyse om vesentlige indirekte aksjebesittelser i foretaket. Aksjebesittelser som representerer minst 10 prosent av stemmerettene i foretaket, regnes som vesentlige etter første punktum.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-44).*
+
+#### § 5-46. Kapitalkrav
+
+(1) Ansvarlig kapital skal spesifiseres på basiskapital og supplerende kapital, samt på kapitalgrupper i henhold til finansforetaksloven § 14-9 med tilhørende forskrift. Det skal opplyses om hvordan basiskapitalen er beregnet. Det skal opplyses om tellende ansvarlig kapital til dekning av henholdsvis solvenskapitalkrav og minstekapitalkrav.
+
+(2) Det skal opplyses om foretakets solvenskapitalkrav og minstekapitalkrav, jf. finansforetaksloven § 14-10 og § 14-11. Opplysninger om solvenskapitalkravet skal spesifisere bidraget fra de enkelte risikomodulene, diversifiseringseffekter på overordnet nivå samt risikoreduserende effekter av utsatt skatt og forsikringstekniske avsetninger. Opplysninger om minstekapitalkravet skal spesifiseres før og etter anvendelse av den nedre og øvre grensen på henholdsvis 25 prosent og 45 prosent av solvenskapitalkravet samt det nominelle minstekravet.
+
+(3) Dersom foretaket er pålagt kapitalkravstillegg, jf. finansforetaksloven § 14-13 tredje ledd, skal det opplyses om dette.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-45).*
+
+#### § 5-47. Salgskostnader
+
+Det skal gis opplysninger om hvordan salgskostnader i regnskapsperioden fordeler seg på lønn og provisjoner mv., herunder provisjoner til andre foretak.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-46).*
+
+#### § 5-48. Forvaltnings- og administrasjonstjenester
+
+Det skal opplyses om forvaltnings- og administrasjonstjenester som selskapet yter for tredjemann, dersom omfanget er betydelig i forhold til foretakets virksomhet.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-47).*
+
+#### § 5-49. Andre inntekter
+
+Resultatpost 13 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er vesentlige for vurderingen av årsregnskapet.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-48).*
+
+#### § 5-50. Leieavtaler
+
+Det skal gis opplysninger om leieavtaler i henhold til norsk regnskapsstandard nr. 14 *Leieavtaler*.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-49).*
+
+#### § 5-51. Lønn og generelle administrasjonskostnader
+
+(1) Det skal opplyses om beregning av pensjonskostnader og pensjonsforpliktelser i henhold til norsk regnskapsstandard nr. 6 *Pensjonskostnader*.
+
+(2) Det skal opplyses om det gjennomsnittlige antall ansatte i regnskapsåret.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-50).*
+
+#### § 5-52. Aksjebasert betaling
+
+IFRS 2 gjelder.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-51).*
+
+#### § 5-53. Transaksjoner med nærstående parter
+
+Det skal gis opplysninger om transaksjoner med nærstående parter enten i samsvar med IAS 24 eller regnskapsloven § 7-30b.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-52).*
+
+#### § 5-54. Ytelser og lån til ledende ansatte mv.
+
+(1) Det skal gis opplysninger om ytelser til ledende personer mv. i samsvar med regnskapsloven § 7-31b.
+
+(2) Det skal gis opplysninger i samsvar med regnskapsloven § 7-32 om lån og sikkerhetsstillelse til ledende personer, aksjeeiere mv.
+
+(3) Plikten til å opplyse om vilkår for lån og sikkerhetsstillelse i regnskapsloven § 7-31b niende ledd og § 7-32 annet ledd gjelder bare der vilkårene avviker fra de generelle markedsvilkår.
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-53), 1 nov 2024 nr. 2610.*
+
+#### § 5-55. Andre kostnader
+
+(1) Resultatpost 14.2 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er vesentlige for vurderingen av årsregnskapet.
+
+(2) Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på lovpålagt revisjon, andre attestasjonstjenester, skatterådgivning og andre tjenester utenfor revisjonen. Honorarer for andre tjenester utenfor revisjonen skal spesifiseres for vesentlig forskjellige tjenester. Opplysningene skal også omfatte godtgjørelse til foretak som revisor har et særskilt samarbeid med.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-54).*
+
+#### § 5-56. Kostnad (inntekt) ved skatt
+
+Det skal gis opplysninger om skatt i henhold til foreløpig norsk regnskapsstandard *Resultatskatt*.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-55).*
+
+#### § 5-57. Store enkelttransaksjoner
+
+Det skal gis opplysninger om store enkelttransaksjoner som ikke er spesifisert etter andre bestemmelser i denne forskriften.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-56).*
+
+#### § 5-58. Sammenslåing av poster
+
+Poster i oppstillingsplanen som er slått sammen etter § 4-2, skal spesifiseres.
+
+Regnskapsloven § 6-6 om sammenligningstall gjelder tilsvarende.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-57).*
+
+#### § 5-59. Bestemmelser i regnskapsloven som ikke er regulert særskilt i denne forskriften
+
+Bestemmelsene i regnskapsloven § 7-9, § 7-10, § 7-14 annet ledd og § 7-34 kommer til anvendelse i den grad de er aktuelle for det enkelte foretak.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-58).*
+
+#### § 5-60. Resultat per aksje
+
+Foretak hvis aksjer er gjenstand for alminnelig omsetning skal gi opplysninger om resultat per aksje i samsvar med IAS 33.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (i kraft 1 jan 2023, endringen endret ved forskrift 12 feb 2021 nr. 1225, tidligere § 5-59).*
+
+## Kapittel 6. Delårsregnskap
+
+### § 6-1. Plikt til å utarbeide delårsregnskap
+
+Det skal utarbeides delårsregnskap for hvert kvartal med unntak av for fjerde kvartal. For morselskap består delårsregnskapet av selskapsregnskap og konsernregnskap.
+
+*Endret ved forskrifter 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016), 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+### § 6-2. Innhold i delårsrapport
+
+Delårsrapporter skal utarbeides i samsvar med IAS 34. Resultatregnskap, balanse og oppstilling av endringer i egenkapital skal minst angi hovedpostene i oppstillingsplanene, jf. § 4-4 til § 4-6. Underpostene til resultatpost 19 kan, med unntak av postene 19.1.4, 19.1.5, 19.2.4 og 19.2.5, slås sammen. Kravet i IAS 34.16A litra j) om å gi opplysninger om virkelig verdi på finansielle instrumenter, kan fravikes under forutsetning av det gis opplysninger i samsvar med § 5-6.
+
+*Endret ved forskrift 20 des 2018 nr. 2208 (med virkning fra regnskapsåret 2018).*
+
+### § 6-3. Tilleggsopplysninger
+
+(1) Det skal gis opplysninger om foretakets ansvarlige kapital og størrelsen på foretakets solvenskapitalkrav og minstekapitalkrav.
+
+(2) «Ufordelte overskuddsmidler til forsikringskontraktene» er på delårsbasis ikke en endelig tildeling, og skal i delårsrapporteringen inntas som følger:
+
+- I resultatregnskapet – som egen hovedpost istedenfor «Midler tilordnet forsikringskontraktene».
+- I balansen – som egne underposter til post 13 «Forsikringsforpliktelser – kontraktsfastsatte forpliktelser» og post 14 «Forsikringsforpliktelser – særskilt investeringsportefølje».
+
+*Endret ved forskrifter 16 des 2016 nr. 1656 (med virkning fra regnskapsåret 2016), 22 des 2021 nr. 3894 (i kraft 1 jan 2022), 7 april 2022 nr. 556 (med virkning for årsregnskap og delårsregnskap for regnskapsår påbegynt 1. januar 2022 eller senere), 20 des 2023 nr. 2228 (i kraft 1 jan 2024).*
+
+### § 6-4. Offentlighet mv.
+
+Delårsregnskapet skal vedtas av foretakets styre innen 60 dager etter regnskapsperiodens slutt, og uten unødig opphold offentliggjøres på foretakets hjemmeside på internett. Foretaket skal sørge for at delårsregnskapet forblir offentlig i minst fem år. Finanstilsynet kan pålegge foretaket å opprette hjemmeside på internett. Det skal gis opplysninger om hvilke deler av delårsregnskapet som er revidert.
+
+*Endret ved forskrift 16 des 2016 nr. 1657 (med virkning fra regnskapsåret 2016).*
+
+## Kapittel 7. Avsluttende bestemmelser
+
+### § 7-1. Dispensasjon og utfyllende bestemmelser
+
+Finanstilsynet kan i det enkelte tilfelle dispensere fra bestemmelsene i denne forskriften.
+
+### § 7-2. Ikrafttredelse mv.
+
+Denne forskriften trer i kraft 1. januar 2016 med virkning for regnskapsår påbegynt 1. januar 2016 og senere.

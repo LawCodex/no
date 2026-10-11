@@ -1,0 +1,49 @@
+---
+title: "Forskrift om levealdersjustering av alderspensjon når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger har ny pensjonsopptjening etter fylte 67 år"
+short_title: "Forskrift om levealdersjustering av alderspensjon"
+identifier: "FOR-2010-11-30-1492"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2010-11-30
+in_force_from: 2011-01-01
+last_amended: 2020-06-01
+last_amended_by: "forskrift/2020-05-19-1025 fra 2020-06-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2010 hefte 13"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2010-11-30-1492"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om levealdersjustering av alderspensjon når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger har ny pensjonsopptjening etter fylte 67 år
+
+> Hjemmel: Fastsatt av Arbeidsdepartementet 30. november 2010 med hjemmel i lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 24 sjuende ledd, lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 8a sjuende ledd og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere § 10a sjuende ledd. Tilføyd hjemmel: Lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) § 30.Endret ved forskrifter 7 mai 2019 nr. 582 (bl.a. tittel), 19 mai 2020 nr. 1025 (i kraft 1 juni 2020).
+
+## § 1. Anvendelsesområde
+
+Forskriften gjelder for et medlem av Statens pensjonskasse, pensjonsordning for apotekvirksomhet mv. og pensjonsordning for sykepleiere som har alderspensjon etter fylte 67 år og som gjeninntrer i medlemspliktig stilling.
+
+## § 2. Fastsetting av vektet justeringstall
+
+Når medlemmet som nevnt i § 1 senere fratrer stillingen, skal det fastsettes et vektet justeringstall for dette pensjonsuttaket.
+
+Det vektede justeringstallet fastsettes ved å multiplisere justeringstallet ved første uttakstidspunkt, begrenset til 67 år eller senere, med justeringstallet på det senere uttakstidspunktet, og deretter dividere med justeringstallet på tidspunktet da medlemmet gjeninntrådte i stillingen.
+
+Det vektede justeringstallet kan likevel ikke være lavere enn 1,000, jf. lov om Statens pensjonskasse § 24 tredje ledd andre punktum. For årskullene fra og med 1954-kullet til og med 1962-kullet gjelder likevel bestemmelsene i lov om Statens pensjonskasse § 24 tredje ledd tredje og fjerde punktum.
+
+*Endret ved forskrift 7 mai 2019 nr. 582 (i kraft 1 juli 2019).*
+
+## § 3. Fastsetting av vektet forholdstall og/eller delingstall i samordningsfradraget for alderspensjon fra folketrygden og tillegg etter samordningsloven § 24a nr. 5
+
+Samtidig som det beregnes vektet justeringstall etter § 2, skal det fastsettes vektet forholdstall/delingstall for samordningsfradraget. Forholdstall gjelder for årskull født før 1954, delingstall gjelder for årskull født etter 1962, mens det for årskullene født i årene fra 1954 til 1962 benyttes en andel av både forholdstall og delingstall, jf. fordelingen fastsatt i samordningsloven § 24b første ledd. Det vektede tallet fastsettes ved å multiplisere forholdstallet/delingstallet ved første samordningstidspunkt, med forholdstallet/delingstallet på det senere samordningstidspunktet og deretter dividere med forholdstallet/delingstallet på tidspunktet da medlemmet gjeninntrådte i stillingen. Tilsvarende vekting av delingstall gjelder for tillegg etter samordningsloven § 24a nr. 5.
+
+*Tilføyd ved forskrift 7 mai 2019 nr. 582 (i kraft 1 juli 2019), endret ved forskrift 19 mai 2020 nr. 1025 (i kraft 1 juni 2020).*
+
+## § 4. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2011.
+
+*Endret ved forskrift 7 mai 2019 nr. 582 (i kraft 1 juli 2019, tidligere § 3).*

@@ -1,0 +1,55 @@
+---
+title: "Forskrift om overgangsreglar i samband med nye reglar om fastsetjing av fostringstilskot."
+short_title: "Forskrift om overgangsreglar – fostringstilskot"
+identifier: "FOR-2003-01-15-119"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2003-01-15
+in_force_from: 2003-10-01
+last_amended: 2004-04-01
+last_amended_by: "forskrift/2004-03-18-563 fra 2004-04-01"
+ministry: "Barne- og familiedepartementet"
+published_in: "I 2003 hefte 2"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2003-01-15-119"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsreglar i samband med nye reglar om fastsetjing av fostringstilskot.
+
+> Hjemmel: Fastsett av Barne- og familiedepartementet 15. januar 2003 med heimel i lov av 15. juni 2001 nr. 37 endringer i barnelova, forskotteringsloven og i enkelte andre lover (nye regler for beregning av barnebidrag m.m.) del VI andre stykket.Endra ved forskrift 18 mars 2004 nr. 563.
+
+## § 1. Offentleg fastsetjing av fostringstilskot
+
+Fostringstilskot til barn etter § 74 om særskilt endring av fastsett tilskot i barnelova vert fastsett etter reglane i denne forskrifta.
+
+*Endra ved forskrift 18 mars 2004 nr. 563 (i kraft 1 april 2004).*
+
+## § 2. Vilkår for fastsetjing etter overgangsreglane
+
+For å avgrense verknaden av overgangen til eit nytt regelverk skal tilskotet fastsetjast etter overgangsreglane når tilskotet til eit barn vert vesentleg sett opp eller ned. Ei netto endring på kr 1.250 eller meir per barn per månad skal reknast som vesentleg. Ei netto endring er differansen mellom eit fostringstilskot utmålt etter dei nye reglane samanlikna med eit fostringstilskot utmålt etter dei gamle reglane justert for eit skattefrådrag sett til 28% for den tilskotspliktige eller ein skatteprosent sett til 20% når tilskotsmottakaren betaler skatt. Når tilskotsmottakaren ikkje betaler skatt, er netto- og bruttoendringa den same.
+
+Når ein av partane bur i utlandet, kan trygdekontoret fråvike reglane i første stykket tredje og fjerde punktum, slik at det berre vert justert for skattefrådrag der den tilskotspliktige får slikt skattefrådrag, anten etter dei gamle eller etter dei nye reglane.
+
+## § 3. Fastsetjing av fostringstilskotet etter overgangsreglane
+
+Fostringstilskotet skal setjast til det opphavlege netto fostringstilskotet justert for halvparten av differansen mellom fostringstilskotet fastsett etter dei nye reglane og det opphavlege netto fostringstilskotet, men slik at endringa aldri vert mindre enn kr 1.250 per barn per månad. Når overgangsperioden er slutt, skal fostringstilskotet vere lik det opphavlege fastsette fostringstilskotet rekna på det tidspunktet vedtaket om endring vart gjort.
+
+Reglane i forskrifta om fastsetjing og endring av fostringstilskot § 6 om tilskotsevne og § 7 om maksimumsgrense og § 10 om barnetillegg i trygd o.a. gjeld tilsvarande når fostringstilskotet vert fastsett etter reglane i denne forskrifta.
+
+Reglane i barnelova § 73 om indeksregulering gjeld både for det nye fostringstilskotet etter dei vanlege reglane og for det fostringstilskotet som gjeld etter overgangsreglane. Det nye fostringstilskotet skal reknast med indeksregulering frå det tidspunktet overgangsreglane er oppheva.
+
+Fostringstilskot kan berre krevjast fastsett etter overgangsreglane ein gong for kvart barn.
+
+*Endra ved forskrift 18 mars 2004 nr. 563 (i kraft 1 april 2004).*
+
+## § 4. Lengda på overgangsperioden
+
+Overgangsperioden er på eitt år rekna frå det tidspunktet lova tek til å gjelde.
+
+## § 5. Iverksetjing
+
+Denne forskrifta tek til å gjelde frå 1. oktober 2003.

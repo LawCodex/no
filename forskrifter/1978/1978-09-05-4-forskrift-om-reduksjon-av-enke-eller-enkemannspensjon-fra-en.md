@@ -1,0 +1,73 @@
+---
+title: "Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt"
+short_title: "Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt"
+identifier: "FOR-1978-09-05-4"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1978-09-05
+in_force_from: 1978-09-05
+last_amended: 2025-01-01
+last_amended_by: "forskrift/2024-12-20-3428 fra 2025-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 1978 s 644"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1978-09-05-4"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt
+
+> Hjemmel: Fastsatt av Arbeids- og administrasjonsdepartementet 5. september 1978 med hjemmel i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 34 femte ledd, lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 17 femte ledd og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere § 20 tredje ledd. Endret ved forskrifter 30 jan 2002 nr. 158 (bl.a. hjemmel og tittel), 23 okt 2007 nr. 1178, 22 mars 2010 nr. 411, 12 okt 2021 nr. 2969 (i kraft 1 nov 2021, bl.a. tittel), 9 feb 2024 nr. 228 (bl.a hjemmel), 20 des 2024 nr. 3428 (i kraft 1 jan 2025).
+
+## § 1. Virkeområde
+
+Forskriften utfyller reglene om reduksjon av enke- eller enkemannspensjon fra en offentlig tjenestepensjonsordning for alders- eller uførepensjon og arbeidsinntekt.
+
+*Endret ved forskrifter 30 jan 2002 nr. 158, 12 okt 2021 nr. 2969 (i kraft 1 nov 2021).*
+
+## § 2. Reduksjon av enke- eller enkemannspensjon for alderspensjon
+
+Dersom den gjenlevende er yngre enn 67 år, skal det ved reduksjonen av enke- eller enkemannspensjonen for gjenlevendes alderspensjon etter lov om Statens pensjonskasse § 35 andre ledd, eller en tilsvarende regel i en annen offentlig tjenestepensjonsordning, legges til grunn en alderspensjon som ikke er levealdersjustert.
+
+Fra den første dagen i måneden etter at gjenlevende har fylt 67 år, skal det ved reduksjonen av enke- eller enkemannspensjonen for alderspensjon legges til grunn en levealdersjustert alderspensjon for den gjenlevende. Den levealdersjusterte alderspensjonen fastsettes ut fra et justeringstall som tilsvarer forholdstallet, jf. folketrygdloven § 19-6 og § 19-7.
+
+I reduksjonen av enke- eller enkemannspensjonen for alderspensjon inngår også det beløpet den avdødes alderspensjon ville ha utgjort, regnet av samme pensjonsgrunnlag og tjenestetid som er lagt til grunn for enke- eller enkemannspensjonen, men uten levealdersjustering.
+
+Oppsatt alderspensjon etter lov om Statens pensjonskasse § 26h eller tilsvarende oppsatt alderspensjon fra annen tjenestepensjonsordning inngår ikke i beregningen av begrensningen av enke- eller enkemannspensjonen etter lov om Statens pensjonskasse § 35 andre ledd eller tilsvarende pensjon fra annen offentlig tjenestepensjonsordning.
+
+*Endret ved forskrifter 30 jan 2002 nr. 158, 12 okt 2021 nr. 2969 (i kraft 1 nov 2021), 20 des 2024 nr. 3428 (i kraft 1 jan 2025).*
+
+## § 3. Reduksjon av enke- eller enkemannspensjon for arbeidsinntekt
+
+Dersom den gjenlevende er yngre enn 67 år, reduseres enke- eller enkemannspensjonen etter lov om Statens pensjonskasse § 36, eller en tilsvarende regel i annen offentlig tjenestepensjonsordning, for faktisk eller forventet arbeidsinntekt. Er det fastsatt en forventet arbeidsinntekt i folketrygden, skal denne arbeidsinntekten legges til grunn i tjenestepensjonen.
+
+Fra den første dagen i måneden etter at den gjenlevende ektefelle har fylt 67 år, skal enke- eller enkemannspensjonen ikke reduseres med mindre gjenlevende faktisk har arbeidsinntekt.
+
+Enke- eller enkemannspensjonen reduseres ikke for arbeidsinntekt fra den første dagen i måneden etter at den gjenlevende har fylt 70 år.
+
+*Tilføyd ved forskrift 30 jan 2002 nr. 158, endret ved forskrifter 22 mars 2010 nr. 411, 12 okt 2021 nr. 2969 (i kraft 1 nov 2021).*
+
+## § 4. Forventet arbeidsinntekt
+
+Tjenestepensjonsordningen fastsetter forventet arbeidsinntekt i samsvar med folketrygdloven § 17A-6 inntil forventet arbeidsinntekt eventuelt blir fastsatt av Arbeids- og velferdsetaten.
+
+Når tjenestepensjonsordningen mottar melding om arbeidsinntekten som er lagt til grunn i folketrygden, og det har vært fastsatt en midlertidig arbeidsinntekt etter første ledd, skal pensjonen omregnes etter folketrygdens arbeidsinntekt med virkning fra tidspunktet pensjonen fra folketrygden startet. Er folketrygdens arbeidsinntekt høyere enn arbeidsinntekten som er fastsatt midlertidig etter første ledd, skal omregningen av pensjonen gjennomføres fra det tidspunktet pensjonen tidligst etter vanlige rutiner lar seg endre med virkning framover.
+
+*Endret ved forskrifter 30 jan 2002 nr. 158 (tidligere § 3), 12 okt 2021 nr. 2969 (i kraft 1 nov 2021), 9 feb 2024 nr. 228.*
+
+## § 5. Arbeidsavklaringspenger og enke- eller enkemannspensjon
+
+I tilfeller der inntekten er arbeidsavklaringspenger etter folketrygdloven kapittel 11, og denne inntekten inngår i samordningen med alderspensjon fra offentlig tjenestepensjonsordning, skal inntekten som benyttes til reduksjon av enke- eller enkemannspensjonen, reduseres med det beløpet som er gått til fradrag i alderspensjonen.
+
+Arbeidsavklaringspenger som ytes samtidig med uførepensjon fra offentlig tjenestepensjonsordning, skal ikke redusere enke- eller enkemannspensjonen.
+
+*Endret ved forskrifter 30 jan 2002 nr. 158 (tidligere § 4), 12 okt 2021 nr. 2969 (i kraft 1 nov 2021).*
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+*Endret ved forskrifter 30 jan 2002 nr. 158 (tidligere § 7), 12 okt 2021 nr. 2969 (i kraft 1 nov 2021, tidligere § 8).*

@@ -1,0 +1,56 @@
+---
+title: "Forskrift om gjennomføring av verdipapir- og interbankoppgjør i insolvenssituasjoner"
+identifier: "FOR-2016-09-22-1095"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2016-09-22
+in_force_from: 2016-09-22
+last_amended: 2025-01-24
+last_amended_by: "forskrift/2025-01-24-77"
+ministry: "Finansdepartementet"
+published_in: "I 2016 hefte 13"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2016-09-22-1095"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gjennomføring av verdipapir- og interbankoppgjør i insolvenssituasjoner
+
+> Hjemmel: Fastsatt av Finansdepartementet 22. september 2016 med hjemmel i lov 17. desember 1999 nr. 95 om betalingssystemer m.v. § 4-2 fjerde ledd. Endret ved forskrift 24 jan 2025 nr. 77 (bl.a. tittel).
+
+## § 1. Virkeområde, mv.
+
+Forskriften gjelder for interbanksystem med godkjenning etter betalingssystemloven § 2-3 og for verdipapiroppgjørssystem med godkjenning etter betalingssystemloven § 4-1.
+
+Videre gjelder forskriften for Norges Bank og for annen oppgjørsbank som nevnt i betalingssystemloven § 1-3 tredje ledd.
+
+*Endret ved forskrift 24 jan 2025 nr. 77.*
+
+## § 2. Gjennomføring av verdipapiroppgjøret
+
+Finansielle instrumenter som er tilgjengelige på oppgjørskonti i et verdipapirregister, og innskudd på verdipapiroppgjørskonti i Norges Bank eller annen oppgjørsbank, kan benyttes for gjennomføring av verdipapiroppgjør samme virkedag som insolvensbehandlingen innledes.
+
+Dette gjelder finansielle instrumenter og innskudd som er disponible på kontiene på det tidspunktet det innledes insolvensbehandling av en deltaker, og instrumenter og innskudd som kommer inn til kontiene etter dette tidspunktet.
+
+Med oppgjørskonti menes verdipapirkonti og pengekonti som deltakerne har angitt at skal benyttes til oppgjøret av oppdraget.
+
+*Endret ved forskrift 24 jan 2025 nr. 77.*
+
+## § 3. Gjennomføring av andre interbankoppgjør
+
+Innskudd på oppgjørskonti i Norges Bank eller annen oppgjørsbank kan benyttes for gjennomføring av andre interbankoppgjør enn de som er nevnt i § 2 samme virkedag som insolvensbehandlingen innledes.
+
+Første ledd gjelder innskudd som er disponible på kontiene på det tidspunktet det innledes insolvensbehandling av en deltaker, og innskudd som kommer inn til kontiene etter dette tidspunktet.
+
+Med oppgjørskonti menes pengekonti som deltakerne har angitt at skal benyttes til oppgjøret av oppdraget.
+
+*Tilføyd ved forskrift 24 jan 2025 nr. 77.*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+*Endret ved forskrift 24 jan 2025 nr. 77 (tidligere § 3).*

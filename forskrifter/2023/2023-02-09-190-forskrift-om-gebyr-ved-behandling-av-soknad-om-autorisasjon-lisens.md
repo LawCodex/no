@@ -1,0 +1,69 @@
+---
+title: "Forskrift om gebyr ved behandling av søknad om autorisasjon, lisens, spesialistgodkjenning og godkjenning av etterutdanning for spesialister"
+identifier: "FOR-2023-02-09-190"
+type: regulation
+jurisdiction: "no"
+language: "nb"
+date: 2023-02-09
+in_force_from: 2023-03-01
+last_amended: 2024-03-01
+last_amended_by: "forskrift/2024-02-10-237 fra 2024-03-01"
+ministry: "Helse- og omsorgsdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2023-02-09-190"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gebyr ved behandling av søknad om autorisasjon, lisens, spesialistgodkjenning og godkjenning av etterutdanning for spesialister
+
+> Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 9. februar 2023 med hjemmel i lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 51 og § 76 fjerde ledd, jf. § 53. Endret ved forskrifter 23 nov 2023 nr. 1895 (i kraft 1 des 2023), 10 feb 2024 nr. 237 (i kraft 1 mars 2024).
+
+## § 1. Formål
+
+Formålet med denne forskriften er å fastsette gebyr til dekning av kostnader i forbindelse med Helsedirektoratets arbeid med behandling av søknad om autorisasjon, lisens, spesialistgodkjenning, og godkjenning av etterutdanning av spesialister i allmennmedisin, jf. helsepersonelloven § 51 og § 53.
+
+## § 2. Gebyr for behandling av søknad om autorisasjon og lisens
+
+For behandling av søknad om autorisasjon og lisens betales følgende gebyr:
+
+| Søknad om autorisasjon fra norskutdannede – automatisk saksbehandling | Kr 750 |
+|---|---|
+| Søknad om autorisasjon fra norskutdannede – manuelle saker | Kr 2 000 |
+| Søknad om autorisasjon fra utdannede innenfor EU/EØS | Kr 1 665 |
+| Søknad om autorisasjon fra utdannede utenfor EU/EØS | Kr 1 665 |
+| Søknad om autorisasjon fra utdannede i Storbritannia og Nord-Irland | Kr 1 665 |
+| Søknad om lisens fra helsepersonell over 80 år | Kr 2 000 |
+| Søknad om fagområdelisens fra leger utdannet utenfor EU/EØS | Kr 3 500 |
+
+*Endret ved forskrifter 23 nov 2023 nr. 1895 (i kraft 1 des 2023), 10 feb 2024 nr. 237 (i kraft 1 mars 2024).*
+
+## § 3. Gebyr for behandling av søknad om spesialistgodkjenning
+
+For behandling av søknad om spesialistgodkjenning betales følgende gebyr:
+
+| Søknad fra leger med spesialistutdanning fra Norge | Kr 5 000 |
+|---|---|
+| Søknad fra tannleger med spesialistutdanning fra Norge | Kr 4 000 |
+| Søknad fra leger og tannleger om konvertering av spesialistgodkjenning fra EU/EØS | Kr 5 000 |
+| Søknad fra leger og tannleger med spesialistgodkjenning utenfor EU/EØS | Kr 5 000 |
+| Søknad fra leger og tannleger med spesialistgodkjenning fra Storbritannia og Nord- Irland | Kr 5 000 |
+| Søknad fra sykepleier i klinisk allmennsykepleie | Kr 2 400 |
+| Søknad om bekreftelse av læringsmål for leger med delvis gjennomført spesialistutdanning i et annet land, jf. forskrift 8. desember 2016 nr. 1482 om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften) § 32 | Kr 1 000 |
+
+*Endret ved forskrifter 23 nov 2023 nr. 1895 (i kraft 1 des 2023), 10 feb 2024 nr. 237 (i kraft 1 mars 2024).*
+
+## § 4. Gebyr for behandling av søknad om godkjenning av etterutdanning
+
+For behandling av søknad om godkjenning av etterutdanning for spesialister betales følgende gebyr:
+
+| Søknad fra spesialister i allmennmedisin | Kr 2 500 |
+|---|---|
+
+## § 5. Innbetaling av gebyr
+
+Gebyr betales til Helsedirektoratet ved innsending av søknad. Helsedirektoratet kan bestemme hvordan gebyr skal innbetales.
+
+## § 6. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. mars 2023.

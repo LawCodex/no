@@ -1,0 +1,51 @@
+---
+title: "Forskrift om å klargjere morskap"
+short_title: "Forskrift om å klargjere morskap"
+identifier: "FOR-2013-12-17-1592"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2013-12-17
+in_force_from: 2014-01-01
+ministry: "Barne- og familiedepartementet"
+published_in: "I 2013 hefte 18"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2013-12-17-1592"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om å klargjere morskap
+
+> Heimel: Fastsett av Barne-, likestillings- og inkluderingsdepartementet 17. desember 2013 med heimel i lov 8. april 1981 nr. 7 om barn og foreldre (barnelova) § 5 fjerde stykket.
+
+## § 1. Oppgåva til tilskotsfuten
+
+Det er tilskotsfuten (Arbeids- og velferdsetaten) som skal utføre oppgåver på vegne av det offentlege etter barnelova § 5.
+
+Når tilskotsfuten blir kjent med at morskap til eit barn ikkje er lagt til grunn i samsvar med reglane i barnelova, skal tilskotsfuten klargjere identiteten til kvinna som har født barnet.
+
+## § 2. Opplysning av saka
+
+Tilskotsfuten skal skrive til faren til barnet og påleggje han å gi opplysningar om identiteten til kvinna som har født barnet. Faren skal få ein frist til å uttale seg.
+
+Dersom tilskotsfuten ikkje mottar nødvendig dokumentasjon innan fristen, skal han kalle faren til barnet inn til samtale og påleggje han å gi opplysningar om kven som er mor til barnet. Tilskotsfuten skal gi faren informasjon om reglane om foreldreskap, vidare saksgang, rettar og plikter som følgjer av morskap og om menneskerettane til barnet.
+
+## § 3. Handsaming av saka
+
+Når tilskotsfuten får opplysningar om identiteten til kvinna som har født barnet, skal han leggje opplysningane fram for kvinna som er oppgitt som mor og be henne om å uttale seg. Tilskotsfuten skal gi kvinna informasjon som i § 2 andre stykket. Kvinna som er oppgitt som mor skal få ein frist til å uttale seg.
+
+Arbeids- og velferdsdirektoratet kan reise sak for retten for å klargjere morskapen, jf. barnelova § 29b.
+
+Dersom det ikkje ligg føre opplysningar om identiteten til kvinna som har født barnet, må tilskotsfuten leggje bort saka. Tilskotsfuten kan opne sak for å klargjere morskapen seinare, dersom det kjem fram nye opplysningar.
+
+## § 4. Avslutning av saka
+
+Tilskotsfuten skal sende dokumentasjon for kven som har født barnet, jf. barnelova § 2, til folkeregistermyndigheita.
+
+Dersom tilskotsfuten legg bort saka, skal han sende melding til folkeregistermyndigheita. Det same gjeld dersom retten avgjer at det ikkje ligg føre eit morskap.
+
+## § 5. Ikraftsetjing
+
+Forskrifta her tek til å gjelde 1. januar 2014.

@@ -1,0 +1,71 @@
+---
+title: "Forskrift om vilkår for særfradrag på grunn av store sykdomsutgifter ved behandling m.v. i institusjon eller hos privatpraktiserende helsepersonell utenfor offentlig norsk helse- og sosialvesen."
+short_title: "Forskrift om særfradrag p.g.a sykdomsutgifter"
+identifier: "FOR-1988-04-14-295"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1988-04-14
+in_force_from: 1988-04-20
+last_amended: 2021-09-17
+last_amended_by: "forskrift/2021-09-17-2821"
+ministry: "Helse- og omsorgsdepartementet"
+published_in: "I 1988 205"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1988-04-14-295"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om vilkår for særfradrag på grunn av store sykdomsutgifter ved behandling m.v. i institusjon eller hos privatpraktiserende helsepersonell utenfor offentlig norsk helse- og sosialvesen.
+
+> Hjemmel: Fastsatt av Helsedirektoratet 14. april 1988 med hjemmel i lov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 6-83 tredje ledd.Endret ved forskrifter 4 des 1991 nr. 806, 22 okt 2002 nr. 1182, 1 sep 2003 nr. 1111, 13 april 2004 nr. 617, 18 feb 2005 nr. 167, 17 jan 2013 nr. 61, 17 sep 2021 nr. 2821. Rettelser: 27.09.2021 (tegnsetting i lister tilpasset universell utforming).
+
+## § 1.
+
+Departementets myndighet etter skatteloven § 6-83 annet ledd delegeres til statsforvalterne.
+
+*Endret ved forskrifter 1 sep 2003 nr. 1111, 13 april 2004 nr. 617, 18 feb 2005 nr. 167, 17 sep 2021 nr. 2821.*
+
+## § 2.[^1]
+
+Statsforvalteren avgjør om følgende vilkår er oppfylt:
+
+- a. om behandling m.v. har skjedd utenfor offentlig helsevesen (jfr. § 3)
+- b. om det offentlige helsevesen har et tilsvarende tilbud (jfr. § 4)
+- c. om det oppsøkte tilbudet kan anses som faglig forsvarlig (jfr. § 5).
+
+*Endret ved forskrifter 1 sep 2003 nr. 1111, 17 sep 2021 nr. 2821.*
+
+[^1]: Det vises til forskrift om ligningsbehandlingen ved særfradrag etter skatteloven § 6-82 og § 6-83. fastsatt ved kgl.res. 5 feb 1988 nr. 121 med hjemmel i ligningslovens § 3-14.
+
+## § 3.
+
+Som behandling gitt utenfor offentlig helse- og sosialvesen anses:
+
+- a. Behandling, pleie eller opphold ved private helseinstitusjoner som ikke er drevet av det offentlige og som heller ikke er tatt med på offentlige helseplaner eller på annen måte drevet for offentlig regning,
+- b. behandling m.v. som bare gir rett til stykkprisrefusjon, herunder tjenester som gis ved private medisinske røntgeninstitutter og laboratorier som ikke står i offentlig helseplan,
+- c. behandling m.v. gitt av privatpraktiserende helsepersonell som ikke har avtale med fylkeskommune eller kommune,
+- d. behandling gitt i utlandet uten offentlig bidrag etter folketrygdlovens § 2-13 eller direkte fra kommune eller stat,
+- e. behandling gitt på rekonvalesenthjem og liknende helseinstitusjoner som ikke står i offentlig helseplan og hvor det ikke ytes bidrag etter folketrygdlovens § 2-13 eller direkte fra kommune eller stat.
+
+## § 4.
+
+Forutsetningen for å kreve særfradrag for behandling m.v. er ikke til stede dersom det offentlige har et tilbud for den type sykdom eller svakhet skatteyteren lider av. Det er ikke avgjørende at metodene som nyttes, er identiske.
+
+Har ventetiden vært urimelig lang vurdert i forhold til hvor alvorlig sykdommen er, og dette har eller kunne ha påført pasienten store lidelser eller betydelig forverring i ventetiden, kan forutsetningen for å kreve fradrag likevel anses å være til stede selv om det offentlige på lang sikt ville ha kunnet gi tilsvarende tilbud.
+
+## § 5.
+
+For å anses faglig forsvarlig skal det aktuelle tilbud bygge på metoder som er anerkjent av norske helsemyndigheter.
+
+## § 6.
+
+Klageinstans for statsforvalterens vedtak etter forskriften er Helsedirektoratet.
+
+*Endret ved forskrifter 1 sep 2003 nr. 1111, 17 jan 2013 nr. 61, 17 sep 2021 nr. 2821.*
+
+## § 7.
+
+Disse forskrifter trer i kraft 20. april 1988.

@@ -1,0 +1,29 @@
+---
+title: "Midlertidig forskrift for elektriske anlegg på innretninger som anvendes til undersøkelse og leteboring i petroleumsvirksomheten."
+short_title: "Forskr. om el-anlegg, leteboreplattform"
+identifier: "FOR-1985-07-26-1565"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1985-07-26
+in_force_from: 1985-07-26
+ministry: "Kommunal- og distriktsdepartementet"
+published_in: "I 1985 s 989, ODs regelsamling"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1985-07-26-1565"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Midlertidig forskrift for elektriske anlegg på innretninger som anvendes til undersøkelse og leteboring i petroleumsvirksomheten.
+
+> Hjemmel: Forskriften er fastsatt av Oljedirektoratet 26 juli 1985 i medhold av § 7, jf §§ 37 og 38 i forskrift nr. 1215, fastsatt ved kgl.res. av 28 juni 1985 om sikkerhet mv til lov om petroleumsvirksomhet, jf delegering fra Kommunal- og arbeidsdepartementet av 28 juni 1985 nr. 1419.
+
+## § 1.
+
+I Oljedirektoratets tilsyn med elektriske anlegg og områdeklassifisering på flyttbare innretninger som anvendes til undersøkelse og leteboring i henhold til kgl.res. av 28. juni 1985 om forskrift om sikkerhet mv til lov om petroleumsvirksomhet §§ 8 og 9, jfr. §§ 37 og 38, gjelder de krav som til enhver tid følger av forskrift for elektriske anlegg om bord i skip og sjøredskaper utferdiget 11. november 1975 av Norges vassdrags- og elektrisitetsvesen med hjemmel i lov om tilsyn med elektriske anlegg av 24. mai 1929 nr. 4 med senere endringer.
+
+## § 2.
+
+Forskriften trer i kraft straks.

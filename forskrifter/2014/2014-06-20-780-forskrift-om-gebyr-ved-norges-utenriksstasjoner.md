@@ -1,0 +1,88 @@
+---
+title: "Forskrift om gebyr ved Norges utenriksstasjoner"
+identifier: "FOR-2014-06-20-780"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2014-06-20
+in_force_from: 2014-07-01
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-12-17-2653 fra 2026-01-01"
+ministry: "Utenriksdepartementet"
+published_in: "I 2014 hefte 8"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2014-06-20-780"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om gebyr ved Norges utenriksstasjoner
+
+> Hjemmel: Fastsatt av Utenriksdepartementet 20. juni 2014 med hjemmel i lov 3. mai 2002 nr. 13 om utenrikstjenesten § 21, jf. delegeringsvedtak 20. juni 2014 nr. 779. Tilføyd hjemmel: Lov 13. februar 2015 nr. 9 om utenrikstjenesten (utenrikstjenesteloven) § 15.Endret ved forskrifter 22 des 2016 nr. 1865, 28 nov 2018 nr. 2024, 8 jan 2020 nr. 26, 16 okt 2020 nr. 2069 (i kraft 19 okt 2020, forskriften gjengitt i sin helhet etter endringer), 11 april 2025 nr. 730 (i kraft 1 juni 2025), 17 des 2025 nr. 2653 (i kraft 1 jan 2026).
+
+## § 1. Krav om gebyrer for tjenester ved norske utenriksstasjoner
+
+Den som mottar tjenester som fremgår av vedlegget til forskriften, skal betale gebyr til norske utenriksstasjoner etter satsene i vedlegget.
+
+Gjeldende rettsgebyr (R) er fastsatt i forskrift etter rettsgebyrloven m.m. (rettsgebyrforskriften).
+
+Det skal ikke betales gebyr for bistand som et annet nordisk lands utenriksstasjon yter norske borgere innen rammen av det nordiske konsulære samarbeidet. Gebyr for slik bistand betales etter dette landets gebyrplikter.
+
+*Endret ved forskrift 11 april 2025 nr. 730 (i kraft 1 juni 2025).*
+
+## § 2. Særlig om gebyr fastsatt i pass og ID-kortforskriften, utlendingsforskriften og statsborgerforskriften
+
+Gebyrer for søknad om pass betales i samsvar med pass- og ID-kortforskriften.
+
+Gebyrer for tjenester etter utlendingsforskriften betales i samsvar med utlendingsforskriften.
+
+Gebyrer for behandling av søknader om statsborgerskap betales i samsvar med statsborgerforskriften.
+
+## § 3. Tilleggsgebyr for tjenester som utføres utenfor kontorlokalene eller utenfor kontortiden
+
+Utføres en tjeneste utenfor kontorlokalene eller utenfor kontortiden, skal det kreves et tilleggsgebyr på 50 prosent av gebyret.
+
+Tjenestemottakeren skal på forhånd gjøres kjent med tilleggsgebyret.
+
+## § 4. Dekning av ekstrautgifter med å utføre tjenesten
+
+Når gebyret ikke dekker utenriksstasjonens nødvendige utgifter for å utføre tjenesten, kan utenriksstasjonen kreve dekket ekstrautgifter med å yte tjenesten, for eksempel utgifter til porto, telefon, transport, tolk og fotokopier. Det kan kreves at tjenestemottakeren betaler et depositum eller stiller sikkerhet for slike utgifter.
+
+Utføres gebyrpliktige tjenester utenfor kontorlokalene, kan stasjonen kreve at tjenestemottakeren dekker utgiftene til diett, nattillegg og reiseutgifter etter bestemmelsene i særavtalen om reiser utenlands for statens regning med satsene for reiser utland.
+
+Utfører utenriksstasjonen tjenester som ikke er gebyrpliktige, kan stasjonen kreve at tjenestemottakeren dekker utgiftene etter første og andre ledd etter regning. Tjenestemottakeren skal på forhånd gjøres kjent med kravet.
+
+## § 5. Gebyrfritak, nedsettelse og ettergivelse av gebyr eller utgiftsdekning
+
+Det betales ikke gebyr når en tjeneste er gebyrfri etter avtale med en fremmed stat.
+
+Når det på grunn av tjenestemottakerens økonomiske stilling, uforutsette hendelser i utlandet eller andre særlige grunner vil være urimelig å kreve gebyr, kan stasjonssjefen eller den stasjonssjefen gir fullmakt fastsette i enkeltvedtak at gebyret settes ned eller faller bort. Et krav om å dekke ekstra kostnader kan frafalles av de samme grunnene.
+
+## § 6. Betalingen av gebyret
+
+Gebyret regnes om fra norske kroner til fremmed valuta etter den offisielle kursen på tjenestestedet. Gebyret kan avrundes oppover eller nedover med inntil ti prosent.
+
+Gebyret skal betales samtidig som tjenesten utføres, med mindre stasjonen av særlige grunner fastsetter en betalingsmåte som gir et annet betalingstidspunkt. Betaleren skal gis kvittering for at gebyret er betalt.
+
+## § 7. Regnskap mv.
+
+Utenriksstasjonen skal føre regnskap over gebyrene i samsvar med god regnskapsskikk og retningslinjer fastsatt av Utenriksdepartementet.
+
+Fagstasjoner inntektsfører gebyrene til statskassen. Honorære utenriksstasjoner inntektsfører gebyrene til stasjonen, og gebyrene skal dekke utgifter til driften av stasjonen. Utenriksdepartementet kan omfordele overskudd fra en honorær utenriksstasjon for å dekke underskudd på et eller flere andre honorære konsulater.
+
+*Endret ved forskrift 11 april 2025 nr. 730 (i kraft 1 juni 2025).*
+
+## § 8. Offentlighetens tilgang til forskriften
+
+Forskriften skal være offentlig tilgjengelig på utenriksstasjonene.
+
+## § 9. Ikrafttredelse mv.
+
+Forskriften trer i kraft 1. juli 2014. Fra samme tidspunkt oppheves forskrift 25. januar 2013 nr. 58 om gebyrtariff for Norges utenriksstasjoner.
+
+## Vedlegg
+
+<table><thead><tr><th><i>Behandlingen av følgende gebyrpliktige tjenester</i></th><th colspan="2"><i>Gebyrets størrelse</i></th></tr><tr><th></th><th><i>NOK</i></th><th><i>I fremmed valuta, fastsatt av fagstasjon i samsvar med § 6</i></th></tr></thead><tbody><tr><td><i>A. Pass, utlendingssaker og statsborgerskap</i></td><td></td><td rowspan="16"></td></tr><tr><td>1. Søknad om pass</td><td>Se § 2</td></tr><tr><td>2. Tjenester etter utlendingsforskriften</td><td>Se § 2</td></tr><tr><td>3. Behandling av søknad om statsborgerskap</td><td>Se § 2</td></tr><tr><td><i>B. Vigsel ved norsk utenriksstasjon</i></td><td>2 Rettsgebyr</td></tr><tr><td><i>C. Sjøfartssaker</i></td><td></td></tr><tr><td>1. Utstedelse av midlertidig nasjonalitetsbevis etter sjøloven § 5 tredje ledd</td><td>0,5 Rettsgebyr</td></tr><tr><td>2. Utstedelse av midlertidig farts- eller sikkerhetssertifikat eller påtegning om forlenget gyldighet for sertifikat etter forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 37 (gjelder for lasteskip, passasjerskip, lektere, flyttbare innretninger og dessuten for fiskefartøy med største lengde 15 meter eller mer)</td><td>0,5 Rettsgebyr</td></tr><tr><td>3. Bekreftelse av å ha mottatt komplett søknad om midlertidig tjeneste i sertifikatpliktig stilling (Certificate of Receipt of Application – CRA) etter forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk § 86</td><td>0,5 Rettsgebyr</td></tr><tr><td><i>D. Økonomisk bistand</i><br>Lån eller bistand ved pengeoverføringer</td><td><br></td></tr><tr><td>10 % av beløpet,<br>men ikke mindre enn<br>og ikke mer enn</td><td><br>0,25 Rettsgebyr<br>4 Rettsgebyr</td></tr><tr><td><i>E. Notarialforretninger</i><br>Utstedelse av attester og bekreftelse av underskrifter</td><td>0,25 Rettsgebyr</td></tr><tr><td><i>F. Utstedelse av midlertidig nasjonalitetsbevis for luftfartøy</i> etter luftfartsloven § 3-14, jf. § 3-9</td><td>4 Rettsgebyr</td></tr><tr><td><i>G. For bistand i kommersielle saker kan det kreves følgende timesats:</i><br>Alle oppdrag bør kostnadsberegnes og oversendes oppdragsgiver for godkjenning før arbeidet påbegynnes.<br></td><td>1,5 Rettsgebyr</td></tr><tr><td><i>H. Brukerbetaling for arrangement fra første time:</i><br>Alle oppdrag skal kostnadsberegnes og oversendes oppdragsgiver for godkjenning før arbeidet påbegynnes.</td><td>0,5 Rettsgebyr</td></tr><tr><td><i>I. Tilleggsgebyr og dekning av ekstra utgifter</i></td><td>Se § 3 og § 4</td></tr></tbody></table>
+
+*Endret ved forskrifter 11 april 2025 nr. 730 (i kraft 1 juni 2025), 17 des 2025 nr. 2653 (i kraft 1 jan 2026).*

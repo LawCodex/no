@@ -1,0 +1,162 @@
+---
+title: "Forskrift om tilskudd til pensjonistenes organisasjoner"
+short_title: "Forskrift om tilskudd til pensjonistorganisasjoner"
+identifier: "FOR-2012-10-31-1016"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2012-10-31
+in_force_from: "2012-10-31 med virkning fra 2013"
+last_amended: 2026-01-01
+last_amended_by: "forskrift/2025-12-15-2561 fra 2026-01-01"
+ministry: "Arbeids- og inkluderingsdepartementet"
+published_in: "I 2012 hefte 12"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2012-10-31-1016"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tilskudd til pensjonistenes organisasjoner
+
+> Hjemmel: Fastsatt av Arbeidsdepartementet 31. oktober 2012 med hjemmel i Stortingets årlige budsjettvedtak, jf. Kongeriget Norges Grundlov 17. mai 1814 § 75.Endret ved forskrifter 10 sep 2013 nr. 1070, 4 juli 2018 nr. 1142, 15 des 2025 nr. 2561 (i kraft 1 jan 2026).
+
+## § 1. Formål
+
+Tilskuddsordningen skal gi økonomiske bidrag til pensjonistorganisasjoners drift og eldrepolitiske arbeid. Målet er økt engasjement og aktivitet på området.
+
+## § 2. Målgruppe
+
+Målgruppe for tilskuddsordningen er landsdekkende pensjonistorganisasjoner som har som formål å fremme eldrepolitiske interesser, herunder pensjonistenes sosiale, økonomiske, helsemessige og kulturelle interesser, og styrke pensjonistenes stilling i samfunnet.
+
+## § 3. Forvaltning og kontroll
+
+Tilskuddsordningen forvaltes av Arbeids- og velferdsdirektoratet.
+
+Direktoratet fører kontroll med at tilskuddsmidlene benyttes etter forutsetningene, jf. Stortingets bevilgningsreglement § 10 andre ledd.
+
+## § 4. Kunngjøring og søknadsfrist mv.
+
+Tildelingen av tilskudd for det enkelte år kunngjøres offentlig, på Arbeids- og velferdsetatens nettsider («www.nav.no») og på eventuell annen hensiktsmessig måte.
+
+Kunngjøring skal normalt skje i oktober med søknadsfrist 20. november samme år (heretter kalt søknadsåret).
+
+Søknad om tilskudd sendes til Arbeids- og velferdsdirektoratet. Det kan bare søkes om midler for ett år om gangen.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019).*
+
+## § 5. Krav til søknaden. Kontroll av dokumentasjon.
+
+Søknaden settes fram på eget søknadsskjema, som skal undertegnes av organisasjonens leder eller generalsekretær. Søknaden skal sendes elektronisk.
+
+Med søknaden skal det vedlegges dokumentasjon som gir grunnlag for å vurdere om vilkårene i § 6 er oppfylt. Det skal vedlegges oversikt over antall tellende medlemmer og tellende lokallag, vedtekter, årsrapport og årsregnskap for året før søknadsåret. Antall tellende medlemmer ved utgangen av året før søknadsåret skal framgå og være bekreftet av revisor. Aktivitetsbeskrivelser for året som det søkes om tilskudd for, skal framgå.
+
+Søknader framsatt etter fristen i § 4 andre ledd og ufullstendige søknader kan avvises.
+
+I tillegg må følgende dokumentasjon kunne gjøres tilgjengelig for kontroll til enhver tid:
+
+- Tellende medlemmer skal dokumenteres ved sentralt medlemsregister. Registeret kan være en samling av oversikter fra lokallagene. Registeret skal inneholde navn, kontaktinformasjon, eventuell tilknytning til lokallag og informasjon om betalt kontingent for hvert medlem per 31. desember i året før søknadsåret. Registeret skal skille mellom tellende og andre medlemmer og oversikt over tellende medlemmer skal kunne hentes ut av registeret. Medlemmenes demokratiske rettigheter skal framgå av organisasjonens vedtekter.
+- Tellende lokallag skal dokumenteres ved årlig rapport sendt til sentralleddet med navn på styremedlemmer, når de er valgt og orientering om aktivitet. Årsmøtereferat kan brukes som rapport hvis den inneholder nødvendig informasjon. Antall medlemmer i lokallaget dokumenteres med opplysning om lokallagstilknytning i det sentrale medlemsregisteret.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019 med virkning for tilskudd som gis fra og med 2020).*
+
+## § 6. Vilkår for tilskudd
+
+Det kan ytes tilskudd til organisasjoner som
+
+- a. er selvstendige interesseorganisasjoner, av og for pensjonister, som har som hovedarbeidsområde å fremme pensjonisters interesser og samfunnsdeltakelse,
+- b. er registrert i Frivillighetsregisteret,
+- c. er demokratisk oppbygd, partipolitisk uavhengig og nøytral, og er åpen for alle som tilhører den gruppen organisasjonen tar sikte på å representere, og
+- d. har minimum 2 000 tellende medlemmer. Med tellende medlem menes medlem som per 31. desember i året før søknadsåret er frivillig og individuelt innmeldt i organisasjonen, står i medlemsregisteret, har betalt kontingent for året før søknadsåret og har fulle demokratiske rettigheter i organisasjonen. Kontingenten skal være minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt et kalenderår. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant. Organisasjonen må kunne dokumentere antall tellende medlemmer som oppfyller disse kravene.
+- e. har tellende region-/lokallag eller tellende medlemmer med bostedsadresse i minst fem fylker.
+
+Et tellende lokallag er laveste nivå av selvstendig enhet i organisasjonen. Lokallaget skal ha minst fem tellende medlemmer, et styre valgt av og blant medlemmene og ha aktivitet i tråd med formålet for ordningen. Lokallaget skal ha vedtekter.
+
+Fylkes- og kretslag som fungerer som lokallag, regnes som lokallag. Organisasjonen må kunne dokumentere antall tellende lokallag som oppfyller disse kravene.
+
+Vilkårene i paragrafen her skal være oppfylt ved utgangen av året før søknadsåret.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019 med virkning for tilskudd som gis fra og med 2020).*
+
+## § 7. Vedtak – tilskuddsbrev
+
+Søknader om tilskudd behandles og avgjøres av Arbeids- og velferdsdirektoratet etter reglene i forvaltningsloven.
+
+Dersom tilskudd innvilges, skal den enkelte organisasjon orienteres om dette i et tilskuddsbrev, der også den foreløpige beregningen av tilskuddet skal framgå.
+
+I tilskuddsbrevet kan det stilles krav til regnskapsførsel, revisjon og det nærmere innholdet i organisasjonens rapportering (se § 11 og § 12). Dersom slike krav blir stilt, kan direktoratet bestemme at tilskudd bare gis dersom søkeren innen en fastsatt frist bekrefter at kravene aksepteres.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019 med virkning for tilskudd som gis fra og med 2020).*
+
+## § 8. Beregning av tilskudd
+
+Før beregning og fordeling av tilskuddsbevilgningen, avsettes et beløp til dekning av utgifter til kunngjøring av tilskuddsordningen og til dekning av grunntilskudd til alle organisasjoner som har søkt om tilskudd.
+
+Organisasjoner som fyller vilkårene i § 6 har rett til et grunntilskudd, som utgjør 20 000 kroner for hver av de tilskuddsberettigede organisasjonene.
+
+Den resterende delen av tilskuddsbevilgningen fordeles til den enkelte organisasjonen ved at beløpet ganges med antall tellende medlemmer i organisasjonen og deles med antall tellende medlemmer i samtlige organisasjoner som har søkt om tilskudd.
+
+Dersom medlemmene i en tilskuddsberettiget organisasjon er kollektivt innmeldt i en annen slik organisasjon, legges medlemskapet i den organisasjonen vedkommende opprinnelig var innmeldt i til grunn ved beregning av tilskudd.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019 med virkning for tilskudd som gis fra og med 2020).*
+
+## § 9. Klage
+
+Arbeids- og velferdsdirektoratets vedtak om tilskudd kan påklages til departementet etter reglene i forvaltningsloven kapittel VI.
+
+Fristen for klage er tre uker fra mottakelsen av vedtaket. Klagen settes fram for Arbeids- og velferdsdirektoratet.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019).*
+
+## § 10. Utbetaling av tilskudd
+
+Arbeids- og velferdsdirektoratet bestemmer om utbetaling skal skje i to eller flere terminer.
+
+Første termin av tilskuddet kan ikke overstige halvparten av beregnet tilskudd for året og utbetales tidligst når eventuell bekreftelse etter § 7 tredje ledd er mottatt.
+
+Resten av tilskuddet utbetales i andre halvdel av året når årsrapport og revidert regnskap for foregående år er mottatt og godkjent og etter at eventuelle klager over tildelingen av tilskudd er endelig avgjort. Ved utbetalingen foretas i tillegg eventuelle tilleggsutbetalinger som følge av at det ved fordelingen av tilskudd etter § 8 også er tatt hensyn til organisasjoner som ikke er ansett tilskuddsberettiget.
+
+Midler som ikke blir benyttet i løpet av det året tilskuddet gis for, skal tilbakebetales til Arbeids- og velferdsdirektoratet.
+
+## § 11. Rapportering og regnskap mv.
+
+Organisasjoner som har mottatt tilskudd, skal avgi årsrapport og revidert årsregnskap det påfølgende året. Det samme gjelder organisasjoner som ikke mottok tilskudd i det foregående året, men som har søkt om tilskudd for inneværende år. Rapport og regnskap skal gi grunnlag for å vurdere i hvilken grad organisasjonens virksomhet er eller har vært i tråd med målsettingen med tilskuddsordningen og om tilskuddet er brukt i samsvar med forutsetningene.
+
+Dersom årsrapport og årsregnskap ikke er levert innen en frist fastsatt av Arbeids- og velferdsdirektoratet, eller dersom rapport eller regnskap er mangelfulle, varsles organisasjonen om at tilskuddet for inneværende år kan falle bort dersom forholdet ikke rettes innen en fastsatt kort frist.
+
+## § 12. Kriterier for måloppnåelse
+
+Ved vurderingen av organisasjonens måloppnåelse skal det blant annet legges vekt på
+
+- avholdte medlemsmøter, sentralt og lokalt
+- konkrete tiltak for å spre kunnskap om forhold av sentral betydning for pensjonister og styrke pensjonistenes stilling i samfunnet, herunder etablering og vedlikehold av nettsteder, avholdelse av kurs for eldre, andre tiltak for å fremme pensjonistenes sosiale, økonomiske, helsemessige og kulturelle interesser
+- deltakelse i debatter og avgivelse av uttalelser ved høring av lovforslag og andre forslag av eldrepolitisk betydning.
+
+## § 13. Opplysningsplikt
+
+En organisasjon som mottar tilskudd plikter så snart som mulig å underrette Arbeids- og velferdsdirektoratet om endringer i forhold som kan være avgjørende for om organisasjonen fortsatt fyller vilkårene for tilskuddet.
+
+## § 14. Bortfall av tilskudd. Krav om tilbakebetaling
+
+Innvilget tilskudd opphører fra det tidspunkt vilkårene for tilskudd ikke lenger er tilstede.
+
+Dersom en organisasjon ikke gir opplysninger innen fastsatte frister, gir mangelfulle eller feilaktige opplysninger eller bruker tilskuddet til formål som ikke er i samsvar med forutsetningene, kan en søknad om tilskudd avslås og et innvilget tilskudd kan holdes tilbake eller stanses helt eller delvis. Utbetalt tilskudd kan kreves tilbakebetalt.
+
+Beløp som skal tilbakebetales etter reglene i andre ledd, kan trekkes i senere utbetalinger av tilskudd. Det samme gjelder beløp som skal betales tilbake etter § 10 fjerde ledd.
+
+Vedtak om tilbakebetaling av tilskudd er tvangsgrunnlag for utlegg og kan innkreves av Innkrevingsmyndigheten etter reglene i innkrevingsloven.
+
+*Endret ved forskrift 15 des 2025 nr. 2561 (i kraft 1 jan 2026).*
+
+## § 15. Evaluering
+
+Departementet, eller Arbeids- og velferdsdirektoratet i samråd med departementet, kan beslutte at tilskuddsordningen skal evalueres.
+
+*Endret ved forskrift 4 juli 2018 nr. 1142 (i kraft 1 jan 2019).*
+
+## § 16. Ikrafttredelse
+
+Forskriften trer i kraft straks og gis virkning for behandling og tildeling av tilskudd fra og med 2013.
+
+*Endret ved forskrift 10 sep 2013 nr. 1070.*

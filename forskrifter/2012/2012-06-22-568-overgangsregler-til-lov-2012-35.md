@@ -1,0 +1,53 @@
+---
+title: "Forskrift om overgangsregler til lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m."
+short_title: "Overgangsregler til lov 2012:35"
+identifier: "FOR-2012-06-22-568"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 2012-06-22
+in_force_from: 2012-07-01
+last_amended: 2012-09-17
+last_amended_by: "forskrift/2012-09-17-880"
+ministry: "Finansdepartementet"
+published_in: "I 2012 hefte 8"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/2012-06-22-568"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overgangsregler til lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m.
+
+> Hjemmel: Fastsatt av Finansdepartementet 22. juni 2012 med hjemmel i lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m. del XIX nr. 4.Endret ved forskrift 17 sep 2012 nr. 880.
+
+## I
+
+### § 1.
+
+For prospekter som er sendt inn til Finanstilsynet for kontroll før 1. juli 2012, men som blir godkjent etter nevnte tidspunkt og før 1. september 2012, gjelder reglene i verdipapirhandelloven kapittel 7 slik de lyder før endringene etter lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m. Utsteder kan likevel velge at prospektet skal behandles etter reglene i verdipapirhandelloven kapittel 7 slik de lyder etter endringene etter lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m., ved skriftlig å notifisere Finanstilsynet om dette.
+
+### § 2.
+
+Endringene i verdipapirhandelloven § 7-4 etter lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m., gjelder ikke tilbud fremsatt før 1. juli 2012, forutsatt at slikt tilbud blir endelig gjennomført innen 1. september 2012.
+
+## II
+
+### § 3.
+
+Bokføringspliktige kan velge ikke å ta i bruk endringene i bokføringsloven § 5 annet ledd nytt nr. 3, § 6 tredje ledd og § 13 første ledd nr. 3 og 7 før første regnskapsår påbegynt etter 31. desember 2012. Bokføringspliktige som benytter seg av valgmuligheten etter første punktum skal følge bestemmelsene i § 6 annet ledd og § 13 første ledd nr. 3 og 7 slik de lyder før endringene etter lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m.
+
+### § 4.
+
+Bokføringspliktige skal benytte de samme reglene etter § 3 første ledd gjennom hele regnskapsåret. Dersom valgretten etter § 3 første ledd første punktum ikke benyttes for regnskapsår avsluttet i 2012 kan den heller ikke benyttes for senere regnskapsår.
+
+### § 5.
+
+Adgangen til å erstatte oppbevaring av spesifikasjoner av pliktig regnskapsrapportering med bokførte opplysninger som er nødvendig for å kunne utarbeide slike spesifikasjoner etter bokføringsloven § 13 nr. 2, gjelder for regnskapsår påbegynt etter 31. desember 2012 og for tidligere regnskapsår hvor den bokføringspliktige hadde regnskapssystem som oppfylte kravene til funksjonalitet for lukking av regnskapsperioder etter § 7-6 i forskrift 1. desember 2004 nr. 1558 om bokføring.
+
+*Tilføyd ved forskrift 17 sep 2012 nr. 880.*
+
+## III
+
+Forskriften trer i kraft 1. juli 2012.

@@ -1,0 +1,64 @@
+---
+title: "Forskrift om bibliotekstatistikk"
+identifier: "FOR-1987-01-05-2"
+type: regulation
+jurisdiction: "no"
+language: "no"
+date: 1987-01-05
+in_force_from: 1987-02-01
+last_amended: 2023-01-01
+last_amended_by: "forskrift/2022-08-10-1421 fra 2023-01-01"
+ministry: "Kultur- og likestillingsdepartementet"
+published_in: "I 1987 15"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/SF/forskrift/1987-01-05-2"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om bibliotekstatistikk
+
+> Hjemmel: Fastsatt av Kultur- og vitenskapsdepartementet 5. januar 1987 med hjemmel i lov av 20. desember 1985 nr. 108 om folkebibliotek (folkebibliotekloven) § 3 og § 11, jf. § 6 og § 10.Endret ved forskrifter 3 jan 1994 nr. 3, 1 feb 1996 nr. 131, 14 juli 2003 nr. 961, 8 des 2011 nr. 1342, 10 aug 2022 nr. 1421 (i kraft 1 jan 2023, bl.a. innført paragrafer).
+
+## § 1. Virkeområde
+
+Forskriften gjelder for bibliotekvirksomhet som omhandles i lov av 20. desember 1985 nr. 108 om folkebibliotek.
+
+*Endret ved forskrift 10 aug 2022 nr. 1421 (i kraft 1 jan 2023).*
+
+## § 2. Definisjon
+
+Med bibliotekstatistikk forstås statistikk som omhandler bibliotekenes virksomhet (utlån og andre tjenester for publikum) og rammebetingelser (økonomi, personale, bok- og annen mediebestand, lokaler, åpningstider). Statistikken kan omhandle mer detaljerte opplysninger innen avgrensede områder.
+
+Nasjonalbiblioteket kan gi utfyllende bestemmelser.
+
+*Endret ved forskrift 10 aug 2022 nr. 1421 (i kraft 1 jan 2023).*
+
+## § 3. Utforming, innberetning og publisering
+
+- a. Utforming
+
+  Nasjonalbiblioteket utarbeider statistikkskjemaer med veiledninger for de bibliotekkategoriene forskriften i henhold til § 1 gjelder for. Nasjonalbiblioteket kan gi bestemmelser om annen innhenting av statistikk enn utfylling av skjema.
+
+- b. Innberetning
+
+  Kommunen skal utarbeide og avgi statistikk for folkebibliotekene i kommunen til fylkesbiblioteket innen fastsatt frist.
+
+  Fylkeskommunen skal avgi statistikk for egen virksomhet jf. § 6 i lov om folkebibliotek, og rammebetingelser til Nasjonalbiblioteket innen fastsatt frist.
+
+  Fylkeskommunen utarbeider samlet statistisk oversikt over folkebibliotekenes virksomhet og rammebetingelser i fylkeskommunens virkekrets og avgir statistikken til Nasjonalbiblioteket innen fastsatt frist. Fylkeskommunen skal bistå Nasjonalbiblioteket ved utarbeiding av spesialstatistikker.
+
+  Bibliotekstatistikk for fengsler utarbeides av den som er ansvarlig for driften av institusjonen. Nasjonalbiblioteket gir nærmere regler.
+
+- c. Publisering
+
+  Nasjonalbiblioteket er ansvarlig for å utarbeide og offentliggjøre den samlede statistikken for de bibliotekkategorier forskriften i henhold til § 1 gjelder for.
+
+*Endret ved forskrift 10 aug 2022 nr. 1421 (i kraft 1 jan 2023).*
+
+## § 4. Ikraftsetting
+
+Forskriftene trer i kraft 1. februar 1987.
+
+*Endret ved forskrifter 3 jan 1994 nr. 3, 1 feb 1996 nr. 131, 14 juli 2003 nr. 961 (i kraft 1 aug 2003), 8 des 2011 nr. 1342 (i kraft 23 des 2011), 10 aug 2022 nr. 1421 (i kraft 1 jan 2023).*
