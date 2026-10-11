@@ -1,0 +1,54 @@
+---
+title: "Forskrift om overføring av forvaltningsansvar for naturvernområder. Delegering av forvaltningsansvar til statsforvalteren."
+short_title: "Forskrift om forvaltning av naturvernområder"
+identifier: "FOR-1983-07-26-1385"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1983-07-26
+in_force_from: 1984-01-01
+last_amended: 2021-11-01
+last_amended_by: "forskrift/2021-10-08-2958 fra 2021-11-01"
+ministry: "Klima- og miljødepartementet"
+published_in: "I 1983 s 706"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1983-07-26-1385"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om overføring av forvaltningsansvar for naturvernområder. Delegering av forvaltningsansvar til statsforvalteren.
+
+> Hjemmel: Fastsatt ved kgl.res. av 26. august 1983. Fremmet av Miljøverndepartementet (nå Klima- og miljødepartementet).Endret ved forskrifter 19 des 2013 nr. 1757, 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).
+
+## I
+
+Innen hvert fylke tillegges vedkommende statsforvalter forvaltningsansvar for fredninger som er opprettet ved kongelig resolusjon, regjeringens resolusjon, Kronprinsregentens resolusjon, ministerpresidentens beslutning eller departementsvedtak i medhold av lov om naturfredning av 25. juli 1910 nr. 3, lov om naturvern av 1. desember 1954 og lov om naturvern av 19. juni 1970 nr. 63 (med endringer).
+
+Dette gjelder for alle:
+
+- 1\. nasjonalparker unntatt Hardangervidda nasjonalpark
+- 2\. landskapsvernområder unntatt Skaupsjøen/Hardangerjøkulen og Møsvatn/Austfjell landskapsvernområder
+- 3\. naturreservater
+- 4\. naturminner
+- 5\. plante/dyrelivsfredninger
+- 6\. andre fredninger i medhold av de tidligere naturfredningslover og lov om naturvern av 19. juni 1970 nr. 63.
+
+De tidligere fastsatte vernebestemmelsene endres i samsvar med dette.
+
+*Endret ved forskrift 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).*
+
+## II
+
+- 1\. Statsforvalteren gis fullmakt tilsvarende den som var gitt den tidligere forvaltningsmyndighet for vernebestemmelsene i henhold til det enkelte fredningsvedtak.
+
+- 2\. De punkter i vernebestemmelsene som tillegger Klima- og miljødepartementet dispensasjonsmyndighet eller tillegger Klima- og miljødepartementet myndighet til å godkjenne eventuelle skjøtselsplaner, delegeres til statsforvalteren.
+
+  Dispensasjonsmyndighet for nasjonalparkene på de punkter som følger av Klima- og miljødepartementets vedtak av 27. august 1979, 15. desember 1980 og for Dovrefjell nasjonalpark, forblir hos Direktoratet for statens skoger.
+
+*Endret ved forskrifter 19 des 2013 nr. 1757 (i kraft 1 jan 2014), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).*
+
+## III
+
+Denne resolusjon trer i kraft 1. januar 1984.

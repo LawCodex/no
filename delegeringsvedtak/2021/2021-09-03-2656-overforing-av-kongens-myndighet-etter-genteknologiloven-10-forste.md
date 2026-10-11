@@ -1,0 +1,23 @@
+---
+title: "Overføring av Kongens myndighet etter genteknologiloven § 10 første ledd fra Klima- og miljødepartementet til Helse- og omsorgsdepartementet"
+short_title: "Overføring av Kongens myndighet etter genteknologiloven § 10 første ledd fra Klima- og miljødepartementet til Helse- og omsorgsdepartementet"
+identifier: "FOR-2021-09-03-2656"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2021-09-03
+in_force_from: 2021-11-15
+ministry: "Statsministerens kontor"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2021-09-03-2656"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Overføring av Kongens myndighet etter genteknologiloven § 10 første ledd fra Klima- og miljødepartementet til Helse- og omsorgsdepartementet
+
+> Hjemmel: Fastsatt ved kgl.res. 3. september 2021 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 12. Fremmet av Statsministerens kontor.
+
+- 1\. Kongens myndighet etter lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven) § 10 første ledd overføres fra Klima- og miljødepartementet til Helse- og omsorgsdepartementet for så vidt gjelder kompetanse til å godkjenne søknader om klinisk utprøving av GMO-legemidler.
+- 2\. Delegering av Kongens myndighet etter genteknologiloven § 10 første ledd til Klima- og miljødepartementet, gitt ved kongelig resolusjon 20. august 1993 nr. 811, oppheves for så vidt gjelder kompetanse til å behandle søknader om klinisk utprøving av GMO-legemidler.
+- 3\. Endringene i 1 og 2 trer i kraft fra og med 15. november 2021.

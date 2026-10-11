@@ -1,0 +1,29 @@
+---
+title: "Delegering av myndighet til Luftfartstilsynet til å håndheve forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 1, nr. 3, nr. 4 forsåvidt gjelder internasjonal trafikk, nr. 5 og 7 -9."
+short_title: "Delegering av myndighet til Luftfartstilsynet"
+identifier: "FOR-1994-07-15-805"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1994-07-15
+in_force_from: 1994-07-15
+last_amended: 2000-01-01
+last_amended_by: "forskrift/1999-12-10-1282 fra 2000-01-01"
+ministry: "Samferdselsdepartementet"
+published_in: "Avd I 1994 1350"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1994-07-15-805"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Luftfartstilsynet til å håndheve forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 1, nr. 3, nr. 4 forsåvidt gjelder internasjonal trafikk, nr. 5 og 7 -9.
+
+> Fastsatt av Samferdselsdepartementet 15. juli 1994 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart §§ 16-1 til 16-5. Endret 10 des 1999 nr. 1282 (tittel mm).
+
+Samferdselsdepartementet delegerer myndighet til å håndheve forskrift av 15. juli 1994 nr. 691 om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 1, nr. 3, nr. 4 forsåvidt gjelder internasjonal trafikk, nr. 5 og 7-9 til Luftfartstilsynet.
+
+Forskriften trer i kraft straks.
+
+*Endret ved forskrift 10 des 1999 nr. 1282 (i kraft 1 jan 2000).*

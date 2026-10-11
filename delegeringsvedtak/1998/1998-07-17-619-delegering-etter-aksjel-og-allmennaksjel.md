@@ -1,0 +1,36 @@
+---
+title: "Delegering av myndighet etter lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) og lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)."
+short_title: "Delegering etter aksjel. og allmennaksjel."
+identifier: "FOR-1998-07-17-619"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1998-07-17
+in_force_from: 1999-01-01
+ministry: "Justis- og beredskapsdepartementet"
+published_in: "Avd I 1998 898"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1998-07-17-619"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet etter lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) og lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven).
+
+> Fastsatt ved kgl. res. 17. juli 1998 med hjemmel i lov av 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) § 21-3 og lov av 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven) § 21-2. Fremmet av Justis- og politidepartementet.
+
+## I
+
+- 1\. Kongens myndighet etter aksjeloven § 1-1 tredje ledd nr. 4, § 4-6 annet punktum, § 6-11 første ledd, § 6-23 tredje ledd og § 8-10 annet ledd delegeres til Nærings- og handelsdepartementet.
+- 2\. Kongens myndighet etter aksjeloven § 1-1 fjerde ledd, § 4-11 fjerde ledd og § 21-2 nr. 26 delegeres til Justisdepartementet.
+- 3\. Den myndighet som etter aksjeloven § 2-3 annet ledd og § 10-1 fjerde ledd er lagt til departementet, legges til Justisdepartementet.
+- 4\. Kongens myndighet etter allmennaksjeloven § 4-5 annet punktum, § 6-11 første ledd, § 6-23 tredje ledd, § 6-36 annet ledd annet punktum og § 8-10 annet ledd delegeres til Nærings- og handelsdepartementet.
+- 5\. Kongens myndighet etter allmennaksjeloven § 1-1 tredje ledd, § 4-12 tredje ledd og § 21-2 nr. 23 delegeres til Justisdepartementet.
+- 6\. Kongens myndighet etter allmennaksjeloven § 4-10 første og femte ledd og § 13-8 nr. 3 tredje punktum delegeres til Finansdepartementet.
+- 7\. Den myndighet som etter allmennaksjeloven § 4-24 annet ledd og § 5-4 første ledd fjerde punktum er lagt til departementet, legges til Nærings- og handelsdepartementet.
+- 8\. Den myndighet som etter allmennaksjeloven § 2-3 annet ledd, § 2-6 annet ledd tredje punktum og § 10-1 fjerde ledd er lagt til departementet, legges til Justisdepartementet.
+
+## II
+
+Vedtaket trer i kraft 1. januar 1999.

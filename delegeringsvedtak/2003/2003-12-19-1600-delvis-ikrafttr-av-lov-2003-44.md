@@ -1,0 +1,40 @@
+---
+title: "Delvis ikrafttredelse og overgangsregler til lov av 20. juni 2003 nr. 44 om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven."
+short_title: "Delvis ikrafttr. av lov 2003:44"
+identifier: "FOR-2003-12-19-1600"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2003-12-19
+in_force_from: "2004-01-01, 2005-01-01"
+ministry: "Finansdepartementet"
+published_in: "I 2003 hefte 17"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2003-12-19-1600"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delvis ikrafttredelse og overgangsregler til lov av 20. juni 2003 nr. 44 om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven.
+
+> Fastsatt av Finansdepartementet 19. desember 2003 med hjemmel i lov av 20. juni 2003 nr. 44 om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven del V og delegeringsvedtak av 20. juni 2003 nr. 729.
+
+## § 1. Ikrafttredelse – utsatt opphevelse av enkelte bestemmelser i valutareguleringsloven og penge- og kredittreguleringsloven
+
+Lov av 20. juni 2003 nr. 44 om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven trer i kraft 1. januar 2004, med følgende unntak:
+
+- 1\. Endringen i sentralbankloven § 18 (jf. loven del III) trer i kraft 1. januar 2005.
+- 2\. Lov av 14. juli 1950 nr. 10 om valutaregulering (jf. loven del I) § 4, § 7, § 8 og § 10 oppheves ikke.
+- 3\. Lov av 25. juni 1965 nr. 2 om adgang til regulering av penge- og kredittforholdene (jf. loven del II) § 15, § 16 og § 18 oppheves ikke.
+
+## § 2. Overgangsregler
+
+I medhold av lov av 20. juni 2003 nr. 44 om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven del V annet ledd og kgl.res. av 20. juni 2003 nr. 729, fastsettes følgende unntak fra sentralbankloven § 6 annet ledd fjerde og femte punktum og § 9 første ledd første punktum ved oppnevning til Norges Banks hovedstyre per 1. januar 2004:
+
+- 1\. De fem eksisterende medlemmene av hovedstyret som er oppnevnt for fire år etter sentralbankloven § 6 annet ledd trer ut 31. desember 2003. Det samme gjelder deres personlige vararepresentanter.
+- 2\. Tre av medlemmene av hovedstyret som nevnt i sentralbankloven § 6 annet ledd fjerde punktum med personlige vararepresentanter oppnevnes for to år, jf. også Kronprinsreg.res. av 28. november 2003 om oppnevninger til Norges Banks hovedstyre per 1. januar 2004.
+
+## § 3. Ikrafttredelse
+
+Dette vedtaket trer i kraft straks.

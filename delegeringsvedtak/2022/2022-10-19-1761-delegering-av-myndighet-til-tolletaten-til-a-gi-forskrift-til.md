@@ -1,0 +1,26 @@
+---
+title: "Delegering av myndighet til Tolletaten til å gi forskrift til vareførselsloven"
+identifier: "FOR-2022-10-19-1761"
+type: delegation
+jurisdiction: "no"
+language: "nb"
+date: 2022-10-19
+in_force_from: 2022-10-19
+ministry: "Finansdepartementet"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2022-10-19-1761"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Tolletaten til å gi forskrift til vareførselsloven
+
+> Hjemmel: Fastsatt av Finansdepartementet 19. oktober 2022 med hjemmel i lov 11. mars 2022 nr. 9 om lov inn- og utførsel av varer (vareførselsloven) § 1-2 første til femte ledd, § 1-3 til § 1-5 og kap. 2–3, § 4-1 til § 4-7, § 4-8 tredje ledd første punktum, kap. 5–12 og § 14-2.
+
+## I
+
+Finansdepartementets myndighet etter lov 11. mars 2022 nr. 9 om lov om inn- og utførsel av varer (vareførselsloven) til å gi forskrift, delegeres til Tolletaten. Delegeringen omfatter ikke myndighet etter lovens § 1-2 sjette ledd og kapittel 13 Handelstiltak.
+
+## II
+
+Delegeringen trer i kraft straks.

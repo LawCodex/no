@@ -1,0 +1,30 @@
+---
+title: "Delegering av Justis- og beredskapsdepartementets myndighet til å utøve statens partsstilling etter tvisteloven § 2-5 ved fremming av politiets sivile krav under straffesak"
+short_title: "Deleg. av Justis- og beredskapsdepartementets myndighet til å utøve statens partsstilling etter tvisteloven § 2-5 ved fremming av politiets sivile krav under straffesak"
+identifier: "FOR-2020-02-10-116"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2020-02-10
+in_force_from: 2020-02-10
+ministry: "Justis- og beredskapsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2020-02-10-116"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av Justis- og beredskapsdepartementets myndighet til å utøve statens partsstilling etter tvisteloven § 2-5 ved fremming av politiets sivile krav under straffesak
+
+> Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 10. februar 2020 med hjemmel i lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven) § 2-5.
+
+## I
+
+Justis- og beredskapsdepartementets myndighet til å utøve statens partsstilling etter tvisteloven § 2-5 delegeres til Politidirektoratet for så vidt gjelder fremming av politiets sivile krav i forbindelse med straffesak etter straffeprosessloven § 3 første ledd første punktum og nummer 1 og 3, jf. straffeprosessloven § 427. Krav som er omfattet av straffeprosessloven § 2 og kapittel 30 skal ikke fremmes etter straffeprosessloven § 3.
+
+Myndigheten kan delegeres videre.
+
+## II
+
+Vedtaket trer i kraft straks.

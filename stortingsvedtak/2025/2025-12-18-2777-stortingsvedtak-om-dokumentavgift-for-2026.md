@@ -1,0 +1,51 @@
+---
+title: "Stortingsvedtak om dokumentavgift for 2026"
+identifier: "FOR-2025-12-18-2777"
+type: parliamentary_decision
+jurisdiction: "no"
+language: "nb"
+date: 2025-12-18
+in_force_from: "Budsjettåret 2026"
+ministry: "Stortinget"
+status: in_force
+source: "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2777"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Stortingsvedtak om dokumentavgift for 2026
+
+> Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 12. desember 1975 nr. 59 om dokumentavgift (dokumentavgiftsloven).
+
+## § 1.
+
+Fra 1. januar 2026 skal det i henhold til lov 12. desember 1975 nr. 59 om dokumentavgift betales avgift til statskassen ved tinglysing av dokument som overfører hjemmel til fast eiendom, herunder bygning på fremmed grunn og tilhørende festerett til tomta. Avgift skal betales med 2,5 pst. av avgiftsgrunnlaget, men minst kr 250.
+
+Ved tinglysing av første gangs overføring av hjemmel til eierseksjon eller til fysisk del av eiendom i forbindelse med oppløsning av borettslag og boligaksjeselskaper, betales avgift med kr 1 000 per hjemmelsoverføring.
+
+## § 2.
+
+Fritatt for avgift er
+
+- a. gaveandel i dokument som inneholder gave og lignende til det offentlige eller til stiftelser og legater med allmennyttige formål, eller til foreninger med allmennyttige formål som har styresete her i landet
+- b. dokument som overfører rettigheter til fast eiendom til utenlandske diplomatiske og konsulære misjoner
+- c. overføring av hjemmel til fast eiendom til Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhet
+- d. egen sameieandel i den enkelte eiendom ved overtagelse av fast eiendom ved oppløsning av sameie
+- e. overføring av hjemmel til fast eiendom mellom ektefeller
+- f. ideell arveandel etter loven i den enkelte eiendom ved overtagelse av fast eiendom på skifte eller fra uskiftet bo. Forskudd på arv regnes ikke som arveandel og heller ikke testamentsarv i den utstrekning den overstiger lovens arveandel
+- g. overføring av hjemmel til fast eiendom til forrige hjemmelshaver eller dennes ektefelle, i forbindelse med salg etter reglene om tvangssalg
+- h. overføring av hjemmel til fast eiendom til NATO eller NATOs hovedkvarter i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av
+- i. overføring av hjemmel til fast eiendom mellom Kongen, Dronningen, den nærmeste arveberettigede til tronen i hvert etterfølgende slektsledd og disse personers ektefeller, samt disses felles barn som ikke er fylt 20 år ved utgangen av det år overføringen skjer
+- j. overføring av hjemmel til fast eiendom til testamentsarving dersom overføring av hjemmel til ny erverver tinglyses samme dag
+- k. overføring av hjemmel til fast eiendom ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter skatteloven § 11-2 til § 11-5, § 11-11 og § 11-20 med tilhørende forskrifter. Omorganiseringen og tinglysingen av hjemmelen til fast eiendom må ha funnet sted etter 1. januar 2016.
+- l. overføring av hjemmel til fast eiendom fra kommunal stiftelse til kommune.
+
+Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
+
+## § 3.
+
+Ved førstegangsoverføring av en selvstendig og i sin helhet nyoppført bygning som ikke er tatt i bruk, og overføring av bygg under arbeid, betales avgift bare av salgsverdien av tomta dersom det blir tinglyst hjemmelsoverføring til denne.
+
+## § 4.
+
+Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.

@@ -1,0 +1,45 @@
+---
+title: "Delegering av myndighet til Kystverket etter havne- og farvannsloven"
+short_title: "Deleg. av myndighet til Kystverket etter havne- og farvannsloven"
+identifier: "FOR-2021-03-26-1180"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2021-03-26
+in_force_from: 2021-03-26
+ministry: "Samferdselsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2021-03-26-1180"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Kystverket etter havne- og farvannsloven
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 26. mars 2021 med hjemmel i lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven).
+
+## I
+
+Myndighet til å treffe enkeltvedtak som er lagt til «departementet» etter lov 21. juni 2019 nr. 70 om havner og farvann delegeres til Kystverket med unntak av § 13 første ledd og § 31 tredje ledd.
+
+Delegering av enkeltvedtakskompetanse etter § 28 første ledd omfatter ikke myndighet til å utpeke hvilke havner som skal inngå i det transeuropeiske transportnettverket (TEN-T).
+
+Myndighet til å fastsette forskrift etter følgende bestemmelser i lov 21. juni 2019 nr. 70 om havner og farvann delegeres til Kystverket:
+
+- • § 7, med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet
+- • § 10 sjette ledd
+- • § 13 annet ledd, med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet
+- • § 13 tredje ledd
+- • § 14 sjette ledd, 1. og 3. punktum
+- • § 21 fjerde ledd bokstav d
+- • § 22 fjerde ledd
+- • § 23 femte ledd
+- • § 23 sjette ledd
+- • § 30 annet ledd.
+
+## II
+
+Delegeringen trer i kraft straks.
+
+Gjeldende delegeringer etter lov 17. april 2009 nr. 19 om havner og farvann oppheves.

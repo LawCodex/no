@@ -1,0 +1,31 @@
+---
+title: "Delegering av myndighet etter lov om endringer i visse lover på Finansdepartementets område (EØS-tilpasning) kap. XIV om ikrafttredelse og overgangsregler."
+short_title: "Delegering etter lover under FD (EØS)"
+identifier: "FOR-1992-12-04-882"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1992-12-04
+in_force_from: 1992-12-04
+ministry: "Finansdepartementet"
+published_in: "Avd I 1992 Nr. 24"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1992-12-04-882"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet etter lov om endringer i visse lover på Finansdepartementets område (EØS-tilpasning) kap. XIV om ikrafttredelse og overgangsregler.
+
+> Fastsatt ved kgl.res. 4. desember 1992. Fremmet av Finans- og tolldepartementet.
+
+Kongens myndighet etter lov om endringer i visse lover på Finansdepartementets område (EØS-tilpasning) kap. XIV om ikrafttredelse og overgangsregler delegeres til Finansdepartementet.
+
+Kongens myndighet etter lovens endring av følgende bestemmelser delegeres til Finansdepartementet:
+
+- Lov 24. mai 1961 nr. 1 om sparebanker § 2 første ledd.
+- Lov 24. mai 1961 nr. 2 om forretningsbanker § 4 første ledd og § 5 første ledd.
+- Lov 14. juni 1985 nr. 61 om verdipapirhandel § 8 A annet ledd.
+- Lov 10. juni 1988 nr. 39 om forsikringsvirksomhet § 2-4 siste ledd, § 12-6 siste ledd og § 12-7 siste ledd.
+- Lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner § 1-4 første ledd nr. 4, § 2-12 siste ledd, § 2-12a første, annet og tredje ledd og § 2-17 første, annet, tredje, fjerde og sjette ledd.

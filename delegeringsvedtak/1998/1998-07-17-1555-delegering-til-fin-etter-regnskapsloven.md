@@ -1,0 +1,40 @@
+---
+title: "Delegering av myndighet til Finans- og tolldepartementet etter lov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven)."
+short_title: "Delegering til FIN etter regnskapsloven"
+identifier: "FOR-1998-07-17-1555"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1998-07-17
+in_force_from: 1998-07-17
+ministry: "Finansdepartementet"
+published_in: "Avd I 1999 2345"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1998-07-17-1555"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Finans- og tolldepartementet etter lov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven).
+
+> Fastsatt ved kgl.res. 17. juli 1998 med hjemmel i lov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 1-1 annet ledd, § 1-5, § 1-7 første ledd, § 2-2 fjerde ledd, § 3-4 første ledd, § 3-7 første og fjerde ledd, § 8-1 annet ledd, § 8-2 annet og tredje ledd, § 8-3 første ledd, § 9-1 (nå § 10-1), § 9-2 (nå § 10-2) og § 9-3 (nå § 10-3) sjuende ledd. Fremmet av Finans- og tolldepartementet.
+
+Kongens myndighet etter følgende bestemmelser delegeres til Finans- og tolldepartementet:
+
+- § 1-1 annet ledd om lovens anvendelse for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene samt om adgang til å fastsette særlige regler under hensyn til forholdene der.
+- § 8-2 annet ledd om føring av Regnskapsregisteret
+- § 9-3 sjuende ledd om overgangsbestemmelser.
+
+«Departementet» skal i følgende bestemmelser forstås som «Finans- og tolldepartementet»:
+
+- § 1-5
+- § 1-7 første ledd
+- § 2-2 fjerde ledd
+- § 3-4 første ledd første punktum
+- § 3-7 første ledd annet punktum og fjerde ledd
+- § 8-1 annet ledd første punktum
+- § 8-2 tredje ledd første og annet punktum
+- § 8-3 første ledd
+- § 9-1
+- § 9-2 tredje punktum.

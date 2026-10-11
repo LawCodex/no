@@ -1,0 +1,24 @@
+---
+title: "Delegering av Kongens myndighet etter midlertidig lov om innreiserestriksjoner for utlendinger av hensyn til folkehelsen og lov om vern mot smittsomme sykdommer"
+short_title: "Deleg. av myndighet etter midl. lov om innreiserestriksjoner for utlendinger av hensyn til folkehelsen og smittevernloven"
+identifier: "FOR-2020-06-19-1244"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2020-06-19
+in_force_from: 2020-06-19
+ministry: "Justis- og beredskapsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2020-06-19-1244"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av Kongens myndighet etter midlertidig lov om innreiserestriksjoner for utlendinger av hensyn til folkehelsen og lov om vern mot smittsomme sykdommer
+
+> Hjemmel: Fastsatt ved kgl.res. 19. juni 2020 med hjemmel i lov 19. juni 2020 nr. 83 om innreiserestriksjoner for utlendinger av hensyn til folkehelsen § 2 fjerde ledd, § 3 tredje ledd, § 6 femte ledd og § 10 og lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 7-12, jf. § 1-2 tredje ledd. Fremmet av Justis- og beredskapsdepartementet.
+
+- 1\. \---.
+- 2\. Delegering av Kongens myndighet etter lovvedtaket § 2 fjerde ledd, § 3 tredje ledd, § 6 femte ledd og § 10 til Justis- og beredskapsdepartementet.
+- 3\. Delegering av Kongens myndighet etter smittevernloven § 7-12, jf. § 1-2 tredje ledd, til å oppheve forskrift 15. mars 2020 nr. 293 til Justis- og beredskapsdepartementet.

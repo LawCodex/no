@@ -1,0 +1,35 @@
+---
+title: "Forskrift om bruken av midlar frå Norsk kulturfond."
+short_title: "Forskrift om Norsk kulturfonds midler"
+identifier: "FOR-1965-06-19-3582"
+type: parliamentary_decision
+jurisdiction: "no"
+language: "no"
+date: 1965-06-19
+last_amended: 1989-12-22
+last_amended_by: "forskrift/1989-12-22-1273"
+ministry: "Kultur- og likestillingsdepartementet"
+published_in: "St.meld.nr.32 (1983-84)"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/STV/forskrift/1965-06-19-3582"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om bruken av midlar frå Norsk kulturfond.
+
+> Fastsette av Stortinget 19. juni 1965. (Ved res. av 22. desember 1989 nr. 1273 er ansvaret for denne forskrift lagt til Kirke- og kulturdepartementet).
+
+Ramma for verksemda til fondet er kunst og kulturvern. Dei tiltak som Rådet gjer, bør ha det doble siktemål å stimulere kunsten og kulturvernet, og samstundes gjere kunst og kulturverdiane tilgjengelege for så mange som råd er. Innanfor denne ramma må Rådet til kvar tid vurdere kva for oppgåver som bør prioriterast. Det er føresetnaden at Rådet skal leggje særskilt vekt på:
+
+- a. Tiltak til å fremje norske litteratur. Det er utarbeidd særlege reglar for bruk av midlar til slike tiltak.
+- b. Tiltak til å fremje norsk musikkliv.
+- c. Tiltak til å fremje norsk biletkunst, og kjøpe inn biletkunst til offentlege kunstsamlingar og til offentleg utsmykking.
+- d. Tiltak til å fremje norsk filmkunst.
+- e. Tiltak til å skape betre utdanningsvilkår for norske kunstnarar, såleis òg betre høve til vidare utdanning.
+- f. Kulturverntiltak, såleis òg vern av samisk kultur.
+- g. Stønad til finansiering av kulturbygg.
+- h. Tiltak som er med og skaper eit rikare kulturmiljø i bygd og by, og ei vakrare utforming av omgivnaden vår.
+- i. Tiltak som kan gi letta tilgjenge til god kunst og skape auka skjønsemd for dei verde den gir.
+- j. Initiativ og stønad til større kulturelle eingongstiltak, som t.d. kunstnarlege innslag i nasjonale jubilé og minnehøgtider, og større eingongsturnéar frå kunstinstitusjonar.

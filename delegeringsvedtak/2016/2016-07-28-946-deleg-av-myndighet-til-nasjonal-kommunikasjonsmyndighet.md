@@ -1,0 +1,35 @@
+---
+title: "Delegering av myndighet til Nasjonal kommunikasjonsmyndighet om fritak fra postlovens taushetsplikt etter Straffeprosessloven § 118 og tvisteloven § 22-3"
+short_title: "Deleg. av myndighet til Nasjonal kommunikasjonsmyndighet"
+identifier: "FOR-2016-07-28-946"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2016-07-28
+in_force_from: 2016-07-28
+ministry: "Samferdselsdepartementet"
+published_in: "I 2016 hefte 10"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2016-07-28-946"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Nasjonal kommunikasjonsmyndighet om fritak fra postlovens taushetsplikt etter Straffeprosessloven § 118 og tvisteloven § 22-3
+
+> Hjemmel: Fastsatt av Samferdselsdepartementet 28. juli 2016 med hjemmel i lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) § 118 og lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven) § 22-3.
+
+## I
+
+Samferdselsdepartementets myndighet til å gi fritak fra lovbestemt taushetsplikt for den som utfører tjeneste eller arbeid for tilbyder av posttjenester etter lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven) § 22-3 og lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) § 118 og § 230 sammenholdt med § 118, delegeres herved til Nasjonal kommunikasjonsmyndighet.
+
+Samferdselsdepartementets myndighet til å redegjøre for retten om grunnene for sitt standpunkt i sak om fritak fra lovbestemt taushetsplikt etter tvisteloven § 22-3 og straffeprosessloven § 118 og § 230 sammenholdt med § 118, delegeres herved til Nasjonal kommunikasjonsmyndighet.
+
+Delegeringen gjelder myndighet til å gi fritak for taushetsplikt etter lov 4. september 2015 nr. 91 om posttjenester (postloven) § 30.
+
+Myndigheten kan ikke delegeres videre.
+
+## II
+
+Delegeringen trer i kraft straks.

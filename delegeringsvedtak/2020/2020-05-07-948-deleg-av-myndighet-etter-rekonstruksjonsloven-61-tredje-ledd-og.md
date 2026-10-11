@@ -1,0 +1,25 @@
+---
+title: "Delegering av Kongens myndighet etter rekonstruksjonsloven § 61 tredje ledd og overføring av forskriftskompetanse etter dekningsloven § 9-4 fjerde ledd"
+short_title: "Deleg. av myndighet etter rekonstruksjonsloven § 61 tredje ledd og overføring av forskriftskompetanse etter dekningsloven § 9-4 fjerde ledd"
+identifier: "FOR-2020-05-07-948"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2020-05-07
+in_force_from: 2020-05-07
+ministry: "Justis- og beredskapsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2020-05-07-948"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av Kongens myndighet etter rekonstruksjonsloven § 61 tredje ledd og overføring av forskriftskompetanse etter dekningsloven § 9-4 fjerde ledd
+
+> Hjemmel: Fastsatt ved kgl.res. 7. mai 2020 med hjemmel i midlertidig lov 7. mai 2020 nr. 38 om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven) § 61 tredje ledd og lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett (dekningsloven) § 9-4 fjerde ledd. Fremmet av Justis- og beredskapsdepartementet.
+
+- 1\. \---
+- 2\. \---
+- 3\. Kongens myndighet etter loven § 61 tredje ledd delegeres til Justis- og beredskapsdepartementet.
+- 4\. Overføring av forskriftskompetanse etter lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 9-4 nytt fjerde ledd, jf. midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 § 66 nr. 3, fra Justis- og beredskapsdepartementet til Finansdepartementet.

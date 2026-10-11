@@ -1,0 +1,24 @@
+---
+title: "Delegering av Kongens myndighet etter lov 1. april 2005 nr. 15 om universiteter og høyskoler til Forsvarsdepartementet"
+short_title: "Deleg. av myndighet, universitets- og høyskoleloven"
+identifier: "FOR-2017-12-15-2115"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2017-12-15
+in_force_from: 2017-12-15
+ministry: "Kunnskapsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2017-12-15-2115"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av Kongens myndighet etter lov 1. april 2005 nr. 15 om universiteter og høyskoler til Forsvarsdepartementet
+
+> Hjemmel: Fastsatt ved kgl.res. 15. desember 2017 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 1-2 tredje ledd. Fremmet av Kunnskapsdepartementet.
+
+- 1\. Delegering av Kongens myndighet etter lov 1. april 2005 nr. 15 § 1-2 tredje ledd til å gi enkelte av lovens regler tilsvarende anvendelse for Forsvarets høgskole til Forsvarsdepartementet.
+- 2\. Delegering av Kongens myndighet etter lov 1. april 2005 nr. 15 § 4-10 første ledd til Forsvarsdepartementet for så vidt gjelder Forsvarets høgskole.
+- 3\. For bestemmelser i universitets- og høyskoleloven som legger myndighet til departementet og som gis anvendelse for Forsvarets høgskole, legges myndigheten til Forsvarsdepartementet i saker etter § 1-4 tredje ledd, § 3-2 fjerde ledd, § 3-6 femte ledd, § 3-7 andre, fjerde, femte og åttende ledd, § 4-7 tredje ledd, § 4-8 fjerde og femte ledd, § 4-9 sjette og åttende ledd, § 4-10 fjerde og sjette ledd, § 4-13 første ledd, § 5-1 sjette og sjuende ledd, § 6-4 andre ledd, § 7-1 første ledd, § 9-2 femte ledd, § 9-3 andre, femte og sjette ledd, § 9-4 femte og sjette ledd, § 10-1 femte ledd og § 12-2.

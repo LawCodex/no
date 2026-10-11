@@ -1,0 +1,28 @@
+---
+title: "Opprettelse av Utlendingsdirektoratet m.v."
+short_title: "Opprettelse av Utlendingsdirektoratet m.v."
+identifier: "FOR-1987-12-18-972"
+type: instruction
+jurisdiction: "no"
+language: "no"
+date: 1987-12-18
+in_force_from: 1988-01-01
+ministry: "Justis- og beredskapsdepartementet"
+published_in: "I 1987 s 998"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/INS/forskrift/1987-12-18-972"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Opprettelse av Utlendingsdirektoratet m.v.
+
+> Fastsatt ved kgl.res. av 18. desember 1987. Fremmet av Kommunal- og arbeidsdepartementet.
+
+- 1\. Utlendingsdirektoratet opprettes fra 1. januar 1988. Fra samme tidspunkt nedlegges Statens Utlendingskontor og Statens Flyktningesekretariat.
+- 2\. Den myndighet som idag tilligger Statens Utlendingskontor etter fremmedloven av 27. juli 1956 med forskrifter fastsatt av Justisdepartementet med hjemmel i Kronprinsreg.res. av 25. januar 1957 og forskrifter om forlenget innvandringsstopp fastsatt ved kgl.res. av 12. desember 1975 samt særskilt instruks fastsatt av Justisdepartementet 18. april 1958, overføres til Utlendingsdirektoratet med virkning fra 1. januar 1988.
+- 3\. Statens Flyktningesekretariat, opprettet ved kgl.res. 25. juni 1982, nedlegges og oppgavene overføres til Utlendingsdirektoratet.
+- 4\. Ansvaret for regionskontorene overføres fra Sosialdepartementet til Utlendingsdirektoratet. Regionskontorene organiseres som egne regionale statsorganer underlagt Utlendingsdirektoratet.
+- 5\. Kommunal- og arbeidsdepartementets nåværende oppgaver med tolketjeneste, informasjonsvirksomhet, dokumentasjonstjeneste og praktiske tiltak som ledd i det langsiktige integreringsarbeid delegeres til utlendingsdirektoratet.
+- 6\. Kongen fastsetter egen instruks for Utlendingsdirektoratet.

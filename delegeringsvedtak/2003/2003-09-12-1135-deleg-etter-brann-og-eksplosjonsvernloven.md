@@ -1,0 +1,33 @@
+---
+title: "Delegering av myndighet til Direktoratet for samfunnssikkerhet og beredskap etter brann- og eksplosjonsvernloven § 31 første ledd."
+short_title: "Deleg. etter brann- og eksplosjonsvernloven"
+identifier: "FOR-2003-09-12-1135"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2003-09-12
+in_force_from: 2003-09-12
+ministry: "Justis- og beredskapsdepartementet"
+published_in: "I 2003 hefte 13"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2003-09-12-1135"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Direktoratet for samfunnssikkerhet og beredskap etter brann- og eksplosjonsvernloven § 31 første ledd.
+
+> Fastsatt ved kgl.res. 12. september 2003 med hjemmel i lov av 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 31 første ledd. Fremmet av Justis- og politidepartementet.
+
+## I
+
+Direktoratet for samfunnssikkerhet og beredskap er sentral tilsynsmyndighet i henhold til lov av 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven).
+
+## II
+
+Myndigheten omfatter ikke forvaltningsansvaret i forhold til sikkerheten ved utvinning og utnyttelse av petroleumsforekomster på anleggene Kårstø, Sture, Kollsnes, Mongstad, Tjelbergodden, Melkøya og raffineriet på Slagentangen og eventuelle fremtidige integrerte sokkel-/landanlegg eller andre anlegg av slik type.
+
+## III
+
+Endringene trer i kraft straks. Fra samme tid oppheves kongelig resolusjon av 14. juni 2002 nr. 537 om delegering av myndighet til Direktoratet for brann og elsikkerhet etter brann- og eksplosjonsvernloven § 31 første ledd.

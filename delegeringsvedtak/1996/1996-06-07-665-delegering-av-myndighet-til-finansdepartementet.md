@@ -1,0 +1,31 @@
+---
+title: "Delegering av myndighet til Finansdepartementet etter lov om endringer i lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner og enkelte andre lover (tiltak mot hvitvasking av penger)."
+short_title: "Delegering av myndighet til Finansdepartementet"
+identifier: "FOR-1996-06-07-665"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1996-06-07
+in_force_from: 1996-06-07
+ministry: "Finansdepartementet"
+published_in: "Avd I 1996 Nr. 12"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1996-06-07-665"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Finansdepartementet etter lov om endringer i lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner og enkelte andre lover (tiltak mot hvitvasking av penger).
+
+> Fastsatt ved kgl.res. 7. juni 1996 med hjemmel i lov av 7. juni 1996 nr. 30 om endringer i lov av 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner og enkelte andre lover (tiltak mot hvitvasking av penger). Fremmet av Finans- og tolldepartementet.
+
+1\. Kongens myndighet etter lovens punkt VI om ikrafttredelse og overgangsregler delegeres til Finansdepartementet.
+
+2\. Kongens myndighet etter følgende bestemmelser delegeres til Finansdepartementet:
+
+- § 2-1 annet ledd om at Kongen i tvilstilfelle avgjør hvem som foruten finansinstitusjoner er omfattet av bestemmelsene i § 2-17.
+- § 2-17 sjette ledd om at Kongen kan gi nærmere regler om sletting av opplysninger.
+- § 2-17 åttende ledd om at Kongen kan fastsette nærmere regler om at finansinstitusjoner m.v. som omfattes av § 2-17 kan unntas fra en eller flere av bestemmelsene i denne paragrafen.
+
+3\. I § 2-17a første og tredje ledd skal «departementet» forstås som «Finansdepartementet».

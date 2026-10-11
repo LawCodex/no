@@ -1,0 +1,31 @@
+---
+title: "Ikrafttredelse av lov av 4. november 1994 nr. 59 om endringer i lov av 5. juni 1992 nr. 51 om Norges Postbank og i visse andre lover. Delegering av myndighet."
+short_title: "Delegering av myndighet – Postbankloven"
+identifier: "FOR-1994-11-04-986"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1994-11-04
+in_force_from: 1994-11-04
+ministry: "Samferdselsdepartementet"
+published_in: "Avd I 1994 1770"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1994-11-04-986"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Ikrafttredelse av lov av 4. november 1994 nr. 59 om endringer i lov av 5. juni 1992 nr. 51 om Norges Postbank og i visse andre lover. Delegering av myndighet.
+
+> Fastsatt ved kgl.res 4. november 1994. Fremmet av Samferdselsdepartementet.
+
+## I
+
+Lov av 4. november 1994 nr. 59 om endringer i lov av 5. juni 1992 nr. 51 om Norges Postbank og i visse andre lover trer i kraft straks, med unntak av punktene 5, 7, 9 og 10 i lovens del II som trer i kraft 1. januar 1995.
+
+## II
+
+Samferdselsdepartementet får fullmakt til å oppnevne første ordinære styre for den fusjonerte enheten.
+
+Kongens myndighet etter lovens del III til å gi nærmere overgangsregler, fastsette overgangsregler for beregning av garantiavgiften banken skal betale til staten for 1995 og 1996 og fastsette nærmere hvordan overføringen av Postgiros virksomhet til banken skal finne sted, herunder overføring til banken av eiendeler, rettigheter og forpliktelser, delegeres til Samferdselsdepartementet.

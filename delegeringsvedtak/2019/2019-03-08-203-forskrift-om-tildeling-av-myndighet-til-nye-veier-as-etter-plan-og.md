@@ -1,0 +1,31 @@
+---
+title: "Forskrift om tildeling av myndighet til Nye Veier AS etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 3-7 tredje ledd"
+short_title: "Forskrift om tildeling av myndighet til Nye Veier AS etter plan- og bygningsloven § 3-7 tredje ledd"
+identifier: "FOR-2019-03-08-203"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 2019-03-08
+in_force_from: 2019-03-08
+ministry: "Kommunal- og distriktsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/2019-03-08-203"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Forskrift om tildeling av myndighet til Nye Veier AS etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 3-7 tredje ledd
+
+> Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 8. mars 2019 med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 3-7 tredje ledd.
+
+## § 1. Tildeling av myndighet til Nye Veier AS
+
+Nye Veier AS tildeles myndighet som nevnt i plan- og bygningsloven § 3-7 tredje ledd. Det er ikke adgang til å delegere myndigheten videre. Myndigheten omfatter:
+
+- a. forslag til reguleringsplaner for den utbyggingsporteføljen som Nye Veier AS til enhver tid er tildelt ansvaret for
+- b. forslag til kommunedelplaner for prosjektene E18 Dørdal–Tvedestrand og E18 Arendal–Grimstad.
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.

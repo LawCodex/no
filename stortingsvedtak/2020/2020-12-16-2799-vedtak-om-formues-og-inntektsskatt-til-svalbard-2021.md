@@ -1,0 +1,71 @@
+---
+title: "Stortingsvedtak om formues- og inntektsskatt til Svalbard for inntektsåret 2021"
+short_title: "Vedtak om formues- og inntektsskatt til Svalbard, 2021"
+identifier: "FOR-2020-12-16-2799"
+type: parliamentary_decision
+jurisdiction: "no"
+language: "no"
+date: 2020-12-16
+in_force_from: "Inntektsåret 2021"
+ministry: "Justis- og beredskapsdepartementet"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/STV/forskrift/2020-12-16-2799"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Stortingsvedtak om formues- og inntektsskatt til Svalbard for inntektsåret 2021
+
+> Heimel: Kunngjering frå Justis- og beredskapsdepartementet av stortingsvedtak 16. desember 2020 med heimel i Kongeriket Noregs Grunnlov 17. mai 1814 § 75 bokstav a.
+
+## § 1. Bruksområde for vedtaket
+
+Dette vedtaket gjeld utskriving av skatt på formue og inntekt for inntektsåret 2021 etter føresegnene i lov 29. november 1996 nr. 68 om skatt til Svalbard. Vedtaket gjeld også som grunnlag for utskriving av forskot på skatt for inntektsåret 2021, jf. lov om skatt til Svalbard § 5-1.
+
+## § 2. Skatt på formue
+
+Skatt på formue blir utrekna etter desse satsane:
+
+- a. Personleg skattepliktig og dødsbu:
+
+  Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten og kommunane (maksimumssats).
+
+- b. Selskap og samanslutningar som nemnde i skattelova § 2-36 andre ledd, og som ikkje er fritekne etter skattelova kapittel 2:
+
+  Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten.
+
+## § 3. Skatt på inntekt
+
+Skatt på inntekt blir utrekna etter desse satsane:
+
+- a. Inntekt som blir skattlagd ved lønnstrekk etter svalbardskattelova § 3-1:
+
+  Låg sats: 8 pst.
+
+  Høg sats: 22 pst.
+
+- b. 22 pst. av den delen av selskapsoverskot som er høgare enn 15 mill. kroner, og som overstig summen av
+
+  - 10 gonger kostnadene til lønn som blir skattlagd ved lønnstrekk
+  - 0,20 gonger skattemessig verdi av anlegg, fast eigedom og annan realkapital som er på Svalbard ved utgangen av inntektsåret.
+
+- c. Annan inntekt: 16 pst.
+
+Personlege skattytarar skal ha eit frådrag i alminneleg inntekt som er omfatta av bokstav c, på 20 000 kroner.
+
+## § 4. Avrundingsreglar
+
+Ved utrekning av skatt skal formue og inntekt rundast nedover til næraste heile krone.
+
+## § 5. Normalrentesatsen for rimeleg lån i arbeidsforhold
+
+Normalrentesatsen som nemnd i skattelova § 5-12 fjerde ledd, jf. svalbardskattelova § 3-1 og § 3-2, skal vere den same som Stortinget har vedteke skal gjelde på det norske fastlandet.
+
+## § 6. Aksjonær i utlandet
+
+Skatt på utbytte m.m. etter skattelova § 10-13, jf. svalbardskattelova § 3-2, er fastsett til 20 pst.
+
+## § 7. Inntekt etter svalbardskattelova § 6-3
+
+For inntekt som blir skattlagd etter svalbardskattelova § 6-3, skal satsen vere 8 pst.

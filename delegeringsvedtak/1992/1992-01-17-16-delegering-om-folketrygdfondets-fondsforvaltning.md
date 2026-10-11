@@ -1,0 +1,23 @@
+---
+title: "Delegering av myndighet til Finans- og tolldepartementet til å gi regler om Folketrygdfondets fondsforvaltning m.v."
+short_title: "Delegering om Folketrygdfondets fondsforvaltning"
+identifier: "FOR-1992-01-17-16"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1992-01-17
+in_force_from: 1992-03-05
+ministry: "Finansdepartementet"
+published_in: "I 1992 18"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1992-01-17-16"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Delegering av myndighet til Finans- og tolldepartementet til å gi regler om Folketrygdfondets fondsforvaltning m.v.
+
+> Fastsatt ved kgl.res. 17. januar 1991 med hjemmel i Stortingsvedtak 15. februar 1990. Fremmet av Finans- og tolldepartementet.
+
+Finans- og tolldepartementet får fullmakt til på vegne av Kongen å gi nærmere regler om Folketrygdfondets fondsforvaltning og treffe nærmere bestemmelser til utfylling og gjennomføring av reglene.

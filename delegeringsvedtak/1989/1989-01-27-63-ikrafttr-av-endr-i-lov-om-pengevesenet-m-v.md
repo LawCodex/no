@@ -1,0 +1,27 @@
+---
+title: "Ikrafttredelse av lov 27. januar 1989 nr. 1 om endringer i lov av 24. mai 1985 nr. 28 om Norges bank og pengevesenet og i lov av 17. juni 1988 nr. 57 om verdipapirbørs. Overgangsbestemmelser."
+short_title: "Ikrafttr. av endr. i lov om pengevesenet m.v."
+identifier: "FOR-1989-01-27-63"
+type: delegation
+jurisdiction: "no"
+language: "no"
+date: 1989-01-27
+in_force_from: 1989-03-01
+ministry: "Finansdepartementet"
+published_in: "I 1989 42"
+applies_to: "Norge"
+status: in_force
+source: "https://lovdata.no/dokument/DEL/forskrift/1989-01-27-63"
+retrieved: 2026-10-11
+licence: "NLOD 2.0 (Norsk lisens for offentlige data)"
+---
+
+# Ikrafttredelse av lov 27. januar 1989 nr. 1 om endringer i lov av 24. mai 1985 nr. 28 om Norges bank og pengevesenet og i lov av 17. juni 1988 nr. 57 om verdipapirbørs. Overgangsbestemmelser.
+
+> Fastsatt ved kgl.res. av 27. januar 1989. Fremmet av Finans- og tolldepartementet.
+
+Lov om endringer i lov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet og i lov 17. juni 1988 nr. 57 om verdipapirbørser trer i kraft 1. mars 1989.
+
+Med hjemmel i lovens pkt III gis slike overgangsregler:
+
+Fra det tidspunkt loven trer i kraft avvikles de enkelte avdelingsstyrer og oppnevningen av medlemmer til avdelingsstyrene faller bort.
